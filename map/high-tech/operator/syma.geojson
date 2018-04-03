@@ -1,0 +1,23 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q90",
+        "short_code": "FR-75",
+        "place_name": "Paris, France",
+        "title": "Syma",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.320582,
+          48.859489
+        ],
+        "type": "Point"
+      },
+      "id": "place.228080"
+    }
+  ],
+  "type": "FeatureCollection"
+}

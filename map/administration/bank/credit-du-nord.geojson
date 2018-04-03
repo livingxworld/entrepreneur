@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "28 Place Rihour, Lille, Nord 59800, France",
+        "title": "crédit du nord",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          3.062451,
+          50.635883
+        ],
+        "type": "Point"
+      },
+      "id": "address.9670213883965650"
+    }
+  ],
+  "type": "FeatureCollection"
+}

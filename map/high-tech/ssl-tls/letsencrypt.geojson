@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "1 Letterman Dr, San Francisco, California 94129, United States",
+        "title": "Let's Encrypt",
+        "description": "Siège Social"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.449522,
+          37.799522
+        ],
+        "type": "Point"
+      },
+      "id": "address.14246274880659930"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "560 Timpanogos Cir, Orem, Utah 84097, United States",
+        "title": "HostMonster",
+        "description": "560 Timpanogos Pkwy, Orem, UT 84097, États-Unis"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.679579,
+          40.322362
+        ],
+        "type": "Point"
+      },
+      "id": "address.16041445162333870"
+    }
+  ],
+  "type": "FeatureCollection"
+}

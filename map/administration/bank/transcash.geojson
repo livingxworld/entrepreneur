@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "13190, Allauch, Bouches-du-Rhône, France",
+        "title": "transcash",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          5.48,
+          43.35
+        ],
+        "type": "Point"
+      },
+      "id": "postcode.12138504587101530"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "1301 McKinney St, Houston, Texas 77010, United States",
+        "title": "pulse",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.361795,
+          29.755284
+        ],
+        "type": "Point"
+      },
+      "id": "address.10897731375436170"
+    }
+  ],
+  "type": "FeatureCollection"
+}

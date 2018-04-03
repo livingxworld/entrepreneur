@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Braintree Road, Hillingdon, London, Greater London, England HA4 0EJ, United Kingdom",
+        "title": "STK",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.402489,
+          51.560949
+        ],
+        "type": "Point"
+      },
+      "id": "address.558321640525970"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "6 Rue Castérès, Clichy, Hauts-de-Seine 92110, France",
+        "title": "lastminute",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.303079,
+          48.899299
+        ],
+        "type": "Point"
+      },
+      "id": "address.4462704489164730"
+    }
+  ],
+  "type": "FeatureCollection"
+}

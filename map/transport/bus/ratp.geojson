@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "54 Quai de la Rapée, Paris, 75012, France",
+        "title": "ratp",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.371929,
+          48.842688
+        ],
+        "type": "Point"
+      },
+      "id": "address.11490863819380280"
+    }
+  ],
+  "type": "FeatureCollection"
+}

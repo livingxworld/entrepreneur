@@ -1,0 +1,23 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q59153",
+        "short_code": "CY-03",
+        "place_name": "Λάρνακα, Cyprus",
+        "title": "VPS.ME",
+        "description": "61 Lordou Vironos Larnaca, CY-6023"
+      },
+      "geometry": {
+        "coordinates": [
+          33.571685,
+          34.84235
+        ],
+        "type": "Point"
+      },
+      "id": "region.229815"
+    }
+  ],
+  "type": "FeatureCollection"
+}

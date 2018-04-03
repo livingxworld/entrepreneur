@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "12 Rond-Point des Champs Élysées-Marcel Dassault, 8e Arrondissement Paris, Paris 75008, France",
+        "title": "amen",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.309315,
+          48.869444
+        ],
+        "type": "Point"
+      },
+      "id": "address.9672481046455910"
+    }
+  ],
+  "type": "FeatureCollection"
+}

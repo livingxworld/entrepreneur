@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "21 Corporate Dr, Clifton Park, New York 12065, United States",
+        "title": "hostrocket",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.757395,
+          42.849557
+        ],
+        "type": "Point"
+      },
+      "id": "address.11447395698495220"
+    }
+  ],
+  "type": "FeatureCollection"
+}

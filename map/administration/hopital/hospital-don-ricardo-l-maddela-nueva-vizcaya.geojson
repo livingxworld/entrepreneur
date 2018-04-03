@@ -1,0 +1,23 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q13866",
+        "short_code": "PH-NUV",
+        "place_name": "Nueva Vizcaya, Philippines",
+        "title": "Hospital Don Ricardo L. Maddela",
+        "description": "hôpital non précise"
+      },
+      "geometry": {
+        "coordinates": [
+          121.04194,
+          16.279471
+        ],
+        "type": "Point"
+      },
+      "id": "region.229768"
+    }
+  ],
+  "type": "FeatureCollection"
+}

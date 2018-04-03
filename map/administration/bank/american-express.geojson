@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "4 Rue Louis Blériot, Rueil-Malmaison, Hauts-de-Seine 92500, France",
+        "title": "american express",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.166741,
+          48.889885
+        ],
+        "type": "Point"
+      },
+      "id": "address.13020983086462720"
+    }
+  ],
+  "type": "FeatureCollection"
+}

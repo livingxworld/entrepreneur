@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Capital One Dr, Richmond, Virginia 23238, United States",
+        "title": "parkpay",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.659896,
+          37.618513
+        ],
+        "type": "Point"
+      },
+      "id": "address.10210810923808760"
+    }
+  ],
+  "type": "FeatureCollection"
+}

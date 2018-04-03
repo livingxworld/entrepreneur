@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "203 Rue Carnot, Fontenay-sous-Bois, Val-de-Marne 94120, France",
+        "title": "soon",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.491856,
+          48.853381
+        ],
+        "type": "Point"
+      },
+      "id": "address.3630090139200030"
+    }
+  ],
+  "type": "FeatureCollection"
+}

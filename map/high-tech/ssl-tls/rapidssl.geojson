@@ -1,0 +1,37 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "62 Cornhill, City and County of the City of London, London, Greater London, England EC3V 3NH, United Kingdom",
+        "title": "rapidssl Europe",
+        "description": "62 Cornhill London, EC3V 3NH United Kingdom<br /><a href=\"tel:+442030240906\">+44 203 0240906</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.084533,
+          51.51342
+        ],
+        "type": "Point"
+      },
+      "id": "address.13107267482863340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "350 Ellis St, Mountain View, California 94043, United States",
+        "title": "RapidSSL USA",
+        "description": "350 Ellis Street Mountain View, CA 94043 USA<br /><a href=\"tel:+18667954669\">+1-866-795-4669</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.054261,
+          37.398115
+        ],
+        "type": "Point"
+      },
+      "id": "address.9254265087613840"
+    }
+  ],
+  "type": "FeatureCollection"
+}

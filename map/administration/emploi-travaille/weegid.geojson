@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "29 Rue de Bassano, Paris, 75008, France",
+        "title": "weegid",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.298858,
+          48.87042
+        ],
+        "type": "Point"
+      },
+      "id": "address.6141498937727090"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "88 Rue Paul Bert, Lyon, Rhône 69003, France",
+        "title": "ParuVendu",
+        "description": "Siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          4.851947,
+          45.756887
+        ],
+        "type": "Point"
+      },
+      "id": "address.9190732760239160"
+    }
+  ],
+  "type": "FeatureCollection"
+}

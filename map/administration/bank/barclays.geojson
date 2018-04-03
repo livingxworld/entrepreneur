@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "32 Avenue George V, Paris, 75008, France",
+        "title": "barclays",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.301388,
+          48.868912
+        ],
+        "type": "Point"
+      },
+      "id": "address.2303369789014730"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "16541 Redmond Way, Redmond, Washington 98052, United States",
+        "title": "innerfence",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.11957,
+          47.67301
+        ],
+        "type": "Point"
+      },
+      "id": "address.11812269911075380"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "2801 N Thanksgiving Way, Lehi, Utah 84043, United States",
+        "title": "Digicert",
+        "description": "Siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.882578,
+          40.423047
+        ],
+        "type": "Point"
+      },
+      "id": "address.9478890648289150"
+    }
+  ],
+  "type": "FeatureCollection"
+}

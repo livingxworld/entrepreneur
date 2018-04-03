@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "22 Rue Lauriston, Paris, 75116, France",
+        "title": "amihan travel tour",
+        "description": "Opening hours : monday - saturday 10.00 - 18.00 Telephone: 09 80 37 83 04    Mobile: 06 95 25 21 43     Fax: 09 85 37 83 04"
+      },
+      "geometry": {
+        "coordinates": [
+          2.292035,
+          48.871365
+        ],
+        "type": "Point"
+      },
+      "id": "address.8647780250147820"
+    }
+  ],
+  "type": "FeatureCollection"
+}

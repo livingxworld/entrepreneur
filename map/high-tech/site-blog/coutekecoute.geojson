@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "10 Rue Volta, Sainte-Savine, Aube 10300, France",
+        "title": "coutekecoute",
+        "description": "Siège Social"
+      },
+      "geometry": {
+        "coordinates": [
+          4.056593,
+          48.294889
+        ],
+        "type": "Point"
+      },
+      "id": "address.6259311497549790"
+    }
+  ],
+  "type": "FeatureCollection"
+}

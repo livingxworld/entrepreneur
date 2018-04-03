@@ -1,0 +1,22 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q272906",
+        "place_name": "Le Bourget, Seine-Saint-Denis, France",
+        "title": "Salon International de l'Aéronautique et de l'Espace - Paris le Bourget",
+        "description": "Parc des Expositions Paris-le Bourget<br /> Aéroport Paris-le Bourget<br /> 93350 Le Bourget<br /> France <br />événement du 17 juin 2019 - 23 juin 2019: 8h30 à 18h00"
+      },
+      "geometry": {
+        "coordinates": [
+          2.42444,
+          48.93444
+        ],
+        "type": "Point"
+      },
+      "id": "place.7479936905332194"
+    }
+  ],
+  "type": "FeatureCollection"
+}

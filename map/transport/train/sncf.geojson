@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "2 Place aux Étoiles, Saint-Denis, Seine-Saint-Denis 93210, France",
+        "title": "sncf",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.352064,
+          48.918202
+        ],
+        "type": "Point"
+      },
+      "id": "address.7345472770469080"
+    }
+  ],
+  "type": "FeatureCollection"
+}

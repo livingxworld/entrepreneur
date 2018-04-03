@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "8391 Beverly Blvd, Los Angeles, California 90048, United States",
+        "title": "verifi",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.373196,
+          34.076043
+        ],
+        "type": "Point"
+      },
+      "id": "address.15115082678798850"
+    }
+  ],
+  "type": "FeatureCollection"
+}

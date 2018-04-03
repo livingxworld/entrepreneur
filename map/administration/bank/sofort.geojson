@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Keizersgracht 313, Amsterdam, Noord-Holland 1016, Netherlands",
+        "title": "sofort",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          4.88506,
+          52.370039
+        ],
+        "type": "Point"
+      },
+      "id": "address.599828215"
+    }
+  ],
+  "type": "FeatureCollection"
+}

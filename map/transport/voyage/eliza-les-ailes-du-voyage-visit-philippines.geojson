@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "20 Rue Bois-le-vent, 16e Arrondissement Paris, Paris 75016, France",
+        "title": "ELIZA LES AILES DU VOYAGE",
+        "description": "lundi: 14:30-18:30 | mardi: 9:00-18:30"
+      },
+      "geometry": {
+        "coordinates": [
+          2.275918,
+          48.857678
+        ],
+        "type": "Point"
+      },
+      "id": "address.11199451690023480"
+    }
+  ],
+  "type": "FeatureCollection"
+}

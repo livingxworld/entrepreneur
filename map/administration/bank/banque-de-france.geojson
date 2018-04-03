@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "31 Rue Croix des Petits Champs, Paris, 75001, France",
+        "title": "banque de france",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.339909,
+          48.864101
+        ],
+        "type": "Point"
+      },
+      "id": "address.10194678190517430"
+    }
+  ],
+  "type": "FeatureCollection"
+}

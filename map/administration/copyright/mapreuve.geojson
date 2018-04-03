@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Allée de la Râperie, Villeneuve-d'Ascq, Nord 59493, France",
+        "title": "Ma preuvre",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          3.16597,
+          50.607824
+        ],
+        "type": "Point"
+      },
+      "id": "address.11563084842502870"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "18 Rue La Pérouse, Paris, 75116, France",
+        "title": "talan",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.293373,
+          48.869687
+        ],
+        "type": "Point"
+      },
+      "id": "address.14510409732548180"
+    }
+  ],
+  "type": "FeatureCollection"
+}

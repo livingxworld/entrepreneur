@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "8 Rue Baqué, Montpellier, Hérault 34070, France",
+        "title": "e-coffrefort",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          3.865558,
+          43.608573
+        ],
+        "type": "Point"
+      },
+      "id": "address.10203370879735300"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "12 Rue de Grécourt, Tours, Indre-et-Loire 37000, France",
+        "title": "proxgroup",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          0.692325,
+          47.386706
+        ],
+        "type": "Point"
+      },
+      "id": "address.5115734585469190"
+    }
+  ],
+  "type": "FeatureCollection"
+}

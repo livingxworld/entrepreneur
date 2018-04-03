@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "12 Rue Gaillon, Paris, 75002, France",
+        "title": "NRJ mobile",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.33419,
+          48.868318
+        ],
+        "type": "Point"
+      },
+      "id": "address.8014465803613960"
+    }
+  ],
+  "type": "FeatureCollection"
+}

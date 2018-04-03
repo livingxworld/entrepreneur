@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "142 Rue Raymond Lavigne, Le Bouscat, Gironde 33110, France",
+        "title": "bébé nounou",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.615101,
+          44.864713
+        ],
+        "type": "Point"
+      },
+      "id": "address.13861990260000080"
+    }
+  ],
+  "type": "FeatureCollection"
+}

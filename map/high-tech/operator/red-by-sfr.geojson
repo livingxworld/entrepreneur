@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Jean philippe rameau, Saint-Denis, Seine-Saint-Denis 93210, France",
+        "title": "red by sfr",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.353717,
+          48.920969
+        ],
+        "type": "Point"
+      },
+      "id": "address.8238228878613550"
+    }
+  ],
+  "type": "FeatureCollection"
+}

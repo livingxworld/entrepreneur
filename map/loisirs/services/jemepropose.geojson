@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "8 Rue Montesquieu, Paris, 75001, France",
+        "title": "jemepropose",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.338685,
+          48.863192
+        ],
+        "type": "Point"
+      },
+      "id": "address.17979561016687070"
+    }
+  ],
+  "type": "FeatureCollection"
+}

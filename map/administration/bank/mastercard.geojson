@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "2000 Purchase St, Purchase, New York 10577, United States",
+        "title": "mastercard",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.711072,
+          41.024588
+        ],
+        "type": "Point"
+      },
+      "id": "address.2189783657366830"
+    }
+  ],
+  "type": "FeatureCollection"
+}

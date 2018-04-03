@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "North Colonnade, Tower Hamlets, London, Greater London, England E14 4PX, United Kingdom",
+        "title": "skrill",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.02027,
+          51.505376
+        ],
+        "type": "Point"
+      },
+      "id": "address.10678657314317310"
+    }
+  ],
+  "type": "FeatureCollection"
+}

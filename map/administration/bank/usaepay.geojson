@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "1833 Victory Blvd, Glendale, California 91201, United States",
+        "title": "usaepay",
+        "description": "Siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.303312,
+          34.163736
+        ],
+        "type": "Point"
+      },
+      "id": "address.12689723438836050"
+    }
+  ],
+  "type": "FeatureCollection"
+}

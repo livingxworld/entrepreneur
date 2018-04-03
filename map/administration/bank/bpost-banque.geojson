@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Rue du Marquis 1, Brussels, 1000 Brussels Hoofstedelijk Gewest#Région de Bruxelles-Capitale, Belgium",
+        "title": "bpost banque",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          4.35853,
+          50.847591
+        ],
+        "type": "Point"
+      },
+      "id": "address.16747048392841250"
+    }
+  ],
+  "type": "FeatureCollection"
+}

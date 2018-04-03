@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "10 Rue des Frères Peugeot, Balma, Haute-Garonne 31130, France",
+        "title": "easy-hébergement",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          1.487492,
+          43.625385
+        ],
+        "type": "Point"
+      },
+      "id": "address.15324416859128720"
+    }
+  ],
+  "type": "FeatureCollection"
+}

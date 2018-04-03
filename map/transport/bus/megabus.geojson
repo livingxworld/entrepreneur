@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "2015 Fisher Dr, Peterborough, Ontario K9K 2N3, Canada",
+        "title": "Megabus",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.352296,
+          44.262628
+        ],
+        "type": "Point"
+      },
+      "id": "address.11233091825705040"
+    }
+  ],
+  "type": "FeatureCollection"
+}

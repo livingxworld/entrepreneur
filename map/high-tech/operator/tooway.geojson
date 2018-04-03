@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "70 Rue Balard, Paris, 75015, France",
+        "title": "tooway",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.277971,
+          48.839804
+        ],
+        "type": "Point"
+      },
+      "id": "address.15559994043699830"
+    }
+  ],
+  "type": "FeatureCollection"
+}

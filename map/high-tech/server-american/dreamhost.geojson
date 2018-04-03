@@ -1,0 +1,22 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q65",
+        "place_name": "Los Angeles, California, United States",
+        "title": "Dreamhost",
+        "description": "siège social - Wilshire Boulevard, Los Angeles, Californie, États-Unis"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.2439,
+          34.0544
+        ],
+        "type": "Point"
+      },
+      "id": "place.9962989141465270"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "17 Route de la Reine, Boulogne-Billancourt, Hauts-de-Seine 92100, France",
+        "title": "travelex",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.249608,
+          48.838707
+        ],
+        "type": "Point"
+      },
+      "id": "address.10929592894298740"
+    }
+  ],
+  "type": "FeatureCollection"
+}

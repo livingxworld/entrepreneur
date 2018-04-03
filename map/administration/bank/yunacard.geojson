@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "6039, Root D4, Lucerne, Switzerland",
+        "title": "yunacard",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          8.373218,
+          47.10304
+        ],
+        "type": "Point"
+      },
+      "id": "postcode.14635406500335670"
+    }
+  ],
+  "type": "FeatureCollection"
+}

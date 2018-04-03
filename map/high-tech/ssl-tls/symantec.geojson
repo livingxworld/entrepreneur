@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "350 Ellis St, Mountain View, California 94043, United States",
+        "title": "Symantec",
+        "description": "350 Ellis Street Mountain View, CA 94043 États-Unis<br /><a href=\"tel:+16505278000\">+1 650-527-8000</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.054261,
+          37.398115
+        ],
+        "type": "Point"
+      },
+      "id": "address.9254265087613840"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "4416 Rue Louis-B.-Mayer, Laval, Quebec H7P, Canada",
+        "title": "Planethoster",
+        "description": "Siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.787632,
+          45.566116
+        ],
+        "type": "Point"
+      },
+      "id": "address.7688585547071280"
+    }
+  ],
+  "type": "FeatureCollection"
+}

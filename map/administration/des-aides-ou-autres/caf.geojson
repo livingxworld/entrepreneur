@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "32 Avenue de la Sibelle, 14e Arrondissement Paris, Paris 75014, France",
+        "title": "caf",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.338307,
+          48.824459
+        ],
+        "type": "Point"
+      },
+      "id": "address.16787013623349030"
+    }
+  ],
+  "type": "FeatureCollection"
+}

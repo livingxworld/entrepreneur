@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "103 Avenue des Champs-Élysées, Paris, 75008, France",
+        "title": "hsbc",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.300469,
+          48.872064
+        ],
+        "type": "Point"
+      },
+      "id": "address.15231500214063900"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "75010, Paris, France",
+        "title": "UN MONDE A DEUX ",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.360211,
+          48.8767
+        ],
+        "type": "Point"
+      },
+      "id": "postcode.12488752065577930"
+    }
+  ],
+  "type": "FeatureCollection"
+}

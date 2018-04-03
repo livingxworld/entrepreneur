@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Rue Louis Philippe, Neuilly-sur-Seine, Hauts-de-Seine 92200, France",
+        "title": "progonline",
+        "description": "Siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.27171,
+          48.882186
+        ],
+        "type": "Point"
+      },
+      "id": "address.3668247438604620"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,20 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "2880 Zanker Rd, San Jose, California 95134, United States",
+        "title": "Mochahost"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.928619,
+          37.396586
+        ],
+        "type": "Point"
+      },
+      "id": "address.9251332634251360"
+    }
+  ],
+  "type": "FeatureCollection"
+}

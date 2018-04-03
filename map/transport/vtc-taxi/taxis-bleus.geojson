@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "1 Rue Henri Poincaré, Sevran, Seine-Saint-Denis 93270, France",
+        "title": "taxis-bleus",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.529009,
+          48.947694
+        ],
+        "type": "Point"
+      },
+      "id": "address.18185348987430490"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Regent Street, City of Westminster, London, Greater London, England W1B 5TE, United Kingdom",
+        "title": "pcs",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.139696,
+          51.511995
+        ],
+        "type": "Point"
+      },
+      "id": "address.5999481787659780"
+    }
+  ],
+  "type": "FeatureCollection"
+}

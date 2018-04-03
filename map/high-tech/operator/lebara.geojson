@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "25 Copthall Avenue, City and County of the City of London, London, Greater London, England EC2M 5TE, United Kingdom",
+        "title": "lebara",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.087606,
+          51.517131
+        ],
+        "type": "Point"
+      },
+      "id": "address.14540627805649070"
+    }
+  ],
+  "type": "FeatureCollection"
+}

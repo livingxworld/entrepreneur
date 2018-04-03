@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "61 Avenue Halley, Villeneuve-d'Ascq, Nord 59650, France",
+        "title": "monabanq",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          3.14572,
+          50.60353
+        ],
+        "type": "Point"
+      },
+      "id": "address.11233568639102280"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,37 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "14 Britannia Place, Bath Street, St Helier, JE2 4SU Jersey",
+        "title": "vivastreet",
+        "description": "Siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.102027,
+          49.18698
+        ],
+        "type": "Point"
+      },
+      "id": "7aedcfa5473dd7c4c5cb5112e41ae2fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q785",
+        "short_code": "je",
+        "place_name": "Jersey"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.14198,
+          49.21849
+        ],
+        "type": "Point"
+      },
+      "id": "country.21210"
+    }
+  ],
+  "type": "FeatureCollection"
+}

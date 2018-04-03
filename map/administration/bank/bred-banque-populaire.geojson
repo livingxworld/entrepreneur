@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "18 Quai de la Rapée, Paris, 75012, France",
+        "title": "bred",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.374688,
+          48.840301
+        ],
+        "type": "Point"
+      },
+      "id": "address.11490863819380280"
+    }
+  ],
+  "type": "FeatureCollection"
+}

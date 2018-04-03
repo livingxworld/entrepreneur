@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Gordon House Road, Camden, London, Greater London, England NW5 1LR, United Kingdom",
+        "title": "weswap",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.149101,
+          51.555603
+        ],
+        "type": "Point"
+      },
+      "id": "address.8534315104689100"
+    }
+  ],
+  "type": "FeatureCollection"
+}

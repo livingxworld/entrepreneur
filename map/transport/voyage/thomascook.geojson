@@ -1,0 +1,101 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Boulevard Victor Hugo, Paris, 92110, France",
+        "title": "thomas cook",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.309524,
+          48.897963
+        ],
+        "type": "Point"
+      },
+      "id": "address.10427932732298610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "16 Rue Jean Jaurès, Porto-Vecchio, Corse-du-Sud 20137, France",
+        "title": "PORTO VECCHIO",
+        "description": "lundi<br /> 08:30 - 12:00 / 14:30 - 18:15<br /><br /> mardi<br /> 08:30 - 12:00 / 14:30 - 18:15<br /><br /> mercredi<br /> 08:30 - 12:00 / 14:30 - 18:15<br /><br /> jeudi<br /> 08:30 - 12:00 / 14:30 - 18:15<br /><br /> vendredi<br /> 08:30 - 12:00 / 14:30 - 18:15<br /><br /> samedi<br /> 09:00 - 12:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          9.277422,
+          41.590183
+        ],
+        "type": "Point"
+      },
+      "id": "address.13901290458732610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "11 Place du Général de Gaulle, Ajaccio, Corse-du-Sud 20000, France",
+        "title": "Ajaccio",
+        "description": "lundi<br /> 08:30 - 12:00 / 14:00 - 18:00<br /><br /> mardi<br /> 08:30 - 12:00 / 14:00 - 18:00<br /><br /> mercredi<br /> 08:30 - 12:00 / 14:00 - 18:00<br /><br /> jeudi<br /> 08:30 - 12:00 / 14:00 - 18:00<br /><br /> vendredi<br /> 08:30 - 12:00 / 14:00 - 18:00<br /><br /> samedi<br /> 09:00 - 12:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          8.735692,
+          41.917549
+        ],
+        "type": "Point"
+      },
+      "id": "address.9190594117109540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "6 Avenue du Maréchal Sebastiani, Bastia, Haute-Corse 20200, France",
+        "title": "batia"
+      },
+      "geometry": {
+        "coordinates": [
+          9.44914,
+          42.70256
+        ],
+        "type": "Point"
+      },
+      "id": "address.9342040474787670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q44401",
+        "place_name": "Cayenne, Guyane française, France",
+        "title": "Cayenne",
+        "description": "lundi<br/> 08:30 - 12:30 / 14:30 - 17:00<br/><br/> mardi<br/> 08:30 - 12:30 / 14:30 - 17:00<br/><br/> mercredi<br/> 08:30 - 12:30 jeudi 08:30 - 12:30 / 14:30 - 17:00<br/><br/> vendredi<br/> 08:30 - 12:30 / 14:30 - 17:00<br/><br/> samedi<br/> 08:30 - 12:00<br/><br/> dimanche<br/> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.331998,
+          4.936594
+        ],
+        "type": "Point"
+      },
+      "id": "place.11413486210860620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "20213, Castellare-di-Casinca, Haute-Corse, France",
+        "title": "FOLELLI ",
+        "description": "lundi<br /> 08:45 - 12:00 / 14:00 - 18:30<br /><br /> mardi<br /> 08:45 - 12:00 / 14:00 - 18:30<br /><br /> mercredi<br /> 08:45 - 12:00 / 14:00 - 18:30<br /><br /> jeudi<br /> 08:45 - 12:00 / 14:00 - 18:30<br /><br /> vendredi<br /> 08:45 - 12:00 / 14:00 - 18:30<br /><br /> samedi<br /> Fermé<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          9.48764,
+          42.470982
+        ],
+        "type": "Point"
+      },
+      "id": "postcode.13102089965779680"
+    }
+  ],
+  "type": "FeatureCollection"
+}

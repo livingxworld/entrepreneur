@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "11 Cours Gambetta, Aix-en-Provence, Bouches-du-Rhône 13100, France",
+        "title": "prixtel",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          5.45439,
+          43.524757
+        ],
+        "type": "Point"
+      },
+      "id": "address.8339913172311240"
+    }
+  ],
+  "type": "FeatureCollection"
+}

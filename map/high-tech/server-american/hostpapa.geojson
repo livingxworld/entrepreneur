@@ -1,0 +1,22 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q424984",
+        "place_name": "Oakville, Ontario, Canada",
+        "title": "Hostpapa",
+        "description": "115, rue George, bureau 511 Oakville (Ontario) L6J 0A2"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.6665,
+          43.4474
+        ],
+        "type": "Point"
+      },
+      "id": "place.2555888779203130"
+    }
+  ],
+  "type": "FeatureCollection"
+}

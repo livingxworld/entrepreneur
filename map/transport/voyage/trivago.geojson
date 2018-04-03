@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "40474, Düsseldorf, Nordrhein-Westfalen, Germany",
+        "title": "trivago",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          6.73809,
+          51.260735
+        ],
+        "type": "Point"
+      },
+      "id": "postcode.8133521299619470"
+    }
+  ],
+  "type": "FeatureCollection"
+}

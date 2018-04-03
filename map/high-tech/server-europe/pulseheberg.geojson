@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "78140, Vélizy-Villacoublay, Yvelines, France",
+        "title": "pulsehéberg",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.194109,
+          48.783834
+        ],
+        "type": "Point"
+      },
+      "id": "postcode.9091767867268630"
+    }
+  ],
+  "type": "FeatureCollection"
+}

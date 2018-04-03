@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "2703 Ena Dr, Lansing, Michigan 48917, United States",
+        "title": "liquidweb",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.666283,
+          42.705463
+        ],
+        "type": "Point"
+      },
+      "id": "address.13114311769827300"
+    }
+  ],
+  "type": "FeatureCollection"
+}

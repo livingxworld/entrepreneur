@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Boulevard Général Jacques 263g, Brussels, 1050 Brussels Hoofstedelijk Gewest#Région de Bruxelles-Capitale, Belgium",
+        "title": "beobank",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          4.389349,
+          50.822301
+        ],
+        "type": "Point"
+      },
+      "id": "address.17755442870987660"
+    }
+  ],
+  "type": "FeatureCollection"
+}

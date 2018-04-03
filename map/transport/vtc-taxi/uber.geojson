@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Vijzelstraat 68, Amsterdam, Noord-Holland 1017, Netherlands",
+        "title": "uber",
+        "description": "bureaux"
+      },
+      "geometry": {
+        "coordinates": [
+          4.891963,
+          52.363435
+        ],
+        "type": "Point"
+      },
+      "id": "address.5119590150993960"
+    }
+  ],
+  "type": "FeatureCollection"
+}

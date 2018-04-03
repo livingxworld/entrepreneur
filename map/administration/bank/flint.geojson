@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "2910 Meredyth Dr, Albany, Georgia 31707, United States",
+        "title": "flint",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.225018,
+          31.610164
+        ],
+        "type": "Point"
+      },
+      "id": "address.3604693281354360"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,22 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q171882",
+        "place_name": "Λάρνακα, Λάρνακα, Cyprus",
+        "title": "Hostinger",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          33.63333,
+          34.91667
+        ],
+        "type": "Point"
+      },
+      "id": "place.13752302436503420"
+    }
+  ],
+  "type": "FeatureCollection"
+}

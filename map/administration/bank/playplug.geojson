@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "23 Rue Jean-Jacques Rousseau, Paris, 75001, France",
+        "title": "playplug",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.340964,
+          48.862795
+        ],
+        "type": "Point"
+      },
+      "id": "address.14666268963266620"
+    }
+  ],
+  "type": "FeatureCollection"
+}

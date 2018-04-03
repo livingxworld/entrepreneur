@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "10 Warren Park Way, Enderby, Leicestershire, England LE19 4SA, United Kingdom",
+        "title": "payza",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.212661,
+          52.595747
+        ],
+        "type": "Point"
+      },
+      "id": "address.9042064860050330"
+    }
+  ],
+  "type": "FeatureCollection"
+}

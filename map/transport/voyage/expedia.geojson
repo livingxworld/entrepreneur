@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "38003, Santa Cruz de Tenerife, Santa Cruz de Tenerife, Spain",
+        "title": "expedia",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.2528,
+          28.45884
+        ],
+        "type": "Point"
+      },
+      "id": "postcode.11354817735648690"
+    }
+  ],
+  "type": "FeatureCollection"
+}

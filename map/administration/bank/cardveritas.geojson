@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "36 Carnaby Street, City of Westminster, London, Greater London, England W1F 7DF, United Kingdom",
+        "title": "Veritas",
+        "description": "description"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.139111,
+          51.513421
+        ],
+        "type": "Point"
+      },
+      "id": "address.17337893440953990"
+    }
+  ],
+  "type": "FeatureCollection"
+}

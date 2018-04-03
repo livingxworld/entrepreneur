@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "16 Impasse de la Carillonnière, Haute-Goulaine, Loire-Atlantique 44115, France",
+        "title": "allovoisins",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.396316,
+          47.185895
+        ],
+        "type": "Point"
+      },
+      "id": "address.16869744817809170"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "58 Rue Lambrechts, Courbevoie, Hauts-de-Seine 92400, France",
+        "title": "startofservice",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.261014,
+          48.899177
+        ],
+        "type": "Point"
+      },
+      "id": "address.8217571914520990"
+    }
+  ],
+  "type": "FeatureCollection"
+}

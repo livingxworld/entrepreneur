@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "28 Hammersmith Grove, Hammersmith and Fulham, London, Greater London, England W6 7BA, United Kingdom",
+        "title": "opodo",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.226212,
+          51.494408
+        ],
+        "type": "Point"
+      },
+      "id": "address.5483995567425550"
+    }
+  ],
+  "type": "FeatureCollection"
+}

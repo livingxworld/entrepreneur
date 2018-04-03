@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "130 Avenue du Président Wilson, Montreuil, Seine-Saint-Denis 93100, France",
+        "title": "nuxit",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.439362,
+          48.85518
+        ],
+        "type": "Point"
+      },
+      "id": "address.5217150207583940"
+    }
+  ],
+  "type": "FeatureCollection"
+}

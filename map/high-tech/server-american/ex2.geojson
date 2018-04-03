@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "309 Rue des Épervières, Saguenay, Quebec G7G, Canada",
+        "title": "Ex2",
+        "description": "Siège Social"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.099678,
+          48.458464
+        ],
+        "type": "Point"
+      },
+      "id": "address.14250340209373580"
+    }
+  ],
+  "type": "FeatureCollection"
+}

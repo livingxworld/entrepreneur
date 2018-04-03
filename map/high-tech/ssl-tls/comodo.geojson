@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Trafford Road, Salford, Greater Manchester, England M50 3UQ, United Kingdom",
+        "title": "Comodo",
+        "description": "3rd Floor, Building 26 Office Village, Exchange Quay Trafford road Salford, Greater Manchester, M5 3EQ, United Kingdom <br /><a href=\"tel:+447035816361\">+447035816361</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.283078,
+          53.475843
+        ],
+        "type": "Point"
+      },
+      "id": "address.5657136941959340"
+    }
+  ],
+  "type": "FeatureCollection"
+}

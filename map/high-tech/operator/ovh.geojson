@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "2 Rue Kellermann, Roubaix, Nord 59100, France",
+        "title": "ovh",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          3.200259,
+          50.69156
+        ],
+        "type": "Point"
+      },
+      "id": "address.9888940415344370"
+    }
+  ],
+  "type": "FeatureCollection"
+}

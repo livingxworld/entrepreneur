@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "42 Rue de Tauzia, Bordeaux, Gironde 33800, France",
+        "title": "veracarte",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.558262,
+          44.829016
+        ],
+        "type": "Point"
+      },
+      "id": "address.7475381523578220"
+    }
+  ],
+  "type": "FeatureCollection"
+}

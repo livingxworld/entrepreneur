@@ -1,0 +1,255 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GlobalSign Chine",
+        "description": "Block C, 18F, No. 1255 Xikang Road, 200060, Shanghai China<br /><a href=\"tel:+862160762537\">+86 21 60762537</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          121.433384,
+          31.244675
+        ],
+        "type": "Point"
+      },
+      "id": "691b5ac641a2029fb64a73bce67dac91"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GlobalSign Philippines",
+        "description": "23rd Fl. Zuellig Building Paseo de Roxas Ave., Corner Makati Ave. Makati City, Philippines 1227<br /><a href=\"tel:+6328474774\">+63 2 847 4774</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          121.026342,
+          14.558004
+        ],
+        "type": "Point"
+      },
+      "id": "6f133da6a33857c21b1dba7631dadc54"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "International Dr, Portsmouth, New Hampshire 03801, United States",
+        "title": "GlobalSign",
+        "description": "Siège Social"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.805988,
+          43.087678
+        ],
+        "type": "Point"
+      },
+      "id": "address.11737150602605960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "24 Rue Louis Blanc, Paris, 75010, France",
+        "title": "GlobalSign France",
+        "description": "24, rue Louis Blanc 75010 Paris France</a><a href=\"tel:+33975183200\">+33 9 75 18 32 00</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          2.366219,
+          48.880604
+        ],
+        "type": "Point"
+      },
+      "id": "address.16362626074067340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "20 Anson Road, Singapore, Central Singapore 07, Singapore",
+        "title": "GlobalSign Hong-Kong/Singapour",
+        "description": "20 Anson Road #09-02 Singapore (079912)<br /><a href=\"tel:+85258080618\">+852 5808 0618</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          103.845647,
+          1.275369
+        ],
+        "type": "Point"
+      },
+      "id": "address.1972323931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Martelarenlaan 38, Leuven, 3010 Vlaams Brabant, Belgium",
+        "title": "GlobalSign Belgique",
+        "description": "Martelarenlaan 38 3010 Leuven Belgique<br /><a href=\"tel:+3216891900\">+32 16 89 19 00</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          4.718428,
+          50.880389
+        ],
+        "type": "Point"
+      },
+      "id": "address.6686059210635300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Sandling Road, Maidstone, Kent, England ME14 1ST, United Kingdom",
+        "title": "GlobalSign Royaume-Uni",
+        "description": "Springfield House Sandling Road, Maidstone, Kent ME14 2LP, United Kingdom<br /><a href=\"tel:+441622766766\">+44 1622 766766</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          0.520014,
+          51.279664
+        ],
+        "type": "Point"
+      },
+      "id": "address.9653537770008950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q55",
+        "short_code": "nl",
+        "place_name": "Netherlands",
+        "title": "GlobalSign pays-bas",
+        "description": "non indiquer<br /><a href=\"tel:+31858882424\">+31 85 8882424</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          5.600489,
+          52.21158
+        ],
+        "type": "Point"
+      },
+      "id": "country.3101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q29",
+        "short_code": "es",
+        "place_name": "Spain",
+        "title": "GlobalSign Espagne",
+        "description": "non indiquer<br /><a href=\"tel:+34911980803\">+34 91 198 08 03</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.055685,
+          41.294856
+        ],
+        "type": "Point"
+      },
+      "id": "country.3110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q183",
+        "short_code": "de",
+        "place_name": "Germany",
+        "title": "GlobalSign Allemagne",
+        "description": "non indiquer<br /><a href=\"tel:+498007237980\">+49 800 7237980</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          10.018343,
+          51.133481
+        ],
+        "type": "Point"
+      },
+      "id": "country.3135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Forest Hill, Melbourne, Victoria, Australia",
+        "title": "GlobalSign Australie",
+        "description": "333 Canterbury Road, Forest HillVictoria 3131,Australia<br /><a href=\"tel:+61399883988\">+61 3 9988 3988</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          145.1691,
+          -37.8363
+        ],
+        "type": "Point"
+      },
+      "id": "locality.10629776572920790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q193638",
+        "place_name": "渋谷区, 東京都, 東京都, Japan",
+        "title": "GlobalSign Japon",
+        "description": "Cerulean Tower 10F 26-1 Sakuragaokacho, Shibuya ku, Tokyo 150-8512, Japan<br /><a href=\"tel:+81364153277\">+81 3 6415 3277</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          139.7024,
+          35.6698
+        ],
+        "type": "Point"
+      },
+      "id": "locality.8514541459630500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q612",
+        "place_name": "Dubai, Dubai, United Arab Emirates",
+        "title": "GlobalSign Dubai",
+        "description": "PO Box 345890 Dubai Internet City Dubai, United Arab Emirates"
+      },
+      "geometry": {
+        "coordinates": [
+          55.30944,
+          25.26972
+        ],
+        "type": "Point"
+      },
+      "id": "place.851315512242643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1353",
+        "short_code": "IN-DL",
+        "place_name": "Delhi, India",
+        "title": "GlobalSign Inde",
+        "description": "221, Ground floor, Okhla Phase III, Okhla Industrial Area, New Delhi, Delhi 110020, India<br /><a href=\"tel:+911141106000\">+91 11 41106000</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          77.123767,
+          28.653458
+        ],
+        "type": "Point"
+      },
+      "id": "region.219262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q649",
+        "short_code": "RU-MOW",
+        "place_name": "Город Москва, Russia",
+        "title": "GlobalSign Rusie",
+        "description": "115088, Moscow, Ugreshskaya Street, 2 Bldg. 6, 3rd Floor, Room No. 318 Russia<br /><a href=\"tel:+74996782210\">+7 (499) 678 22 10</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          37.604206,
+          55.755488
+        ],
+        "type": "Point"
+      },
+      "id": "region.3815"
+    }
+  ],
+  "type": "FeatureCollection"
+}

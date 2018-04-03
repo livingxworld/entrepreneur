@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "5739 Kanan Rd, Agoura Hills, California 91301, United States",
+        "title": "GreenGeeks",
+        "description": "5739 Kanan Rd Suite 300 Agoura Hills, CA 91301"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.756663,
+          34.155099
+        ],
+        "type": "Point"
+      },
+      "id": "address.6730460774371170"
+    }
+  ],
+  "type": "FeatureCollection"
+}

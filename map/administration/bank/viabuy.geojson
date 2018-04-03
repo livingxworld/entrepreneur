@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "20 Balderton Street, City of Westminster, London, Greater London, England W1K 6TL, United Kingdom",
+        "title": "viabuy",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.152442,
+          51.51381
+        ],
+        "type": "Point"
+      },
+      "id": "address.4467266969420790"
+    }
+  ],
+  "type": "FeatureCollection"
+}

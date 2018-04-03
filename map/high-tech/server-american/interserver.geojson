@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "07094, Secaucus, New Jersey, United States",
+        "title": "interserver",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.067474,
+          40.780646
+        ],
+        "type": "Point"
+      },
+      "id": "postcode.12756561488471690"
+    }
+  ],
+  "type": "FeatureCollection"
+}

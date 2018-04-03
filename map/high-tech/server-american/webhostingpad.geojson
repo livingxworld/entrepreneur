@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "318 W Half Day Rd, Buffalo Grove, Illinois 60089, United States",
+        "title": "webhostingpad",
+        "description": "318 Half Day Rd. Suite 197 Buffalo Grove, IL 60089<br /><a href=\"tel:+18779984678\">877-998-4678</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.9648,
+          42.196074
+        ],
+        "type": "Point"
+      },
+      "id": "address.4442939307005440"
+    }
+  ],
+  "type": "FeatureCollection"
+}

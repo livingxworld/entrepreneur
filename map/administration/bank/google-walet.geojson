@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "1600 Amphitheatre Pkwy, Mountain View, California 94043, United States",
+        "title": "google",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.084143,
+          37.421972
+        ],
+        "type": "Point"
+      },
+      "id": "address.17226062495248980"
+    }
+  ],
+  "type": "FeatureCollection"
+}

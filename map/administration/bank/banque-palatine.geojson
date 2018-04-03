@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "75008, Paris, France",
+        "title": "banque palatine",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3,
+          48.87
+        ],
+        "type": "Point"
+      },
+      "id": "postcode.12225346547695750"
+    }
+  ],
+  "type": "FeatureCollection"
+}

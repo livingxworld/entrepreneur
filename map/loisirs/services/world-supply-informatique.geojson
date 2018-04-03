@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "4 Allée du Carré, Gennevilliers, Hauts-de-Seine 92230, France",
+        "title": "wsi",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.304113,
+          48.934988
+        ],
+        "type": "Point"
+      },
+      "id": "address.8651600533394740"
+    }
+  ],
+  "type": "FeatureCollection"
+}

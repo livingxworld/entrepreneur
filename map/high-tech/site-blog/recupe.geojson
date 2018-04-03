@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "6 Rue du Charolais, 12e Arrondissement Paris, Paris 75012, France",
+        "title": "Recupe",
+        "description": "Siège Social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.387674,
+          48.839494
+        ],
+        "type": "Point"
+      },
+      "id": "address.9564733659256660"
+    }
+  ],
+  "type": "FeatureCollection"
+}

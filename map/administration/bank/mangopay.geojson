@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "10 Boulevard Royal, Luxembourg, Luxembourg Luxembourg",
+        "title": "mangopay",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          6.127451,
+          49.613942
+        ],
+        "type": "Point"
+      },
+      "id": "address.2011239601"
+    }
+  ],
+  "type": "FeatureCollection"
+}

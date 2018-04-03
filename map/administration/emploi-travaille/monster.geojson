@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "14 Rue Clément Bayard, Levallois-Perret, Hauts-de-Seine 92300, France",
+        "title": "monster",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.283491,
+          48.898447
+        ],
+        "type": "Point"
+      },
+      "id": "address.5910365348167600"
+    }
+  ],
+  "type": "FeatureCollection"
+}

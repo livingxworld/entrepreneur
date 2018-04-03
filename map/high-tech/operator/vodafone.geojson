@@ -1,0 +1,22 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q655874",
+        "place_name": "Newbury, West Berkshire, England, United Kingdom",
+        "title": "vodafone",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.3236,
+          51.402
+        ],
+        "type": "Point"
+      },
+      "id": "place.13279485695327820"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "16 Boulevard des Italiens, Paris, 75009, France",
+        "title": "hello banque",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.337842,
+          48.871776
+        ],
+        "type": "Point"
+      },
+      "id": "address.3480529128495600"
+    }
+  ],
+  "type": "FeatureCollection"
+}

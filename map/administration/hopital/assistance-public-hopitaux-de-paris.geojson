@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "3 Avenue Victoria, Paris, 75004, France",
+        "title": "Assistance public - Hôpitaux de Paris",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.350169,
+          48.8569
+        ],
+        "type": "Point"
+      },
+      "id": "address.6924950911552760"
+    }
+  ],
+  "type": "FeatureCollection"
+}

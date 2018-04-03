@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "101 Townsend St, San Francisco, California 94107, United States",
+        "title": "Cloudflare",
+        "description": "Siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.390465,
+          37.780226
+        ],
+        "type": "Point"
+      },
+      "id": "address.9184552282090380"
+    }
+  ],
+  "type": "FeatureCollection"
+}

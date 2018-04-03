@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "14 Rue Voltaire, Le Kremlin-Bicêtre, Val-de-Marne 94270, France",
+        "title": "epita",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.362934,
+          48.815776
+        ],
+        "type": "Point"
+      },
+      "id": "address.5072543389201450"
+    }
+  ],
+  "type": "FeatureCollection"
+}

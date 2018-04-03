@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Voie Antiope, La Ciotat, Bouches-du-Rhône 13600, France",
+        "title": "Aspserveur",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          5.605566,
+          43.207486
+        ],
+        "type": "Point"
+      },
+      "id": "address.2781450139531070"
+    }
+  ],
+  "type": "FeatureCollection"
+}

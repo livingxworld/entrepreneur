@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "9 Rue Rougemont, Paris, 75009, France",
+        "title": "siège social",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.345852,
+          48.871801
+        ],
+        "type": "Point"
+      },
+      "id": "address.11848732984035320"
+    }
+  ],
+  "type": "FeatureCollection"
+}

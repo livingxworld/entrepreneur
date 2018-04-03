@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "53 Boulevard de la Villette, Paris, 75010, France",
+        "title": "Detect-Pro",
+        "description": "Siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.372701,
+          48.875546
+        ],
+        "type": "Point"
+      },
+      "id": "address.11631865352090640"
+    }
+  ],
+  "type": "FeatureCollection"
+}

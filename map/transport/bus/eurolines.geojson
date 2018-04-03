@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "215 Avenue Georges Clemenceau, Nanterre, Hauts-de-Seine 92000, France",
+        "title": "eurolines",
+        "description": "Siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.216293,
+          48.88592
+        ],
+        "type": "Point"
+      },
+      "id": "address.5195823415280910"
+    }
+  ],
+  "type": "FeatureCollection"
+}

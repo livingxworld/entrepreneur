@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "34 Queen Street, Melbourne, Victoria 3000, Australia",
+        "title": "pin payments",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          144.96237,
+          -37.818016
+        ],
+        "type": "Point"
+      },
+      "id": "address.149532339278734"
+    }
+  ],
+  "type": "FeatureCollection"
+}

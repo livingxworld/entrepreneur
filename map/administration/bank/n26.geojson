@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Klosterstraße 62, Berlin, Berlin 10179, Germany",
+        "title": "n26",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          13.412505,
+          52.516108
+        ],
+        "type": "Point"
+      },
+      "id": "address.4463762024971420"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Avenue Louise 475, Brussels, 1050 Brussels Hoofstedelijk Gewest#Région de Bruxelles-Capitale, Belgium",
+        "title": "anytime",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          4.371286,
+          50.81728
+        ],
+        "type": "Point"
+      },
+      "id": "address.12674802445656770"
+    }
+  ],
+  "type": "FeatureCollection"
+}

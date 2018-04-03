@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "High Street, Waltham Forest, London, Greater London, England, United Kingdom",
+        "title": "transferwise",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.04,
+          51.58
+        ],
+        "type": "Point"
+      },
+      "id": "neighborhood.309487054129660"
+    }
+  ],
+  "type": "FeatureCollection"
+}

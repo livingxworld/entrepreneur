@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "1155 S 800 E, Orem, Utah 84097, United States",
+        "title": "nethosting",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.675249,
+          40.276116
+        ],
+        "type": "Point"
+      },
+      "id": "address.15148162695045210"
+    }
+  ],
+  "type": "FeatureCollection"
+}

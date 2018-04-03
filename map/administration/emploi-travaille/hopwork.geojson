@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "42 Rue de Rochechouart, 9e Arrondissement Paris, Paris 75009, France",
+        "title": "hopwork",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.345861,
+          48.879361
+        ],
+        "type": "Point"
+      },
+      "id": "address.11608797490368470"
+    }
+  ],
+  "type": "FeatureCollection"
+}

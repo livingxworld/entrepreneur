@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "5 Rue de La Baume, Paris, 75008, France",
+        "title": "paytop",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.310552,
+          48.874355
+        ],
+        "type": "Point"
+      },
+      "id": "address.4397117221486150"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "20 Avenue André Prothin, Courbevoie, Hauts-de-Seine 92400, France",
+        "title": "bforbank",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.24485,
+          48.892123
+        ],
+        "type": "Point"
+      },
+      "id": "address.8461837122567160"
+    }
+  ],
+  "type": "FeatureCollection"
+}

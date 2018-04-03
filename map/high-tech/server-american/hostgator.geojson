@@ -1,0 +1,69 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Rodovia José Carlos Daux, Florianópolis, Santa Catarina 88032, Brazil",
+        "title": "Hostgator Florianópolis",
+        "description": "Rod. José Carlos Daux, 8600 CEP: 88050-001 Florianópolis-SC"
+      },
+      "geometry": {
+        "coordinates": [
+          -48.505052,
+          -27.565036
+        ],
+        "type": "Point"
+      },
+      "id": "address.10005101420099870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "5005 Mitchelldale St, Houston, Texas 77092, United States",
+        "title": "Hosgator hostin",
+        "description": "5005 Mitchelldale Suite #100 Houston, TX 77092"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.464032,
+          29.813255
+        ],
+        "type": "Point"
+      },
+      "id": "address.12875027418801070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "2500 Ridgepoint Dr, Austin, Texas 78754, United States",
+        "title": "Hostgator austin",
+        "description": "2500 Ridgepoint Drive Austin, TX 78754"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.67258,
+          30.328703
+        ],
+        "type": "Point"
+      },
+      "id": "address.16329603076916730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Rua Pequetita 215, São Paulo, São Paulo 04552, Brazil",
+        "title": "Hostgator São Paulo",
+        "description": "Rua Pequetita, 215, 4° andar CEP: 04552-060 São Paulo-SP"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.686159,
+          -23.592409
+        ],
+        "type": "Point"
+      },
+      "id": "address.17221484548209650"
+    }
+  ],
+  "type": "FeatureCollection"
+}

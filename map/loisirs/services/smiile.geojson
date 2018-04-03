@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Allée Métis, Saint-Malo, Ille-et-Vilaine 35400, France",
+        "title": "smiile",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.975465,
+          48.614654
+        ],
+        "type": "Point"
+      },
+      "id": "address.13078848391520060"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "34 Great Marlborough Street, City of Westminster, London, Greater London, England W1F 7JG, United Kingdom",
+        "title": "sumup",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.139472,
+          51.514222
+        ],
+        "type": "Point"
+      },
+      "id": "address.8401185426528860"
+    }
+  ],
+  "type": "FeatureCollection"
+}

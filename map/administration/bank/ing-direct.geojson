@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Bijlmerplein 888, Amsterdam Zuidoost, Noord-Holland 1102, Netherlands",
+        "title": "ing direct",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          4.952277,
+          52.313637
+        ],
+        "type": "Point"
+      },
+      "id": "address.1369343734"
+    }
+  ],
+  "type": "FeatureCollection"
+}

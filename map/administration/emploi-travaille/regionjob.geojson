@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "2 Rue de la Mabilais, Rennes, Ille-et-Vilaine 35000, France",
+        "title": "parisjobs & regionjobs",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.693786,
+          48.106285
+        ],
+        "type": "Point"
+      },
+      "id": "address.11282214828341770"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Kempische Steenweg 309, Hasselt, 3500 Limburg, Belgium",
+        "title": "vikingcard",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          5.345033,
+          50.947298
+        ],
+        "type": "Point"
+      },
+      "id": "address.10041451562759960"
+    }
+  ],
+  "type": "FeatureCollection"
+}

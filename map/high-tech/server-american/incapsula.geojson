@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "94065, Redwood City, California, United States",
+        "title": "Incapsula",
+        "description": "3400 Bridge Parkway, Suite 200 Redwood Shores, CA 94065 <br /><a href=\"tel:+18662507659\">tel:+1 866 250 7659</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.254796,
+          37.537862
+        ],
+        "type": "Point"
+      },
+      "id": "postcode.4654105271362690"
+    }
+  ],
+  "type": "FeatureCollection"
+}

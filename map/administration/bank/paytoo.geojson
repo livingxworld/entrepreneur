@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "29 Harley Street, City of Westminster, London, Greater London, England W1G 9QT, United Kingdom",
+        "title": "paytoo",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.146496,
+          51.517924
+        ],
+        "type": "Point"
+      },
+      "id": "address.13642401499184770"
+    }
+  ],
+  "type": "FeatureCollection"
+}

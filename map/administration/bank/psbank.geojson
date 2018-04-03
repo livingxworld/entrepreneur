@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Roxas, 1103, Quezon City, Philippines",
+        "title": "psbank",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          121.019863,
+          14.627351
+        ],
+        "type": "Point"
+      },
+      "id": "locality.17783371033502920"
+    }
+  ],
+  "type": "FeatureCollection"
+}

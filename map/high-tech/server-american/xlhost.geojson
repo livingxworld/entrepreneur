@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "3000 E Dublin Granville Rd, Columbus, Ohio 43231, United States",
+        "title": "xlhost",
+        "description": "Siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.938578,
+          40.083093
+        ],
+        "type": "Point"
+      },
+      "id": "address.7041366911716500"
+    }
+  ],
+  "type": "FeatureCollection"
+}

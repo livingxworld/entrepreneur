@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "855 Avenue Roger Salengro, Chaville, Hauts-de-Seine 92370, France",
+        "title": "la poste",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.192524,
+          48.813448
+        ],
+        "type": "Point"
+      },
+      "id": "address.17532600699502740"
+    }
+  ],
+  "type": "FeatureCollection"
+}

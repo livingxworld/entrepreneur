@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "12 Place des États-Unis, Montrouge, Hauts-de-Seine 92120, France",
+        "title": "crédit agricole",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.315138,
+          48.818132
+        ],
+        "type": "Point"
+      },
+      "id": "address.6866852257944660"
+    }
+  ],
+  "type": "FeatureCollection"
+}

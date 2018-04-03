@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "36 Rue Jeannin, Dijon, Côte-d'Or 21000, France",
+        "title": "archive-host",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          5.046859,
+          47.321634
+        ],
+        "type": "Point"
+      },
+      "id": "address.10987537350800320"
+    }
+  ],
+  "type": "FeatureCollection"
+}

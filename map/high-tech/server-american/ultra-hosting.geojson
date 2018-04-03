@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "155 Commerce Valley Dr E, Markham, Ontario L3T, Canada",
+        "title": "UltraHosting",
+        "description": "Siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.374088,
+          43.842161
+        ],
+        "type": "Point"
+      },
+      "id": "address.15454568422476530"
+    }
+  ],
+  "type": "FeatureCollection"
+}

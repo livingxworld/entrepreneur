@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "6100 Center Dr, Los Angeles, California 90045, United States",
+        "title": "inmotionhosting",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.392419,
+          33.977036
+        ],
+        "type": "Point"
+      },
+      "id": "address.16566228405626900"
+    }
+  ],
+  "type": "FeatureCollection"
+}

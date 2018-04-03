@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "1908 N Enterprise St, Orange, California 92865, United States",
+        "title": "lunarpages",
+        "description": "Siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.865445,
+          33.819407
+        ],
+        "type": "Point"
+      },
+      "id": "address.13021639082705230"
+    }
+  ],
+  "type": "FeatureCollection"
+}

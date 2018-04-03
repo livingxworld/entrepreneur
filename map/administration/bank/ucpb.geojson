@@ -1,0 +1,20 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ucpb",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          121.02584,
+          14.558948
+        ],
+        "type": "Point"
+      },
+      "id": "6cb789e399d5f71978dfd72b3692aa59"
+    }
+  ],
+  "type": "FeatureCollection"
+}

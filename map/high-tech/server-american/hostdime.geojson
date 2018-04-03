@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "2603 Challenger Tech Ct, Orlando, Florida 32826, United States",
+        "title": "Hostdime florida",
+        "description": "2603 Challenger Tech Court Suite 140 Orlando, Florida 32826<br /><a href=\"tel:+18884023463\">1.888.402.3463</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.200362,
+          28.575426
+        ],
+        "type": "Point"
+      },
+      "id": "address.281148142444430"
+    }
+  ],
+  "type": "FeatureCollection"
+}

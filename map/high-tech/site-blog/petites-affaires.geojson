@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "5 Rue Paul Gauguin, Manuhō'ē, Papeete, Îles du Vent, Polynésie française",
+        "title": "Petites-Affaires",
+        "description": "Siège Social"
+      },
+      "geometry": {
+        "coordinates": [
+          -149.567201,
+          -17.534352
+        ],
+        "type": "Point"
+      },
+      "id": "3fc015b2f5fbd0232c4156b6e10b2a01"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,23 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q477940",
+        "short_code": "MA-11",
+        "place_name": "Marrakech - Tensift - Al Haouz, Morocco",
+        "title": "Genious",
+        "description": "Bd Allal El Fassi – Opération Boustane1, Imm. E, N° 6, 40 000, Marrakech"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.728377,
+          31.83391
+        ],
+        "type": "Point"
+      },
+      "id": "region.215394"
+    }
+  ],
+  "type": "FeatureCollection"
+}

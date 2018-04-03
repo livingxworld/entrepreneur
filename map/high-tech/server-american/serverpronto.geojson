@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "3109 Grand Ave, Miami, Florida 33133, United States",
+        "title": "serverpronto",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.243651,
+          25.728028
+        ],
+        "type": "Point"
+      },
+      "id": "address.9977981571768070"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "2500 Lake Cook Rd, Deerfield, Illinois 60015, United States",
+        "title": "discover",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.885805,
+          42.154835
+        ],
+        "type": "Point"
+      },
+      "id": "address.2229416878920560"
+    }
+  ],
+  "type": "FeatureCollection"
+}

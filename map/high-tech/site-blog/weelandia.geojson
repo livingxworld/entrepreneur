@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "5 Rue des Allumettes, Aix-en-Provence, Bouches-du-Rhône 13090, France",
+        "title": "Weelandia",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          5.44009,
+          43.524731
+        ],
+        "type": "Point"
+      },
+      "id": "address.9120390584620740"
+    }
+  ],
+  "type": "FeatureCollection"
+}

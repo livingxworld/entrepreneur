@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "18 Avenue Winston Churchill, Charenton-le-Pont, Val-de-Marne 94220, France",
+        "title": "compte-nickel",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.402223,
+          48.826248
+        ],
+        "type": "Point"
+      },
+      "id": "address.7057511065056840"
+    }
+  ],
+  "type": "FeatureCollection"
+}

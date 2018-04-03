@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "4600 E Washington St, Phoenix, Arizona 85034, United States",
+        "title": "Namecheap",
+        "description": "Siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.983775,
+          33.448847
+        ],
+        "type": "Point"
+      },
+      "id": "address.3095694506061540"
+    }
+  ],
+  "type": "FeatureCollection"
+}

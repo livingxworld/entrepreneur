@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "1 New Orchard Rd, Armonk, New York 10504, United States",
+        "title": "Softlayer",
+        "description": "IBM siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.720317,
+          41.108235
+        ],
+        "type": "Point"
+      },
+      "id": "address.16570833771539710"
+    }
+  ],
+  "type": "FeatureCollection"
+}

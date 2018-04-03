@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "29 Boulevard Haussmann, Paris, 75009, France",
+        "title": "société générale",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.332228,
+          48.872942
+        ],
+        "type": "Point"
+      },
+      "id": "address.5255172547024670"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "2828 N Harwood St, Dallas, Texas 75201, United States",
+        "title": "moneyGram",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.808187,
+          32.794489
+        ],
+        "type": "Point"
+      },
+      "id": "address.12254814773147820"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,69 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "70 W Madison St, Chicago, Illinois 60602, United States",
+        "title": "Trustware",
+        "description": "70 W. Madison St. Suite 600 Chicago IL 60602<br /><a href=\"tel:+13128737500\">+1 (312) 873-7500</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.630229,
+          41.882304
+        ],
+        "type": "Point"
+      },
+      "id": "address.11415743596313210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Rua Cincinato Braga 340, São Paulo, São Paulo 01333, Brazil",
+        "title": "Trustware São Paulo",
+        "description": "Rua Cincinato Braga, 340 n 71 - Edificio Delta Plaza São Paulo - SP 01333-010<br /><a href=\"tel:+551140646101\">+55 (11) 4064-6101</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.646336,
+          -23.567996
+        ],
+        "type": "Point"
+      },
+      "id": "address.12733434584030240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "3 Albert Road, Haringey, London, Greater London, England N22 7RX, United Kingdom",
+        "title": "Trustware London",
+        "description": "Westminster Tower 3 Albert Embankment London SE1 7SP<br /><a href=\"tel:+448454569611\">+44 (0) 845 456 9611</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.126696,
+          51.601747
+        ],
+        "type": "Point"
+      },
+      "id": "address.14363088006675270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "19-29 Martin Place, Sydney, New South Wales 2000, Australia",
+        "title": "Trustware Sydney",
+        "description": "Office Suite 17, Level 57, MLC Building, 19-29 Martin Place Sydney – 2000.<br /><a href=\"tel:+61292364200\">+61 (0) 2 9236 4200</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          151.209606,
+          -33.867911
+        ],
+        "type": "Point"
+      },
+      "id": "address.149529495210912"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,22 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q64",
+        "place_name": "Berlin, Berlin, Germany",
+        "title": "strato",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          13.38333,
+          52.51667
+        ],
+        "type": "Point"
+      },
+      "id": "place.6996813740564380"
+    }
+  ],
+  "type": "FeatureCollection"
+}

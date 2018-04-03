@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "4350 Baker Rd, Minnetonka, Minnesota 55343, United States",
+        "title": "polaroid",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.447618,
+          44.923501
+        ],
+        "type": "Point"
+      },
+      "id": "address.9235730319169950"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Avenue de la Praille 26, Carouge, 1227 Geneva, Switzerland",
+        "title": "informaniak",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          6.135706,
+          46.186943
+        ],
+        "type": "Point"
+      },
+      "id": "address.16559924045603460"
+    }
+  ],
+  "type": "FeatureCollection"
+}

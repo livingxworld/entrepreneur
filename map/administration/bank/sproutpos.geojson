@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "V8T 5C3, Victoria, British Columbia, Canada",
+        "title": "sproutpos",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.36126,
+          48.43232
+        ],
+        "type": "Point"
+      },
+      "id": "postcode.7225286464871640"
+    }
+  ],
+  "type": "FeatureCollection"
+}

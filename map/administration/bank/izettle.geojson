@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Regeringsgatan 59, 111 56 Stockholm, Stockholms län, Sweden",
+        "title": "izettle",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          18.067771,
+          59.334525
+        ],
+        "type": "Point"
+      },
+      "id": "address.15098338577470030"
+    }
+  ],
+  "type": "FeatureCollection"
+}

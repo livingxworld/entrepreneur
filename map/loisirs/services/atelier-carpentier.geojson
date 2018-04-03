@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "31 Avenue Jean Moulin, Torcy, Seine-et-Marne 77200, France",
+        "title": "atelier-carpentier",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.6593,
+          48.833521
+        ],
+        "type": "Point"
+      },
+      "id": "address.14577530524884650"
+    }
+  ],
+  "type": "FeatureCollection"
+}

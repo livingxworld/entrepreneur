@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "3629 Sentara Way, Virginia Beach, Virginia 23452, United States",
+        "title": "Webhostinghub",
+        "description": "3629 Sentara Way Virginia Beach, VA 23452<br /><a href=\"tel:+17574166627\">+1 757-416-6627</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.096301,
+          36.833988
+        ],
+        "type": "Point"
+      },
+      "id": "address.9809219442880880"
+    }
+  ],
+  "type": "FeatureCollection"
+}

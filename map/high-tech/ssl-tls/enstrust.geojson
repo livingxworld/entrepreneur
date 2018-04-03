@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "LBJ Fwy E, Dallas, Texas 75240, United States",
+        "title": "Entrust",
+        "description": "Siège Social"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.786385,
+          32.924744
+        ],
+        "type": "Point"
+      },
+      "id": "address.2345765754470430"
+    }
+  ],
+  "type": "FeatureCollection"
+}

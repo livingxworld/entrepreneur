@@ -1,0 +1,22 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q62",
+        "place_name": "San Francisco, California, United States",
+        "title": "authorize.net",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.463,
+          37.7648
+        ],
+        "type": "Point"
+      },
+      "id": "place.9464292564361910"
+    }
+  ],
+  "type": "FeatureCollection"
+}

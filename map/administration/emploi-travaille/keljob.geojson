@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "14 Boulevard Haussmann, 9e Arrondissement Paris, Paris 75009, France",
+        "title": "keljob",
+        "description": "figaro siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.337208,
+          48.872542
+        ],
+        "type": "Point"
+      },
+      "id": "address.5255172547024670"
+    }
+  ],
+  "type": "FeatureCollection"
+}

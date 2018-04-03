@@ -1,0 +1,37 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "50 Avenue Pierre Mendès France, Paris, 75013, France",
+        "title": "caisse d'épargne",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3695,
+          48.839796
+        ],
+        "type": "Point"
+      },
+      "id": "address.8584482916385070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "28 Place Rihour, Lille, Nord 59800, France",
+        "title": "crédit du nord",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          3.062451,
+          50.635883
+        ],
+        "type": "Point"
+      },
+      "id": "address.9670213883965650"
+    }
+  ],
+  "type": "FeatureCollection"
+}

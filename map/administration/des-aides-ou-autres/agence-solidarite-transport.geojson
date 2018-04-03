@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "21 Boulevard Haussmann, 9e Arrondissement Paris, Paris 75009, France",
+        "title": "agence solidarité transport",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.334039,
+          48.872688
+        ],
+        "type": "Point"
+      },
+      "id": "address.5255172547024670"
+    }
+  ],
+  "type": "FeatureCollection"
+}

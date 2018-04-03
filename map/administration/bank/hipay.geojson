@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "6 Place du Colonel Bourgoin, Paris, 75012, France",
+        "title": "hipay",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.383241,
+          48.844645
+        ],
+        "type": "Point"
+      },
+      "id": "address.6672597004589280"
+    }
+  ],
+  "type": "FeatureCollection"
+}

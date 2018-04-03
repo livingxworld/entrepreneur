@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "10 Corporate Dr, Burlington, Massachusetts 01803, United States",
+        "title": "powweb",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.192339,
+          42.496835
+        ],
+        "type": "Point"
+      },
+      "id": "address.18399290791495220"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "13714 Boul du Curé-Labelle, Saint-Augustin, Quebec J7J, Canada",
+        "title": "Likuid",
+        "description": "Siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.927475,
+          45.70347
+        ],
+        "type": "Point"
+      },
+      "id": "address.16949247384038060"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "14 Rue de Crussol, 11e Arrondissement Paris, Paris 75011, France",
+        "title": "airliner",
+        "description": "<ul> \t\t\t<li>lundi - Samedi: de 10h00 à 18h00</li> \t\t\t<li>dimanche: fermé</li> \t\t</ul><a href=\"tel:+33143383434\">+33 (0) 143 383 434</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          2.368132,
+          48.864132
+        ],
+        "type": "Point"
+      },
+      "id": "address.7434622207674900"
+    }
+  ],
+  "type": "FeatureCollection"
+}

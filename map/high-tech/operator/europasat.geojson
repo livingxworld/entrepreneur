@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "38 Rue Jean-Jacques Mention, Amiens, Somme 80080, France",
+        "title": "europasat",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.282544,
+          49.932536
+        ],
+        "type": "Point"
+      },
+      "id": "address.9864054871826020"
+    }
+  ],
+  "type": "FeatureCollection"
+}

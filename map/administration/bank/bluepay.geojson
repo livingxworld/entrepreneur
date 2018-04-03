@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "184 Shuman Blvd, Naperville, Illinois 60563, United States",
+        "title": "bluepay",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.147698,
+          41.802795
+        ],
+        "type": "Point"
+      },
+      "id": "address.7247529071337460"
+    }
+  ],
+  "type": "FeatureCollection"
+}

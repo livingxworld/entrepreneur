@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "10 Corporate Dr, Burlington, Massachusetts 01803, United States",
+        "title": "bluehost",
+        "description": "10 Corporate Drive, Suite #300 Burlington, MA 01803"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.193767,
+          42.49596
+        ],
+        "type": "Point"
+      },
+      "id": "address.18399290791495220"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "245 Route des Lucioles, Valbonne, Alpes-Maritimes 06560, France",
+        "title": "stella telecom",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          7.048164,
+          43.615194
+        ],
+        "type": "Point"
+      },
+      "id": "address.13761204853598890"
+    }
+  ],
+  "type": "FeatureCollection"
+}

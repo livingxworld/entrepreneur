@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Noordersingel 23, Antwerpen, 2140 Antwerpen, Belgium",
+        "title": "ortel mobile",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          4.449252,
+          51.219315
+        ],
+        "type": "Point"
+      },
+      "id": "address.16145133815774950"
+    }
+  ],
+  "type": "FeatureCollection"
+}

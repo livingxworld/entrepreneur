@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "53 Avenue Émile Zola, Paris, 75015, France",
+        "title": "Bein sport",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.283498,
+          48.846523
+        ],
+        "type": "Point"
+      },
+      "id": "address.13372529637147650"
+    }
+  ],
+  "type": "FeatureCollection"
+}

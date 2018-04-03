@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "6433 Champion Grandview Way, Austin, Texas 78750, United States",
+        "title": "indeed",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.792896,
+          30.362779
+        ],
+        "type": "Point"
+      },
+      "id": "address.18311327082818110"
+    }
+  ],
+  "type": "FeatureCollection"
+}

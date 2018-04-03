@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "115 Rue de Sèvres, Paris, 75006, France",
+        "title": "la banque postale",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.319798,
+          48.847919
+        ],
+        "type": "Point"
+      },
+      "id": "address.11647973625692940"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "6565 Knott Ave, Buena Park, California 90620, United States",
+        "title": "ria money transfer",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.012886,
+          33.862692
+        ],
+        "type": "Point"
+      },
+      "id": "address.1081303851713450"
+    }
+  ],
+  "type": "FeatureCollection"
+}

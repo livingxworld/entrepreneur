@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "10 Rue des Bonnes Gens, Colmar, Haut-Rhin 68000, France",
+        "title": "vialis",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          7.369337,
+          48.08141
+        ],
+        "type": "Point"
+      },
+      "id": "address.10081262547995740"
+    }
+  ],
+  "type": "FeatureCollection"
+}

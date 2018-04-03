@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "78 Rue Olivier de Serres, Paris, 75015, France",
+        "title": "orange",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.294291,
+          48.833165
+        ],
+        "type": "Point"
+      },
+      "id": "address.11158782475524200"
+    }
+  ],
+  "type": "FeatureCollection"
+}

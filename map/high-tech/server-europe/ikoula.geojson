@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "92100, Boulogne-Billancourt, Hauts-de-Seine, France",
+        "title": "ikoula",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.238015,
+          48.837432
+        ],
+        "type": "Point"
+      },
+      "id": "postcode.8553074970200810"
+    }
+  ],
+  "type": "FeatureCollection"
+}

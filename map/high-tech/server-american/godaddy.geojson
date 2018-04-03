@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "14455 N Hayden Rd, Scottsdale, Arizona 85260, United States",
+        "title": "Godaddy",
+        "description": "14455 N Hayden Rd, Scottsdale, AZ 85260, États-Unis"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.908286,
+          33.61725
+        ],
+        "type": "Point"
+      },
+      "id": "address.18371874265901110"
+    }
+  ],
+  "type": "FeatureCollection"
+}

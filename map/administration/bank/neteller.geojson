@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Finch Road, Isle of Man, Isle of Man",
+        "title": "neteller",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.481043,
+          54.152685
+        ],
+        "type": "Point"
+      },
+      "id": "address.11105950341112980"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Place de la Pyramide, Puteaux, Hauts-de-Seine 92800, France",
+        "title": "fortuneo",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.243245,
+          48.889571
+        ],
+        "type": "Point"
+      },
+      "id": "address.6519291984272960"
+    }
+  ],
+  "type": "FeatureCollection"
+}

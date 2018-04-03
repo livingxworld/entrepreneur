@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "103 Montreal Rd, Ottawa, Ontario K1L 6E6, Canada",
+        "title": "WHC",
+        "description": "Siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.666693,
+          45.434093
+        ],
+        "type": "Point"
+      },
+      "id": "address.15059987442816440"
+    }
+  ],
+  "type": "FeatureCollection"
+}

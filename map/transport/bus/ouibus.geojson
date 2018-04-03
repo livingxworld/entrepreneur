@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "94400, Vitry-sur-Seine, Val-de-Marne, France",
+        "title": "ouibus (sncf)",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.398917,
+          48.78813
+        ],
+        "type": "Point"
+      },
+      "id": "postcode.9021878560522230"
+    }
+  ],
+  "type": "FeatureCollection"
+}

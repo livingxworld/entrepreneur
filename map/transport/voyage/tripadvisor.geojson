@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "400 1st Ave, Needham, Massachusetts 02494, United States",
+        "title": "Tripadvosor",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.219832,
+          42.297759
+        ],
+        "type": "Point"
+      },
+      "id": "address.4407060062619450"
+    }
+  ],
+  "type": "FeatureCollection"
+}

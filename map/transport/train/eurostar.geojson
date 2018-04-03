@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "N1 9AW, London, Greater London, England, United Kingdom",
+        "title": "eurostar",
+        "description": "Times House, 5 Bravingtons Walk, Kings Cross, London N1 9AW, Royaume-Uni"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.121604,
+          51.531471
+        ],
+        "type": "Point"
+      },
+      "id": "postcode.18443942430027130"
+    }
+  ],
+  "type": "FeatureCollection"
+}

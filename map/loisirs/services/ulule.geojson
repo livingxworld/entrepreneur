@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "8 Rue Saint-Fiacre, Paris, 75002, France",
+        "title": "ulule",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.345392,
+          48.869808
+        ],
+        "type": "Point"
+      },
+      "id": "address.10490104097309810"
+    }
+  ],
+  "type": "FeatureCollection"
+}

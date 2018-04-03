@@ -1,0 +1,949 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "37 Rue Mariès, Albi, Tarn 81000, France",
+        "title": "ALBI ",
+        "description": "lundi<br /> Fermé<br /><br /> mardi<br /> 10:00 - 12:30 / 14:00 - 18:30<br /><br /> mercredi<br /> 10:00 - 12:30 / 14:00 - 18:30<br /><br /> jeudi<br /> 10:00 - 12:30 / 14:00 - 18:30<br /><br /> vendredi<br /> 10:00 - 12:30 / 14:00 - 18:30<br /><br /> samedi<br /> 10:00 - 12:30 / 14:00 - 18:30<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          2.144177,
+          43.928259
+        ],
+        "type": "Point"
+      },
+      "id": "address.10084564962744920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "47 Boulevard Carnot, Limoges, Haute-Vienne 87000, France",
+        "title": "LIMOGES ",
+        "description": "lundi<br /> 14:30 - 18:30<br /><br /> mardi<br /> 09:30 - 12:00 / 14:30 - 18:30<br /><br /> mercredi<br /> 09:30 - 12:00 / 14:30 - 18:30<br /><br /> jeudi<br /> 09:30 - 12:00 / 14:30 - 18:30<br /><br /> vendredi<br /> 09:30 - 12:00 / 14:30 - 18:30<br /><br /> samedi<br /> Fermé<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          1.258311,
+          45.83312
+        ],
+        "type": "Point"
+      },
+      "id": "address.10162565266967540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "64 Boulevard du Maréchal Juin, Cagnes-sur-Mer, Alpes-Maritimes 06800, France",
+        "title": "CAGNES SUR MER",
+        "description": " lundi<br /> 09:00 - 12:30 / 14:00 - 18:30<br /><br /> mardi<br /> 09:00 - 12:30 / 14:00 - 18:30<br /><br /> mercredi<br /> 09:00 - 12:30 / 14:00 - 18:30<br /><br /> jeudi<br /> 09:00 - 12:30 / 14:00 - 18:30<br /><br /> vendredi<br /> 09:00 - 12:30 / 14:00 - 18:30<br /><br /> samedi<br /> 09:30 - 12:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          7.151239,
+          43.655976
+        ],
+        "type": "Point"
+      },
+      "id": "address.10185275261733890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "2 Rue du Bournard, Colombes, Hauts-de-Seine 92700, France",
+        "title": "COLOMBES",
+        "description": "lundi<br /> Fermé<br /><br /> mardi<br /> 10:00 - 12:30 / 14:00 - 19:00<br /><br /> mercredi<br /> 10:00 - 12:30 / 14:00 - 19:00<br /><br /> jeudi<br /> 10:00 - 12:30 / 14:00 - 19:00<br /><br /> vendredi<br /> 10:00 - 12:30 / 14:00 - 19:00<br /><br /> samedi<br /> 09:30 - 12:30 / 14:00 - 18:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          2.25204,
+          48.923321
+        ],
+        "type": "Point"
+      },
+      "id": "address.10372765186823450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "4 Rue Pierre Clément, Draguignan, Var 83300, France",
+        "title": "DRAGUIGNAN",
+        "description": " lundi<br /> 09:00 - 12:00 / 14:00 - 18:00<br /><br /> mardi<br /> 09:00 - 12:00 / 14:00 - 18:00<br /><br /> mercredi<br /> 09:00 - 12:00 / 14:00 - 18:00<br /><br /> jeudi<br /> 09:00 - 12:00 / 14:00 - 18:00<br /><br /> vendredi<br /> 09:00 - 12:00 / 14:00 - 18:00<br /><br /> samedi<br /> Fermé<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          6.4655,
+          43.53773
+        ],
+        "type": "Point"
+      },
+      "id": "address.10414150171299750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "92 Boulevard Victor Hugo, Paris, 92110, France",
+        "title": "thimas cook",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.309551,
+          48.897971
+        ],
+        "type": "Point"
+      },
+      "id": "address.10427932732298610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "33 Boulevard Fernand Hostachy, Croissy-sur-Seine, Yvelines 78290, France",
+        "title": "SAINT NOM LA BRETECHE VOYAGES",
+        "description": "lundi<br /> Fermé<br /><br /> mardi<br /> 09:30 - 12:30 / 14:30 - 19:00<br /><br /> mercredi<br /> 09:30 - 12:30 / 14:30 - 19:00<br /><br /> jeudi<br /> 09:30 - 12:30 / 14:30 - 19:00<br /><br /> vendredi<br /> 09:30 - 12:30 / 14:30 - 19:00<br /><br /> samedi<br /> 09:30 - 12:30 / 14:30 - 19:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          2.143333,
+          48.878224
+        ],
+        "type": "Point"
+      },
+      "id": "address.10588060683635040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "12 Rue Porte-Reine, Chambéry, Savoie 73000, France",
+        "title": "CHAMBERY ",
+        "description": "lundi<br /> 14:00 - 18:30<br /><br /> mardi<br /> 09:30 - 12:00 / 14:00 - 18:30<br /><br /> mercredi<br /> 09:30 - 12:00 / 14:00 - 18:30<br /><br /> jeudi<br /> 09:30 - 12:00 / 14:00 - 18:30<br /><br /> vendredi<br /> 09:30 - 12:00 / 14:00 - 18:30<br /><br /> samedi<br /> 09:30 - 12:00 / 14:00 - 16:30<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          5.919814,
+          45.564089
+        ],
+        "type": "Point"
+      },
+      "id": "address.10633584633890170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Avenue Albert Beaufils, Saint-Fargeau-Ponthierry, Seine-et-Marne 77310, France",
+        "title": "UN MONDE DE VOYAGES ",
+        "description": "lundi<br /> Fermé<br /><br /> mardi<br /> 09:30 - 12:30 / 14:00 - 18:30<br /> mercredi<br /> 09:30 - 12:30 / 14:00 - 18:30<br /><br /> jeudi<br /> 09:30 - 12:30 / 14:00 - 18:30<br /><br /> vendredi<br /> 09:30 - 12:30 / 14:00 - 18:30<br /><br /> samedi<br /> 10:00 - 12:30 / 14:00 - 18:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          2.5462,
+          48.534095
+        ],
+        "type": "Point"
+      },
+      "id": "address.10679145410057700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "77 Rue Sainte, 7e Arrondissement Marseille, Bouches-du-Rhône 13007, France",
+        "title": "SETIEX VOYAGES ",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          5.371739,
+          43.29164
+        ],
+        "type": "Point"
+      },
+      "id": "address.10734519450824490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "12 Place André Maurois, Périgueux, Dordogne 24000, France",
+        "title": "PERIGUEUX",
+        "description": "lundi<br /> 09:30 - 12:00 / 14:00 - 18:30<br /><br /> mardi<br /> 09:30 - 12:00 / 14:00 - 18:30<br /><br /> mercredi<br /> 09:30 - 12:00 / 14:00 - 18:30<br /><br /> jeudi<br /> 09:30 - 12:00 / 14:00 - 18:30<br /><br /> vendredi<br /> 09:30 - 12:00 / 14:00 - 18:30<br /><br /> samedi<br /> 09:30 - 12:00 / 14:00 - 18:30<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          0.71821,
+          45.18528
+        ],
+        "type": "Point"
+      },
+      "id": "address.10764639111038680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "4 Place Maurice Marchais, Vannes, Morbihan 56000, France",
+        "title": "EDEN TOUR VANNES ",
+        "description": "lundi<br /> 09:30 - 13:00 / 14:00 - 18:30<br /><br /> mardi<br /> 09:30 - 13:00 / 14:00 - 18:30<br /><br /> mercredi<br /> 09:30 - 13:00 / 14:00 - 18:30<br /><br /> jeudi<br /> 09:30 - 13:00 / 14:00 - 18:30<br /><br /> vendredi<br /> 09:30 - 13:00 / 14:00 - 18:30<br /><br /> samedi<br /> 09:30 - 13:00 / 14:00 - 17:30<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.759784,
+          47.658169
+        ],
+        "type": "Point"
+      },
+      "id": "address.10862545351126400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "17 Rue du Cens, Sautron, Loire-Atlantique 44880, France",
+        "title": "SAUTRON",
+        "description": "lundi<br /> 09:30 - 12:30 / 13:30 - 18:30<br /><br /> mardi<br /> 09:30 - 12:30 / 13:30 - 18:30<br /><br /> mercredi<br /> 09:30 - 12:30 / 13:30 - 18:30<br /><br /> jeudi<br /> 09:30 - 12:30 / 13:30 - 18:30<br /><br /> vendredi<br /> 09:30 - 12:30 / 13:30 - 18:30<br /><br /> samedi<br /> 09:30 - 12:30 / 13:30 - 17:30<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.665689,
+          47.261943
+        ],
+        "type": "Point"
+      },
+      "id": "address.10969744595295590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "30 Avenue Mozart, 16e Arrondissement Paris, Paris 75016, France",
+        "title": "PARIS MOZART",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.271224,
+          48.856312
+        ],
+        "type": "Point"
+      },
+      "id": "address.11166171589175210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "128 Avenue du Général Leclerc, Bourg-la-Reine, Hauts-de-Seine 92340, France",
+        "title": "BOURG LA REINE ",
+        "description": "lundi<br /> 09:00 - 12:30 / 14:00 - 18:30<br /><br /> mardi<br /> 09:00 - 12:30 / 14:00 - 18:30<br /><br /> mercredi<br /> 09:00 - 12:30 / 14:00 - 18:30<br /><br /> jeudi<br /> 09:00 - 12:30 / 14:00 - 18:30<br /><br /> vendredi<br /> 09:00 - 12:30 / 14:00 - 18:30<br /><br /> samedi<br /> 09:00 - 12:30 / 14:00 - 17:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          2.314532,
+          48.777472
+        ],
+        "type": "Point"
+      },
+      "id": "address.11397504306576590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "11 Rue de Verdun, Carcassonne, Aude 11000, France",
+        "title": "CARCASSONNE ",
+        "description": "lundi<br /> 09:00 - 12:00 / 14:00 - 18:30<br /><br /> mardi<br /> 09:00 - 12:00 / 14:00 - 18:30<br /><br /> mercredi<br /> 09:00 - 12:00 / 14:00 - 18:30<br /><br /> jeudi<br /> 09:00 - 12:00 / 14:00 - 18:30<br /><br /> vendredi<br /> 09:00 - 12:00 / 14:00 - 18:30<br /><br /> samedi<br /> 09:00 - 12:00 / 14:00 - 18:30<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          2.354254,
+          43.212634
+        ],
+        "type": "Point"
+      },
+      "id": "address.11815738665238900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "148 Rue Ordener, 18e Arrondissement Paris, Paris 75018, France",
+        "title": "PARIS ORDENER ",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.337256,
+          48.893609
+        ],
+        "type": "Point"
+      },
+      "id": "address.12514543388542320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "36 Rue du Puits Mauger, Rennes, Ille-et-Vilaine 35000, France",
+        "title": "renne",
+        "description": "lundi<br /> 09:30 - 12:30 / 14:00 - 18:30<br /><br /> mardi<br /> 09:30 - 18:30<br /><br /> mercredi<br /> 09:30 - 18:30<br /><br /> jeudi<br /> 09:30 - 18:30<br /><br /> vendredi<br /> 09:30 - 18:30<br /><br /> samedi<br /> 09:30 - 12:30 / 14:00 - 18:30<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.68187,
+          48.105966
+        ],
+        "type": "Point"
+      },
+      "id": "address.12527423632177050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "103 Boulevard de la République, Vaucresson, Hauts-de-Seine 92420, France",
+        "title": "VAUCRESSON ",
+        "description": "lundi<br /> Fermé<br /><br /> mardi<br /> 10:00 - 13:00 / 14:30 - 18:30<br /><br /> mercredi<br /> 10:00 - 13:00 / 14:30 - 18:30<br /><br /> jeudi<br /> 10:00 - 13:00 / 14:30 - 18:30<br /><br /> vendredi<br /> 10:00 - 13:00 / 14:30 - 18:30<br /><br /> samedi<br /> 10:00 - 13:00 / 14:30 - 18:30<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          2.153021,
+          48.837298
+        ],
+        "type": "Point"
+      },
+      "id": "address.12581249415496950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "11 Rue Montorge, Grenoble, Isère 38000, France",
+        "title": "GRENOBLE",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          5.725711,
+          45.191341
+        ],
+        "type": "Point"
+      },
+      "id": "address.12593427888252210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Avenue de la Libération, Bordeaux, Gironde 33110, France",
+        "title": "LE BOUSCAT ",
+        "description": "lundi<br /> 10:00 - 13:00 / 14:00 - 18:30<br /><br /> mardi<br /> 10:00 - 13:00 / 14:00 - 18:30<br /><br /> mercredi<br /> 10:00 - 13:00 / 14:00 - 18:30<br /><br /> jeudi<br /> 10:00 - 13:00 / 14:00 - 18:30<br /><br /> vendredi<br /> 10:00 - 13:00 / 14:00 - 18:30<br /><br /> samedi<br /> Fermé<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.593465,
+          44.853845
+        ],
+        "type": "Point"
+      },
+      "id": "address.12748492456801540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "86 Boulevard des Batignolles, 17e Arrondissement Paris, Paris 75017, France",
+        "title": "PARIS BATIGNOLLES",
+        "description": "lundi<br /> 10:00 - 13:00 / 14:00 - 19:00<br /><br /> mardi<br /> 10:00 - 13:00 / 14:00 - 19:00<br /><br /> mercredi<br /> 10:00 - 13:00 / 14:00 - 19:00<br /><br /> jeudi<br /> 10:00 - 13:00 / 14:00 - 19:00<br /><br /> vendredi<br /> 10:00 - 13:00 / 14:00 - 19:00<br /><br /> samedi<br /> 10:00 - 13:00 / 14:00 - 18:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          2.317905,
+          48.881795
+        ],
+        "type": "Point"
+      },
+      "id": "address.13145271220917160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "112 Avenue du Général Leclerc, 14e Arrondissement Paris, Paris 75014, France",
+        "title": "PARIS GENERAL LECLERC ",
+        "description": "lundi<br /> 10:00 - 13:00 / 14:00 - 18:30<br /><br /> mardi<br /> 10:00 - 13:00 / 14:00 - 18:30<br /><br /> mercredi<br /> 10:00 - 13:00 / 14:00 - 18:30<br /><br /> jeudi<br /> 10:00 - 13:00 / 14:00 - 18:30<br /><br /> vendredi<br /> 10:00 - 13:00 / 14:00 - 18:30<br /><br /> samedi<br /> 10:00 - 13:00 / 14:00 - 18:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          2.325881,
+          48.825617
+        ],
+        "type": "Point"
+      },
+      "id": "address.13317167618576590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "1 Route de Besançon, Villers-Buzon, Doubs 25170, France",
+        "title": "DOUBS ",
+        "description": "lundi<br /> 09:30 - 12:30 / 13:30 - 19:30<br /><br /> mardi<br /> 09:30 - 12:30 / 13:30 - 19:30<br /><br /> mercredi<br /> 09:30 - 12:30 / 13:30 - 19:30<br /><br /> jeudi<br /> 09:30 - 12:30 / 13:30 - 19:30<br /><br /> vendredi<br /> 09:30 - 12:30 / 13:30 - 19:30<br /><br /> samedi<br /> 09:30 - 19:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          5.849733,
+          47.226863
+        ],
+        "type": "Point"
+      },
+      "id": "address.13763240416859740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "21 Rue des Terreaux, Voiron, Isère 38500, France",
+        "title": "VOIRON",
+        "description": "lundi<br /> Fermé<br /><br /> mardi<br /> 09:15 - 12:00 / 14:00 - 18:30<br /><br /> mercredi<br /> 09:15 - 12:00 / 14:00 - 18:30<br /><br /> jeudi<br /> 09:15 - 12:00 / 14:00 - 18:30<br /><br /> vendredi<br /> 09:15 - 12:00 / 14:00 - 18:30<br /><br /> samedi<br /> 09:15 - 12:00 / 13:45 - 17:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          5.594759,
+          45.366057
+        ],
+        "type": "Point"
+      },
+      "id": "address.14000822268394830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "38 Avenue Charles de Gaulle, Neuilly-sur-Seine, Hauts-de-Seine 92200, France",
+        "title": "NEUILLY ",
+        "description": "lundi<br /> 10:00 - 13:00 / 14:00 - 19:00<br /><br /> mardi<br /> 10:00 - 13:00 / 14:00 - 19:00<br /><br /> mercredi<br /> 10:00 - 13:00 / 14:00 - 19:00<br /><br /> jeudi<br /> 10:00 - 13:00 / 14:00 - 19:00<br /><br /> vendredi<br /> 10:00 - 13:00 / 14:00 - 19:00<br /><br /> samedi<br /> 10:00 - 13:00 / 14:00 - 18:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          2.277034,
+          48.879841
+        ],
+        "type": "Point"
+      },
+      "id": "address.14798743393663890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Centre Commercial Les Portes du Soleil, Juvignac, Hérault 34990, France",
+        "title": " JUVIGNAC ",
+        "description": "lundi<br /> 09:00 - 13:00 / 14:00 - 19:00<br /><br /> mardi<br /> 09:00 - 13:00 / 14:00 - 19:00<br /><br /> mercredi<br /> 09:00 - 13:00 / 14:00 - 19:00<br /><br /> jeudi<br /> 09:00 - 13:00 / 14:00 - 19:00<br /><br /> vendredi<br /> 09:00 - 13:00 / 14:00 - 19:00<br /><br /> samedi<br /> 09:00 - 12:00 / 14:00 - 18:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          3.807355,
+          43.61362
+        ],
+        "type": "Point"
+      },
+      "id": "address.15263039268257020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Square Mérimée, Cannes, Alpes-Maritimes 06400, France",
+        "title": "CANNES ",
+        "description": " lundi<br /> 09:00 - 12:30 / 14:00 - 18:30<br /><br /> mardi<br /> 09:00 - 12:30 / 14:00 - 18:30<br /><br /> mercredi<br /> 09:00 - 12:30 / 14:00 - 18:30<br /><br /> jeudi<br /> 09:00 - 12:30 / 14:00 - 18:30<br /><br /> vendredi<br /> 09:00 - 12:30 / 14:00 - 18:30<br /><br /> samedi<br /> 09:00 - 12:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          7.018052,
+          43.551887
+        ],
+        "type": "Point"
+      },
+      "id": "address.15582768914523740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "31 Rue de Jemmapes, Thionville, Moselle 57100, France",
+        "title": "THIONVILLE ",
+        "description": "lundi<br /> 09:30 - 12:30 / 14:00 - 19:00<br /><br /> mardi<br /> 09:30 - 12:30 / 14:00 - 19:00<br /><br /> mercredi<br /> 09:30 - 12:30 / 14:00 - 19:00<br /><br /> jeudi<br /> 09:30 - 12:30 / 14:00 - 19:00<br /><br /> vendredi<br /> 09:30 - 12:30 / 14:00 - 19:00<br /><br /> samedi<br /> 09:30 - 12:30 / 14:00 - 18:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          6.168707,
+          49.359659
+        ],
+        "type": "Point"
+      },
+      "id": "address.15856384075743120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Centre Commercial Cora, Massy, Essonne 91300, France",
+        "title": "CORMONTREUIL ",
+        "description": "lundi<br /> 09:00 - 19:45<br /><br /> mardi<br /> 09:00 - 19:45<br /><br /> mercredi<br /> 09:00 - 19:45<br /><br /> jeudi<br /> 09:00 - 19:45<br /><br /> vendredi<br /> 09:00 - 19:45<br /><br /> samedi<br /> 09:00 - 19:45<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          2.277494,
+          48.72558
+        ],
+        "type": "Point"
+      },
+      "id": "address.16031599674932260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "10 Rue du Grand Cerf, Metz, Moselle 57000, France",
+        "title": "METZ ",
+        "description": "lundi<br /> 09:30 - 12:30 / 14:00 - 19:00<br /><br /> mardi<br /> 09:30 - 12:30 / 14:00 - 19:00<br /><br /> mercredi<br /> 09:30 - 12:30 / 14:00 - 19:00<br /><br /> jeudi<br /> 09:30 - 12:30 / 14:00 - 19:00<br /><br /> vendredi<br /> 09:30 - 12:30 / 14:00 - 19:00<br /><br /> samedi<br /> 09:30 - 12:30 / 14:00 - 18:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          6.177927,
+          49.115821
+        ],
+        "type": "Point"
+      },
+      "id": "address.16051313856620790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Place Georges Frêche, Montpellier, Hérault 34070, France",
+        "title": "MONTPELLIER",
+        "description": "lundi<br /> 09:30 - 18:30<br /><br /> mardi<br /> 09:30 - 18:30<br /><br /> mercredi<br /> 09:30 - 18:30<br /><br /> jeudi<br /> 09:30 - 18:30<br /><br /> vendredi<br /> 09:30 - 18:30<br /><br /> samedi<br /> 10:00 - 17:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          3.895846,
+          43.599247
+        ],
+        "type": "Point"
+      },
+      "id": "address.16200787922383480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "93 Rue Paul Doumer, Le Havre, Seine-Maritime 76600, France",
+        "title": " LE HAVRE ",
+        "description": "lundi<br /> 13:00 - 19:00<br /><br /> mardi<br /> 10:00 - 13:00 / 14:00 - 19:00<br /><br /> mercredi<br /> 10:00 - 13:00 / 14:00 - 19:00<br /><br /> jeudi<br /> 10:00 - 13:00 / 14:00 - 19:00<br /><br /> vendredi<br /> 10:00 - 13:00 / 14:00 - 19:00<br /><br /> samedi<br /> 10:00 - 13:00 / 14:30 - 19:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          0.105293,
+          49.492416
+        ],
+        "type": "Point"
+      },
+      "id": "address.16212349547770170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "193 Avenue de Mazargues, Marseille, Bouches-du-Rhône 13008, France",
+        "title": "EURAFRIQUE MAZARGUES-MARSEILLE ",
+        "description": "lundi<br /> 09:15 - 12:30 / 13:45 - 18:00<br /><br /> mardi<br /> 09:15 - 12:30 / 13:45 - 18:00<br /><br /> mercredi<br /> 09:15 - 12:30 / 13:45 - 18:00<br /><br /> jeudi<br /> 09:15 - 12:30 / 13:45 - 18:00<br /><br /> vendredi<br /> 09:15 - 12:30 / 13:45 - 18:00<br /><br /> samedi<br /> Fermé<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          5.391368,
+          43.264917
+        ],
+        "type": "Point"
+      },
+      "id": "address.17664678549636890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "54 Avenue de la Faïencerie, Luxembourg, Luxembourg, Luxembourg",
+        "title": "LUXEMBOURG ",
+        "description": "lundi<br /> 10:00 - 18:00<br /><br /> mardi<br /> 10:00 - 18:00<br /><br /> mercredi<br /> Fermé<br /><br /> jeudi<br /> 10:00 - 17:30<br /><br /> vendredi<br /> 10:00 - 18:00<br /><br /> samedi<br /> 10:00 - 18:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          6.119128,
+          49.618252
+        ],
+        "type": "Point"
+      },
+      "id": "address.1969438604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "142 Rue de Vesle, Reims, Marne 51100, France",
+        "title": "REIMS ",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          4.024953,
+          49.252137
+        ],
+        "type": "Point"
+      },
+      "id": "address.2181669921054090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "58 Place du 4 Septembre, Pertuis, Vaucluse 84120, France",
+        "title": "PERTUIS MIRABEAU ",
+        "description": "lundi<br /> 09:00 - 12:00 / 14:30 - 19:00<br /><br /> mardi<br /> 09:00 - 12:00 / 14:30 - 19:00<br /><br /> mercredi<br /> 09:00 - 12:00 / 14:30 - 19:00<br /><br /> jeudi<br /> 09:00 - 12:00 / 14:30 - 19:00<br /><br /> vendredi<br /> 09:00 - 12:00 / 14:30 - 19:00<br /><br /> samedi<br /> 09:00 - 12:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          5.501135,
+          43.69385
+        ],
+        "type": "Point"
+      },
+      "id": "address.2478182159154120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "67 Rue Ville-Pépin, Saint-Malo, Ille-et-Vilaine 35400, France",
+        "title": "SAINT MALO",
+        "description": "lundi<br /> 10:00 - 12:30 14:00 - 18:00<br /><br /> mardi<br /> 09:00 - 12:30 14:00 - 18:30<br /><br /> mercredi<br /> 09:00 - 12:30 14:00 - 18:30<br /><br /> jeudi<br /> 09:00 - 12:30 14:00 - 18:30<br /><br /> vendredi<br /> 09:00 - 12:30 14:00 - 18:30<br /><br /> samedi<br /> 10:00 - 12:30 14:00 - 18:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.01342,
+          48.634092
+        ],
+        "type": "Point"
+      },
+      "id": "address.2780241242679430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "7 Place du Général de Gaulle, Évreux, Eure 27000, France",
+        "title": "EVREUX",
+        "description": "lundi<br /> 14:00 - 18:30<br /><br /> mardi<br /> 09:30 - 12:30 / 14:00 - 18:30<br /><br /> mercredi<br /> 09:30 - 12:30 / 14:00 - 18:30<br /><br /> jeudi<br /> 09:30 - 12:30 / 14:00 - 18:30<br /><br /> vendredi<br /> 09:30 - 12:30 / 14:00 - 18:30<br /><br /> samedi<br /> 09:30 - 12:30 / 14:00 - 18:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          1.150451,
+          49.026978
+        ],
+        "type": "Point"
+      },
+      "id": "address.3088840471109540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Rue de Montreuil, Versailles, Yvelines 78000, France",
+        "title": "VERSAILLES ",
+        "description": "lundi<br /> 10:00 - 12:30 / 14:00 - 19:00<br /><br /> mardi<br /> 09:30 - 19:00<br /><br /> mercredi<br /> 09:30 - 19:00<br /><br /> jeudi<br /> 09:30 - 19:00<br /><br /> vendredi<br /> 09:30 - 19:00<br /><br /> samedi<br /> 10:00 - 13:00 / 14:00 - 18:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          2.147517,
+          48.804635
+        ],
+        "type": "Point"
+      },
+      "id": "address.3687103191792360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "3 Rue Claude Bernard, 5e Arrondissement Paris, Paris 75005, France",
+        "title": "PARIS CLAUDE BERNARD ",
+        "description": "lundi<br /> 10:00 - 13:30 / 14:30 - 19:00<br /><br /> mardi<br /> 10:00 - 13:30 / 14:30 - 19:00<br /><br /> mercredi<br /> 10:00 - 13:30 / 14:30 - 19:00<br /><br /> jeudi<br /> 10:00 - 13:30 / 14:30 - 19:00<br /><br /> vendredi<br /> 10:00 - 13:30 / 14:30 - 19:00<br /><br /> samedi<br /> 10:00 - 13:30 / 14:30 - 18:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          2.35013,
+          48.838555
+        ],
+        "type": "Point"
+      },
+      "id": "address.4148696887572610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "125 Rue Grande, Fontainebleau, Seine-et-Marne 77300, France",
+        "title": "FONTAINEBLEAU ",
+        "description": "lundi<br /> 15:00 - 19:00<br /><br /> mardi<br /> 09:30 - 12:15 / 14:00 - 19:00<br /><br /> mercredi<br /> 09:30 - 12:15 / 14:00 - 19:00<br /><br /> jeudi<br /> 09:30 - 12:15 / 14:00 - 19:00<br /><br /> vendredi<br /> 09:30 - 12:15 / 14:00 - 19:00<br /><br /> samedi<br /> 09:30 - 12:15 / 14:00 - 18:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          2.703928,
+          48.408324
+        ],
+        "type": "Point"
+      },
+      "id": "address.6123651842407290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "35 Rue de la Roë, Angers, Maine-et-Loire 49100, France",
+        "title": "Angers ",
+        "description": "lundi<br /> 10:00 - 12:30 14:00 - 18:30<br /><br /> mardi<br /> 09:30 - 13:00 / 14:00 - 18:30<br /><br /> mercredi<br /> 09:30 - 13:00 / 14:00 - 18:30<br /><br /> jeudi<br /> 09:30 - 13:00 / 14:00 - 18:30<br /><br /> vendredi<br /> 09:30 - 13:00 / 14:00 - 18:30<br /><br /> samedi<br /> Fermé<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.552511,
+          47.472092
+        ],
+        "type": "Point"
+      },
+      "id": "address.6453055491911770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "6 Rue de Budapest, Nantes, Loire-Atlantique 44000, France",
+        "title": "NANTES",
+        "description": "lundi<br /> 13:00 - 18:00<br /><br /> mardi<br /> 09:30 - 12:30 / 13:30 - 18:30<br /><br /> mercredi<br /> 09:30 - 12:30 / 13:30 - 18:30<br /><br /> jeudi<br /> 09:30 - 12:30 / 13:30 - 18:30<br /><br /> vendredi<br /> 09:30 - 12:30 / 13:30 - 18:30<br /><br /> samedi<br /> 10:00 - 12:00 / 14:00 - 17:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.560225,
+          47.216255
+        ],
+        "type": "Point"
+      },
+      "id": "address.6617628808222300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "2 Rue Aristide Briand, Troyes, Aube 10000, France",
+        "title": "TROYES ",
+        "description": "lundi<br /> 09:00 - 19:00<br /><br /> mardi<br /> 09:00 - 19:00<br /><br /> mercredi<br /> 09:00 - 19:00<br /><br /> jeudi<br /> 09:00 - 19:00<br /><br /> vendredi<br /> 09:00 - 19:00<br /><br /> samedi<br /> 09:00 - 12:00 / 14:00 - 19:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          4.073307,
+          48.297662
+        ],
+        "type": "Point"
+      },
+      "id": "address.7507548311570600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "204 Avenue du 8 Mai 1945, Poitiers, Vienne 86000, France",
+        "title": "POITIERS",
+        "description": "lundi<br /> 09:30 - 18:30<br /><br /> mardi<br /> 09:30 - 18:30<br /><br /> mercredi<br /> 09:30 - 18:30<br /><br /> jeudi<br /> 09:30 - 18:30<br /><br /> vendredi<br /> 09:30 - 18:30<br /><br /> samedi<br /> 09:30 - 18:30<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          0.305923,
+          46.553765
+        ],
+        "type": "Point"
+      },
+      "id": "address.7556029935565270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "11 Cours Sextius, Aix-en-Provence, Bouches-du-Rhône 13100, France",
+        "title": "VOYAGES EURAFRIQUE ",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          5.443833,
+          43.528333
+        ],
+        "type": "Point"
+      },
+      "id": "address.7596787544194070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "130 Rue Saint-Charles, Paris, 75015, France",
+        "title": "PARIS ST CHARLES ",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.282992,
+          48.843907
+        ],
+        "type": "Point"
+      },
+      "id": "address.7779796004839740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "8 Place du Grand Marché, Tours, Indre-et-Loire 37000, France",
+        "title": "TOURS GRAND MARCHE",
+        "description": "lundi<br /> 10:00 - 13:00 / 14:00 - 18:30<br /><br /> mardi<br /> 10:00 - 13:00 / 14:00 - 18:30<br /><br /> mercredi<br /> 10:00 - 13:00 / 14:00 - 18:30<br /><br /> jeudi<br /> 10:00 - 13:00 / 14:00 - 18:30<br /><br /> vendredi<br /> 10:00 - 13:00 / 14:00 - 18:30<br /><br /> samedi<br /> 10:00 - 13:00 / 14:00 - 18:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          0.680693,
+          47.393967
+        ],
+        "type": "Point"
+      },
+      "id": "address.8795169357540160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "3 Avenue Séverine, Courbevoie, Hauts-de-Seine 92400, France",
+        "title": "COURBEVOIE ",
+        "description": "lundi<br /> Fermé<br /><br /> mardi<br /> 10:00 - 13:00 / 14:30 - 19:00<br /><br /> mercredi<br /> 10:00 - 13:00 / 14:30 - 19:00<br /><br /> jeudi<br /> 10:00 - 13:00 / 14:30 - 19:00<br /><br /> vendredi<br /> 10:00 - 13:00 / 14:30 - 19:00<br /><br /> samedi<br /> 10:00 - 13:00 / 14:30 - 18:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          2.269298,
+          48.90497
+        ],
+        "type": "Point"
+      },
+      "id": "address.9143555439823460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "52 Rue Jeanne d'Arc, Orléans, Loiret 45000, France",
+        "title": "ORLEANS ",
+        "description": "lundi<br /> 14:00 - 18:30<br /><br /> mardi<br /> 09:30 - 13:00 / 14:00 - 18:30<br /><br /> mercredi<br /> 09:30 - 13:00 / 14:00 - 18:30<br /><br /> jeudi<br /> 09:30 - 13:00 / 14:00 - 18:30<br /><br /> vendredi<br /> 09:30 - 13:00 / 14:00 - 18:30<br /><br /> samedi<br /> 10:00 - 18:30<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          1.902835,
+          47.901266
+        ],
+        "type": "Point"
+      },
+      "id": "address.9320930704409710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "21 Rue de la République, Aubagne, Bouches-du-Rhône 13400, France",
+        "title": "AUBAGNE ",
+        "description": "lundi<br /> 09:30 - 12:30 / 14:00 - 18:00<br /><br /> mardi<br /> 09:30 - 12:30 / 14:00 - 18:00<br /><br /> mercredi<br /> 09:30 - 12:30 / 14:00 - 18:00<br /><br /> jeudi<br /> 09:30 - 12:30 / 14:00 - 18:00<br /><br /> vendredi<br /> 09:30 - 12:30 / 14:00 - 18:00<br /><br /> samedi<br /> Fermé<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          5.568705,
+          43.292219
+        ],
+        "type": "Point"
+      },
+      "id": "address.9416818768094030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "12 Place Aristide Briand, Valence, Drôme 26000, France",
+        "title": "VALENCE ",
+        "description": "lundi<br /> 09:30 - 12:30 / 13:30 - 18:30<br /><br /> mardi<br /> 09:30 - 12:30 / 13:30 - 18:30<br /><br /> mercredi<br /> 09:30 - 12:30 / 13:30 - 18:30<br /><br /> jeudi<br /> 09:30 - 12:30 / 13:30 - 18:30<br /><br /> vendredi<br /> 09:30 - 12:30 / 13:30 - 18:30<br /><br /> samedi<br /> 09:30 - 12:30 / 13:30 - 18:00<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          4.890084,
+          44.928861
+        ],
+        "type": "Point"
+      },
+      "id": "address.9418082277261000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "42 Rue de Verdun, La Roche-sur-Yon, Vendée 85000, France",
+        "title": "LA ROCHE SUR YON ",
+        "description": "lundi 09:30 - 12:30 / 14:00 - 18:30<br /><br /> mardi<br /> 09:30 - 12:30 /  14:00 - 18:30<br /><br /> mercredi<br /> 09:30 - 12:30 / 14:00 - 18:30<br /><br /> jeudi<br /> 09:30 - 12:30 / 14:00 - 18:30<br /><br /> vendredi<br /> 09:30 - 12:30 / 14:00 - 18:00<br /><br /> samedi<br /> Fermé<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.4301,
+          46.67147
+        ],
+        "type": "Point"
+      },
+      "id": "address.9812029229238900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "06000, Nice, Alpes-Maritimes, France",
+        "title": "NICE ",
+        "description": "lundi<br /> 09:00 - 18:00<br /><br /> mardi<br /> 09:00 - 18:00<br /><br /> mercredi<br /> 09:00 - 18:00<br /><br /> jeudi<br /> 09:00 - 18:00<br /><br /> vendredi<br /> 09:00 - 18:00<br /><br /> samedi<br /> 09:30 - 12:30<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          7.230316,
+          43.717807
+        ],
+        "type": "Point"
+      },
+      "id": "postcode.10658735826301030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "75008, 8e Arrondissement Paris, Paris, France",
+        "title": "PARIS BOETIE ",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.311186,
+          48.872954
+        ],
+        "type": "Point"
+      },
+      "id": "postcode.12225346547695750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "77340, Pontault-Combault, Seine-et-Marne, France",
+        "title": 77,
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.609799,
+          48.788614
+        ],
+        "type": "Point"
+      },
+      "id": "postcode.12246976798340760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "72000, Le Mans, Sarthe, France",
+        "title": "LE MANS",
+        "description": "lundi<br /> 09:30 - 12:30 / 13:30 - 19:00<br /><br /> mardi<br /> 09:30 - 12:30 / 13:30 - 19:00<br /><br /> mercredi<br /> 09:30 - 12:30 / 13:30 - 19:00<br /><br /> jeudi<br /> 09:30 - 12:30 / 13:30 - 19:00<br /><br /> vendredi<br /> 09:30 - 12:30 / 13:30 - 19:00<br /><br /> samedi<br /> 09:30 - 12:30 / 13:30 - 17:30<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          0.203513,
+          48.008337
+        ],
+        "type": "Point"
+      },
+      "id": "postcode.8896316255591600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "44470, Carquefou, Loire-Atlantique, France",
+        "title": "CARQUEFOU ",
+        "description": "lundi<br /> 09:30 - 19:00<br /><br /> mardi<br /> 09:30 - 19:00<br /><br /> mercredi<br /> 09:30 - 19:00<br /><br /> jeudi<br /> 09:30 - 19:00<br /><br /> vendredi<br /> 09:30 - 19:30<br /><br /> samedi<br /> 09:30 - 18:30<br /><br /> dimanche<br /> Fermé"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.450971,
+          47.298752
+        ],
+        "type": "Point"
+      },
+      "id": "postcode.9144597675666180"
+    }
+  ],
+  "type": "FeatureCollection"
+}

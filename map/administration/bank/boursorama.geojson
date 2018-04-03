@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "44 Rue Traversière, Boulogne-Billancourt, Hauts-de-Seine 92100, France",
+        "title": "boursorama",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.242323,
+          48.824439
+        ],
+        "type": "Point"
+      },
+      "id": "address.9120198418619880"
+    }
+  ],
+  "type": "FeatureCollection"
+}

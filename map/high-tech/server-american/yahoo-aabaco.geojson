@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "701 1st Ave, San Diego, California 92101, United States",
+        "title": "Yahoo",
+        "description": "Siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.163785,
+          32.713067
+        ],
+        "type": "Point"
+      },
+      "id": "address.7967202164619450"
+    }
+  ],
+  "type": "FeatureCollection"
+}

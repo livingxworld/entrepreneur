@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "34 Rue de Paradis, Paris, 75010, France",
+        "title": "kisskissbankbank",
+        "description": "Siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.351283,
+          48.875314
+        ],
+        "type": "Point"
+      },
+      "id": "address.13653219442174900"
+    }
+  ],
+  "type": "FeatureCollection"
+}

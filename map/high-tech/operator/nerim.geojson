@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "102 Avenue du Président Kennedy, Paris, 75016, France",
+        "title": "nerim",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.281026,
+          48.853112
+        ],
+        "type": "Point"
+      },
+      "id": "address.16010092563280460"
+    }
+  ],
+  "type": "FeatureCollection"
+}

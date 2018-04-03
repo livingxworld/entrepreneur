@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Rue du Vallot, Le Sacq, Eure 27240, France",
+        "title": "Copyright France",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          1.068529,
+          48.901508
+        ],
+        "type": "Point"
+      },
+      "id": "address.16030633104523590"
+    }
+  ],
+  "type": "FeatureCollection"
+}

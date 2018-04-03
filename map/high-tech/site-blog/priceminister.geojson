@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "92 Rue Réaumur, Paris, 75002, France",
+        "title": "PriceMinister",
+        "description": "Siège Social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.349452,
+          48.866895
+        ],
+        "type": "Point"
+      },
+      "id": "address.11541032669413400"
+    }
+  ],
+  "type": "FeatureCollection"
+}

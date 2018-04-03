@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Rue Cardinet, Paris, 75017, France",
+        "title": "crédit mutuel",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.31241,
+          48.886284
+        ],
+        "type": "Point"
+      },
+      "id": "address.8774025524315610"
+    }
+  ],
+  "type": "FeatureCollection"
+}

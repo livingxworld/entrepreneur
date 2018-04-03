@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "25 Canada Square, Tower Hamlets, London, Greater London, England E14 5FW, United Kingdom",
+        "title": "paysafecard",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.018621,
+          51.504833
+        ],
+        "type": "Point"
+      },
+      "id": "address.8855396927291150"
+    }
+  ],
+  "type": "FeatureCollection"
+}

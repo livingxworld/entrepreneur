@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "24 Rue Pasteur, Le Kremlin-Bicêtre, Val-de-Marne 94270, France",
+        "title": "epitech",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          2.363105,
+          48.815373
+        ],
+        "type": "Point"
+      },
+      "id": "address.5495808795889410"
+    }
+  ],
+  "type": "FeatureCollection"
+}

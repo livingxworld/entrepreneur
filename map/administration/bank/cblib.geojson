@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "6 Place de Nancy, Luxembourg, Luxembourg Luxembourg",
+        "title": "cblib",
+        "description": "siège social"
+      },
+      "geometry": {
+        "coordinates": [
+          6.118081,
+          49.603357
+        ],
+        "type": "Point"
+      },
+      "id": "address.69951463"
+    }
+  ],
+  "type": "FeatureCollection"
+}

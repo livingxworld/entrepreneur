@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "1 Place du Spectacle, Issy-les-Moulineaux, Hauts-de-Seine 92130, France",
+        "title": "MyCanal",
+        "description": "canal+ (siège social)"
+      },
+      "geometry": {
+        "coordinates": [
+          2.262487,
+          48.828015
+        ],
+        "type": "Point"
+      },
+      "id": "address.5928161339155120"
+    }
+  ],
+  "type": "FeatureCollection"
+}
