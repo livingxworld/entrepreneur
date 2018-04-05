@@ -1,7 +1,7 @@
-<p>[img src="https://business.livingxworld.com/images/.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+
 <hr id="system-readmore" />
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
+[h2 style="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 
  <p><strong>Description:</strong> --</p>
 
@@ -18,7 +18,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Information</strong></span></h2>
+[h2 style="text-center"][begins tags="strong" /]Information[ends tags="strong" /] [/h2]
 <p> </p>
 
 
@@ -52,13 +52,13 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="" category="" entreprise="" /]
+		[gmaps url="" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
 <p> </p>
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Scanner automatique</strong></span></h2>
+[h2 style="text-center"][begins tags="strong" /]Scanner automatique[ends tags="strong" /] [/h2]
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
@@ -76,7 +76,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 <p>  </p>
 
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
+[h2 style="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
@@ -97,7 +97,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 	[ends tags="table" /] 
 [ends tags="div" /]
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note et avis avec exigence</strong></span></h2>
+[h2 style="text-center"][begins tags="strong" /]Note et avis avec exigence[ends tags="strong" /] [/h2]
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -132,7 +132,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [ends tags="div" /]	
 
 <p> </p>
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Faire connaître</strong></span></h2>
+[h2 style="text-center"][begins tags="strong" /]Faire connaître[ends tags="strong" /] [/h2]
 <p> </p> 
 	[begins tags="div" class="row" /] 
 		[begins tags="div" class="col-md-12 center-block text-center" /]
@@ -175,6 +175,12 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 			"postalCode": "code postal",
 			"addressCountry": "pays"
 		},
+		"hasMap": "https://business.livingxworld.com/map/consumer/",
+		"openingHours": [
+			"Mo-Sa 11:00-14:30",
+			"Mo-Th 17:00-21:30",
+			"Fr-Sa 17:00-22:00"
+		],
 		"location": [
 			{
 				"@type": "Place",
@@ -204,30 +210,6 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 				"images": "https://business.livingxworld.com/images/.jpg",
 				"hasMap": "google map url"	
 			}
-		],
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		],
-		"review": {
-			"@type": "Review",
-            "author": "Alexon Balangue",
-            "dateCreated": "2014-06-12",
-            "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
-			"inLanguage": "french",
-            "name": "A masterpiece of literature",
-            "reviewBody": "mon avis",
-            "reviewRating": {
-				"@type": "Rating",
-				"bestRating": "5",
-				"ratingValue": "1",
-				"worstRating": "1"
-			},
-			"CopyrightHolder": "LivingxWorld",
-			"creator": "Alexon Balangue"
-		}
+		]
 	}
 [ends tags="script" /]

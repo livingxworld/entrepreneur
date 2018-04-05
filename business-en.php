@@ -1,7 +1,7 @@
-<p>[img src="https://business.livingxworld.com/images/.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+
 <hr id="system-readmore" />
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Presentation</strong></span></h2>
+[h2 style="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 
  <p><strong>Description:</strong> --</p>
 
@@ -18,7 +18,7 @@ Sorry the contractor presents no free video on the web.
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Information</strong></span></h2>
+[h2 style="text-center"][begins tags="strong" /]Information[ends tags="strong" /] [/h2]
 <p> </p>
 
 
@@ -52,13 +52,13 @@ Sorry the contractor presents no free video on the web.
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]MAP[/h3]
-		[mapbox-custom parent="" category="" entreprise="" /]
+		[gmaps url="" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
 <p> </p>
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Automatic scanner</strong></span></h2>
+[h2 style="text-center"][begins tags="strong" /]Automatic scanner[ends tags="strong" /] [/h2]
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
@@ -76,7 +76,7 @@ Sorry the contractor presents no free video on the web.
 <p>  </p>
 
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>The Prices Proposed in Taxe (without promotion)</strong></span></h2>
+[h2 style="text-center"][begins tags="strong" /]The Prices Proposed in Taxe (without promotion)[ends tags="strong" /] [/h2]
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
@@ -97,7 +97,7 @@ Sorry the contractor presents no free video on the web.
 	[ends tags="table" /] 
 [ends tags="div" /]
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note and advice with requirement</strong></span></h2>
+[h2 style="text-center"][begins tags="strong" /]Note and advice with requirement[ends tags="strong" /] [/h2]
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -132,7 +132,7 @@ Sorry the contractor presents no free video on the web.
 [ends tags="div" /]	
 
 <p> </p>
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Tell a Friends</strong></span></h2>
+[h2 style="text-center"][begins tags="strong" /]Tell a Friends[ends tags="strong" /] [/h2]
 <p> </p> 
 	[begins tags="div" class="row" /] 
 		[begins tags="div" class="col-md-12 center-block text-center" /]
@@ -209,24 +209,6 @@ It is up to you to give your opinion: according to its customer service, its pro
 			"Mo-Sa 11:00-14:30",
 			"Mo-Th 17:00-21:30",
 			"Fr-Sa 17:00-22:00"
-		],
-		"review": {
-			"@type": "Review",
-            "author": "Alexon Balangue",
-            "dateCreated": "2014-06-12",
-            "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
-			"inLanguage": "english",
-            "name": "A masterpiece of literature",
-            "reviewBody": "mon avis",
-            "reviewRating": {
-				"@type": "Rating",
-				"bestRating": "5",
-				"ratingValue": "1",
-				"worstRating": "1"
-			},
-			"CopyrightHolder": "LivingxWorld",
-			"creator": "Alexon Balangue"
-		}
+		]
 	}
 [ends tags="script" /]
