@@ -7,23 +7,12 @@
 
 Sorry the contractor presents no free video on the web.
 
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col-md-12" /]
-		[h3]These software and Apps[/h3]
-		<p>
-			Apple Store [a href="#" target="_blank"][fa name="apple" zoom="2x" /][/a]
-			Windows Store [a href="#" target="_blank"][fa name="windows" zoom="2x" /][/a]
-			Google Play [a href="#" target="_blank"][fa name="android" zoom="2x" /][/a]
-		</p>
-	[ends tags="div" /]	
-[ends tags="div" /]	
-
 [h2 style="text-center"][begins tags="strong" /]Information[ends tags="strong" /] [/h2]
 <p> </p>
 
 
 [begins tags="div" class="row" /]
-	[begins tags="div" class="col-xs-12 col-md-4" /]
+	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]coordinated[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="//" target="_blank"]Website[/a] [br /]
 		[fa name="map-marker" zoom="2x" /] adresse [br /]
@@ -50,7 +39,7 @@ Sorry the contractor presents no free video on the web.
 			<li></li>
 		</ul>
 	[ends tags="div" /]	
-	[begins tags="div" class="col-xs-12 col-md-8" /]
+	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]MAP[/h3]
 		[gmaps url="" /]
 		
@@ -61,11 +50,11 @@ Sorry the contractor presents no free video on the web.
 [h2 style="text-center"][begins tags="strong" /]Automatic scanner[ends tags="strong" /] [/h2]
 <p> </p>
 [begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col-xs-12 col-md-12" /]
+	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]owner site[/h3]
 		[whois-domains url="" /] 
 	[ends tags="div" /]	
-	[begins tags="div" class="col-xs-12 col-md-12" /]
+	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
 		[ssllabs domains="" /]
 		[h3]Your data are[/h3]
@@ -100,19 +89,17 @@ Sorry the contractor presents no free video on the web.
 [h2 style="text-center"][begins tags="strong" /]Note and advice with requirement[ends tags="strong" /] [/h2]
 <p> </p>
 [begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col-xs-12 col-md-6" /]
+	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[lxw-badge parent="" category="" entreprise="" showembed="yes" /]
-			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Tester reviews (by Administrator)[ends tags="dt" /] 
-				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
-			[ends tags="dl" /] 
-			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
-			[ends tags="dl" /] 
+		[h3]These software and Apps[/h3]
+		<p>
+			Apple Store [a href="#" target="_blank"][fa bs="fab" name="apple" zoom="2x" /][/a]
+			Windows Store [a href="#" target="_blank"][fa bs="fab" name="windows" zoom="2x" /][/a]
+			Google Play [a href="#" target="_blank"][fa bs="fab" name="android" zoom="2x" /][/a]
+		</p> 
 	[ends tags="div" /]	
-	[begins tags="div" class="col-xs-12 col-md-6" /]
+	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Independent control[/h3]
 		[begins tags="blockquote" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
@@ -127,6 +114,14 @@ Sorry the contractor presents no free video on the web.
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
 				[begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
+			[begins tags="dl" class="dl-horizontal" /] 
+				[begins tags="dt" /]Tester reviews (by Administrator)[ends tags="dt" /] 
+				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
+			[ends tags="dl" /] 
+			[begins tags="dl" class="dl-horizontal" /] 
+				[begins tags="dt" /]Web security test[ends tags="dt" /] 
+				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
+			[ends tags="dl" /]
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -152,13 +147,8 @@ It is up to you to give your opinion: according to its customer service, its pro
 		"name": "nom",
 		"url": "https://url.com",
 		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
+			"https://www.url.tld/",
+			"https://www.url.tld/"
 		],
 		"logo": "https://business.livingxworld.com/images/.jpg",
 		"telephone": "+33100000000",

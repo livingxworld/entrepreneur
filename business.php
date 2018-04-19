@@ -7,23 +7,13 @@
 
 Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col-md-12" /]
-		[h3]Ces logiciels et Apps[/h3]
-		<p>
-			Apple Store [a href="#" target="_blank"][fa name="apple" zoom="2x" /][/a]
-			Windows Store [a href="#" target="_blank"][fa name="windows" zoom="2x" /][/a]
-			Google Play [a href="#" target="_blank"][fa name="android" zoom="2x" /][/a]
-		</p>
-	[ends tags="div" /]	
-[ends tags="div" /]	
 
 [h2 style="text-center"][begins tags="strong" /]Information[ends tags="strong" /] [/h2]
 <p> </p>
 
 
 [begins tags="div" class="row" /]
-	[begins tags="div" class="col-xs-12 col-md-4" /]
+	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="//" target="_blank"]Site internet[/a] [br /]
 		[fa name="map-marker" zoom="2x" /] adresse [br /]
@@ -50,7 +40,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			<li></li>
 		</ul>
 	[ends tags="div" /]	
-	[begins tags="div" class="col-xs-12 col-md-8" /]
+	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
 		[gmaps url="" /]
 		
@@ -61,11 +51,11 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [h2 style="text-center"][begins tags="strong" /]Scanner automatique[ends tags="strong" /] [/h2]
 <p> </p>
 [begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col-xs-12 col-md-12" /]
+	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
 		[whois-domains url="" /] 
 	[ends tags="div" /]	
-	[begins tags="div" class="col-xs-12 col-md-12" /]
+	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
 		[ssllabs domains="" /]
 		[h3]Vos données sont:[/h3]
@@ -100,19 +90,17 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [h2 style="text-center"][begins tags="strong" /]Note et avis avec exigence[ends tags="strong" /] [/h2]
 <p> </p>
 [begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col-xs-12 col-md-6" /]
+	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="" category="" entreprise="" showembed="yes" /]
-			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
-			[ends tags="dl" /] 
-			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
-			[ends tags="dl" /] 
+		[lxw-badge parent="" category="" entreprise="" showembed="yes" /]		
+		[h3]Ces logiciels et Apps[/h3]
+		<p>
+			Apple Store [a href="#" target="_blank"][fa bs="fab" name="apple" zoom="2x" /][/a]
+			Windows Store [a href="#" target="_blank"][fa bs="fab" name="windows" zoom="2x" /][/a]
+			Google Play [a href="#" target="_blank"][fa bs="fab" name="android" zoom="2x" /][/a]
+		</p>
 	[ends tags="div" /]	
-	[begins tags="div" class="col-xs-12 col-md-6" /]
+	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Contrôle indépendant[/h3]
 		[begins tags="blockquote" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
@@ -126,6 +114,14 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
 				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+			[ends tags="dl" /] 
+			[begins tags="dl" class="dl-horizontal" /] 
+				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
+				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+			[ends tags="dl" /] 
+			[begins tags="dl" class="dl-horizontal" /] 
+				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
+				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
