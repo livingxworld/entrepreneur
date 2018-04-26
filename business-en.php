@@ -1,54 +1,56 @@
 
 <hr id="system-readmore" />
-
-[h2 style="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
-
- <p><strong>Description:</strong> --</p>
-
-Sorry the contractor presents no free video on the web.
-
-[h2 style="text-center"][begins tags="strong" /]Information[ends tags="strong" /] [/h2]
-<p> </p>
-
-
+[h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
+[begins tags="div" class="row" /]
+	[begins tags="div" class="col col-12 col-md-4" /]
+		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
+		
+	[ends tags="div" /]	
+	[begins tags="div" class="col col-12 col-md-8" /]
+		Sorry the contractor presents no free video on the web.
+	[ends tags="div" /]	
+[ends tags="div" /]	
+[h2 class="text-center"][begins tags="strong" /]Information[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//" target="_blank"]Website[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] nothing [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank"]Website[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:"][/a] [br /]
 		[h3]Opening schedules[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
+		[begins tags="ul" /]
+			[begins tags="li" /][ends tags="li" /]
+			[begins tags="li" /][ends tags="li" /]
+			[begins tags="li" /][ends tags="li" /]
+			[begins tags="li" /][ends tags="li" /]
+		[ends tags="ul" /]	
 		[h3]Transport[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
+		[begins tags="ul" /]
+			[begins tags="li" /][ends tags="li" /]
+			[begins tags="li" /][ends tags="li" /]
+			[begins tags="li" /][ends tags="li" /]
+			[begins tags="li" /][ends tags="li" /]
+		[ends tags="ul" /]	
 		[h3]Others[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
+		[begins tags="ul" /]
+			[begins tags="li" /][ends tags="li" /]
+			[begins tags="li" /][ends tags="li" /]
+			[begins tags="li" /][ends tags="li" /]
+			[begins tags="li" /][ends tags="li" /]
+		[ends tags="ul" /]	
+		[h3]These software and Apps[/h3]
+		[begins tags="ul" /]
+			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="apple" zoom="2x" /][/a][ends tags="li" /]
+			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="windows" zoom="2x" /][/a][ends tags="li" /]
+			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="android" zoom="2x" /][/a][ends tags="li" /]
+		[ends tags="ul" /]	
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]MAP[/h3]
 		[gmaps url="" /]
-		
 	[ends tags="div" /]	
 [ends tags="div" /]	
-<p> </p>
-
-[h2 style="text-center"][begins tags="strong" /]Automatic scanner[ends tags="strong" /] [/h2]
-<p> </p>
+[h2 class="text-center"][begins tags="strong" /]Automatic scanner[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]owner site[/h3]
@@ -58,15 +60,10 @@ Sorry the contractor presents no free video on the web.
 		[h3]HTTPS: SSL/TLS[/h3]
 		[ssllabs domains="" /]
 		[h3]Your data are[/h3]
-		[api-myipms query="" /]
-		
+		[api-myipms query="" /]	
 	[ends tags="div" /]	
 [ends tags="div" /]	
-<p>  </p>
-
-
-[h2 style="text-center"][begins tags="strong" /]The Prices Proposed in Taxe (without promotion)[ends tags="strong" /] [/h2]
-<p> </p>
+[h2 class="text-center"][begins tags="strong" /]The Prices Proposed in Taxe (without promotion)[ends tags="strong" /] [/h2]
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
@@ -85,72 +82,53 @@ Sorry the contractor presents no free video on the web.
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
 [ends tags="div" /]
-
-[h2 style="text-center"][begins tags="strong" /]Note and advice with requirement[ends tags="strong" /] [/h2]
-<p> </p>
+[h2 class="text-center"][begins tags="strong" /]Note and advice with requirement[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[lxw-badge parent="" category="" entreprise="" showembed="yes" /]
-		[h3]These software and Apps[/h3]
-		<p>
-			Apple Store [a href="#" target="_blank"][fa bs="fab" name="apple" zoom="2x" /][/a]
-			Windows Store [a href="#" target="_blank"][fa bs="fab" name="windows" zoom="2x" /][/a]
-			Google Play [a href="#" target="_blank"][fa bs="fab" name="android" zoom="2x" /][/a]
-		</p> 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Independent control[/h3]
 		[begins tags="blockquote" /] 
-			[begins tags="dl" class="dl-horizontal" /] 
+			[begins tags="dl" /] 
 				[begins tags="dt" /]Customer services[ends tags="dt" /] 
-				[begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] 
+				[begins tags="dd" /] pending ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
-			[begins tags="dl" class="dl-horizontal" /] 
+			[begins tags="dl" /] 
 				[begins tags="dt" /]Team atmosphere[ends tags="dt" /] 
-				[begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] 
+				[begins tags="dd" /] pending ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
-			[begins tags="dl" class="dl-horizontal" /] 
+			[begins tags="dl" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] 
+				[begins tags="dd" /] pending ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
-			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Tester reviews (by Administrator)[ends tags="dt" /] 
-				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
+			[begins tags="dl" /] 
+				[begins tags="dt" /]Tester reviews[ends tags="dt" /] 
+				[begins tags="dd" /] pending ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
-			[begins tags="dl" class="dl-horizontal" /] 
+			[begins tags="dl" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
+				[begins tags="dd" /] pending ...[ends tags="dd" /] 
 			[ends tags="dl" /]
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
-
-<p> </p>
-[h2 style="text-center"][begins tags="strong" /]Tell a Friends[ends tags="strong" /] [/h2]
-<p> </p> 
+[h2 class="text-center"][begins tags="strong" /]Tell a Friends[ends tags="strong" /] [/h2]
 	[begins tags="div" class="row" /] 
 		[begins tags="div" class="col-md-12 center-block text-center" /]
 			[div class="addthis_inline_share_toolbox" /] 
 		[ends tags="div" /] 
 	[ends tags="div" /]
- 
  [br /] [br /]
 It is up to you to give your opinion: according to its customer service, its proposals, quality of the service and more.
-
-
-
 [begins tags='script' more='type="application/ld+json"' /] 
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
 		"name": "nom",
 		"url": "https://url.com",
-		"sameAs": [
-			"https://www.url.tld/",
-			"https://www.url.tld/"
-		],
-		"logo": "https://business.livingxworld.com/images/.jpg",
+		"logo": "https://business.livingxworld.com/images/",
 		"telephone": "+33100000000",
 		"description": "description",
 		"currenciesAccepted": "EUR",
@@ -164,37 +142,7 @@ It is up to you to give your opinion: according to its customer service, its pro
 			"postalCode": "code postal",
 			"addressCountry": "pays"
 		},
-		"location": [
-			{
-				"@type": "Place",
-				"address": {
-					"@type": "PostalAddress",
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-				},
-				"name": "The Hi-Dive",	
-				"images": "https://business.livingxworld.com/images/.jpg",
-				"hasMap": "google map url"
-			},
-			{
-				"@type": "Place",
-				"address": {
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-
-				},
-				"name": "The Hi-Dive"
-				"images": "https://business.livingxworld.com/images/.jpg",
-				"hasMap": "google map url"	
-			}
-		],
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
+		"hasMap": "url-map",
 		"openingHours": [
 			"Mo-Sa 11:00-14:30",
 			"Mo-Th 17:00-21:30",
