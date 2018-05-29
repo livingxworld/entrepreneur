@@ -1,1 +1,0 @@
-Votre page unique de présentation, publier sur www.LivingxWorld.com
