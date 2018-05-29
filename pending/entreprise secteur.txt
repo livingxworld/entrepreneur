@@ -1,0 +1,757 @@
+	|—	Transport (Alias : transport)
+	|—|—	Bus (Alias : bus)
+
+baray transport terminal
+uv express
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—	Avion (Alias : airplane)
+HeavyLift International 
+Maximus Air 	
+Midex Airlines
+Turkmenistan Airlines
+Air Timor
+NokScoot
+Orient Thai Airlines
+Airlink 
+Blue1 
+Copterline 
+Finnair 	
+Flybe Nordic 	
+Jet Time Finland 	
+Jetflite 		
+Snowbird Airlines 	
+Turku Air 	
+Suomen Ilmailuopisto 	
+Atlantic Airways
+Airest 	Airest 
+Avies 	Avies
+Estonian Air 	
+Nordic Flyways 					
+Panaviatic 		
+Smartlynx Airlines Estonia
+Air Alsie 	
+Air Greenland 	
+Aluu Airlines 		
+Atlantic Airways 	
+Backbone Aviation 							
+Bel Air Aviation 	
+Benair 		
+Billund Rundflyvning 							
+Blue West Helicopters Greenland 					
+Bornfly 					
+Cimber 	
+Copenhagen AirTaxi 						
+Danish Air Transport 
+ExecuJet Europe 		
+FlexFlight 		
+GreenlandCopter 					
+Helico 						
+Jet Time 	
+Newcopter 						
+Nordic Aviation Capital 	
+North Flying 	
+Primera Air Scandinavia 	
+Scandinavian Airlines
+Star Air 	
+Starling Air 						
+Sun-Air of Scandinavia 
+Thomas Cook Airlines 
+Uni-Fly
+ABS Jets 
+Czech Airlines 		
+Grossmann Jet Service 
+Silver Air 	
+SmartWings
+Van Air Europe
+CobaltAir 
+Orion Airways (Cyprus)
+Tus Airways
+Adriatic Skyways 			
+Air-Albatros 					
+Air Pannonia 				
+AirTractor 	
+Croatia Airlines 	
+European Coastal Airlines 	
+Krila Kvarnera 					
+Trade Air
+Air Ban 
+Air Bright 		
+Air BTR 	
+Air Lazur 
+Air Scorpio 
+Air VIA 	
+Air Bulgaria 
+Aviostart 	
+BH Air 	
+Bulgaria Air 
+Bulgarian Air Charter CHARTER 	
+Cargoair 
+Icar Air
+Abelag Aviation 	
+ASL airtaxi 				
+Brussels Airlines 
+Demavia Airlines 	
+Flying Service 		
+Jetairfly 
+Take Airlines 			
+Thomas Cook Airlines Belgium 
+TNT Airways 	
+Vizion air 			
+VLM Airlines
+Belavia 
+Bellesavia 		
+Genex 		
+Grodno Aviakompania 		
+Ruby Star 		
+TransAVIAexport Airlines 
+Azal Avia Cargo 			
+Azerbaijan Airlines 		
+Silk Way Airlines 
+Silk Way west Airlines
+Airline 
+Air X Executive Jets 			
+Airlink (Austria) 		
+Amira Air 					
+Art Aviation 			
+Austrian 	
+Avcon Jet 		
+Avia-Consult Flugbetrieb 				
+Air Kärnten 				
+Common Sky 		
+Corporate Jet Management 
+Easy Aviation 		
+Europ Star Aircraft 				
+Flex Ops 					
+Global Jet Austria 		
+GlobeAir 			
+Grossmann Air Service 		
+Grossjet 		
+InterSky 
+Inter Sky 
+Jetalliance 
+Mali Air 	
+MJET 						
+Niki International Airport 	
+PTL Airlines 							
+People's Viennaline 
+ACG Air Cargo Germany 	
+Aero Flight 		
+Aero Lloyd 
+Air Bremen
+Air Omega 	
+Amadeus Flugdienst 
+Antares Airtransport 		
+Atlantis (GERMANY)  	
+Augusta Air 			
+Augsburg Airways 	
+Aviaction  	
+Bavaria Fluggesellschaft 		
+Blue Wings
+Bonair 		
+Bremenfly 		
+Britannia Airways Germany 
+Cirrus Airlines 
+Baden Air 
+City-Air 
+Conti-Flug 		
+CSO City Fly 
+Dauair 	
+Denim Airways 
+DLR Flugbetriebe 		
+EAE European Air Express 	
+EastWest Airlines 
+ExecuJet Europe 			
+Express Airways 		
+FLM Aviation  	
+fly	
+flytouropa	
+Flywings 	
+Futura Germany 
+German Sky Airlines 		
+German Wings 
+Germania Express 	
+Hamburg Airlines 	
+Hamburg Airways 	
+Hamburg International 	
+Hanseflug 	
+Interflug 	
+JETisfaction 	
+OCA International 		
+OLT Express Germany 
+Paninternational 	
+RAS - Rheinland Air Service 	
+Ratioflug 
+Regio-Air
+Regional Air Express	
+Rhein-Neckar Air 			
+Rheinair 				
+Rostock Airways 	
+Strike Aviation 			
+Tempelhof Airways USA 
+AG Air 		 	
+Aviaexport Airways 						
+Bravo Air
+Caucasus Aeroservice 			
+Georgian Airways 	
+Georgian International Airlines 
+Euroline Airlines
+Georgian Star International 
+Sky Georgia 	
+The Cargo Airlines 			
+Transavia Service
+Vista Georgia
+Aigle Azur 	
+Air Austral 
+Air Calédonie 
+Air Calédonie International 	
+Air Caraïbes 	
+Air Corsica  Air Corsica fleet 
+Air Guyane Express 
+Air Méditerranée 	
+Air Saint-Pierre 
+Air Tahiti 	French Polynesia Papeete 
+Air Tahiti Nui 	
+Atlantique Air 
+Avdef 
+Chalair Aviation 	
+Antilles Express 
+Corsair International 	
+Europe Airpost 	
+Héli Sécurité 	
+Hex'Air 	
+HOP! 
+IGavion 
+La Compagnie 
+OpenSkies 
+Oya Vendée Hélicoptères
+Pan Europeenne 
+St-Barth Commuter 
+Transavia
+Twinjet 
+
+
+
+
+
+------------------------------------------
+	|—|—	Déménageur (Alias : déménageur)
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—	Train (Alias : train)
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—	VTC/Taxi (Alias : vtc-taxi)
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—	Véhicule du 2 roues (Vélo/Scooter/Moto) (Alias : vehicule-scooter-moto-vélo)
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—	Véhicule (Voiture) (Alias : cars)
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—	Bateau (Alias : bateau)
+
+
+
+
+
+
+
+
+------------------------------------------
+------------------------------------------
+	|—	Monument (Alias : monument)
+
+
+
+
+
+
+
+
+	
+------------------------------------------
+------------------------------------------
+	|—	Administration (Alias : administration)
+	|—|—	Assurance/Mutuelle (Alias : assurance-mutuelle)
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—	Banque (Alias : banque)
+bpi
+landbank
+metrobank
+rbbi bank
+rural bank of bambang (N.V) inc.
+
+
+
+
+
+------------------------------------------
+------------------------------------------
+	|—|—	Des aides ou autres (Alias : help-or-others)	
+ministère des affaires étrangères
+nvat administration office
+E.V.S
+Unit general Marchandise
+-----------------------------------------
+	|—|—	Hôpital (Alias : hôpital)
+
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—	Copyright (Alias : copyright)
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—	Emploi/Travaille (Alias : emploi-travaille)
+
+
+
+
+
+
+
+
+------------------------------------------
+------------------------------------------
+	|—	Logement (Alias : logement)	
+	|—|—	Hôtel (Alias : hôtel)
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—	Camping (Alias : camping)
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—	Immobilier (Alias : immobilier)
+
+
+
+
+
+
+
+
+------------------------------------------
+------------------------------------------
+	|—	High-Tech (Alias : high-tech)
+	|—|—	Opérateur (Alias : opérateur)
+Buzz mobile
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—	Marque d'appareil (Alias : marque-d-appareil)
+
+
+
+
+
+
+
+
+------------------------------------------
+------------------------------------------	
+	|—|—	Datacenter (Alias : datacenter)	
+	|—|—|—	Continent Asiatique (Alias : continent-asiatique)
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—|—	Continent Africain (Alias : continent-africain)
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—|—	Continent Américain (Alias : continent-américain)
+
+
+
+
+
+
+
+
+
+			
+------------------------------------------
+	|—|—|—	Continent Europe (Alias : continent-europe)
+
+
+
+
+
+
+
+
+
+			
+------------------------------------------
+	|—|—|—	Continent Océanien (Alias : continent-océanien)
+
+
+
+
+
+
+
+
+------------------------------------------
+------------------------------------------			
+	|—|—	Imprimerie (Alias : printer)
+sosrepro
+
+
+
+
+
+
+
+
+
+
+------------------------------------------
+------------------------------------------
+	|—	Loisirs (Alias : loisirs)
+	|—|—	Rémunération (Alias : rémunération)
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—	Commerce/Boutique (Alias : commerce-boutique)
+Kos
+Bambang public market
+silver-11
+silver-12
+Boulevard salon
+b-merg
+K.U Fronda
+Chic-boy
+Cordillera saving
+red ribbon
+Duty free
+RCBC
+Sysley
+Dairy queen
+M Lhuiller
+ebiz
+
+------------------------------------------
+	|—|—	Sport (Alias : sport)
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—	Discothèque (boite de nuit) (Alias : discothèque-boite-de-nuit)
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—	Services/dépannage (Alias : services-dépannage)
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—	Résaux sociaux (Alias : résaux-sociaux)
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—	Chînes de Télévision (Alias : tv)
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—	Logiciels (Alias : software)
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—|—	Sécurité (Alias : security)
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—|—	Multimédia (Alias : multimedia)
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—|—	Graphisme (Alias : graphics)
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—|—	Systèmes exploitation (Alias : os)
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—|—	Utilitaires (Alias : utilities)
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—|—	AutoFormation (Alias : autoformation)
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—|—	Bureautique (Alias : office)
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------
+	|—|—|—	Développement (Alias : dev)
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------			
+	|—	Restaurant (Alias : restaurant)
+costa coffee
+kiotori (resto japon)
+de clercQ ( resto belge)
+kim restorant
+risto & co
+Golden food
+Occo chicken
+Andok's
+Grill hub
+
+	
+------------------------------------------
+------------------------------------------
+	|—	Pays (Alias : contry)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

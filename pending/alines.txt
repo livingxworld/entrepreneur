@@ -1,0 +1,2983 @@
+Thai Lion Air 	TLM 	SL 	MENTARI
+Thai Airways International 	THA 	TG 	THAI
+Thai Smile 	THD 	WE 	THAI SMILE
+Thai Vietjet Air 	TVJ 	V9 	THAIVIET JET
+Charter Airlines
+Airline 	ICAO 	IATA 	CALLSIGN
+Asian Air 	DEX 	DM 	ASIAN AIR
+Asia Atlantic Airlines 	AAQ 	HB 	ASIA ATLANTIC
+Budget Lines 	BGN 		SKYBUDDY
+Business Air 	BCC 	8B 	THAI BIZ
+
+Kan Air 	KND 	K8 	KANNITHI AIR
+New Gen Airways 	VGO 	E3 	VIRGO
+R Airlines 	RCT 		GREEN SKY
+Siam Air 	RBR 		SIAM AIRNET
+Siamjet Airlines 			
+Sunny Airways 	SUW 	2S 	SUNNY
+U Airlines 	ULG 	YL 	UNICORN
+Legacy Air 	LGC 	L4 	LEGACY AIR
+Cargo Airlines
+Airline 	ICAO 	IATA 	CALLSIGN
+Air People International 	APG 	3D 	
+K-Mile Air
+	
+East Air 	EG 	ETJ 	EAST TAJIK 		
+Samar Airlines 		SMQ 	SAMAR AIR 	2004 	
+Somon Air 	4J 	SMR 	SOMON AIR 	2008 	
+Tajik Air
+China Airlines 	CI 	CAL 	DYNASTY 	1959 	
+Daily Air 	DA 	DAC 		1992 	
+EVA Air 	BR 	EVA 	EVA 	1989 	
+Far Eastern Air Transport 	FE 	FEA 	FAR EASTERN 	1957 	
+Mandarin Airlines 	AE 	MDA 	MANDARIN 	1991 	
+Tigerair Taiwan 	IT 	TTW 	SMART CAT 	2014 	
+Trans 	GE 	TNA 	TRANSASIA 	1951 	
+Uni Air 	B7 	UIA 	GLORY 	1988 	
+V Air
+Cham Wings Airlines 	6Q 	SAW 	SHAMWING
+Syrian Air 	RB 	SYR 	SYRIANAIR
+Kinda Airlines 	2S 	KJA 	KINDAAIR
+Fly Damas Airlines
+Mihin Lanka 	MJ 	MLR 	MIHIN LANKA 	2007 	Bandaranaike International Airport 	
+SriLankan Airlines 	UL 	ALK 	SRILANKAN 	1979 	Bandaranaike International Airport 	formerly Air Lanka and Air Ceylon
+Cargo Airlines
+AIRLINE 	IATA 	ICAO 	Callsign 	COMMENCED
+OPERATIONS 	Hub Airport(s 	NOTES
+Cosmos Aviation 	QL 	RLN 	AERO LANKA 	2002 	Bandaranaike International Airport , Ratmalana Airport 	formerly Aero Lanka and Lankan Cargo
+FitsAir 	8D 	EXV 	EXPOAVIA 	1997 	Bandaranaike International Airport , Ratmalana Airport 	formerly ExpoAir
+SriLankan Cargo 	UL 	ALK 	SRILANKAN 		Bandaranaike International Airport 	
+Domestic airlines
+AIRLINE 	IATA 	ICAO 	Callsign 	COMMENCED
+OPERATIONS 	Hub Airport(s 	NOTES
+Air Senok 		MVS 	AIR SENOK 	2011 	Bandaranaike International Airport , Ratmalana Airport 	
+Air Hybrid 				2013 		
+Cinnamon Air 	C7 	CIN 	CINNAMON 	2012 	Bandaranaike International Airport 	
+Daya Aviation 	4R 	DAA 	Daya Aviation 	2004 	Bandaranaike International Airport , Ratmalana Airport 	
+Helitours 		HLT 	HELITOURS 	1972 	Ratmalana Airport , Mattala Rajapaksa International Airport 	
+Millennium Airlines 		DLK 	DEKKANLANKA 	2004 	Bandaranaike International Airport , Ratmalana Airport 	formerly Deccan Aviation Lanka
+SriLankan AirTaxi
+Scoot 	TZ 	SCO 	SCOOTER 	2012
+SilkAir 	MI 	SLK 	SILKAIR 	1976
+
+Tigerair
+Al Anwa Aviation 				
+ASACO 				
+Dallah Avco 				1975
+Flynas 	XY 	KNE 	NAS EXPRESS 	2007
+Mid East Jet 				1990
+SNAS Aviation 		RSE 	RED SEA 	
+SaudiGulf
+Gulf Helicopters
+
+Cebu Pacific 	CEB 	5J 	CEBU AIR 	1996 	Pasay City
+PAL Express 	PAL 	2P 	PHILIPPINE 	1996 	Pasay City
+Philippine Airlines 	PAL 	PR 	PHILIPPINE 	1941 	Pasay City
+Sky Pasada 	
+
+Cebgo 	SRQ 	DG 	SEAIR 	1995 	Pasay City
+ITI Air 	ITI 	D5 	
+—
+	
+—
+	Pasay City
+Fil-Asian Airways 	RDV 	R1 	
+—
+	2013 	Cebu City
+Charter airlines
+Airline 	ICAO 	IATA 	Callsign 	Commenced
+operations
+Aero Majestic Airways 				
+Air Juan 				
+Air Link International Airways 				
+Air Republiq Airlines 				2011
+Aviatour Air 				
+Cyclone Airways 				1960
+Paradise Air 		DJ 		
+INAEC / Iloilo-Negros Air Express 				1933
+Interisland Airlines 	ISN 		TRI-BIRD 	
+Island Aviation 	SOY 		SORIANO 	
+Ethnic Air 				
+Lionair 				
+Mosphil Aero 	MPI 		MOSPHIL 	2006
+Northsky Air 				
+Pacificair 				
+Pacific Pearl Airways 	PPM 		PACIFIC PEARL 	2006
+ 		5M 		2012
+South Phoenix Airlines 				2010
+Subic Seaplane 				
+Air Pacific 				
+
+	
+Asia Overnight Express 	AOT 	OE 	ASIA OVERNIGHT 	
+ 	PEC 	Q8 	PAC-EAST CARGO 	
+TransGlobal Airways
+
+Palestinian Airlines
+
+
+Airblue 	PA 	ABQ 	AIRBLUE 	Jinnah International Airport (Karachi)
+ASSL 	- 	ACS 	AIRCRAFT SALES 	Jinnah International Airport (Karachi)
+Air Indus 	I6 	MPK 	AIR INDUS 	Jinnah International Airport (Karachi)
+Askari Aviation 	4K 	AAS 	AL-AAS 	-
+Pakistan Aviators & Aviation 	- 	- 	- 	Allama Iqbal International Airport (Lahore)
+Pakistan International Airlines 	PK 	PIA 	PAKISTAN 	Jinnah International Airport (Karachi)
+Princely Jets 	- 	PJP 	PRINCELY JETS 	Jinnah International Airport (Karachi)
+Royal Airlines 	R0 	RPK 	ROYAL PAKISTAN 	Jinnah International Airport (Karachi)
+Shaheen Air 	NL 	SAI 	SHAHEEN AIR 	Jinnah International Airport (Karachi)
+Star Air Aviation 	6S 	URJ 	STARAV 	Jinnah International Airport (Karachi)
+Vision Air International 	- 	VIS 	DREAM BIRD 	Jinnah International Airport (Karachi)
+Rayyan Air
+Oman Air
+Blue Airways 		BLU 	BL 	Blue Airways 	2015
+Buddha Air 		BHA 	U4 	BUDDHA AIR 	1997
+BB Airways 		BBW 	BO 	- 	2012
+Fishtail Air 		- 	- 	- 	1997
+Flying Dragon Airlines 		- 	- 	- 	2005
+Goma Air 		- 	- 	- 	2011
+Gorkha Airlines 		IKA 	G1 	GORKHA AIRLINES 	1996
+Makalu Air 		- 	- 	- 	2009
+Manang Air 		- 	- 	- 	
+Namaste Nepalese Air 		- 	- 	- 	2014
+Nepal Airlines 		RNA 	RA 	ROYAL NEPAL 	1958
+Saurya Airlines 		- 	S1 	- 	2014
+Shree Airlines 		SHA 	- 	SHREE AIR 	1999
+Sita Air 		- 	ST 	- 	2003
+Simrik Airlines 		RMK 	- 	- 	2009
+Tara Air 		- 	TA 	TARA AIR 	2009
+Yeti Airlines
+
+Aero Mongolia 	MNG 	MO 	AERO MONGOLIA 	2003 	2011
+Air Cargo Mongolia 	MGC 	- 	MONGOLIA CARGO 	- 	2013
+Blue Sky Aviation 	BCA 		BLUE SKY MONGOLIA 		
+Central Mongolia Airways 	CEM 	- 			
+Hunnu Airlines 	MML 	MR 	TRANS MONGOLIA 	2012 	2011
+MIAT Mongolian Airlines 	MGL 	OM 	MONGOL AIR 	1956 	1956
+Sky Horse Aviation 	TNL 	- 	SKY HORSE 		
+Thomas Air
+
+Flyme 	Villa air logo.png 	FlyMe ATR42.jpg 	VP 	VQI 	Villa Air 	2011 	
+Maldivian 	Maldivian logo.png 	Bombardier Dash 8 in Maldivian livery.jpg 	Q2 	DQA 	ISLAND AVIATION 	2000 	National Airline of Maldives
+Maldivian Air Taxi 	MaldiveATLogo.jpg 	8Q-MAQ Maldivian Air Taxi DHC6 (351362058).jpg 	MV 	MAT 	AIR TAXI 	1993 	Sea Planes Only
+Mega Global Air 	Mega Promoting Logo.jpg 	8Q-MEG - Mega Global Air - Boeing 767-3P6(ER) - PVG (9713087143).jpg 	5M 	MEG 	SANDBAR 	2010 	First Airline in Maldives to use Boeing Planes
+Trans Maldivian Airways
+
+  	  New Logo.svg 	  9M-AFJ.jpg 	AK 	AXM 	RED CAP 	1996
+  X 	  X Logo.svg 	 X Airbus A330-300 MEL Zhao.jpg 	D7 	XAX 	XANADU 	2007
+Berjaya Air 	Berjaya air logo.new.jpg 	ATR-72-500 Berjaya Air (BVT) F-WWEC - MSN 858 - Will be 9M-TAG (3410930959).jpg 	J8 	BVT 	BERJAYA 	1989
+Firefly 	Firefly Logo.svg 	ATR 72-212A(500), Firefly JP6721697.jpg 	FY 	FFM 	FIREFLY 	2007
+Malindo Air 	Malindo air logo.png 	9M-LNJ.jpg 	OD 	MXD 	MALINDO 	2013
+Malaysia Airlines 	Malaysia Airlines Svg Logo.svg 	9M-MNC@LHR 27AUG13 (11116282213).jpg 	MH 	MAS 	MALAYSIAN 	1972
+MASwings 	MASwings Logo 2015.png 	ATR-72-500 MASWings (MWG) F-WWEX - MSN 873 - Will be 9M-MWD (3547935247).jpg 	MH 	MWG 	MASWINGS 	2007
+Charter airlines 					
+Eaglexpress 	Eaglexpress Logo.png 			EZX 	EAGLEXPRESS AIR 	2012
+Layang Layang Aerospace 		Pensiangan Sabah Logging-Helicopter-01.jpg 		LAY 	LAYANG 	
+MHS Aviation 		D-CMHA Dornier 326 MHS Aviation touchdown (16282404184).jpg 				1983
+Sabah Air 	Sabah Air Logo.jpeg 	GAG N22B Sabah Air 9M-AUA TWU December 2003.jpg 	SA 	SAX 	SABAH AIR 	1975
+Weststar Aviation 		I-EASO-AW189-FAR-3545.JPG 				2003
+Cargo airlines 					
+Gading Sari 			3G 	GSB 	GADING SARI 	
+MASkargo 	MalaysiaAirlinesLogo MASKargoNew.jpg 	9M-MPS (4876891183) (2).jpg 	MH 	MAS 	MALAYSIAN 	1972
+Transmile Air Services 		Transmile Air Boeing 727-200F Spijkers.jpg 	TH 	TSE 	TRANSMILE 	1993
+Neptune Air
+
+Air Macau 	澳門航空 	Airmacau.png 	B-MAG - Air Macau - Airbus A321-131 - ICN (18198401701).jpg 	AMU 	NX 	AIR MACAO 	1994
+Jet Asia 			Bombardier BD-700-1A10 Global Express AN1173944.jpg 	N/A 	N/A 	N/A 	1995
+Sky Shuttle Helicopters
+Med Airways 	MEDAirwaysLogo.png 		7Y 	MED 	FLYING CARPET 	2000 	
+Middle East Airlines 	MEAlogo.svg 	Middle East Airlines A330-200 OD-MEA LHR 2009-8-8.png 	ME 	MEA 	CEDAR JET 	1945 	
+Wings of Lebanon
+Lao Skyway 		Lao Skyway Xian MA-60 at Vientiane.jpg 		LLL 	LAVIE
+Lao Airlines 	Lao Airlines logo.png 	RDPL-34233 (ATR 72-600) from Lao Airlines (9786869653) (cropped).jpg 	QV 	LAO 	LAO
+Lao Central Airlines 	
+
+
+Air Bishkek 	Air bishkek logo.png 	Air Bishkek A320-200 EX-32002 DME Dec 2012.png 	EAA 	KR 		EASTOK
+Air Kyrgyzstan 	AirKyrgyz logo en.png 	Tupolev Tu-154M, Kyrgyzstan Government (Air Manas) AN1637823.jpg 	LYN 	QH 	АЮ 	ALTYN AVIA
+Avia Traffic Company 	Avia Traffic Company logo.png 	Boeing 737-3L9, ATC - Avia Traffic Company JP7624063.jpg 	AVJ 		ТФ 	ATOMIC
+Air Manas 			MBB 	ZM 		
+Aquiline International 						
+Click Airways 		Antonov An-12BP, Click Airways AN1294886.jpg 	CGK 			CLICK AIR
+Kyrgyz Trans Avia 			KTC 		ДИ 	DINARA
+MAXavia 			MAI 			MAX AVIA
+National Paints 		Ilyushin Il-18GrM, National Paints AN1461820.jpg 				
+Osh-Avia 			OSH 		ОШ 	OSH AVIA
+Pegasus Asia 	Pegasus Airlines Logo.png 	Boeing 737-82R, Pegasus Airlines Asia JP7727366.jpg 	MBB 	ZM 		
+S. Group Aviation 			IND 			INTER GROUP
+Sky Bishkek 	SkyBishkekLogo.png 	Isfana Airport (3).jpg 	BIS 	GY 		
+Sky Way Air 		Antonov An-26B, Skyway Cargo AN0759992.jpg 	SAB 			SKY ASIA
+TezJet Air Company
+Jazeera Airways 	JazeeraAirways-logo.png 	Jazeera Airways Airbus A320 Nussbaumer.jpg 	J9 	JZR 	JAZEERA 	2005 	
+Kuwait Airways 	Kuwait Airways Logo.svg 	Kuwaitairways b777-200er 9k-aob arp.jpg 	KU 	KAC 	KUWAITI 	1954 	
+Wataniya Airways
+Air Busan 	Air Busan.svg 	Air Busan Airbus A321 Aoki.jpg 	ABL 	BX 	AIR BUSAN 	Gimhae International Airport 	2008
+Air Incheon 		HL8291 - Air Incheon - Boeing 737-4Y0(SF) - ICN (16465974796).jpg 	AIH 	KJ 	AIR INCHEON 	Incheon International Airport 	2013
+Asiana Airlines 	Asiana Airlines.svg 	HL7500 Boeing 777 Asiana (7510628352).jpg 	AAR 	OZ 	ASIANA 	Gimpo International Airport
+Incheon International Airport 	1988
+Eastar Jet 	Eastar Jet Logo.svg 	Eastar Jet Boeing737-800 HL8269 RJAA.JPG 	ESR 	ZE 	EASTARJET 	Gimpo International Airport 	2009
+Jeju Air 	Jeju air.PNG 	Jeju Air Boeing 737-800; HL8239@HKG;04.08.2011 615kx (6207350945).jpg 	JJA 	7C 	JEJU AIR 	Jeju International Airport 	2005
+Jin Air 		Jin Air Boeing 737-800 Ates-1.jpg 	JNA 	LJ 	JIN AIR 	Gimpo International Airport 	2008
+Korea Express Air 			KEA 	XE 	KOREA EXPRESS 	Gimpo International Airport 	2009
+Korean Air 	KoreanAir logo.svg 	Korean Air Airbus A380-861; HL7612@HKG;04.08.2011 615dq (6207233991).jpg 	KAL 	KE 	KOREANAIR 	Gimpo International Airport
+Incheon International Airport 	1962
+T'way Airlines 		HL8232 B737-800 t Way (7569170062).jpg 	TWB 	TW 	TEEWAY 	Gimpo International Airport 	2004 as Hansung Air
+North Korea
+This is a list of airlines currently operating in North Korea.
+AIRLINE 	LOGO 	Image 	ICAO 	IATA 	Callsign 	Base 	COMMENCED
+OPERATIONS 	NOTES
+Air Koryo
+Air Astana 	AirAstanaLogo.png 	AIR ASTANA P4-KCF DELIVERY FLIGHT (7124564823) (2).jpg 	2001 	KZR 	KC 		ASTANALINE
+Air Trust 			2012 	RTR 			AIR TRUST
+Aircompany ATMA 		Antonov An-12..., Atma AN1273373.jpg 	1996 	AMA 			ADIK
+Bek Air 	BEK air logo.png 	BekAir Fokker100.JPG 	2011 	BEK 	Z9 		BEKAIR
+Berkut Air 		Berkut Air Boeing 747-200F Willems.jpg 	2000 	BEC 			
+Caspiy 			2011 	TLG 			
+Euro-Asia Air 		Euro-Asia Yak-40.JPG 	1997 	EAK 		ЕЦ 	EAKAZ
+Kaz Air Trans 			2012 	KUY 			KAIGA
+Kazaviaspas 		Kazaviaspas Tupolev Tu-154 UA-320-1.jpg 	2003 	KZS 			SPAKAZ
+Mega Aircompany 	Megaairlogo.PNG 			MGK 			MEGLA
+SAPSAN 	LogoSapsan.gif 		2009 				
+SCAT 	SCAT air logo.png 	Boeing 737-522, SCAT Air (FlyLAL - Lithuanian Airlines) AN1423426.jpg 	1997 	VSV 	DV 		VLASTA
+Semeyavia 				SMK 		ШК 	ERTIS
+Sky Service (Kazakhstan) 			2004 	KVR 			KAVAIR
+Sunday Airlines 		Sunday Airlines Boeing 757-200 UP-B5704.jpeg 	2013 	VSV 	DV 		VLASTA
+Zhetysu (airline) 			1994 	JTU 			KAVAIR
+7th Sky 			2013 				
+Aerotrans 			2000 	ATG 			
+Aerotur Air 		Aerotur KZ Tupolev Tu-154M Mishin.jpg 	2006 	RAI 			
+Air Almaty 		Air Almaty - IL-76T-001.jpg 	2005 	LMY 			
+Avia Jaynar 		Avia-Jaynar Yakovlev Yak-42 Parfaits.jpg 	2001 	SAP 	JN 		Tobol
+Comlux KZ 	Comlux logo.png 	UP-EM007 Embraer ERJ.135BJ Legacy 650 Comlux (8561015524).jpg 	2009 	KAZ 			KAZLUX
+East Wing 		Ilyushin Il-76TD, East Wing AN1633281.jpg 	2006 	EWZ 			
+Excellent Glide 			2007 	EGB 			
+Fly Jet KZ 		Fly Jet.kz Yakovlev Yak-42 Parfaits-1.jpg 	2008 	FJK 			
+InvestAvia 			2007 	TLG 	IV 		
+Jet Airlines 			2008 	SOZ 			
+Kaz Air Jet 		Hawker Beechcraft 900XP, Private JP7660805.jpg 	2008 	KEJ 			
+Kazakhmys 	Kazakhmys.svg 		2007 				
+Khozu-Avia 		UP-CL001 Canadair CRJ.700 (7604217284).jpg 	2002 	OZU 			
+Prime Aviation 			2005 	PKZ 			
+SA Regional Airlines 			2010 	SMK 	E8 		
+Sayat Air 			2007 	SYM 			
+Skybus (Kazakhstan) 			2008 	BYK 			
+Zhezair
+
+Air Arabia Jordan 	Air Arabia Logo.svg 	9P 	PTR 	AIR ARABIA JORDAN 	Airbus A320-214, Air Arabia JP7617617.jpg 	2014 	
+Arab Wings 	Arab wings logo.gif 		AWS 	ARAB WINGS 	Embraer ERJ-135BJ Legacy Arab Wings JY-CMC, LUX Luxembourg (Findel), Luxembourg PP1350972107.jpg 	1975 	
+Barq Aviation 			BUR 			2008 	
+Jordan Aviation 	Jordan Aviation logo.png 	R5 	JAV 	JORDAN AVIATION 	Jordan Aviation Airbus A320 Ates-1.jpg 	2000 	
+Jordan International Air Cargo 	JIAC logo.gif 	J4 	JCI 			2004 	
+Raya Jet 			RYT 			2005 	
+Royal Falcon 	Royal Falcon airlines (logo).jpg 	RL 	RFJ 		N595MS A319 Royal Falcon - Flickr - D464-Darren Hall.jpg 	2006 	
+Royal Jordanian 	Royal Jordanian Logo.svg 	RJ 	RJA 	JORDANIAN 	JY-BAA Boeing 787-8 Royal Jordanian Airlines heading to std 323 on its first visit.jpg 	1963 	
+Royal Wings 	Royal Wings logo.JPG 	RY 	RYW 	ROYAL WINGS 	Royal Wings Airbus A320 Nussbaumer.jpg 	1996 	
+Sky Gate International Aviation 			SGJ 	SKYGATE AVIA 	Lockheed L-1011-385-1-15 TriStar 250, Skygate International Airlines AN1287739.jpg 	2003 	
+Solitaire Air
+Air Do 	Air Do.svg 	B767-300(Air Do JA01HD).JPG 	ADO 	HD 	AIR DO 	1998
+Air Japan 	AirJapanLogo.png 	Boeing 767-381(ER), All Nippon Airways (ANA) JP6562914.jpg 	AJX 	NQ 	AIR JAPAN 	2001
+airtransse 	Airtranssee06jp.jpg 	TSQ Beech1900D (JA016A).JPG 	TSQ 	- 	AIRTRA 	2005
+All Nippon Airways 	All Nippon Airways Logo.svg 	ANA Boeing 777-300 JA787A.jpg 	ANA 	NH 	ALL NIPPON 	1952
+Amakusa Airlines 	AmakusaAirlines.png 	Amakusa Airlines, DHC-8-100, JA81AM (18661827452).jpg 	AHX 	- 	AMAKUSA AIR 	2000
+ANA Wings 	ANA Wings Logo.png 	JA356K (6977293549).jpg 	AKX 	EH 	ALFA WING 	2010
+Fuji Dream Airlines 	Fuji Dream Airlines logo.png 	Fuji Dream Airlines JA08FJ at Nagoya Airfield.jpg 	FDA 	JH 	FUJI DREAM 	2009
+Hokkaido Air System 	Hokkaido Air System Logo.svg 	HAC Saab340B(JA03HC) (4912784511).jpg 	NTH 	- 	NORTH AIR 	1998
+Ibex Airlines 	IBEXairlinesJapan.png 	IBEX Bombardier CRJ200ER(JA04RJ) (4426278344).jpg 	IBX 	FW 	IBEX 	2004
+J-Air 	J Air logo.png 	J-Air, ERJ-170, JA224J (16733231903).jpg 	JLJ 	XM 	J-AIR 	1996
+JAL Express 	JALExpresslogo.gif 	JAL Express B737-800(JA339J).jpg 	JEX 	JC 	JANEX 	1998
+Japan Air Commuter 	JapanAirCommuterLogo.PNG 	Japan Air Commuter, Saab 340B, JA8594 (16730988504).jpg 	JAC 	3X 	COMMUTER 	1983
+Japan Airlines 	Japan Airlines logo.svg 	Boeing 787-8 Dreamliner, Japan Airlines - JAL AN2169999.jpg 	JAL 	JL 	JAPANAIR 	1951
+Japan Transocean Air 	JapanTransoceanAir logo (2011).svg 	Japan Transocean Air Boeing 737-400 Aoki-1.jpg 	JTA 	NU 	JAI OCEAN 	1993
+Jetstar Japan 	Jetstar logo.svg 	Jetstar Japan, A320-200, JA10JJ (18195956578).jpg 	JJP 	GK 	ORANGE LINER 	2012
+New Central Airlines 		New Central Air Service Do-228NG(JA34CA) (9171121809).jpg 	CUK 	- 	CHUOH AIR 	1978
+New Japan Aviation 			NJA 	- 	SHIN NIHON 	1969
+Nippon Cargo Airlines 	NCA logo.png 	JA13KZ B747-8F Nippon Cargo 31 jan 2013 jfk (8441063755).jpg 	NCA 	KZ 	NIPPON CARGO 	1985
+Oriental Air Bridge 	Orclogo3.jpg 	JA801B DHC-8-201 Oriental Air Bridge (7163492781).jpg 	ORC 	- 	ORIENTAL BRIDGE 	2001
+Peach Aviation 	Peach Aviation Logo.svg 	JA803P - Peach - Airbus A320-214 - ICN (17198224412).jpg 	APJ 	MM 	AIR PEACH 	2012
+Ryukyu Air Commuter 	Ryukyu Air Commuter logo.png 	RAC Bombardier DHC8-Q300(JA8936) (4244003305).jpg 	RAC 	- 	RYUKYU 	1985
+Skymark Airlines 	Skymark Airlines Logo.svg 	SKY B737-800(JA737T) approach @HND RJTT (3431842052).jpg 	SKY 	BC 	SKYMARK 	1998
+Solaseed Air 	Solaseed Air logo.png 	Solaseed Air Boeing 737-400 Aoki-1.jpg 	SNJ 	6J 	NEWSKY 	2011
+Spring Airlines Japan 	SpringAirLogo.svg 	JA01GR 140413 RJAA 2585x1938.JPG 	SJO 	IJ 	JEY SRING 	2014
+StarFlyer 	StarFlyer logo.svg 	Star Flyer A320-200(JA01MC) (5008509086).jpg 	SFJ 	7G 	STARFLYER 	2006
+Vanilla Air
+    Royal Brunei Airlines
+    Sultan's Flight
+    Druk Air
+    Tashi Air
+Arkia Israel Airlines 	Arkia Israel Airlines logo.svg 	Arkia ATR 72 4X-AVX at LLET.jpg 	IZ 	AIZ 	ARKIA 	1950
+Ayit Aviation and Tourism 	Ayitaviation.jpg 		AYT 	AYIT 		1985
+CAL Cargo Air Lines 	Logo 5 With Slogan.jpg 	Boeing 747-271C-SCD, CAL - Cargo Air Lines AN0246243.jpg 	5C 	ICL 	CAL 	1976
+Chim-Nir Aviation 				ETN 	CHIMNIR 	
+El Al 	Logo of El Al Israel Airlines.svg 	El Al Boeing 737-8HX.jpg 	LY 	ELY 	EL AL 	1948
+Elrom Airways 			00 	ELR 	- 	1990
+Israir Airlines 	Israir-logo2.jpg 	Israir A320-200 4X-ABC at SXF.jpg 	6H 	ISR 	ISRAIR 	1989
+Jet Link (Israel) 				JEK 		1996
+Nanyah Aviation 				NYA 		2005
+Noy Aviation 		Bombardier CL-600-2B16 Challenger 604, Noy Aviation JP6144359.jpg 		NOY 		1985
+Orange Aviation 			00 	ORE 	ORANGE AVIATION 	1974
+Ray Aviation 				REI 		2002
+Sun d'Or International Airlines 	Logo sundor.png 	4X-EKR LLBG3.jpg 	2U 	ERO 		1977
+Tamir Airways 				TMI 	TAMIRWAYS 	
+Up (airline)
+Al-Naser Airlines 	Al Naser Logo.jpg 	Al-Naser Airlines Boeing 737-200 KvW.jpg 	6N 	MHK 	AL-NASER 	2009 	
+Azmar Airlines 				JIB 	AZMAR 	2005 	
+Iraqi Airways 	Iraqi Airways Logo.svg 	Iraqi Airways Boeing 737-200Adv N239US PRG 2004-10-17.png 	IA 	IAW 	IRAQI 	1945 	
+Zagrosjet
+ATA Airlines (Iran) 	Ata Airlines logo.png 	ATA Airlines A320.jpg 	I3 	TBZ 	ATAAIR 	2010 	
+Atrak Air 			AK 	ATR 	ATRAK 	2013 	
+Caspian Airlines 	Caspian Airlines logo.svg 	Caspian Airlines Tu-154M EP-CPO DXB 2007-11-11.png 	RV 	CPN 	CASPIAN 	1993 	
+Chabahar Airlines 				IRU 	CHABAHAR 	2009 	
+Iran Air 	Iran Air logo.svg 	Iran Air 747-100B EP-IAM.jpg 	IR 	IRA 	IRANAIR 	1938 	Flag Carrier and Iran's largest airline
+Iran Air Tours 	IranAirtoursLogo.png 	MD82 Iran Air Tour UR-CHZ May 2011.jpg 	B9 	IRB 	AIRTOUR 	1973 	
+Iran Aseman Airlines 	Iran Aseman Airlines logo.png 	Iran Aseman Airlines Airbus A340-300 Sharifi.jpg 	EP 	IRC 	ASEMAN 	1980 	
+Iranian Naft Airlines 		Iranian Naft Airlines Fokker 100.jpg 	NV 	IRG 	NAFT 	1992 	
+Kish Air 	Kish Airlines logo.png 	Kish Air Tupolev Tu-154 Geertsen.jpg 	Y9 	IRK 	KISHAIR 	1989 	
+Mahan Air 	Mahan Air Logo.svg 	Mahan Air A310-300 EX-35003 DXB 2009-11-14.png 	W5 	IRM 	MAHAN AIR 	1992 	Iran’s second-largest airline, and its largest privately owned airline.[16]
+Meraj Airlines 	Meraj Logo.png 	A320SYZ.JPG 	JI 	MRJ 	MERAJ 	2010 	Iran's first VIP Airline and youngest Airline based on the fleet age
+Payam Air 		Embraer EMB-110P1A Bandeirante, Payam Air AN0928044.jpg 	2F 	IRP 	PAYAMAIR 	2008 	Express Shipping/Cargo
+Qeshm Airlines 	Qeshm Airlines Logo.png 	Qeshm Air Airbus A300 Sharifi.jpg 	QB 	IRQ 	QESHM AIR 	1996 	
+Taban Air 	Taban Air logo.jpg 	TabanairTupolevTu-154M.jpg 	HH 	TBM 	TABAN AIR 	2006 	
+Taftan Air 				SBT 	TAFTAN 		
+Zagros Airlines
+Airfast Indonesia 	FS 	AFE 	AIRFAST 	19 	Soekarno-Hatta International Airport 	AOC 135[10]
+Airmark Indonesia 				4 	Halim Perdanakusuma International Airport 	
+Air Regional 		ARI 		3 		
+Aviastar (Indonesia) 	MV 	VIT 	AVIASTAR 	3 	Syamsudin Noor Airport 	
+Batik Air 	ID 	BTK 	BATIK 	26 	Soekarno-Hatta International Airport
+Hang Nadim International Airport 	
+Citilink 	QG 	CTV 	SUPERGREEN 	35 	Juanda International Airport 	AOC 121-046
+Deraya Air Taxi 		DRY 	DERAYA 	7 	Husein Sastranegara International Airport 	AOC 135[10]
+Xpress Air 	XN 	XAR 	TRAVEL EXPRESS 	14 		PT Travel Express
+AOC 121[11]
+Garuda Indonesia 	GA 	GIA 	INDONESIA 	114 	Soekarno-Hatta International Airport
+Ngurah Rai Airport
+Kuala Namu International Airport
+Sultan Hasanuddin International Airport
+Juanda International Airport 	National airline
+AOC 121[11]
+Indonesia   	QZ 	AWQ 	WAGON AIR 	29 	Soekarno-Hatta International Airport
+Ngurah Rai Airport
+Husein Sastranegara International Airport
+Juanda International Airport 	AOC 121[11]
+Indonesia   X 	XT 	IDX 	RED PHOENIX 	2 	Ngurah Rai International Airport 	
+Indonesia Air Transport 	I8 	IDA 	INTRA 	32 	Halim Perdanakusuma International Airport 	AOC 121[11]
+Jhonlin Air Transport 		JLB 	JHONLIN 	4 	Syamsudin Noor Airport 	
+Kalimantan Air Service 						
+Kal Star Aviation 		KLS 	KALSTAR 	6 		AOC 121[11]
+Kaltim Airlines 				3 	Samarinda International Airport 	
+Lion Air 	JT 	LNI 	LION INTER 	104 	Soekarno-Hatta International Airport
+Juanda International Airport
+Hang Nadim International Airport 	AOC 121[11]
+NAM Air 	IN 	NIH 	NAM 	2 	Soekarno–Hatta International Airport 	
+Pelita Air Service 	6D 	PAS 	PELITA 	16 	Halim Perdanakusuma International Airport 	AOC 121[11]
+AOC 135[10]
+Sky Aviation (Indonesia) 	SY 	SYA 	SKY 	9 	Halim Perdanakusuma Airport 	
+Sriwijaya Air 	SJ 	SJY 	SRIWIJAYA 	46 	Soekarno–Hatta International Airport 	
+Susi Air 		SQS 	SKY QUEEN 	14 		PT Asi Pudjiastuti
+AOC 135[10]
+TransNusa Air Services 	M8 	TNU 	TRANSNUSA 	5 	El Tari Airport 	
+Travira Air 	TR 	TVV 	PARAMITA 	12 		AOC 135[10]
+Trigana Air Service 	TN 	TGN 	TRIGANA 	20 	Halim Perdanakusuma International Airport 	AOC 121[11]
+Wings Air 	IW 	WON 	WINGS ABADI 	15 	Soekarno-Hatta International Airport 	AOC 121[11]
+Charter Airlines
+Airline 	IATA 	ICAO 	Callsign 	Fleet
+Size 	Hub Airport(s) 	Notes 	IOSA (IATA) 	EASA (EU) 	IASA (FAA)
+Air Born Indonesia 				6 	Sultan Aji Muhamad Sulaiman Airport 	AOC 135[10] 	NO 	NO 	YES
+EastIndo 		ESD 	EASTINDO 	6 	Halim Perdanakusuma International Airport 	AOC 135[10] 	NO 	NO 	YES
+Gatari Air Service 		GHS 	GATARI 	5 	Halim Perdanakusuma International Airport 	AOC 135[10] 	NO 	NO 	YES
+Mimika Air 				2 		AOC 135 	NO 	NO 	YES
+Nusantara Air Charter 		SJK 	NUSANTRA 				NO 	NO 	YES
+Nusantara Buana Air 				3 	Polonia International Airport
+Sultan Iskandarmuda Airport 	AOC 135[10] 	NO 	NO 	YES
+Premiair 				7 		PT Ekspres Transportasi Antarbenua
+AOC 135[10] 	NO 	YES 	YES
+Transwisata Prima Aviation 				6 		AOC 135[10] 	NO 	NO 	YES
+Cargo Airlines
+Airlines 	ICAO 	IATA 	Callsign 	Commenced
+Operations 	Hub Airport 	Notes 	IOSA (IATA) 	EASA (EU) 	IASA (FAA)
+Auvia Air 				1 			NO 	NO 	YES
+Cardig Air 	8F 	CAD 		2 	Soekarno-Hatta International Airport 	AOC 121[11] 	NO 	NO 	YES
+Cargo Garuda Indonesia 	GA 	GIA 	INDONESIA 		Soekarno–Hatta International Airport 		YES 	YES 	YES
+Manunggal Air Services 				2 	Halim Perdanakusuma International Airport 	AOC 121[11] 	NO 	NO 	YES
+Papua Indonesia Air System 							NO 	NO 	NO
+Post Ekspres Prima 				1 					
+Republic Express Airlines 		RPH 	PUBLIC EXPRESS 	1 			NO 	NO 	YES
+Tri-MG Intra Asia Airlines
+
+Air India 	AIC 	AI 	AIRINDIA 	October 1932 as Tata Airlines 	Delhi 	National Carrier
+Air India Express 	AXB 	IX 	EXPRESS INDIA 	April 2005 	Kochi 	National Carrier
+Air India Regional 	LLR 	CD 	ALLIED 	1996 (as Alliance Air) 	Delhi 	National Carrier
+  India 	IAD 	I5 	ARIYA 	12 June 2014 	Chennai 	Scheduled
+Air Costa 	LEP 	LB 	LECOSTA 	14 October 2013 	Vijayawada 	Scheduled
+Air Pegasus 	PPL 	OP 	 — 	12 April 2015 	Bengaluru 	Scheduled
+Air Odisha 	 — 	 — 		2 November 2012[1] 	Bhubaneswar 	Non-Scheduled
+Blue Dart Aviation 	BDA 	BZ 	BLUE DART 	1995[2] 	Chennai 	Cargo
+Club One Air 	 — 	 — 	 — 	August 2005 	Mumbai 	Non-Scheduled
+Chhattisgarh Air Link 	CJS 	CG 	CHHATTISGARH AIR 	2012 	Raipur 	Scheduled
+[3]
+Deccan Charters 	DKN 	DN 	DECCAN 	1997 	Bengaluru 	Non-Scheduled
+Fly Easy 	EZX 	EX 	Easyex 	2015 	Bengaluru 	Scheduled
+GoAir 	GOW 	G8 	GOAIR 	2005 	Mumbai 	Scheduled
+IndiGo 	IGO 	6E 	IFLY 	August 2006 	Gurgaon 	Scheduled
+Invision Air 	 — 	 — 	 — 	March 2011 	Mumbai 	Non-Scheduled
+Jagson Airlines 	JGN 	JA 	JAGSON 		Delhi 	Scheduled
+JetKonnect 	JLL 	S2 	LITE JET 	1991 (as Sahara Airlines) 	Delhi 	Scheduled
+Jet Airways 	JAI 	9W 	JET AIRWAYS 	May 1993 	Mumbai 	Scheduled
+Pinnacle Air 	PNC 	PX 	PINNACLE 	October 2013 	Ranchi 	Non-Scheduled
+Quikjet Cargo 	FQA 	QO 	QUIK LIFT 	Feb 2012 	Bengaluru 	Cargo
+SpiceJet 	SEJ 	SG 	SPICEJET 	May 2005[4] 	Chennai 	Scheduled
+TajAir 	MGE 	TX 	 — 	November 1993 (as Megapode)[5] 	Mumbai 	Non-Scheduled
+TruJet 	TRJ 	2T 	TRUJET 	12 July 2015 	Hyderabad 	Scheduled
+Ventura Airconnect 	VNT 	 — 	AIRCONNECT 	July 2011 	Gurgaon 	Non-Scheduled
+Vistara 	VTI 	UK 	VISTARA 	9 Jan 2015 	Delhi 	Scheduled
+Defunct airlines
+This is a list of now defunct airlines from India.
+Airline 	Commenced operations 	Ceased operations 	Headquarters
+Air India Cargo 	1954 	2012 	Mumbai
+Air Deccan 	2004 	2007
+Merged with Kingfisher Airlines and rebranded as Kingfisher Red 	Bengaluru
+Air Mantra 	2012 	2013 	Delhi
+Air Sahara 	1991 	2006
+Merged with Jet Airways and rebranded as JetLite 	Mumbai
+Air Services of India 	1936 	1953 	Mumbai[6]
+Airways (India) Limited 	1945 	1955 	Kolkata
+Ambica Airlines 	1947 	1949 	Bombay
+Archana Airways 	1991 	1999 	New Delhi
+Aryan Cargo Express 	2005 	2010 	New Delhi
+Bhaarat Airways 	1995 	1999 	Mumbai
+Crescent Air Cargo 	2000 	2006 	Chennai
+Damania Airways 	1993 	1997
+Renamed Skyline NEPC after takover by the owners of NEPC Airlines 	Mumbai[7]
+Darbhanga Aviations 	1950 	1962 	Kolkata
+Deccan 360 	2009 	2011[8] 	Bengaluru
+East-West Airlines 	1992 	1995 	Mumbai
+Elbee Airlines 	1994 	1998 	Mumbai
+Gujarat Airways 	1995 	2001 	Vadodara[9]
+Himalayans Air Transport & Survey Limited 	1934 	1935 	Kolkata
+Himalayan Aviation 	1948 	1953 	Kolkata
+Indian 	1953 	2011
+Merged with Air India 	New Delhi
+Indian National Airways 	1925 	1945 	Delhi[6]
+Indian Overseas Airlines 	1947 	1950 	Mumbai
+Indian State Air Service (ISAS) 	1929 	1931 	Kolkata
+Indian Transcontinental Airlines 	1933 	1948 	Kolkata[6]
+Indus Airways 	2006 	2007 	New Delhi
+Irwaddy Flotilla & Airways 	1934 	1939 	Chennai
+Jamair 	1946 	1977 	Kolkata
+JetKonnect 	2012 	2014
+Merged with Jet Airways 	Mumbai
+Jupiter Airways 	1948 	1953 (Nationalised) 	Chennai[10]
+Kalinga Airlines 	1946 	1965 	Kolkata
+Kingfisher Airlines 	2005 	2013 	Bengaluru
+Kingfisher Red 	2007 	2013 	Mumbai
+MDLR Airlines 	2007 	2009 	New Delhi
+ModiLuft 	1994 	1996 	Mumbai
+NEPC Airlines 	1993 	1997 	Chennai
+Orient Airways 	1946 	1955
+Moved to Karachi and later merged into PIA[11] 	Kolkata
+Paramount Airways 	2005 	2010 	Chennai
+Pushpaka Airlines 	1979 	1983 	Mumbai
+Tata Airlines 	1932 	1946 	Mumbai[6]
+Vayudoot 	1981 	1997 	New Delhi
+VIF Airways 	1993 	1996 	Hyderabad
+Vijay Airlines
+Air Hong Kong 	香港華民航空 	Air Hong Kong Logo.png 	AHK 	LD 	AIR HONG KONG 	Air Hong Kong Airbus A300 Prasertwit.jpg 	4 February 1988 	
+  	國泰航空公司 	2014   Logo.png 	CPA 	CX 	CATHAY 	B-HXD-2008-09-13-YVR.jpg 	24 September 1946 	
+China Sonangol International 		Sonangol Logo.svg 	- 	- 	- 	B-6188 - China Sonangol International - Airbus A318-112(CJ) Elite - PEK (17016095436).jpg 	2004 	
+Dragonair 	港龍航空 	Dragonair Logo.svg 	HDA 	KA 	DRAGON 	Dragonair A320 (2495198421).jpg 	July 1985 	
+Hong Kong Airlines 	香港航空 	Hong Kong Airlines Logo.svg 	CRK 	HX 	BAUHINIA 	HongKong Airlines Airbus A330-200; B-LND@HKG;04.08.2011 615cn (6207218957).jpg 	2002 	
+Hong Kong Express Airways 	香港快運 	HKE logo new.jpg 	HKE 	UO 	HONG KONG SHUTTLE 	HK Express ,UO687 ,Airbus A320-232 ,B-LCA ,Departed to Hong Kong ,Kansai Airport (16809182661).jpg 	2005 	
+Hongkong Jet 			HKJ 			2011 	
+Metrojet 			MTJ 	- 	METROJET 		1995 	
+Sky Shuttle Helicopters 			HHK 	- 		Agusta-Westland AW-139 East Asia Airlines B-MHI, Shun Tak Heliport, Hong Kong PP1281359870.jpg 	2010 	Rebranded from Heli Express (1997-2010)
+TAG Aviation Asia 			TBJ 	- 			2006 	
+Waterfront Air
+
+Air China 	中国国际航空 	CA 	CCA 	AIR CHINA 	Beijing Capital International Airport
+Chengdu Shuangliu International Airport
+Shanghai Pudong International Airport 	1988 	
+Air China Cargo 	中国国际货运航空 	CA 	CAO 	AIRCHINA FREIGHT 	Beijing Capital International Airport 	2003 	Subsidiary of Air China
+Beijing Capital Airlines 	首都航空 	JD 	CBJ 	CAPITAL JET 	Beijing Capital International Airport 	2010 	Rebranded from Deer Air (2006-2010)
+Chengdu Airlines 	成都航空 	EU 	UEA 	JIN XIU 	Chengdu Shuangliu International Airport 	2005 	Renamed from the United Eagle Airlines in 2010. Subsidiary of Sichuan Airlines
+China Cargo Airlines 	中国货运航空 	CK 	CKK 	CARGO KING 	Shanghai Hongqiao International Airport
+Shanghai Pudong International Airport 	1998 	Subsidiary of China Eastern Airlines
+China Eastern Airlines 	中国东方航空 	MU 	CES 	CHINA EASTERN 	Shanghai Hongqiao International Airport
+Shanghai Pudong International Airport 	1988 	
+China Express Airlines 	华夏航空 	G5 	HXA 	CHINA EXPRESS 	Chongqing Jiangbei International Airport 	2006 	
+China Flying Dragon Aviation 	中国飞龙专业航空公司 	FL 	CFA 	FEILONG 	Harbin Taiping International Airport 	1981 	
+China Postal Airlines 	中国邮政航空 	8Y 	CYZ 	CHINA POST 	Nanjing Lukou International Airport 	1997 	
+China Southern Airlines 	中国南方航空 	CZ 	CSN 	CHINA SOUTHERN 	Guangzhou Baiyun International Airport
+Beijing Capital International Airport 	1988 	
+China United Airlines 	中国联合航空 	KN 	CUA 	LIANHANG 	Beijing Nanyuan Airport 	1986 	Subsidiary of China Eastern Airlines
+Chongqing Airlines 	重庆航空 	OQ 	CQN 	CHONG QING 	Chongqing Jiangbei International Airport 	2007 	Subsidiary of China Southern Airlines
+Dalian Airlines 	大连航空 	CA 	CCD 	XIANGJIAN 	Dalian Zhoushuizi International Airport 	2011 	Subsidiary of Air China
+Donghai Airlines 	东海航空 	J5 	EPA 	DONGHAI AIR 	Shenzhen Bao'an International Airport 	2006 	Subsidiary of Sichuan Airlines
+Fuzhou Airlines 	福州航空 	FU 	FZA 	STRAIT AIR 	Fuzhou Changle International Airport 	2014 	
+Grand China Air 	大新华航空 	CN 	GDC 	GRAND CHINA 	Haikou Meilan International Airport 	2007 	Part of the HNA Group
+Guizhou Airlines 	貴州航空 	G4 	CGH 	GUIZHOU 	Guiyang Longdongbao International Airport 	1991 	Subsidiary of China Southern Airlines
+GX Airlines 	北部湾航空 				Nanning Wuxu International Airport 	2015 	Part of the HNA Group
+Hainan Airlines 	海南航空 	HU 	CHH 	HAINAN 	Haikou Meilan International Airport
+Beijing Capital International Airport 	1989 	
+Hebei Airlines 	河北航空 	NS 	HBH 	HEBEI AIR 	Shijiazhuang Zhengding International Airport 	2010 	Renamed from Northeast Airlines in 2007. Subsidiary of Sichuan Airlines
+Joy Air 	幸福航空 	JR 	JOY 	JOY AIR 	Xi'an Xianyang International Airport 	2009 	Subsidiary of China Eastern Airlines
+Juneyao Airlines 	吉祥航空 	HO 	DKH 	AIR JUNEYAO 	Shanghai Hongqiao International Airport
+Shanghai Pudong International Airport 	2005 	
+Kunming Airlines 	昆明航空 	KY 	KNA 	KUNMING AIR 	Kunming Changshui International Airport 	2009 	Subsidiary of Shenzhen Airlines
+Loong Air 	长龙航空 	GJ 	CDC 	HUALONG 	Hangzhou Xiaoshan International Airport 	2012 (cargo)
+
+2013 (passenger)
+	
+Lucky Air 	祥鵬航空 	8L 	LKE 	LUCKY AIR 	Kunming Wujiaba International Airport 	2004 	Part of the HNA Group
+Meiya Air 	美亚航空 				Sanya Phoenix International Airport 	2012 	Water taxi airline
+Okay Airways 	奥凯航空 	BK 	OKA 	OKAYJET 	Tianjin Binhai International Airport 	2005 	
+Qingdao Airlines 	青岛航空 	QW 	QDA 	SKY LEGEND 	Qingdao Liuting International Airport 	2014 	
+Ruili Airlines 	瑞丽航空 	DR 	RLH 	SENDI 	Kunming Changshui International Airport 	2014 	
+SF Airlines 	顺丰航空公司 	O3 	CSS 	SHUN FENG 	Shenzhen Bao'an International Airport 	2009 	
+Shandong Airlines 	山东航空 	SC 	CDG 	SHANDONG 	Jinan Yaoqiang Airport 	1994 	Subsidiary of Air China
+Shanghai Airlines 	上海航空 	FM 	CSH 	SHANGHAI AIR 	Shanghai Hongqiao International Airport
+Shanghai Pudong International Airport 	1985 	Subsidiary of China Eastern Airlines
+Shenzhen Airlines 	深圳航空 	ZH 	CSZ 	SHENZHEN AIR 	Shenzhen Bao'an International Airport 	1993 	Subsidiary of Air China
+Sichuan Airlines 	四川航空 	3U 	CSC 	SI CHUAN 	Chengdu Shuangliu International Airport
+Chongqing Jiangbei International Airport 	1988 	Subsidiary of China Southern Airlines
+Spring Airlines 	春秋航空 	9C 	CQH 	AIR SPRING 	Shanghai Hongqiao International Airport 	2005 	
+Tianjin Airlines 	天津航空 	GS 	GCR 	CHINA DRAGON 	Tianjin Binhai International Airport 	2007 	Part of the HNA Group
+Tibet Airlines 	西藏航空 	TV 	TBA 	TIBET 	Lhasa Gonggar Airport 	2011 	Subsidiary of Air China
+West Air 	西部航空 	PN 	CHB 	WEST CHINA 	Chongqing Jiangbei International Airport 	2010 	Subsidiary of Lucky Air
+Urumqi Air 	乌鲁木齐航空 	UQ 			Urumqi International Airport 	2014 	Part of the HNA Group
+Xiamen Airlines 	厦门航空 	MF 	CXA 	XIAMEN AIR 	Xiamen Gaoqi International Airport
+Fuzhou Changle International Airport 	1984 	Subsidiary of China Southern Airlines
+Yangtze River Express 	扬子江快运 	Y8 	YZR 	YANGTZE RIVER 	Shanghai Hongqiao International Airport 	2003 	Part of the HNA Group
+Ying An Airlines 	英安航空 	YI 			Pu'er Simao Airport 		
+9 Air
+
+Apsara International Air 	អាកាសចរណ៍ អប្សរា អ៊ែរ 			IP 	AQQ 	APSARA AIR 	Siem Reap International Airport 	1
+Bassaka Air 	អាកាសចរណ៍ បាសសាកា 	Bassaka-air-logo.jpg 		5B 	BSX 	BASSAKA 	Phnom Penh International Airport 	2
+Cambodia Angkor Air 	អាកាសចរ កម្ពុជាអង្គរអ៊ែរ 	Cambodia Angkor Air logo.gif 	Cambodia Angkor Air ATR ATR-72-500 (ATR-72-212A) Simon.jpg 	K6 	KHV 	ANGKOR AIR 	Phnom Penh International Airport, Siem Reap International Airport 	7
+Cambodia Bayon Airlines 	អាកាសចរ កម្ពុជា បាយ័ន 	Cambodia Bayon Airlines.png 		BD 	BYC 	BAYON AIR 	Phnom Penh International Airport 	30
+Cambodia Airlines 			First Cambodia Airlines Airbus A320 TTT.jpg 	Y6 	CCL 	CAMBODIA 		4
+Sky Angkor Airlines
+
+Air Bagan 	အဲပုဂံ 	Air Bagan logo.svg 	Air Bagan Fokker 100 MRD-2.jpg 	JAB 	W9 	AIR BAGAN 	2004
+Air KBZ 	- 	Air KBZ Logo1234.jpg 	ATR 72-600 Air KBZ (KBZ) F-WWEV - MSN 1085 - Will be XY-AJJ (9739868889).jpg 	KBZ 	K7 	JADE AIR 	2010
+Air Mandalay 	- 	Air Mandalay logo.png 	Air Mandalay ATR 72-212 MRD-2.jpg 	AMY 	6T 	AIR MANDALAY 	1994
+Asian Wings Airways 	- 	AsianWingsAirwaysLogo.jpg 		AWM 	YJ 	Asian star 	2010
+FMI Air 				FMI 	- 	- 	2014
+Golden Myanmar Airlines 	ရွှေမြန်မာ လေကြောင်းလိုင်း 	Golden Myanmar Airlines.png 	Airbus A320 of Golden Myanmar Airlines at Bangkok-BKK (cropped).jpg 	GMR 	Y5 	GOLDEN MYANMAR 	2012
+Mann Yadanarpon Airlines 	မန်းရတနာပုံ လေကြောင်းလိုင်း 		Mann Yadanarpon Airlines ATR ATR-72-600 (ATR-72-212A).jpg 	MYP 	7Y 	MANN ROYAL 	2014
+Myanmar National Airlines 	မြန်မာအမျိုးသားလေကြောင်းလိုင်း 	Myanmarairway.svg 	Myanma Airways Fokker F28 MRD.jpg 	UBA 	UB 	UNIONAIR 	1948
+Myanmar Airways International 	အပြည်ပြည်ဆိုင်ရာ မြန်မာ့လေကြောင်းလိုင်း 	Myanmar Airways International Logo.svg 	Myanmar Airways International Airbus A320 Spijkers.jpg 	MMA 	8M 	MYANMAR 	1998
+Union Express Charter Airline 	မ 			- 	- 	- 	2014
+Yangon Airways
+
+Angel Airways 		- 	- 		- 	Shahjalal International Airport
+Biman Bangladesh Airlines[1] 		BG 	BBC 	S2-AHN Boeing B.773 Bangladesh Airlines (13891474693).jpg 	BANGLADESH 	Shahjalal International Airport
+Shah Amanat International Airport
+Osmani International Airport
+Bismillah Airlines 		5Z 	BML 		- 	Shahjalal International Airport
+Easy Fly Express 		8E 		Easy Fly Express HS.748 Shevelev-1.jpg 	- 	Shahjalal International Airport
+Hello Air (Bangladesh) 		- 	- 		- 	Shahjalal International Airport
+NovoAir[2] 	Logo novoair.jpg 	VQ 	NVQ 	S2-AGL.jpg 	NVQ 	Shahjalal International Airport
+Regent Airways[2] 	RegentAirwaysLogo.jpg 	RX 	— 	S2-AHD.jpg 	— 	Shahjalal International Airport |
+SkyAir 		- 	- 		- 	Shahjalal International Airport
+South Asian Airlines 		- 	BDS 	South Asian Airlines S2-AEF (7793402680).jpg 	- 	Shahjalal International Airport
+TAC Airlines 		- 	- 		- 	Shahjalal International Airport
+True Aviation BD 		- 	- 		- 	Shahjalal International Airport
+United Airways[1] 	United-airways-bd.png 	4H 	UBD 	United Airways McDonnell Douglas MD-83 S2-AEU (8085792518).jpg 	UNITED BANGLADESH 	Shahjalal International Airport
+Shah Amanat International Airport
+US-Bangla Airlines[3]
+
+Gulf Air 	Gulf Air Logo.svg 	GF 	GFA 	A9C-MB Emb170 (5302632996).jpg 	GULF AIR
+DHL International Aviation ME 	DHL Express logo.svg 	ES 	DHX 	DHL Air UK - Boeing 757-236(SF) - G-BIKI - Airport Budapest (4987).jpg 	-
+MAE Aircraft Management 		- 	MEN 	- 	-
+Bahrain Royal Flight 		- 	BAH 	A9C-BHR@FAB 05JUN13 (9161559752).jpg 	-
+Comlux Middle East 	Comlux logo.png 	- 	- 		-
+Texel Air
+
+
+Afghan Jet International 	افغان جیت 	Afghan Jet International logo.png 	AJA 	HN 			2012
+Ariana Afghan Airlines 	د آریانا افغان هوایی شرکت 	Ariana Afghan Airlines logo.svg 	AFG 	FG 	ARIANA 	Ariana Afghan Airlines A310-300 YA-CAV SVO 2010-1-4.png 	1955
+East Horizon Airlines 	افق شرق 	East Horizon Airlines logo.png 	EHN 	EA 			2010
+Kam Air 	کام ایر 	Kam Air logo.png 	KMF 	RQ 	KAMGAR 	Kam Air Boeing 767-200 KvW-1.jpg 	2003
+Khyber Afghan Airlines 	خطوط هوایی خیبر افغان 		KHY 			- 	2001
+Safi Airways
+
+Aeromás 		MSM 	AEROMAS EXPRESS 	Carrasco International Airport 	(Charter)
+Alas Uruguay 				Carrasco International Airport 	(To launch)
+Amaszonas 	Z8 	AZN 	AMASZONAS 	Carrasco International Airport 	(Starts flights on May 4)
+Defunct airlines
+
+This is a list of now defunct airlines from Uruguay.
+Airline 	IATA 	ICAO 	Callsign 	Hub Airport(s) 	Notes
+Air Class Líneas Aéreas 	QD 	QCL 	ACLA 	Carrasco International Airport 	Out of Business
+BQB Líneas Aéreas 	5Q 	BQB 		Capitán de Corbeta Carlos A. Curbelo International Airport 	Ceased operations (Sold to Amaszonas)
+Lapsa 					Out of Business
+PLUNA
+Aero Ejecutivos 		VEJ 	VENEJECUTIV 	Simón Bolívar International Airport 	
+Aeropostal Alas de Venezuela 	VH 	ALV 	ALVEN 	Simón Bolívar International Airport 	
+Aserca Airlines 	R7 	OCA 	AROSCA 	Simón Bolívar International Airport 	
+Avior Airlines 	9V 	ROI 	AVIOR 	Generál José Antonio Anzoátegui International Airport 	
+Conviasa 	V0 	VCV 	CONVIASA 	Del Caribe International General Santiago Marino Airport 	
+LAI - Línea Aérea IAACA 	KG 	BNX 	AIR BARINAS 	Barinas Airport 	
+LASER Airlines 	QL 	LER 	LASER 	Simón Bolívar International Airport 	
+Línea Turística Aereotuy 	LD 	TUY 	AEREOTUY 	Simón Bolívar International Airport 	
+RUTACA Airlines 	RU 	RUC 	RUTACA 	Tomás de Heres Airport 	
+Santa Bárbara Airlines 	S3 	BBR 	SBA 	Simón Bolívar International Airport 	
+Servivensa 	VC 	SVV 	SERVIVENSA 		
+Sol América 		ESC 	SOLAMERICA 	Simón Bolívar International Airport 	
+Sundance Air Venezuela 		SUV 	DANCEAIR 	Simón Bolívar International Airport 	
+Transaven 					
+Transcarga 	T9 	TIW 	TIACA 	Simón Bolívar International Airport 	
+Venezolana 	VN 	VNE 	VENEZOLANA 	Simón Bolívar International Airport 	
+Vensecar Internacional
+
+
+ATSA 		AMP 	ATSA 	Jorge Chávez International Airport 	Charter
+Avianca Peru 	T0 	TPU 	AVIANCA PERU 	Jorge Chávez International Airport 	
+LAN Perú 	LP 	LPE 	LAN PERU 	Jorge Chávez International Airport 	
+LC Perú 	W4 	LCB 	BUSRE 	Jorge Chávez International Airport 	
+Peruvian Airlines 	P9 	PVN 	PERUVIAN 	Jorge Chávez International Airport 	
+Star Perú 	2I 	SRU 	STAR-UP 	Jorge Chávez International Airport 	
+Defunct airlines
+
+This is a list of now defunct airlines from Peru.
+Airline 	IATA 	ICAO 	Callsign 	Hub Airport(s) 	Commenced 	Ceased
+Aero Cóndor 	Q6 	CDP 	CONDOR-PERU 	Jorge Chávez International Airport 	1975 	2013
+Aero Continente Peru 	N6 	ACQ 	AEROCONTINENTE 	Jorge Chávez International Airport 	25 May 1991 	October 2004
+Aeroperú 	PL 	PLI 	AEROPERU 	Jorge Chávez International Airport 	1973 	10 March 1999
+Air Peru 				Jorge Chávez International Airport 		2009 (failed to commence)
+Americana de Aviación 	8A 	ANE 	AMERICANA 	Jorge Chávez International Airport 	1991 	1997
+Andrea Air 				Jorge Chávez International Airport 	1991 	1991
+Apisa Air Cargo 		PIC 		Jorge Chávez International Airport 	1985 	1997
+APSA - Líneas Aéreas Peruanas S.A. 				Jorge Chávez International Airport 	1956 	1971
+Aviandina 	SJ 	VND 	AVIANDINA 	Jorge Chávez International Airport 		2004
+AviaSelva 				Crnl. FAP Francisco Secada Vignetta International Airport 		2008
+Cielos Airlines 	A2 	CIU 	CIELOS 	Jorge Chávez International Airport
+Miami International Airport 	1998 	Out of Business
+Cielos del Oriente 				Cad. FAP Guillermo del Castillo Paredes Airport 		Out of Business
+Compañía de Aviación Faucett 	CF 	CFP 	CHARLIE FOXTROT 	Jorge Chávez International Airport 	15 September 1928 	15 November 1999
+Líneas Aéreas Nacionales S. A. 				Jorge Chávez International Airport 	1963 	4 January 1972
+Magenta Air 	I2 			Jorge Chávez International Airport 	September 2002 	2006
+Nuevo Continente 	N6 	ACQ 	NUEVO CONTINENTE 	Jorge Chávez International Airport 	25 May 1992 	12 July 2004
+Peruvian International Airways 				Jorge Chávez International Airport 	14 May 1947 	9 February 1949
+Servicio Aéreo Ejecutivo 		SEJ 	EJECUTIVO PERU 	Jorge Chávez International Airport 		1991
+TANS Perú 	TJ 	ELV 	AEREOS SELVA 	Jorge Chávez International Airport 	1963 	7 January 2006
+Transportes Aéreos Cielos Andinos 		NDN 	ANDINOS 	Jorge Chávez International Airport 	9 July 2007 	Out of Business
+Wayraperú
+
+TAM Airlines (Paraguay)
+Avianca Ecuador 	Avianca Logo 2013.png 	2K 	GLG 	AEROGAL 	HC-CJW (7198941202).jpg 	1986 	Mariscal Sucre International Airport 	
+Aeromaster Airways 						1989 	Mariscal Sucre International Airport 	
+Línea Aérea Cuencana 	LAC official logo.png 	L5 					2011 	Mariscal Lamar International Airport
+LAN Ecuador 	LAN Airlines logo.svg 	XL 	LNE 	AEROLANE 	LAN Ecuador Boeing 767-300ER LDS.jpg 	2003 	José Joaquín de Olmedo International Airport 	
+Petroecuador 						1970 	Mariscal Sucre International Airport 	
+TAME Amazonía 		EQ 	TAE 	TAME 		2014 	Mariscal Sucre International Airport 	
+TAME 	Logo of TAME.png 	EQ 	TAE 	TAME 	TAME Embraer ERJ-190; HC-CGF@UIO;23.06.2008 515ac (4309628351).jpg 	1962 	Mariscal Lamar International Airport 	
+Trans Am Aero Express del Ecuador
+
+
+AerCaribe 					AerCaribe Beechcraft King Air 200 HK-4658 (6155942159).jpg 	Bogotá El Nuevo Dorado International (BOG) 	
+Aerolínea de Antioquia 	Aerolínea de Antioquia logo.svg 	1DA 	ANQ 	ANTIOQUIA 	Aerolínea de Antioquia ADA Twin Otter DHC-6 EOH (SKMD) (6156862115).jpg 	Enrique Olaya Herrera Airport 	
+AeroRepública 	Copa Airlines Colombia.jpg 	P5 	RPB 		AeroRepública-MD83-SMR.jpg 	Bogotá El Nuevo Dorado International (BOG) 	
+AeroSucre 		6N 	KRE 	AEROSUCRE 	166cf - Aerosucre Colombia Boeing 727-59F; HK-727@UIO;26.02.2002 (6112542747).jpg 	El Dorado International Airport 	
+AeroSur 							
+Aexpa 						Matecaña International Airport 	
+Air Colombia 					HK-1175 Douglas DC-3 Air Colombia (7497166292).jpg 	Villavicencio Vanguardia (VVC) 	
+Aliansa - Aerolineas Andinas 						Villavicencio Vanguardia (VVC) 	
+APSA Colombia 			ABO 	AEROEXPRESO 		El Dorado International Airport 	
+ARALL - Aerolineas Llaneras 						Villavicencio Vanguardia (VVC) 	
+Avianca 	Avianca Logo.svg 	AV 	AVA 	AVIANCA 	N948AC A330 Avianca (4445718717).jpg 	El Dorado International Airport 	
+Avianca Cargo 	Logo Avianca Cargo.png 				Avianca Cargo (Tampa) Airbus A330F (13188264674).jpg 	El Dorado International Airport 	
+Cargo Express 						El Dorado International Airport 	
+Central Charter de Colombia 						El Dorado International Airport 	
+Colombian Air Cargo 						El Dorado International Airport 	
+Copa Airlines Colombia 	Copa Airlines Colombia.jpg 	P5 	RPB 	AEROREPUBLICA 	HK-4507 Embraer Emb.190 Copa Airlines (7489023094).jpg 	El Dorado International Airport 	
+Cosmos Air Cargo 			KMS 			El Dorado International Airport 	
+CV Cargo 		V9 	GSE 		CV Cargo Boeing 737-200 Ramirez.jpg 	Bogotá El Nuevo Dorado International (BOG) 	
+EasyFly 	EasyFly.svg 	EF 	EFY 		Jetstream J-41 EasyFly HK-4521 (5573400410).jpg 		
+Heliandes 						Enrique Olaya Herrera Airport 	
+Helicargo 	Helicargo Colombia.png 					Enrique Olaya Herrera Airport 	
+Helicol 			HEL 	HELICOL 		El Dorado International Airport 	
+LANCO 	LANCO logo.gif 	L7 	LAE 	LANCO 	Lanco (LAN Cargo) Boeing 767-300ER Ramirez.jpg 	El Dorado International Airport 	
+LAN Colombia 	LAN Airlines logo.svg 	4C 	ARE 		CC-CQN LAN Colombia 06-12-11.jpg 	Bogotá El Nuevo Dorado International (BOG) 	Rebranded from Aires (1981-2011)
+LASER Aéro Colombia 						Villavicencio Vanguardia (VVC) 	
+Linea Aérea Carguera de Colombia 		L7 	LAE 			Bogotá El Nuevo Dorado International (BOG) 	
+Líneas Aéreas Suramericanas 			LAU 	SURAMERICANO 	Boeing 727-2S2F-Adv(RE) Super 27, Lineas Aereas Suramericanas AN1617675.jpg 	El Dorado International Airport 	
+SADELCA 	Sadelca.png 		SDK 	SADELCA 	HK-4356 Antonov An.26 SADELCA (7496110242).jpg 	El Dorado International Airport 	
+SAEP 			KSP 		SAEP Antonov An-32 Volpati-1.jpg 	Bogotá El Nuevo Dorado International (BOG) 	
+SAM Colombia 	Samcolombialogo.jpg 	MM 	SAM 	SAM 	Boeing 727-46, SAM Colombia AN1995310.jpg 	El Dorado International Airport, José María Córdova International Airport 	
+SARPA 	SARPA.JPG 				HK-4124 Bell 212 SARPA Colombia (7499377584).jpg 	Enrique Olaya Herrera Airport 	
+SATENA 	SATENA logo.gif 	9R 	NSE 	SATENA 	Satena-EMB145-BOG.jpg 	Enrique Olaya Herrera Airport, El Dorado International Airport 	
+Searca SA 			SRC 	SEARCA 			
+SELVA - Servicios Aéreos del Vaupes 			SDV 			Villavicencio Vanguardia (VVC) 	
+TAMPA Cargo 	Logo Avianca Cargo.png 	QT 	TPA 		Tampa Cargo Boeing 767-200ERF PAOC.jpg 	Medellín José Maria Córdova International (MDE) 	
+Transporte Aéreo del Pacifico Colombia 						Bogotá El Nuevo Dorado International (BOG) 	
+Vertical de Aviación 						Bogotá El Nuevo Dorado International (BOG) 	
+VivaColombia
+
+
+
+
+Aerocord 						Puerto Montt Marcel Marchant (SCPF) 	
+Aerocardal 	Logo-aerocardal.png 		CDA 	CARDAL 	CC-CWB Piper PA.31 Navajo Aerocardal (8185447709).jpg 	Comodoro Arturo Merino Benítez Int'l Airport 	
+AeroEjecutiva 							
+Aeromet 			MTE 			Comodoro Arturo Merino Benítez Int'l Airport 	
+Aerovías DAP 	Logo Aerovías DAP.png 		DAP 	DAP 	Aerovías DAP-TWIN otter.jpg 	Presidente Carlos Ibáñez del Campo Int'l Airport 	
+Air Comet Chile 	Air Comet Logo.png 	3I 	DLU 	DEL SUR 	Air Comet Chile Boeing 737-200 Volpati.jpg 	Comodoro Arturo Merino Benítez Int'l Airport 	Defunct
+Alpine Air Express Chile 			AIH 	ALPINE CHILE 			Defunct
+Archipiélagos Servicios Aéreos 						Puerto Montt Marcel Marchant (SCPF) 	
+Barrick Servicios Mineros 						La Serena La Florida (LSC) 	
+Chilejet 						Comodoro Arturo Merino Benítez Int'l Airport 	
+DAP Helicopteros 	Logo de Helicopteros DAP.png 		DHE 	HELIDAP 	DAP Helicópteros.jpg 	Presidente Carlos Ibáñez del Campo Int'l Airport 	
+LAN Airlines 	LAN Airlines logo.svg 	LA 	LAN 	LAN CHILE 	LAN Airlines Boeing 787-8 CC-BBE FRA 2014-06-09.png 	Comodoro Arturo Merino Benítez Int'l Airport 	
+LAN Express 	LAN Express logo.svg 	LU 	LXP 	LANEX 	LAN Express Airbus A320 Lebeda.jpg 	Comodoro Arturo Merino Benítez Int'l Airport 	
+LAN Cargo 	Lan Cargo logo.png 	UC 	LCO 	LAN CARGO 	Lanco (LAN Cargo) Boeing 767-300ER Ramirez (uncropped).jpg 	Comodoro Arturo Merino Benítez Int'l Airport 	
+LASSA - Linea de Aeroservicios 			LSE 			Comodoro Arturo Merino Benítez Int'l Airport 	
+Línea Aérea SINAMI 						Comodoro Arturo Merino Benítez Int'l Airport 	
+One Airlines 			ONS 		One Airlines Sinami.jpg 	Comodoro Arturo Merino Benítez Int'l Airport 	
+PAL Airlines 	PAL Airlines Logo.svg.png 	5P 	PCP 	PRINCIPAL 	CC-ADZ Boeing B.737 PAL Airlines (8187619227).jpg 	Comodoro Arturo Merino Benítez Int'l Airport 	Defunct
+Servicios Aéreos Río Baker 			RBK 			Antofagasta Cerro Moreno International (ANF) 	
+Sky Airline
+ABSA Cargo Airline 		M3 	TUS 	PR-ABD B767F Absa Cargo (5700249415).jpg 	TURISMO 	Viracopos-Campinas International Airport 	
+ASTA Linhas Aéreas 					SUL AMÉRICA 	Marechal Rondon International Airport 	
+Avianca Brasil 	Avianca Logo.svg 	O6 	ONE 	Fokker 100, Avianca Brasil JP7672513.jpg 	OCEANAIR 	São Paulo-Guarulhos International Airport 	
+Azul Brazilian Airlines 		AD 	AZL 	Azul Embraer ERJ-190-100IGW 190AR.jpg 	AZUL 	Viracopos-Campinas International Airport 	
+COLT Cargo 	Logo-Colt-Cargo.png 		XCA 		COLT 	São Paulo-Guarulhos International Airport 	
+GOL Linhas Aéreas Inteligentes 	Gol logo.png 	G3 	GLO 	Boeing 737-8AS, Gol Linhas Aereas Inteligentes AN2096359.jpg 	GOL 	Congonhas-São Paulo Airport 	
+MAP Linhas Aéreas 	MAP Linhas Aéreas logo.png 		PAM 		MAP 	Eduardo Gomes International Airport 	
+Passaredo Transportes Aéreos 		P3 	PTB 	Embraer EMB-145MP (ERJ-145MP), Passaredo Transportes Aereos AN2005980.jpg 	PASSAREDO 	Leite Lopes Airport 	
+Piquiatuba Transportes Aéreos 	Piquiatuba logo.jpg 			EMB120emSantaInes.JPG 	PIQUIATUBA 	Val de Cans International Airport 	
+Rio Linhas Aéreas 	Rio Linhas Aéreas logo.gif 	RL 	RIO 		RIO 	Afonso Pena International Airport 	
+SETE Linhas Aéreas 	SETE Linhas Aéreas.png 	5O 	SLX 	Aeroporto Monte Dourado.JPG 	SETE 	Santa Genoveva Airport 	
+Sideral Air Cargo 	Sideral Air Cargo logo.png 		SID 	Sideral Air Cargo 737-300SF SBSL.JPG 	SIDERAL 	Afonso Pena International Airport 	
+TAM Airlines 	TAM Airlines Logo.svg 	JJ 	TAM 	TAM A330-200 PT-MVO FRA 2011-10-28.png 	TAM 	São Paulo-Guarulhos International Airport 	
+Total Linhas Aéreas
+
+Aerocon 	Logo-aerocon.jpg 	A4 	AEK 	Aerocon.JPG 	AEROCON 	Santa Cruz El Trompillo (SRZ) 	
+Aeroeste 			ROE 			Santa Cruz El Trompillo (SRZ) 	
+Línea Aérea Amaszonas 		Z8 	AZN 	Bombardier de Amaszonas.JPG 	AMASZONAS 	El Alto International Airport 	
+Boliviana de Aviación 	Logotipo de BoA.svg 	OB 	BOV 	Boeing 737-382, Boliviana de Aviacion - BoA AN2300114.jpg 	BOLIVIANA 	Jorge Wilstermann International Airport, Viru Viru International Airport 	
+EcoJet (airline) 		8J 	ECO 		ECOJET 	Jorge Wilstermann International Airport 	
+Lineas Aéreas Canedo - LAC 			LCN 			Jorge Wilstermann International Airport 	
+Sky Team Aviator 						Santa Cruz El Trompillo (SRZ) 	
+TAB - Transportes Aéreos Bolivianos 			BOL 			El Alto International Airport 	
+TAM - Transporte Aéreo Militar
+American Jet 						Aeroparque Jorge Newbery 	
+Aerolíneas Argentinas 	Aerolíneas Argentinas Logo 2010.svg 	AR 	ARG 	Airbus A340-300 (LV-CSE) de Aerolíneas Argentinas.JPG 	ARGENTINA 	Ministro Pistarini International Airport 	
+Andes Líneas Aéreas 	Andes Lineas Aereas.png 	OY 	ANS 	LV-BAY@AEP 21DEC11 (6952935244).jpg 	AEROANDES 		
+ARjet Airlines 				LV-ZYY Boeing B.737 Arjet Airlines (8164245568).jpg 		Aeroparque Jorge Newbery 	
+Austral Líneas Aéreas 	Austral new logo.png 	AU 	AUT 	LV-CDY @AEP 11AUG14 (15525042575).jpg 	AUSTRAL 	Aeroparque Jorge Newbery 	
+Flying America 						San Fernando (SADF) 	
+Hawk Air 						Aeroparque Jorge Newbery 	
+Líneas Aéreas del Estado 	LADE logo.png 	LDE 	LDE 		LADE 		
+LAN Argentina 	LAN Airlines logo.svg 	4M 	DSM 	LV-BFY Airbus A.320 LAN (8181566077).jpg 	LAN AR 	Aeroparque Jorge Newbery 	
+Lineas Aereas del Sur 						Córdoba Ingeniero Aeronáutico Ambrosio L.V. Taravella International (COR) 	
+Macair Jet 	Macair Jet Logo.jpg 	VM 	MCJ 	LV-ZOW@AEP 21DEC11 (6953824426).jpg 		Aeroparque Jorge Newbery 	
+Silver Sky Airlines 			SIK 		SILVERSKY 		
+Sol Líneas Aéreas 	Sol Líneas Aéreas logo.gif 	8R 	OLS 	LV-BEW@AEP 05NOV09 (6952728344).jpg 	FLIGHT SOL 		
+TAPSA Aviacion
+
+
+    Air Rarotonga
+
+
+
+    Fiji Airways
+    Fiji Link
+    Island Hoppers
+    Northern Air (Fiji)
+    Pacific Island Air
+
+
+    Air Tahiti
+    Air Tahiti Nui
+    Air Archipels
+    Wan Air
+
+ Guam
+
+    Asia Pacific Airlines
+    Continental Micronesia
+    Freedom Air
+
+ Kiribati
+
+    Air Kiribati
+    Coral Sun Airways
+
+ Marshall Islands
+
+    Air Marshall Islands
+
+ Nauru
+
+    Nauru Airlines
+
+ New Caledonia
+
+    Air Calédonie
+    Aircalin
+
+    Air Saipan
+
+ Palau
+
+    Belau Air
+
+ Papua New Guinea
+
+    Airlines PNG
+    Air Niugini
+    Asia Pacific Airlines
+    Hevilift
+    Islands Nationair
+    Niugini Helicopters
+    Tropicair Limited
+
+ Solomon Islands
+
+    Solomon Airlines
+
+ Samoa
+
+    Polynesian Airlines
+    Samoa Air
+    Virgin Samoa
+
+ Vanuatu
+
+    Air Vanuatu
+    Vanuatu Helicopters
+Dornier 228 	2 	0 	19
+Dornier 328-110
+Air Link 	Air Link logo.svg 	DR 	- 	Air Link Beech 1900 Dubbo Vabre.jpg 	- 	Dubbo Airport 	
+Airnorth 		TL 	ANO 	Embraer EMB-120ER Brasilia, Air North JP6804842.jpg 	TOPEND 	Kununurra Airport, Darwin International Airport 	
+Alliance Airlines 	Alliance Airlines logo.svg 	QQ 	UTY 	Alliance Airlines Fokker 100 Bundaberg Vabre-3.jpg 	UNITY 	Brisbane Airport 	
+Cobham Aviation Services Australia 	Cobham plc logo.svg 	NC 	JTE 		JETEX 	Adelaide International Airport 	
+Corporate Air 		OJ 	CPT 	Corporate Air (VH-VEH) Cessna 441 Conquest on approach to Canberra Airport (1).jpg 	AIR SPUR 	Canberra International Airport 	
+Eastern Australia Airlines 	QantasLink logo.svg 	QF 	EAQ 	Qantas Link DHC-8-400 Dash 8; VH-QOE@SYD;31.07.2012 666hp (7863457052).jpg 	Q LINK 	Sydney Airport 	Operates under the QantasLink brand
+Express Freighters Australia 		- 	EFA 	Australian air Express (Express Freighters Australia) Boeing 737-376(SF) DRW Butler.jpg 	EXPRESS FREIGHT 	Sydney Airport 	
+FlyPelican 	Flypelican.png 	- 	- 		- 	Newcastle Airport 	
+Fly Tiwi Airlines 		FT 	- 		- 	Darwin International Airport 	
+Hardy Aviation 		- 	- 	Coomalie Creek Merlin Magic July 2008.jpg 	- 	Darwin International Airport 	
+Heavylift Cargo Airlines 	HeavyLift Cargo logo.svg 	HN 	HVY 	VH-JWL Boeing 737-406 HeavyLift Cargo Airlines (6601598565).jpg 	HEAVY CARGO 	Brisbane Airport 	
+Hinterland Aviation 		OI 	HND 	Hinterland Cessna caravan.JPG 	HINTERLAND 	Cairns International Airport 	
+Inland Pacific Air 		- 	- 		- 	Townsville Airport 	
+JetEx 	QantasLink logo.svg 	- 	- 		- 	Adelaide International Airport 	Operates under the QantasLink brand
+JetGo Australia 		JG 	JGO 	VH-JTG Embraer ERJ 135LR JetGo (8241176478).jpg 	JETGO 	Sydney Airport 	
+Jetstar Airways 	Jetstar logo.svg 	JQ 	JST 	Jetstar Airbus A330 taking off (6768127991).jpg 	JETSTAR 	Melbourne Airport 	
+King Island Airlines 	King Island Airlines logo.svg 	- 	- 	VHKGQ.JPG 	- 	Moorabbin Airport 	
+Maroomba Airlines 		KN 	- 	Maroomba Airlines Beech Super King Air PER Hutchinson.jpg 	- 	Perth Airport 	
+Network Aviation 	Logo-networkaviation.gif 	NA 	- 	Network Aviation Fokker 100 PER Smith.jpg 	- 	Perth Airport 	
+Par Avion Airlines 	Airlines of Tasmania logo.svg 	FO 	ATM 	VHRWV.JPG 	- 	Cambridge Aerodrome 	
+Pel-Air 		QH 	PFY 	Pel-Air (VH-KDB) Saab 340A taxiing at Wagga Wagga Airport.jpg 	PELFLIGHT 	Sydney Airport 	
+Qantas 	Qantas Airways Limited logo.svg 	QF 	QFA 	Qantas Boeing 747-400, VH-OJH, SIN for web.jpg 	QANTAS 	Sydney Airport, Melbourne Airport 	
+Qantas Freight 		XM 	XME 	VH-EFR (15946330114).jpg 	- 	Sydney Airport, Melbourne Airport 	
+Regional Express Airlines 	Regional Express Airlines logo.svg 	ZL 	RXA 	Regional Express Airlines (VH-YRX) Saab 340B at Wagga Wagga Airport.jpg 	REX 	Sydney Airport 	
+SEAIR Pacific 	Seair Pacific Logo.gif.png 	- 	- 	Seair Cessna Caravan Bundaberg Vabre.jpg 	- 	Gold Coast Airport 	
+Sharp Airlines 	Sharp Airlines logo.svg 	SH 	- 	VH-UUN Fairchild SA-227AC Metro III Sharp Airlines (8545214445).jpg 	SHARP 	Hamilton Airport 	
+Skyforce Aviation 		- 	- 		- 	Bankstown Airport 	
+Skippers Aviation 	Skippers Aviation logo.svg 	JW 	- 	Skippers Aviation Fairchild SA-227DC Metro 23 Hutchinson.jpg 	- 	Perth Airport 	
+Skytraders 	Skytraders logo.png 	- 	SND 	VH-VHB 'Gadget' CASA C-212-400EE Aviocar Skytraders (11598263564).jpg 	SNOWBIRD 	Hobart International Airport 	
+Sydney Seaplanes 		- 	- 	Sydney Seaplanes Cessna 208 Caravan CBR Gilbert.jpg 	- 	Rose Bay seaplane base 	
+Sunstate Airlines 	QantasLink logo.svg 	QF 	SSQ 	Sunstate Airlines Embraer EMB-110P1 Bandeirante at Mildura Airport.jpg 	SUNSTATE 	Brisbane Airport 	Operates under the QantasLink brand
+Tasman Cargo Airlines[2] 	DHL Express logo.svg 	HJ 	TMN 	Boeing 727-2J4-Adv(F), DHL (Asian Express Airlines) AN0344743.jpg 	TASMAN 	Sydney Airport 	
+Tigerair Australia 	Tigerair.svg 	TT 	TGW 	VH-VNK Airbus A320-232 Tiger Airways (6877617382).jpg 	GOCAT 	Melbourne Airport 	
+Toll Aviation 	Toll Holdings Logo 2012.png 	- 	TFX 	VH-TOQ.JPG 	TOLL EXPRESS 	Brisbane Airport 	
+Virgin Australia 	Virgin Australia logo.svg 	VA 	VOZ 	Virgin Australia a330-200 short final (8117773852).jpg 	VELOCITY 	Brisbane Airport, Melbourne Airport, Sydney Airport 	
+Virgin Australia International Airlines 	Virgin Australia logo.svg 	VA 	VOZ 	VH-VOZ Boeing 777-3ZG(ER) Virgin Australia (8153487087).jpg 	VELOCITY 	Sydney Airport 	
+Virgin Australia Regional Airlines 	Virgin Australia logo.svg 	VA 	VOZ 	VH-FVP 'Wategos Beach' ATR 72-600 Virgin Australia (Skywest Airlines) (12073441233).jpg 	VELOCITY 	Perth Airport 	
+West Wing Aviation
+
+Air2there 	F8 		Air2there 	Kapiti Coast Airport 	[1]
+Air Chathams 	CV 	CVA 	CHATHAM 	Chatham Islands / Tuuta Airport 	[2]
+Air Fiordland 			Fiordland 	Milford Sound Airport 	[3]
+Air Freight NZ 		AFN 	AIR FREIGHT 	Auckland Airport 	[4]
+Air Hawke's Bay 			HAWKE 	Hastings Aerodrome 	[5]
+Air Milford 			Milford 	Milford Sound Airport 	[6]
+Air Napier 		NPR 	Napier 	Hawke's Bay Airport 	[7]
+Air National 		NTL 	National 	Auckland Airport 	
+Air Nelson 	NZ 	RLK 	LINK 	Nelson Airport 	[8]
+Air New Zealand 	NZ 	ANZ 	NEW ZEALAND 	Auckland Airport 	[9]
+Air Post 		PST 	POST 	Auckland Airport 	[10]
+Air Safaris 		SRI 	AIRSAFARI 	Lake Tekapo Airport 	[11]
+Air Wakatipu 				Queenstown Airport 	[12]
+Air Wanganui 				Wanganui Airport 	[13]
+Air West Coast 				Greymouth Airport 	[14]
+Airwork 		AWK 	Airwork 	Auckland Airport 	[15]
+Aspiring Air 	OI 			Wanaka Airport 	
+Eagle Airways 	NZ 	EAG 	EAGLE 	Hamilton International Airport 	[16]
+Flight Hauraki 				North Shore Aerodrome 	[17]
+Fly My Sky 			Island 	Auckland Airport 	[18]
+Glenorchy Air 				Queenstown Airport 	[19]
+Golden Bay Air 			Golden 	Takaka Aerodrome 	[20]
+Great Barrier Airlines 			Barrier 	Auckland Airport 	[21]
+Island Air Charters 				Tauranga Airport 	
+Jetconnect 	QF 	QNZ 	QANTAS JETCONNECT 	Auckland Airport 	[22]
+Kiwi Regional Airlines 			Kiwi 	Hamilton International Airport 	[23]
+Mainland Air 			Mainland 	Dunedin Airport 	[24]
+Mountain Air 				Chateau Airfield 	[25]
+Mount Cook Airline 	NM 	NZM 	MOUNTCOOK 	Christchurch International Airport 	[26]
+Originair 			Origin 	Nelson Airport 	[27]
+Real Journeys 			Real 	Queenstown Airport 	[28]
+Ridge Air 			Ridge 	Blenheim Airport 	[29]
+Salt Air 			Salt 	Kerikeri Airport 	[30]
+Sounds Air 			Sound 	Picton Airport 	[31]
+Southeast Air Ltd 				Invercargill Airport 	
+Southernalpsair 				Wanaka Airport 	[32]
+Southern DC3 Ltd 			Southern 	Ashburton Aerodrome 	[33]
+Stewart Island Flights 				Invercargill Airport 	[34]
+Sunair 		SAV 	SUNAIR 	Hamilton International Airport 	[35]
+Vincent Aviation 		VAL 	VINCENT 	Wellington International Airport 	[36]
+Virgin Australia Airlines (NZ)
+
+
+    Aeromed
+    Air America Inc
+    Air Culebra
+    Air Flamenco
+    Borinquen Air
+    Caribbean Helicorp
+    Caribex Aviation
+    Charter Flights Caribbean
+    Executive Air
+    Four Star Aviation
+    Isla Nena Air
+    Jet Center
+    M&N Aviation
+    Pro-Air Services
+    Puerto Rico Air Mgt Services
+    Roblex Aviation
+    San Juan Aviation
+    Tol-Air Services
+    Vieques Air Link
+
+ Saint-Pierre and Miquelon
+
+    Air Saint-Pierre
+
+ Saint Vincent and the Grenadines
+
+    Mustique Airways
+    SVG Air
+
+ Trinidad and Tobago
+
+    Caribbean Airlines
+
+ Turks and Caicos Islands
+
+    Air Turks and Caicos
+    Global Airways
+ Nicaragua
+
+    Aeronica
+    Atlantic Airlines
+    La Costeña
+    Grupo TACA
+FlyMontserrat
+
+    Air Jamaica
+    Jamaica Air Shuttle
+    International AirLink
+    TimAir
+    Fly Jamaica
+
+ Martinique
+
+    Take Air
+    Air Carib
+
+    Air Antilles Express
+    Air Caraïbes
+    Air Saint Martin
+    St Barth Commuter
+
+ Guatemala
+
+    Air Venture Tours
+    Aviones Comerciales de Guatemala (Avcom)
+    DHL De Guatemala
+    Helicopteros de Guatemala
+    RACSA
+    TACA
+    Transportes Aéreos Guatemaltecos
+
+ Haiti
+
+    Air D'Ayiti
+    Caribbean Pearl Airways
+    Haitair
+    Perle Airways
+    Tortug Air
+    Samaritan Tree's Air
+
+ Honduras
+
+    Aerolíneas Sosa
+    Atlantic Airlines de Honduras
+    Islena Airlines
+    TACA
+
+    Cayman Airways
+    Islandair
+    Pegasus Air
+
+ Costa Rica
+
+    Aeropos
+    Aero Taxi
+    Air Charter Service
+    Aviones Taxi Aéreo
+    Costa Rica Skies
+    Avianca Costa Rica
+    Nature Air
+    Paradise Air
+    SANSA
+    Taxi Aéreo Centroamericano
+
+ Curacao
+
+    Insel Air
+    Dutch Antilles Express(Former)
+
+ Cuba
+
+    Aero Caribbean
+    Aerogaviota
+    Aerotaxi
+    Aerovaradero
+    Cubana de Aviación
+
+ Dominican Republic
+
+    Aerolíneas Mas
+    Aero Continente Dominicana
+    Aeronaves Dominicanas
+    Air Century
+    Air Santo Domingo
+    Dominair
+    Pan Am World Airways Dominicana
+    Servicios Aéreos Profesionales
+    Viva Air Dominicana
+    VolAir
+
+ El Salvador
+
+    TACA
+
+ Greenland
+
+    Air Greenland
+    Aluu Airlines
+
+    REDjet
+    Trans Island Air 2000
+    Executive Air West Indies Ltd.
+
+ Belize
+
+    Maya Island Air
+    Tropic Air
+
+ Bonaire
+
+    EZ AIR
+    Divi Divi Air
+
+ British Virgin Islands
+
+    Clair Aero
+    Fly BVI
+    Island Birds
+
+    Anguilla Air Services
+    Trans Anguilla Airways
+
+ Antigua and Barbuda
+
+    Caribbean Helicopters
+    Leeward Islands Air Transport
+
+ Aruba
+
+    Tiara Air
+    Aruba Airlines
+    Insel Air
+ABX Air 	GB 	ABX 	ABEX 	Wilmington, OH 	1980 	Cargo and charter company
+Air Choice One Airlines 	3E 	WBR 	ACO 	St. Louis
+Chicago 	1979 	Founded as Multi-Aero Corporation
+Aero Contractors 					1979 	
+Air Cargo Carriers 	2Q 	SNC 	NIGHT CARGO 		1986 	
+Air Evac 					1969 	Formerly Samaritan AirEvac
+AirNet Express 		USC 	STAR CHECK 		1974 	
+AirStar Executive Airways 			AIRSTAR 	Marathon 	2004 	
+Air Sunshine 	YI 	RSI 	AIR SUNSHINE 		1982 	
+Air Transport International 	8C 	ATN 	AIR TRANSPORT 	Toledo 	1978 	Founded as US Airways and Commenced operations 1988 as Air Transport International
+Air Wisconsin 	ZW 	AWI 	WISCONSIN 	Philadelphia
+Washington National 	1965 	Operates as US Airways Express
+Alaska Airlines 	AS 	ASA 	ALASKA 	Seattle-Tacoma
+Anchorage
+Los Angeles
+Portland, OR 	1932 	Founded as McGee Airways and commenced operations in 1944 as Alaska Airlines
+Alaska Central Express 	KO 	AER 	Ace Air 	Anchorage 	1996 	
+Alaska Seaplane Service 	J5 			Juneau 	1997[1] 	
+Allegiant Air 	G4 	AAY 	ALLEGIANT 	Las Vegas
+Bellingham
+Fort Lauderdale
+Fort Myers/Punta Gorda
+Honolulu
+Los Angeles
+Oakland
+Orlando/Sanford
+Phoenix/Mesa
+Tampa/St. Petersburg/Clearwater 	1997 	Founded as WestJet Express
+Aloha Air Cargo 	KH 	AAH 	ALOHA 	Honolulu 	1946 	Founded as Trans-Pacific Airlines and separated from now-defunct Aloha Airlines in 2008.
+Alpine Air Express 	5A 	AIP 	ALPINE AIR 		1972 	
+Ameriflight 	A8 	AMF 	AMFLIGHT 	Burbank 	1968 	Founded as California Air Charter
+Amerijet International 	M6 	AJT 	AMERIJET 	Fort Lauderdale
+Miami 	1974 	
+Ameristar Jet Charter 	None 	AJI 	AMERISTAR 	Dallas-Addison
+Willow Run
+El Paso 	2000 	Cargo and charter company
+American Airlines 	AA 	AAL 	AMERICAN 	Dallas-Ft. Worth
+Charlotte
+Chicago O'Hare
+Miami
+New York-JFK
+New York-LaGuardia
+Los Angeles, Philadelphia
+Phoenix
+Washington-National 	1934 	Founded as American Airways
+Atlas Air 	5Y 	GTI 	GIANT 	New York-JFKMiami
+Los Angeles
+Cincinnati
+Anchorage
+Houston
+Huntsville 	1992 	
+Atlantic Airlines 	EX 	BJK 	BLACKJACK 	Lakeland
+OrlandoTampa 	1982[2] 	
+Bemidji Airlines 	CH 	BMJ 	BEMIDJI 	Minneapolis-St. Paul 	1946 	
+Bering Air 	8E 	BRG 	BERING AIR 	Nome
+Kotzebue
+Unalakleet 	1979 	
+Berry Aviation 		BYA 	BERRY 	San Marcos 	1983 	
+Big Island Air 		BIG 	BIG ISLE 	Kona 	1985 	
+Blue Moon Aviation 				Minneapolis-Saint Paul 	2003 	
+Boutique Air 	4B 	BTQ 	BOUTIQUE 		2007 	
+C&M Airways 		RWG 	RED WING 	El Paso 	1983 	
+Cape Air 	9K 	KAP 	CAIR 	Cape Cod 	1989 	
+Castle Aviation 	None 	CSJ 	CASTLE 	Akron 	1986 	
+Centurion Air Cargo 	WE 	CWC 	CHALLENGE CARGO 	Miami 	1985 	
+CommutAir 	C5 	UCA 	COMMUTAIR 	Cleveland
+Newark 	1989 	Operates as United Express
+Compass Airlines 	CP 	CPZ 	COMPASS ROSE 	DetroitMinneapolis-St. Paul
+Memphis 	2006 	Operates as Delta Connection
+Contract Air Cargo 		TSU 	TRANSAUTO 		1983 	
+Corporate Air 	OJ 	CPT 	AIRSPUR 	Billings 	1981 	
+Corporate Flight Management 		VTE 	VOLUNTEER 	Smyrna 	1982 	
+Critical Air Medicine 					1984 	
+CSA Air 		IRO 	IRON AIR 	Iron Mountain 	1998 	
+Custom Air Transport 	5R 	CTT 	CATT 	Fort Lauderdale 	1995 	
+Delta Air Lines 	DL 	DAL 	DELTA 	Atlanta
+AmsterdamDetroit
+
+Minneapolis/Saint. Paul
+Boston
+Cincinnati
+Los Angeles
+New York-JFK
+New York-LaGuardia
+Paris
+Salt Lake City
+Seattle
+Tokyo-Narita[3][4]
+	1924 	Founded as Huff Daland Dusters
+Delta Jets 		ELJ 	ELITE JET 	Cincinnati 	1984 	
+Empire Airlines 	EM 	CFS 	EMPIRE 	Hayden, ID
+Spokane 	1977 	
+Endeavor Air 	9E 	FLG 	FLAGSHIP 	Detroit
+Minneapolis-Saint Paul
+New York JFK
+New York LaGuardia 		Operates as Delta Connection
+Envoy Air 	MQ 	EGF 	EAGLE FLIGHT 	Dallas-Ft. Worth
+Chicago O'Hare
+Miami
+Los Angeles
+Boston
+New York LaGuardia 	1984 	Founded as American Eagle Airlines; Operates as American Eagle
+Era Alaska 	7H 	ERR 	ERAH 	Anchorage
+Fairbanks
+Unalakleet
+Barrow 	2010 	
+Everts Air 	3Z 	VTS 	EVERTS 	Fairbanks
+Anchorage 	1978 	see also: Everts Air Cargo
+ExpressJet 	EV 	ASQ 	ACEY 	Houston
+Newark
+Cleveland
+Denver
+Chicago
+Washington Dulles
+Atlanta
+Dallas-Fort Worth 	1986 	Operates as American Eagle, United Express, and Delta Connection
+Express One International 	EO 	LHN 	LONGHORN 	Orlando-Sanford 	1983 	
+Falcon Air Express 	6F 	FAO 	PANTHER 	Miami 	1995 	
+FedEx Express 	FX 	FDX 	FEDEX 	Memphis
+Indianapolis
+Anchorage
+Fort Worth
+Greensboro
+Newark
+Oakland
+Miami
+Toronto
+Paris
+Guangzhou 	1971 	
+Flight Alaska 	4Y 	TUD 	TUNDRA 	Bethel 	1955 	
+Florida West International Airways 	RF 	FWL 	FLO WEST 	Miami 	1981 	
+Freight Runners Express 		FRG 	FREIGHT 	Milwaukee 	1985 	
+Frontier Airlines 	F9 	FFT 	FRONTIER FLIGHT 	DenverAtlanta
+
+Chicago-O'Hare
+Cleveland
+
+Miami
+
+Orlando
+Trenton
+Washington-Dulles
+	1994 	
+Frontier Flying Service 	2F 	FTA 	FRONTIER-AIR 	Fairbanks 	1950 	
+FS Air Service 	4A 	EYE 	SOCKEYE 	Anchorage 	1986 	
+GoJet Airlines 	G7 	GJS 	LINDBERGH 	Chicago-O'Hare
+
+Cincinnati
+
+Denver
+
+Detroit
+
+New York-LaGuardia
+	2005 	Operates as United Express and Delta Connection
+Grand Canyon Airlines 	YR 	CVU 	CANYON VIEW 		1927 	
+Grant Aviation 	GV 	GUN 	HOOT 		1971 	
+Great Lakes Airlines 	ZK 	GLA 	LAKES AIR 	Denver
+
+Los Angeles
+
+Phoenix
+		
+Harris Air 						
+Hawaiian Airlines 	HA 	HAL 	HAWAIIAN 	Honolulu
+Kahului (Maui) 	1929 	
+Horizon Air 	QX 	QXE 	HORIZON AIR 	Seattle
+Portland 		
+ImagineAir 		IMG 	IMAGINE 		2005 	
+Island Air 	WP 	MKU 	MOKU 		1980 	
+Island Airlines 		ISA 	ISLAND 	Barnstable Municipal Airport
+Nantucket Memorial Airport 		
+Island Airways 						
+JetBlue Airways 	B6 	JBU 	JETBLUE 	New York-JFK
+Boston
+Fort Lauderdale
+Long Beach (CA)
+Orlando
+San Juan 		
+Justice Prisoner and Alien Transportation System 		DOJ 	Justice 	Oklahoma City
+
+Anchorage
+
+Alexandria, LA
+
+Mesa, AZ
+
+Virgin Islands
+		
+Kalitta Air 	K4 	CKS 	CONNIE 	Ypsilanti
+
+Oscoda
+
+Anchorage
+
+Bahrain
+
+Hong Kong
+
+Newark
+
+New York-JFK
+	1967 	Oscoda, MI is home to Kalitta's maintenance base/hub
+Kalitta Charters 	K9 	KFS 	KALITTA 	Ypsilanti 		
+Kenmore Air 						
+Key Lime Air 						
+L-3 Flight International Aviation 						
+Logistic Air 						
+Lynden Air Cargo 						
+Martinaire 				Addison
+
+Lansing
+		
+Merlin Airways 		MEI 	AVALON 			
+Mesa Airlines 	YV 	ASH 	AIRSHUTTLE 			
+Miami Air International 	LL 	BSK 	BICKAYNE 	Miami 		
+Mid-Atlantic Freight 						
+Mokulele Airlines 	MW 					
+Millennium Aviation 						
+Mountain Air Cargo 						
+Nantucket Airlines 						
+National Airlines 	N8 	NCR 	NATIONAL CARGO 			
+New England Airlines 	EJ 	NEA 	NEW ENGLAND 			
+New Mexico Airlines 	LW 	NMI 	TSUNAMI 			
+Northern Air Cargo 	NC 	NAC 	YUKON 	Anchorage
+
+Fairbanks
+	1956 	
+Omni Air International 	OY 	OAE 	OMNI EXPRESS 	Tulsa 		
+Pacific Wings 	LW 	NMI 	TSUNAMI 		1974 	
+PenAir 	KS 	PEN 	PENINSULA 			
+Phoenix Air 						
+Piedmont Airlines 		PDT 	PIEDMONT 	Charlotte
+
+Philadelphia
+
+Washington-National
+		Operates as US Airways Express
+Platinum Airlines 						
+Polar Air Cargo 	PO 	PAC 	POLAR 		1993 	
+Presidential Airways 						
+PSA Airlines 		JIA 	BLUE STREAK 	Charlotte
+
+Philadelphia
+
+Washington-National
+		Operates as US Airways Express
+Republic Airlines 	XY 	RPA 	BRICKYARD 	Atlantic CityCharlotte
+
+Chicago-O'Hare
+
+Denver
+
+Laughlin/Bullhead
+
+Miami
+
+Newark
+
+Philadelphia
+
+Tunica
+
+Washington-Dulles
+
+Washington-National
+		Operates as American Eagle, Caesars Entertainment, United Express, and US Airways Express
+Ryan Air Services 	7S* 	RYA 	RYAN AIR 	Aniak
+Bethel
+Emmonak
+Kotzebue
+Nome
+St. Mary's
+Unalakleet 		Cargo airline; Not associated with Ireland's Ryanair
+Salmon Air 	S6 	MBI 				
+Scenic Airlines 	YR 	SCE 	SCENIC 		1967 	
+SeaPort Airlines 	K5 	SQH 	SASQUATCH 	Portland International Airport
+Memphis International Airport
+San Diego International Airport 		
+Shuttle America 	S5 	TCF 	MERCURY 	Chicago-O'Hare
+
+Newark
+
+New York-LaGuardia
+		Operates as United Express and Delta Connection
+Sierra Pacific Airlines 	SI 	SPA 	SIERRA PACIFIC 		1971 	
+Silver Airways 	3M 	SIL 	SILVER WINGS 	Fort Lauderdale 		Operates as United Express and Silver Airways
+Sky Lease Cargo 	GG 	KYE 	TRADEWINDS EXPRESS 		1969 	
+Sky King, Inc. 	5K 	SGB 	SONGBIRD 	Miami 	1990 	
+Skyway Enterprises 	KI 	SKZ 	SKYWAY-INC 		1981 	
+SkyWest Airlines 	OO 	SKW 	SKYWEST 	Chicago-O'Hare
+
+Denver
+
+Detroit
+
+Houston
+
+Los Angeles
+
+Minneapolis
+
+Phoenix
+
+Portland, OR
+
+Salt Lake City
+
+San Francisco
+
+Seattle
+	1972 	Operates as United Express, US Airways Express, Delta Connection, and American Eagle, and as SkyWest Airlines in a partnership with Alaska Airlines
+Southern Air 	9S 	SOO 	SOUTHERN AIR 	Cincinnati
+Anchorage 	1999 	
+Southwest Airlines 	WN 	SWA 	SOUTHWEST 	'Dallas-Love Field'Chicago-Midway
+Atlanta
+Baltimore
+Denver
+Houston-Hobby
+Las Vegas
+Los Angeles
+
+Milwaukee
+Nashville
+Oakland
+Orlando
+Phoenix
+San Diego
+St. Louis
+
+Tampa
+	1967 	Commenced operations June 1971
+Spirit Airlines 	NK 	NKS 	SPIRIT WINGS 	Fort Lauderdale
+DetroitChicago-O'Hare 	1980 	Founded as Charter One
+Sportsflight Airways 					1994 	
+Sun Country Airlines 	SY 	SCX 	Sun Country 	Minneapolis-St. PaulDallas/Fort Worth
+
+Lansing
+	1982 	
+Superior Aviation 	SO 	HKA 	SPEND AIR 		1979 	
+Swift Air 	Q7 	SWQ 	SWIFTFLIGHT 	Phoenix 	1997 	
+Tepper Aviation 				Bob Sikes Airport 	1987 	
+Trans-Florida Airlines 		TFA 	TRANS FLORIDA 	Daytona Beach 	1966 	
+Trans States Airlines 	AX 	LOF 	WATERSKI 	Chicago-O'Hare
+
+Cleveland
+
+Denver
+
+Pittsburgh
+	1982 	Founded as Resort Air. Operates as United Express and US Airways Express
+Ultimate Air Shuttle 		UJC 	ULTIMATE 	Cincinnati Municipal 	2009 	
+United Airlines 	UA 	UAL 	UNITED 	Chicago-O'HareHouston
+
+Newark
+Denver
+San Francisco
+
+Washington-Dulles
+Los Angeles
+
+Guam
+Tokyo-Narita
+	1926 	Founded as Varney Air Lines and commenced operations 1934 as United Air Lines
+UPS Airlines 	5X 	UPS 	UPS 	Louisville
+Philadelphia
+Los Angeles/Ontario
+Dallas/Fort Worth
+Chicago-RockfordHamilton
+
+Cologne-Bonn
+
+Hong Kong
+
+Shanghai
+
+Shenzhen
+	1988 	
+US Airways 	US 	AWE 	CACTUS 	Phoenix
+Charlotte
+Philadelphia
+Washington-National 	1937 	Merged into American Airlines in 2015
+USA Jet Airlines 	UJ 	JUS 	JET USA 	Ypsilanti
+Laredo International Airport 	1994 	
+Victory Air Transport 					2003 	
+Virgin America 	VX 	VRD 	REDWOOD 	San Francisco
+Los AngelesDallas-Love Field 	2004 	
+West Air 		PCM 	PAC VALLEY 	Las Vegas
+Ontario
+Oakland
+Sacramento
+San Diego 	1988 	
+Wiggins Airways 	WG 	WIG 	WIGGINS AIRWAYS 	Manchester 	1929 	
+Wings of Alaska 	K5 	SQH 	SASQUACH 	Juneau 	1982 	
+Xtra Airways
+
+Aeroperlas 	WL 	APP 	AEROPERLAS ceased flying in Panama February 29, 2012 	Albrook "Marcos A. Gelabert" International AirportEnrique Malek International Airport 	
+Air Panama 		PST 	AIR PANAMA 	Enrique Malek International AirportAlbrook "Marcos A. Gelabert" International Airport 	
+Air Services Cargo 					Cargo
+Copa Airlines 	CM 	CMP 	COPA 	Tocumen International Airport 	National
+DHL Aero Expreso 	D5 	DAE 	YELLOW 	Tocumen International Airport 	Cargo
+Panavia
+
+Arkefly Curaçao 				Hato International Airport 	
+Divi Divi Air 	DI 	DVR 	DIVI 	Hato International Airport 	
+Dutch Antilles Express 	9H 	DNL 	DUTCH ANTILLES 	Hato International Airport 	
+E-Liner Airways 	EL 	ELA 		Hato International Airport 	
+Insel Air 	7I 	INC 	INSELAIR 	Hato International Airport 	
+Trans Caribbean Airways 					
+Windward Islands Airways 	WM 	WIA 	WINAIR 	Princess Juliana International Airport 	
+Windward Express
+
+Aéreo Calafia 			Cabo San Lucas 	1993 	14 	13 	- 	CFV 	
+Aéreo Servicio Guerrero 	Aéreo Servicio Guerrero (logo).jpg 		Hermosillo 	1997 	5 	13 	- 	- 	
+Aerodan 			Saltillo 	1994 	4 	- 			[1]
+Aerodavinci 	LogoAeroDaVinci2.png 		Reynosa 	1997 	1 	4 	- 	- 	
+Aerodinámica de Monterrey 			Monterrey 						[2]
+Aerolíneas Ejecutivas 		Beechcraft C90B King Air, Aerolineas Ejecutivas JP5976071.jpg 	Toluca 	1980 			- 	LET 	
+Aeromaan 	Corporate logos of Aveos Fleet Performance and subsidiary Aeroman.png 		San Luis Potosí 	2002 					
+Aeromar 	AeromarLogo1.PNG 	ATR 72-600 Aeromar (TAO) F-WWEI - MSN 1096 - Will be XA-MKH (9276777613).jpg 	Mexico City 	1987 	16 	25 	VW 	TAO 	
+Aeroméxico 	AeroMéxico Logo.svg 	Boeing 787-8 "Dreamliner" (N965AM) de Aeroméxico.JPG 	Mexico City 	1934 	63 	55 	AM 	AMX 	
+Aeroméxico Connect 	Aeroméxico Connect logo.svg 	Embraer 190-100LR, Aeromexico Connect JP7335949.jpg 	Monterrey 	1988 	59 	55 	5D 	SLI 	Subsidiary of Aeroméxico
+Aeronaves TSM 	Aeronaves TSM Logo.jpg 		Saltillo 	1995 	39 			VTM 	
+AeroUnion 	AeroUnion.png 	Airbus A300B4-203(F), AeroUnion - Aerotransporte de Carga Union JP7656209.jpg 	Mexico City 	1998 	5 	4 	6R 	TNO 	
+Aviesa 			Toluca 	1986 					
+Avioquintana 	Avioquintana.JPG 	Fairchild SA-227AC Metro III, Avioquintana AN0074462.jpg 	Cancún 	1997 	2 			AQT 	
+Estafeta Carga Aérea 		Estafeta Carga Aérea Boeing 737-300 KvW.jpg 	San Luis Potosí 	2000 	7 		E7 	ESF 	
+Interjet 	Interjetmx.png 	Sukhoi Superjet 100-95 (XA-JLG).jpg 	Toluca 	2005 	49 	33 	4O 	AIJ 	
+Magnicharters 	Magnicharters logo.png 	Boeing 737-301, Magnicharters JP6202971.jpg 	Mexico City 	1994 	8 	7 	UJ 	GMT 	
+MasAir 		Boeing 767-346FER(w) 'N526LA' Mas Air Cargo (14151509210).jpg 	Mexico City 	1992 	2 		M7 	MAA 	
+MAYAir 			Cancún 	1994 		5 	7M 	MYI 	
+TAR Aerolineas 	TAR Aerolineas logo.svg 		Querétaro 	2012 	8 	3 	TBA 	TBA 	
+VivaAerobus 	VivaAerobus.gif 	Viva Aerobus Boeing 737-300 AADPR.jpg 	Monterrey 	2006 	17 	32 	VB 	VIV 	
+Volaris
+
+Adlair Aviation 	C-GFYN Adlair Aviation Ltd. de Havilland Twin Otter (DHC6) 02.JPG 				Cambridge Bay 	Charters[1] Registered with the Nunavummi Nangminiqaqtunik Ikajuuti Policy.[2][3]
+Adler Aviation 			SWH 	SHOCKWAVE 	Waterloo 	Charters, cargo, flight training[4]
+Air Canada 	Aircanada.a330-300.c-ghkr.arp.jpg 	AC 	ACA 	AIR CANADA 	Montréal–Trudeau,
+Toronto Pearson,
+Calgary,
+Vancouver 	Flag carrier of Canada.[5] Largest in Canada.[6]
+Air Canada Express 	Air Canada Express Dash-8-400Q (6034195554).jpg 	Various 	Various 	Various 	Calgary,
+Halifax
+Montréal–Trudeau,
+Toronto Pearson,
+Vancouver 	Brand name used by Air Georgian, EVAS, Jazz Aviation and Sky Regional Airlines operating as feeder airlines for Air Canada[7]
+Air Canada Jetz 	C-FDCA Air Canada Jetz Airbus A320-211 405 Flight ACA173 from YYZ to YYC.jpg 				Montréal–Trudeau 	Executive charters, sports teams[8] Example colours only. Jetz uses A319
+Air Canada Rouge 	Air Canada Rouge A319.png 	RV 	ROU 	ROUGE 	Montréal–Trudeau,
+Toronto Pearson,
+Calgary,
+Vancouver 	Leisure airline
+Air Creebec 	Air Creebec Dash-8 C-FCSK.JPG 	YN 	CRQ 	CREE 	Val-d'Or 	Regional, charters[9]
+AirExpress Ontario 					Ottawa Macdonald–Cartier,
+Chatham-Kent,
+Oshawa Municipal 	Charters[10]
+Air Georgian 	C-GORA B.1900D Air Georgian YYZ 23AUG00 (6780858796).jpg 	ZX 	GGN 	GEORGIAN 	Toronto Pearson 	Regional, charters, cargo[11]
+Air Inuit 	C-GMAI Air Inuit Boeing 737-200 in Val-d'Or CYVO.jpg 	3H 	AIE 	INUIT 	Montréal–Trudeau 	Scheduled passenger service, charters, combi, cargo, helicopter[12]
+Air Labrador 	Air Labrador Beech 1900D.jpg 	WJ 	LAL 	LAB AIR 	Goose Bay 	Regional, charters[13]
+Air Montmagny 					Montmagny 	Charters, sky diving[14][15]
+Air North 	C-GANV landing in Vancouver.jpg 	4N 	ANT 	AIR NORTH 	Erik Nielsen Whitehorse 	Scheduled passenger service, charters, cargo[16]
+Air Nunavut 	Air Nunavut.jpg 		BFF 	AIR BAFFIN 	Iqaluit 	Charters and MEDIVAC (air ambulance) only.[17] Registered with the Nunavummi Nangminiqaqtunik Ikajuuti Policy[2][18] and with Nunavut Tunngavik Incorporated as an Inuit Firm.[19][20]
+Air Saguenay 	Air Saguenay.jpg 				Chutes-des-Passes,
+Lac Sébastien 	Regional, charters, floatplanes[21]
+Air Spray 	C-FLXT Lockheed L.188 Electra Air Spray (7643726528).jpg 		ASB 		Red Deer 	Aerial firefighting[22]
+AirSprint 	C-FASW Cessna 525A Citation CJ2 ASP - Airsprint Inc Flight ASP503 from YEE to YYZ.jpg 		ASP 	AIRSPRINT 	Calgary 	Fractional ownership of aircraft[23]
+Air Tindi 	De Havilland DHC-6 C-GMAS Ski.JPG 	8T 			Yellowknife,
+Fort Simpson 	Scheduled passenger service, charters. Owned by Discovery Air.[24][25]
+Air Transat 	AirTransat-A330atYUL.jpg 	TS 	TSC 	AIR TRANSAT 	Montréal–Trudeau 	Scheduled passenger service, Charter airline. Owned by Transat A.T..[26]
+Aklak Air 	C-GDHC Aklak Air DHC6 at the Dewline Hangar in Cambridge Bay.JPG 	6L 	AKK 	AKLAK 	Inuvik (Mike Zubko) 	Scheduled passenger service, charters. Part of the Inuvialuit Development Corporation.[27]
+Alkan Air 	C-GMOC Alkan BE20 01.JPG 		AKN 	ALKAN AIR 	Erik Nielsen Whitehorse 	Charters and MEDIVAC (air ambulance)[28]
+Bar XH Air 			BXH 	PALLISER 	Medicine Hat 	Charters and MEDIVAC (air ambulance)[29]
+Bearskin Airlines 	Fairchild SA-227AC Metro III, Bearskin Airlines AN0312332.jpg 		BLS 	BEARSKIN 	Sioux Lookout,
+Thunder Bay 	Regional, scheduled passenger service, charters[30]
+Brock Air Services 			BRD 	BROCK AIR 	Kingston/Norman Rogers 	Charters and MEDIVAC (air ambulance)[31]
+Buffalo Airways 	Buffalo Airways DC3 GPNR nose.jpg 	J4 	BFL 	BUFFALO 	Hay River/Merlyn Carter 	Scheduled passenger service, charters, cargo, aerial firefighting. featured on Ice Pilots NWT.[32]
+Calm Air 	C-FAFS AT43 Calm Air Cambridge Bay.JPG 	MO 	CAV 	CALM AIR 	Thompson 	Scheduled passenger service, charters, cargo[33]
+Canada Jetlines 					Vancouver International Airport 	Low-cost startup airline.
+Canadian Helicopters 	SikorskyS-76AC-GIMM.JPG 		CDN 	CANADIAN 	Les Cèdres, Quebec 	Carters, flight training, aerial firefighting. Along with Kelowna Flightcraft Air Charter, Atlantis Systems International and Canadian Base Operators operates Allied Wings.[34][35]
+Canadian North 	C-GOPW Boeing B.737 Canadian North (7642260318).jpg 	5T 	MPE 	EMPRESS 	Yellowknife 	Scheduled passenger service, charter airline[36]
+CanJet 	Canjet C-FTCX Boeing 737-800 (6285074750) (2).jpg 	C6 	CJA 	CANJET 	Halifax Stanfield 	Low cost charter airline[37]
+Capital Helicopters 					Erik Nielsen Whitehorse 	Helicopter charter service. Bell 206 and Robinson R44 Raven II aircraft[38]
+Cargojet 	C-FGAJ (7733720520).jpg 	W8 	CJT 	CARGOJET 	John C. Munro Hamilton 	Cargo[39]
+Central Mountain Air 	CentralMountainAir-Dornier-328-YVR.jpg 	9M 	GLR 	GLACIER 	Smithers 	Regional, charters[40]
+CHC Helicopter 	C-GOKE Canadian Helicopters Bell 206B (B06) 03.JPG 		HMB 	HUMMINGBIRD 	Richmond, British Columbia 	Helicopter charters, flight training[41]
+Cloud Air 					Lake Muskoka/Mortimer's Point 	Floatplane, scheduled passenger service, charters, flight training[42]
+Corilair 					Campbell River 	Charters and scheduled floatplane[43]
+Cougar Helicopters 	Cougar-Heli.jpg 		CHI 	COUGAR 	St. John's, Newfoundland and Labrador 	Helicopter services to oil platforms and ships off the Newfoundland and Nova Scotia coast[44]
+DAL Aviation 	GSUE.JPG 				Cambridge Bay Water 	Seasonal floatplane charters.[45]
+Enerjet 	C-GDEJ Boeing B.737 Enerjet in White C-s (7675657750).jpg 	EG 	ENJ 	ENERJET AIR 	Calgary 	Charter airline[46]
+Exact Air 	ExactAir (entrée stationnement).jpg 				Baie-Comeau 	Scheduled, charter passenger and cargo services, as well as supplying aviation fuel, ground services and aircraft maintenance and repair.[47]
+Exploits Valley Air Services 	EVAS B1900 at YYT.JPG 	8K 		EVAS 	Gander 	Scheduled passenger service as part of Air Canada Express, sightseeing flights, air ambulance services and maintenance.[48]
+Fast Air 	C-FHBP B300 Fast Air Cambridge Bay.JPG 		PRB 	POLAR BEAR 	Winnipeg 	Air ambulance services, charter, helicopters[49]
+First Air 	GRMZ FAB AT72 at Cambridge Bay 02.jpg 	7F 	FAB 	FIRST AIR 	Yellowknife,
+Iqaluit 	Scheduled passenger service, cargo, charters[50]
+Flair Airlines 	C-FLEN Flair Airlines B737 400.jpg 		FLE 	FLAIR 	Kelowna 	Charter airline[51]
+Flightexec 	C-FAWZ28112011LHR (6423886181).jpg 				Buttonville,
+London 	Charter airline, MEDIVAC (air ambulance)[52][53]
+Harbour Air Seaplanes 	C-FAXI DHC.2 Beaver Harbour Air YVR 15APR10 (4524696638).jpg 	H3 		HARBOUR EXPRESS 	Vancouver Harbour 	Scheduled passenger service, charters[54]
+Harv's Air Service 					Steinbach (South) 	Charters, flight training, air taxi[55][56]
+Hawkair 	C-FCJE landing in Vancouver.jpg 	BH 			Terrace and Kitimat 	Regional airline, scheduled passenger service, charters[57]
+Helicopter Transport Services 	Helicopter Transport Services FKEP B06.jpg 				Carp 	Charters, MEDIVAC (air ambulance), aerial firefighting[58]
+Helijet 	HeliJet S76 landing at Vancouver Harbour.jpg 	JB 	JBA 	HELIJET 	Vancouver 	Scheduled passenger service, charters[59]
+Innu Mikun Airlines 					Goose Bay 	Regional airline, charters. A joint partnership between Innu Development Limited Partnership and Provincial Airlines.[60]
+Integra Air 					Lethbridge 	Scheduled passenger service, charters[61]
+Island Express Air 	C-GMDL PA-31 Island Express Air flight to Victoria from Abbotsford on Aug. 12, 2013.jpg 				Abbotsford 	Scheduled passenger service[62]
+Jazz 	C-GKEZ landing in Vancouver.jpg 	QK 	JZA 	JAZZ 	Halifax Stanfield 	Formally Jazz Aviation LP, regional and charter airline, operates as Air Canada Express[63]
+KD Air 	KD Air GXEY.jpg 	XC 	KDC 	KAY DEE 	Vancouver 	Scheduled passenger service, charters[64]
+Keewatin Air 	C-FSKN Kivalliq Air Beech 200.JPG 	FK 			Rankin Inlet 	Charters and MEDIVAC (air ambulance) only.[65]
+KF Cargo 	C-FKFZ Cv.580 Kelowna Flightcraft YVR 27AUG00 (6794838487).jpg 	KW 	KFA 	FLIGHTCRAFT 	Kelowna 	Scheduled passenger service, cargo Charter airline. Along with Canadian Helicopters, Atlantis Systems International and Canadian Base Operators operates KF Defence Programs.[34][66]
+Kenn Borek Air 	Basler bt67 antarctica.jpg 	4K 	KBA 	BOREK AIR 	Calgary 	Charters, aircraft leasing[67]
+Keystone Air Service 	Keystone Air Service BE20 C-FSPN.jpg 		KEE 	KEYSTONE 	Winnipeg/St. Andrews 	Charters[68]
+Kivalliq Air 	C-FSKN Kivalliq Air Beech 200.JPG 	FK 			Winnipeg James Armstrong Richardson 	Scheduled passenger service[69]
+Kootenay Direct Airlines 					Nelson 	Charters[70]
+LR Helicopters 					Calgary/Springbank 	Charters, flight training[71]
+McMurray Aviation 					Fort McMurray 	Charters, flight training[72]
+Maritime Air Charter 	PA-31 Navajo.jpg 				Halifax Stanfield 	Air charter. Provides fixed-wing service for Environment Canada to Sable Island.[73] Example colours only aircraft no longer registered in Canada.[74]
+Missinippi Airways 	Missinippi Airways Cessna 208 C-FMCB.jpg 				The Pas/Grace Lake 	Charters and scheduled services. Bases at Thompson, Flin Flon and a sub-base at Pukatawagan[75]
+Morningstar Air Express 	C-GBWS-07-03 (6169555880).jpg 		MAL 	MORNINGSTAR 	Edmonton 	Cargo airline that operates a FedEx Canada contract.[76] Example colours only aircraft now registered to WestJet.[77]
+Nakina Air Service 		T2 			Nakina 	Floatplane charters[78]
+Nolinor Aviation 	C-GQHB-2008-09-13-YVR.jpg 		NRL 	NOLINOR 	Montréal–Mirabel 	Charter airline[79]
+Nor-Alta Aviation 	Nor-Alta Aviation GWVT.jpg 	LT 			Fort Vermilion,
+High Level 	Charters and MEDIVAC (air ambulance)[80]
+North Cariboo Air 	De Havilland Canada DHC-8-311 Dash 8, North Cariboo Air AN1627735.jpg 		NCB 	NORTH CARIBOU 	Fort St. John 	Charter airline[81]
+Northern Air 					Peace River 	Charters, scheduled flights and air ambulance[82]
+Northern Thunderbird Air 	Beechcraft 1900D Northern Thunderbird.JPG 		NTA 	THUNDERBIRD 	Prince George 	Scheduled passenger service, charters[83]
+Northwestern Air 	C-FNAZ Northwestern Air JS32.JPG 	J3 	PLR 	POLARIS 	Fort Smith 	Scheduled passenger service, charters, cargo[84]
+North-Wright Airways 	Pilatus Porter.jpg 	HW 	NWL 	NORTHWRIGHT 	Norman Wells 	Scheduled passenger service, charters[85]
+Ookpik Aviation 	FPEN Okpik Aviation DH3T Turbo Otter.jpg 				Baker Lake 	Charters.[86]
+Orca Airways 	C-GPAP Pa.31-350W Navajo Chieftain Orca Air YVR 21JUL13 (9339147668).jpg 		ORK 	ORCA 	Vancouver 	Scheduled passenger service, charters[87]
+Ornge 	Ornge AugustaWestland AW139 C-GYNL 03 June 2011.jpg 				Thunder Bay,
+Sioux Lookout,
+Timmins/Victor M. Power 	Air ambulance
+Pacific Coastal Airlines 	Pacific Coastal Airlines Short 360-300 C-GPCF in CYVR.jpg 	8P 	PCO 	PASCO 	Vancouver 	Scheduled passenger service, charters[88]
+Pascan Aviation 	C-GPEA (8545799504).jpg 		PSC 	PASCAN 	Montréal/Saint-Hubert 	Regional airline, charters[89]
+Pat Bay Air 	Pat Bay Air C185.jpg 				Victoria Water 	Floatplane charters[90]
+Perimeter Aviation 	C-FPPW Dash DH.8 Perimeter (7642336900).jpg 	4B 	PAG 	PERIMETER 	Winnipeg James Armstrong Richardson 	Scheduled passenger service, charters, MEDIVAC (air ambulance), flight training[91]
+Porter Airlines 	Porter yow.jpg 	PD 	POE 	PORTER AIR 	Billy Bishop Toronto 	Regional airline[92]
+Pronto Airways 			WEW 	PRONTO 	Prince Albert (Glass Field) 	Scheduled passenger service.[93] Part of West Wind Aviation.[94]
+Propair 	Beech 200 Super King Air, Propair AN0204374.jpg 		PRO 	PROPAIR 	Rouyn-Noranda 	Charter airline, MEDIVAC (air ambulance)[95]
+Provincial Airlines 	C-GPAU Dash DH.8 Provincial Airlines (7637278782).jpg 	PB 	SPR 	SPEEDAIR 	St. John's 	Scheduled passenger service, charters[96]
+R1 Airlines 	R1 Airlines Bombardier Dash 8.png 		TSH 	TRANSCANADA 	Calgary 	Charter airline, aircraft leasing[97]
+Salt Spring Air 	Find saltspring air.jpg 				Ganges 	Floatplane, scheduled passenger service, charters[98]
+Seair Seaplanes 	Seair Seaplanes.jpg 				Vancouver Water 	Floatplane, scheduled passenger service, charters[99]
+Silverline Helicopters 					Holland Landing 	
+Sky Regional Airlines 	Air Canada Express (Sky Regional Airlines) Embraer ERJ-170-200SU 175SU - C-FEJF - 376 - Flight AC7447 from YOW to YYZ (14435629145).jpg 	RS 	SKV 	MAPLE 	Montréal–Trudeau 	Scheduled passenger service as Air Canada Express
+SkyLink Aviation 			SKK 	SKYLINK 	Toronto Pearson 	Charters, cargo[100]
+SkyLink Express 			SLQ 	SKYLINK 	Toronto Pearson 	Charters, cargo[101]
+SkyNorth Air 					Winnipeg James Armstrong Richardson 	Scheduled passenger service, charters[102]
+Skyservice Business Aviation 	ASJ Untitled (Skyservice Business Aviation)- Cessna 525C Citation CJ4 - C-FANJ - (9572236536).jpg 				Montréal–Trudeau,
+Toronto Pearson 	Charters, MEDIVAC (air ambulance)[103] Example colours only aircraft now registered to Albatros Aircraft Corporation.[104]
+Stanton Airways 					Orillia/Lake St John 	Floatplanes, charters and fly-in fishing camps[105]
+Starlink Aviation 	Starlink Aviation Jetstream 31.JPG 	Q4 	TLK 	STARLINK 	Montréal–Trudeau 	Example colours only aircraft no longer registered in Canada.[106]
+Summit Air 	Yellowknife Air Show C-FUCN D228 02.JPG 				Yellowknife 	Charters[107]
+Sunwest Aviation 	Beech 1900 D.JPG 		CNK 	CHINOOK 	Calgary 	Charters, MEDIVAC (air ambulance)[108]
+Sunwing Airlines 	Sunwing-B737-C-FLSW-2008-10-05-YVR.jpg 	WG 	SWG 	SUNWING 	Montréal–Trudeau,
+Toronto Pearson 	Scheduled passenger service, charter airline[109]
+Superior Airways 	C-GAJT, a Piper Navajo PA31 belonging to Superior Airways, in flight (18 July 2005, morning).jpg 				Red Lake 	Charters[110]
+Thomas Cook Airlines Canada 						
+Thunder Airlines 	Mitsubishi MU-2B belonging to Thunder Airlines.jpg 		THU 	AIR THUNDER 	Thunder Bay 	Scheduled passenger service, charters[111]
+Tofino Air 	Tofino Air Cessna 180.JPG 				Tofino Harbour 	Scheduled passenger service, charters[112]
+Transwest Air 	TranswestB1900D.jpg 	9T 		ATHABASKA 	Prince Albert (Glass Field) 	Helicopters, scheduled passenger service, charters[113]
+Unaalik Aviation 	Kenn Borek Twin Otter C-GXXB.jpg 				Resolute Bay 	Scheduled passenger service to 5 destinations in Nunavut.[114] Registered with the Nunavummi Nangminiqaqtunik Ikajuuti Policy,[2] with bases in Cambridge Bay[115] and Iqaluit.[116]
+Universal Helicopters 	C-GIZY Universal Helicopters Bell 206L (B06) 03.JPG 				Goose Bay 	Helicopters[117]
+Vancouver Island Air 					Campbell River 	Seaplane, scheduled passenger service, charters[118]
+VIH Helicopters 	Bell 222 in Prince Rupert (175135072).jpg 				Saanich, British Columbia 	Charters, MEDIVAC (air ambulance), aerial firefighting[119] Example colours only aircraft now different type.[120]
+Visionair Quebec 				Visionair 	Québec City Jean Lesage 	flight training[121][122]
+Voyageur Airways 	De Havilland Canada DHC-7-102 Dash 7, Voyageur Airways AN0604487.jpg 	VC 	VAL 	VOYAGEUR 	North Bay/Jack Garland 	Charters, MEDIVAC (air ambulance)[123]
+Wasaya Airways 	Wasaya Airways 1.JPG 		WSG 	WASAYA 	Thunder Bay 	Scheduled passenger service, charters[124]
+West Coast Air 	West Coast Air De Havilland Canada DHC-6-100 Twin Otter C-FGQH 2 (8027526497).jpg 	8O 	YWZ 		Vancouver Harbour 	Floatplanes, scheduled passenger service, charters[125]
+WestJet 	C-GTWS-2008-09-13-YVR.jpg 	WS 	WJA 	WESTJET 	Calgary,
+Vancouver,
+Toronto Pearson 	Low-cost carrier, scheduled passenger service. Canada's second largest airline after Air Canada[126]
+WestJet Encore 	WestJet Encore.JPG 		WEN 		Calgary 	
+West Wind Aviation 	C-FWWQ West Wind Aviation Beech 200.JPG 		WEW 	WESTWIND 	Saskatoon John G. Diefenbaker 	Scheduled passenger service, charters, MEDIVAC (air ambulance). Also owns Pronto Airways.[94][127]
+White River Air 			WRA 		White River 	Fly-in outposts[128]
+Wilderness Air
+
+Abaco Air 							
+Air Charter Bahamas 							
+Bahamasair 		UP 	BHS 	C6-BFM (6859576364).jpg 	BAHAMAS 	Lynden Pindling International Airport 	National airline
+Cherokee Air 							
+Flamingo Air 							
+Golden Wings Charters 							
+Island Helicopters 							
+Pineapple Air 		PNP 			PINEAPPLE AIR 	Lynden Pindling International Airport 	Pineapple Carrier
+Safari Seaplanes 							
+SkyBahamas 	SkyBahamas Airlines logo.png 	Q7 	SBM 	C6-SBB (6999553641).jpg 	TROPICAL SKY 	Lynden Pindling International Airport 	Flag Carrier
+Southern Air Charter 	SouthernAirCharters logo.jpg 	PL 	SOA 		SOUTH AIRCHARTER 		
+Stella Maris Aviation 							
+Take Flight Charters 							
+Twin Air 							
+Western Air
+
+
+    Africa West Airlines
+    ASKY Airlines
+
+    Aero Africa
+    Airlink Swaziland
+
+ Tanzania
+
+    Air Tanzania
+    Coastal Aviation
+    Precision Air
+    Regional Air Services
+    Fastjet
+    Auric Air Service Ltd
+    Inter Air
+
+    Afrik Air Links - defunct
+    Air Leone - defunct
+    Eagle Air
+    Pan African Air Services - defunct
+    Sierra National Airlines - defunct
+    Sky Aviation - defunct
+
+    Air Austral
+    Air Bourbon
+
+ Rwanda
+
+    RwandAir
+
+    Silverback Cargo Freighters
+
+ São Tomé and Príncipe
+
+    STP Airways
+
+    Air Corridor
+    LAM Mozambique Airlines
+    Moçambique Expresso
+    Safari Airways de Mozambique
+
+ Namibia
+
+    Air Namibia
+    Namibia Commercial Aviation
+Air Mauritius
+
+
+    Air Madagascar
+    Tiko Air
+    Malagasy Airlines
+
+ Malawi
+
+    Air Malawi
+    Swift Air Malawi
+
+    Aerogem Aviation
+    Africa World Airlines
+    AirFutures
+    Air Ghana
+    Airlift International
+    Antrak Air
+    Eagle Atlantic
+    Gianair
+    Meridian Airways
+    Pison Airways
+    Sika Airlines
+    Solenta Aviation Ghana
+    Starbow
+    CiTylinK- Defunct - defunct
+    Fly540 Ghana - defunct
+    Ghana Airways - defunct
+    Ghana International Airlines - defunct
+    Sobel Air - defunct
+    Air Charter Express (Ghana) - defunct
+    Continental Cargo Airlines - defunct
+    GM Airlines - defunct
+    Johnsons Air - defunct
+    Race Cargo Airlines - defunct
+
+ Guinea
+
+    Guinee Air Service
+    Air Guinee International
+    Air Guinée - defunct
+    Air Guinée Express - defunct
+    Brise Air - defunct
+    Exim Trading - Active
+    Galex Guinée - Active
+    GR Avia - defunct
+    Guinée Air Cargo - Active
+    Guinée Express Aviation - defunct
+    Guinée Paramount Airlines - defunct
+    Sky Guinée Airlines - defunct
+    UTA - Union des Transports Africains de Guinée - defunct
+
+ Guinea-Bissau
+
+    Safari Linhas Aéreas de Guine Bissau
+
+    Air Annobón
+    CEIBA Intercontinental
+    Cronos Airlines
+    Punto Azul
+    Guinea Lineas Aéreas
+    GEASA - Guinea Ecuatorial Airlines
+    Jetline
+    Air Guinea - defunct
+    Confort Airlines - defunct
+    Ecuato Guineana de Aviación - defunct
+    EuroGuineana de Aviación - defunct
+    Star Equatorial Airlines - defunct
+    Ave de Guinea - defunct
+    Bata International Airways - defunct
+    COAGE - Compania Aérea de Guinea Ecuatorial - defunct
+    Ducor World Airlines - defunct
+    General Work Aviacion - defunct
+    GETRA - Guinea Ecuatorial de Transportes Aéreos - defunct
+    Prompt Air GE - defunct
+    UTAGE - Union de Transporte Aéreo de Guinea Ecuatorial - defunct
+    Equatorial Cargo - defunct
+    KNG Transavia Cargo - defunct
+    Lotus Airways - defunct
+
+	
+	
+	
+    Daallo Airlines
+    Global Aero Investments
+    Warsan Airlines
+    Air Djibouti - defunct
+    Djibouti Air - flights currently suspended
+    Djibouti Airlines - defunct
+
+    Equatorial Congo Airlines
+    Air Congo
+    Canadian Airways Congo
+    Equaflight Service
+    Trans Air Congo
+    Aero-Service
+    Aéro Fret Business
+    Equajet
+    Bravo Air Congo Brazzaville - defunct
+    Lina Congo - defunct
+    Sococi Airways - defunct
+    Brazza Airways - defunct
+    Mani Air Frêt - defunct
+    Natalco Air Lines - defunct
+    Protocole Aviation - defunct
+    Clesh Aviation - defunct
+    Air Congo International - defunct
+
+ Côte d'Ivoire
+
+    Air Côte d’Ivoire
+    Air Ivoire - defunct
+    Ivoirienne de Transports Aériens
+    Solenta Aviation Côte d'Ivoire
+    Aero Corporate
+    Air Afrique - defunct
+    Air Inter Ivoire - defunct
+    Air Ivoire - defunct
+    Ivoire Airways - defunct
+    Panafrican Airways - defunct
+    OpedAir - defunct
+
+    Comores Air Services
+    Comores Aviation
+    Complex Airways
+Air Zimbabwe 	Air Zimbabwe Logo 2011.svg 	AZW 	UM 	AIR ZIMBABWE 	Air Zimbabwe Boeing 767-200ER Z-WPE SIN 2005-7-5.png 	1961
+Avient Aviation 	Avient-Aviation.png 	SMJ 	Z3 	AVAVIA 	Avient McDonnell Douglas MD-11F Bidini.jpg 	1993
+Central Air Transport Services (CATS) 		- 	ZO 	- 		2008
+DHL Aviation (Zimbabwe) 		- 	- 	- 		
+Exec-Air 		AXE 	- 	- 		1972
+Global Africa Aviation) 		- 	- 	- 		2014
+Zimbabwe flyafrica
+
+
+Airwaves Airlink 		- 	WLA 	AIRLIMITED 	9J-AWS Beechcraft Be.1900 Airwaves Airlinks (7689936024).jpg 		Merged into Zambian Airways
+Big Dog Aviation 		- 	- 	- 		Ndola (NLA) 	
+Mahogany Air 		MC 	- 	- 			www.flymahogany.com
+Proflight Zambia 		P0 	PFZ 	PROFLIGHT-ZAMBIA 	2013-04-11 10-31-35 Zambia Copperbelt - Malabo.JPG 	Lusaka International Airport 	
+Royal Air Charters 		- 	- 	- 		Lusaka International Airport 	
+Staravia 		- 	- 	- 		Lusaka International Airport 	www.staraviazambia.com
+Stabo Air 		- 	- 	- 		Lusaka International Airport 	www.staboair.com
+Zambia Airways
+
+
+AeroLink Uganda 	- 	A8 	- 	2012 	-
+Africa One 	AFI 	Y2 	- 	2002 	2004
+Africa Safari Air 	ASA 	AS 	ASA 	2013 	
+Air Memphis (Uganda) 	MHU 	- 	- 	2003 	2006
+Air Surf 	- 	- 	- 	- 	-
+Air Uganda 	UGA 	U7 	UGANDA 	2007 	2014
+Almiron Aviation 	- 	- 	- 	2004 	2006
+Asante Aviation 	- 	- 	- 	2006 	-
+Coastal Airways (Uganda) 	- 	- 	- 	1981 	1984
+DAS Air Cargo) 	DSR 	WD 	- 	1974 	2007
+Eagle Air (Uganda) 	EGU 	H7 	AFRICAN EAGLE 	1994 	
+East African Airlines) 	UGX 	QU 		2002 	2007
+Fly540 Uganda 	FUL 		ORANGE CRANE 	2008 	2011
+Great Lakes Airways 	GLU 		- 	2001 	2004
+Pearl Air Services 	PBY 		PEARL SERVICES 	2006 	2006
+Royal Daisy Airlines 	KDR 	6D 	DARLINES 	2005 	2010
+ Airlines 	SJU 	UQ 	 	2008 	2008
+Transafrik Uganda 	TKU 	- 	- 	2009 	
+Triangle Airlines 	TRU 	- 	- 	1995 	1997
+Uganda Air Cargo 	UCC 		UGANDA CARGO 	1975 	
+Uganda Airlines 	UGA 	QU 	- 	1977 	2001
+United Airlines Limited 				1999 	
+Victoria International Airlines
+
+
+Karthago Airlines 	قرطاج للطيران 	5R 	KAJ 	KARTHAGO 	2001
+Nouvelair 	الطيران الجديد تونس 	BJ 	LBT 	NOUVELAIR 	1989
+TunisAir Express 	الخطوط التونسية السريعة 	UG 	TUX 	TUNEXPRESS 	1991
+Syphax Airlines 	سيفاكس أيرلاينز 	FS 	SYA 	SYPHAXAIR 	2011
+Tunisair 	الخطوط التونسية 	TU 	TAR 	TUNAIR 	1948
+Tunisavia
+
+Air West 		- 	AWZ 	
+Azza Transport 		- 	AZZ 	AZZA TRANSPORT
+Badr Airlines 		- 	BDR 	BADR AIR
+Blue Bird Aviation 		- 	BLB 	BLUEBIRD SUDAN
+Dove Air Services 		- 	- 	-
+Green Flag Airlines 		- 	GRF 	GREEN FLAG AIR
+Juba Air Cargo 		- 	JUC 	JUBA CARGO
+Marsland Aviation 		M7 	MSL 	MARSLANDAIR
+Mid Airlines 		7Y 	NYL 	NILE
+Nova Airline 		M4 	NOV 	NOVANILE
+Sudan Airways 	الخطوط الجوية السودانية 	SD 	SUD 	SUDANAIR
+Tarco Airlines
+Feeder Airlines
+
+Angel Gabriel Aeronautics 	- 	- 	ANGEL 	
+Airlink 	LNK 	4Z 	LINK 	
+CEM Air 	KEM 	5Z 	CEMAIR 	2005
+Civair 	CIW 	2I 	CIVFLIGHT 	
+Comair 	CAW 	MN 	COMAIR 	
+Comair Flight Services 	GCM 	- 	GLOBECOM 	2007
+Command Airways (South Africa) 	CAH 	CT 	COMMAND 	1977
+Federal Air 	FDR 	- 	FEDAIR 	
+Global Aviation 	GBB 	QG 	GLOBE 	2001
+Interair South Africa 	ILN 	D6 	INLINE 	
+King Air Charter 	- 	- 	- 	
+Kulula.com 	CAW 	MN 	COMAIR 	
+Mango 	MNO 	JE 	TULCA 	
+Naturelink Aviation 	NRK 	- 	NATURELINK 	
+Phoebus Apollo Aviation 	PHB 	PE 	PHOEBUS 	1995
+Rovos Air 	VOS 	6P 	ROVOS 	
+Safair 	SFR 	FA 	SAFAIR 	
+Skywise Airlines 	SWZ 	S8 	SKYWISE 	2015
+Solenta Aviation 	SET 			2002
+South African Airways 	SAA 	SA 	SPRINGBOK 	
+South African Express 	EXY 	YB 	EXPRESSWAYS 	
+Star Air Cargo
+Air Somalia 		RSM 	AIR SOMALIA 	2001 	
+Daallo Airlines 	D3 	DAO 	DAALLO AIRLINES 	1991 	
+Jubba Airways[1] 	6J 	JBW 	JUBBA 	1998 	
+Somali Airlines
+
+
+Air Seychelles 	HM 	SEY 	SEYCHELLES
+Seychelles Airlines
+
+Groupement Aérien Sénégalais 					
+Senegal Airlines
+
+
+Aero Contractors: flyaero.com 	NIG 	AJ 	AEROLINE 	Murtala Muhammed International Airport 	
+Air Peace:flyairpeace.com 					
+Allied Air 	AJK 		BAMBI 	Murtala Muhammed International Airport 	
+Arik Air 	ARA 	W3 	ARIK AIR 	Murtala Muhammed International Airport, Nnamdi Azikiwe International Airport 	
+Associated Aviation 	SCD 		ASSOCIATED 	Murtala Muhammed International Airport 	
+Azman Air 	AZM 		AZMAR AIR 	Mallam Aminu Kano International Airport 	
+Capital Airlines 	NCP 		CAPITAL SHUTTLE 	Murtala Muhammed International AirportIlorin International Airport 	
+Chanchangi Airlines 	NCH 	3U 	CHANCHANGI 	Murtala Muhammed International Airport 	
+Dana Air 	DAN 	9J 	DANACO 	Murtala Muhammed International Airport 	
+Dornier Aviation Nigeria 	DAV 		DANA AIR 	Kaduna Airport 	
+First Nation Airways 	FRN 		FIRST 	Murtala Mohammed International Airport 	
+IRS Airlines 	LVB 		SILVERBIRD 	Nnamdi Azikiwe International Airport 	
+Kabo Air 	QNK 	N2 	KABO 	Mallam Aminu Kano International Airport 	
+Max Air 	NGL 	NR 		Murtala Muhammed International Airport 	
+Med-View Airline 	MEV 		MED-VIEW 	Murtala Muhammed International Airport 	
+Overland Airways 	OLA 	OJ 	OVERLAND 	Nnamdi Azikiwe International Airport 	
+Pan African Airlines 		PF 		Murtala Muhammed International Airport 	
+TAT Nigeria 				Murtala Muhammed International Airport 	
+Wings Aviation
+
+Niger Airlines 		NIN 	NIGER AIRLINES
+Escadrille Nationale du Niger 	- 	- 	-
+Air Niamey
+
+
+Air Arabia Maroc 	3O 	MAC 	ARABIA MAROC 	2009 	
+Casa Air Service 	- 	- 	- 	1995 	
+Dalia Air 		DLI 		2010 	
+RAM Cargo 	- 	- 	- 	2010 	
+Royal Air Maroc Express 	FN 	RGL 	MAROC REGIONAL 	1996 	
+Royal Air Maroc 	AT 	RAM 	ROYALAIR MAROC 	1957 	
+Defunct airlines
+
+This is a list of now defunct airlines from Morocco.
+AIRLINE 	IATA 	ICAO 	CALLSIGN 	COMMENCED OPERATIONS 	CEASED OPERATIONS 	NOTES
+Air Atlas Express 		AXP 	- 	2002 	2004 	
+Atlas Blue 	8A 	BMM 	ATLASBLUE 	2004 	2011 	Merged into Royal Air Maroc
+Jet4you 	8J 	JFU 	ARGAN 	2005 	2012 	
+Med-Airlines 		- 	- 	2010 	2012 	
+Mondair 		MMA 	- 	2002 	2004 	
+Regional AirLines
+
+Mauritania Airlines International
+
+Air Mali 	Air Mali.png 	Air Mali MD-83 TZ-RMK MAD 2010-01-09.png 	I5 	CMM 	CAMALI 	2009 	Rebranded from CAM - Compagnie Aérienne du Mali (2005-2009)
+Mali Air Express 		Saab 340A, Mali Air Express JP6037699.jpg 	- 	VXP 		2001 	Rebranded from Avion-Express (2001-2005)
+Sahel Aviation Service 			- 				
+SAM Intercontinental 			- 	MMT 	- 	2008 	
+Tombouctou Aviation
+
+Afriqiyah Airways 	AfriqiyahNewLogo.png 	Afriqiyah Airways Airbus A330-200 - F-WWKM - MSN 1043 (10777829605).jpg 	الخطوط الجوية الأفريقية 	8U 	AAW 	AFRIQIYAH 	Tripoli International Airport
+Air Kufra 					KAV 		Kufrah (AKF)
+Air Libya 		Air Libya plane.JPG 	ليبيا للطيران 	7Q 	TLR 	AIR LIBYA 	Tripoli International Airport
+Benina International Airport
+Air One Nine 			واحد تسعة للطيران 	- 	ONR 	EDER 	Tripoli International Airport
+Buraq Air 	Buraq Air logo.png 	Boeing 737-8GK, Buraq Air AN1186966.jpg 	البراق 	UZ 	BRQ 	BURAQAIR 	Tripoli International Airport
+Benina International Airport
+Ghadames Air Transport 		Ghadames Air Transport Airbus A320.jpg 		0G 	GHT 		Tripoli International Airport
+Global Aviation and Services Group 			المجموعة العالمية للطيران و الخدمات 	5S 	GAK 	AVIAGROUP 	Tripoli International Airport
+Benina International Airport
+Kallat Elsaker Air 					KES 	KALLAT EL SKER 	Tripoli International Airport
+Libyan Airlines 	Libyan Airways new logo.png 	Libyan Airlines CRJ-900 5A-LAA MAN 2008-2-10.png 	الخطوط الجوية الليبية 	LN 	LAA 	LIBAIR 	Tripoli International Airport
+Libyan Arab Air Cargo 		Libyan Air Cargo Antonov An-124-100 Wallner 2007.jpg 		- 	LCR 	LIBAC 	Tripoli International Airport
+Madina Air 			المدينة 	- 	MDH 	MADINA 	Tripoli International Airport
+Petro Air 			طيران النفط 	- 	PEO 	PETRO AIR 	Tripoli International Airport
+United Aviation (Libya)
+
+
+
+748 Air Services 		748 Air Services De Havilland Canada DHC-8-102A Dash 8 Potters-1.jpg 	- 	SVT 	- 	Jomo Kenyatta International Airport 	
+Aberdair Aviation 	Aberdair Logo.jpg 		- 	- 	- 	Wilson Airport (Kenya) 	
+Acariza Aviation 			- 	- 	- 	Wilson Airport (Kenya) 	
+AD Aviation Aircharters 			- 	- 	- 	Wilson Airport (Kenya) 	
+Aeronav Air Services 			- 	- 	- 	Wilson Airport (Kenya) 	
+AeroSpace Consortium 			- 	- 	- 	Jomo Kenyatta International Airport 	
+African Express Airways 		Canadair CRJ-200 '5Y-AXG' African Express (14951033193).jpg 	XU 	AXK 	EXPRESS JET 	Jomo Kenyatta International Airport 	
+Air Direct-Connect 			DQ 	DCP 		Jomo Kenyatta International Airport 	
+Airkenya Express 	AirKenay07logo.png 	AirKenya De Havilland Dash 7 5Y-BMP.jpg 	P2 	XAK 	SUNEXPRESS 	Wilson Airport (Kenya) 	
+Airlink (Kenya) 			- 	- 	- 	Wilson Airport (Kenya) 	
+AirTraffic Africa 			- 	- 	- 	Wilson Airport (Kenya) 	
+ALS - Aircraft Leasing Services 			- 	- 	- 	Wilson Airport (Kenya) 	
+Astral Aviation 	Astral Aviation logo.png 	Astral Aviation Antonov AN-12.jpg 	8V 	ACP 	ASTRAL CARGO 	Jomo Kenyatta International Airport 	
+Avro Express 			- 	- 	- 	Wilson Airport (Kenya) 	
+Blue Bird Aviation (Kenya) 		Bombardier Dash 8-106, Blue Bird Aviation JP7075957.jpg 	- 	BBZ 	COBRA 	Wilson Airport (Kenya) 	
+Blue Sky Aviation Services 			- 	SBK 	MAWINGU 	Mombasa Moi International (MBA) 	
+Capital Airlines (Kenya) 			- 	CPD 	- 	Wilson Airport (Kenya) 	
+DAC East Africa 			- 	- 	- 	Wilson Airport (Kenya) 	
+Fly540 	Fly540 logo.png 	Fly540 Canadair Regional Jet CRJ100-2.jpg 	5H 	FFV 	SWIFT TANGO 	Jomo Kenyatta International Airport 	
+Fly Sax 	Fly SAX-logo.jpg 		B5 	EXZ 	- 	Jomo Kenyatta International Airport 	
+Freedom Airline Express 					- 	Wilson Airport (Kenya) 	
+Global Airlift 					- 	Wilson Airport (Kenya) 	
+Great Airways 				– 	– 	Jomo Kenyatta International Airport 	
+Jambojet 	Jambojet Logo.png 	Jambojet B737-300 5Y-KQA.jpg 	JX 	– 	– 	Jomo Kenyatta International Airport 	
+Jubba Airways (Kenya) 	Jubairlogo.jpg 		3J 	JBW 	- 	Jomo Kenyatta International Airport 	
+KASAS 						Wilson Airport (Kenya) 	
+Kenya Airways 	Kenya Airways Logo.svg 	Boeing 777-2U8ER Kenya Airways 5Y-KQT.jpg 	KQ 	KQA 	KENYA 	Jomo Kenyatta International Airport 	
+Kijipwa Aviation 						Wilson Airport (Kenya) 	
+Knight Aviation 						Wilson Airport (Kenya) 	
+LadyLori 						Wilson Airport (Kenya) 	
+Mombasa Air Safari 		Mombasa Air Safari Let L-410UVP-E19 Turbolet at Masai Mara 2001 Avdeev-1.jpg 	- 	RRV 	SKYROVER 	Moi International Airport. DIANI 	
+Pan African Airways 						Jomo Kenyatta International Airport 	
+Phoenix Aviation (Kenya) 						Wilson Airport (Kenya) 	
+Queensway Air Services 						Wilson Airport (Kenya) 	
+Ribway Cargo Airlines 						Jomo Kenyatta International Airport 	
+Safari Express Cargo 			ZF 			Jomo Kenyatta International Airport 	
+Safarilink Aviation 			- 	XLK 	SAFARILINK 	Wilson Airport (Kenya) 	
+Safe Air (Kenya) 			K3 	SAQ 		Wilson Airport (Kenya) 	
+Skytrail Air Safaris 						Bamburi (BMQ) 	
+Skyward International Aviation 						Wilson Airport (Kenya) 	
+Solenta Aviation Kenya 						Jomo Kenyatta International Airport 	
+Tamarind Air 						Jomo Kenyatta International Airport 	
+Transworld Safaris 						Wilson Airport (Kenya) 	
+Trident Aviation
+
+
+Aeolus Air 		- 	AAZ 	- 		2012 	
+Air Charter Africa 		- 	ACE 	- 		- 	
+Jupiter Airlines 		- 	JUA 	- 		1996 	
+Mahfooz Aviation 		M2 	MZS 	MAHFOOZ 	Mahfooz Aviation B707 (13824954435).jpg 	1992 	
+Mid Africa Aviation 		- 	MFG 	- 		2014 	
+Gambia Bird
+
+
+Afric Aviation 		L8 	- 	- 	Embraer ERJ-145LR 'ZS-BBM'.jpg 	Port-Gentil International Airport 	
+Allegiance Airways Gabon 		- 	ATG 	- 		Libreville Leon M'Ba (LBV) 	
+Avirex Gabon 		G2 	VXG 	AVIREX-GABON 		Libreville International Airport 	
+Jet Express 		G2 	VXG 	AVIREX-GABON 		Libreville International Airport 	
+National Airways Gabon 		- 	- 	- 			
+Nationale Regionale Transport 		- 	NRG 	- 	Saab-Fairchild SF-340A, Nationale Regionale Transport - NRT AN1407502.jpg 	Libreville Leon M'Ba (LBV) 	
+Nouvelle Air Affaires Gabon 		- 	NVS 	NOUVELLE AFFAIRES 	Canadair CL-600-2B16 Challenger 601-3A, Air Affaires Gabon JP6313975.jpg 	Libreville International Airport 	
+RegionAir 		- 	- 	- 		Port-Gentil International Airport 	
+SCD Aviation 		- 	SCY 	- 		Port-Gentil International Airport 	
+Sky Gabon 		CV 	SKG 	- 		Libreville Leon M'Ba (LBV) 	
+Solenta Aviation Gabon
+
+AberdAir 	Aberdair Logo.jpg 	AR 	ABA 	AberdAir 		Addis Ababa Bole International Airport 	
+Abyssinian Flight Services 		AN 	ABY 	ABYSSINIAN 	Abyssinian Flight Services Cessna 208 Caravan I Stehmann-1.jpg 	Addis Ababa Bole International Airport 	
+East African Aviation 						Addis Ababa Bole International Airport 	
+Ethiopian Airlines 	Ethiopian Airlines Logo.svg 	ET 	ETH 	ETHIOPIAN 	Ethiopian Airlines Boeing 777-200LR ET-ANN DXB 2012-2-24.png 	Addis Ababa Bole International Airport 	
+National Airways Ethiopia 		9Y 				Addis Ababa Bole International Airport 	
+Trans Nation Airways
+
+
+Air Arabia Egypt 	العربية للطيران 	Air Arabia Logo.svg 	RBG 	E5 	AIR ARABIA 	SU-AAB (5919269506).jpg 	2009
+Air Cairo 	اير كايرو 	Air Cairo logo.png 	MSC 	CE 	AIR CAIRO 	SU-BPU A320-214 Air Cairo DUS 29MAY10 (4651971512).jpg 	2003
+Air Go Airlines (Egypt) 			ACY 	EO 			2013
+Air Leisure 			ALD 	AL* 			2013
+Air Sinai 	سيناء للطيران 	Airsinai cut.jpg 	ASD 	4D 	AIR SINAI 	Air Sinai Boeing 737-200 Allieri-1.jpg 	1982
+Alexandria Airlines 		Alexandria Airlines logo.png 	KHH 	XH 		SU-KHM B737-500 Alexandria Airlines (4458153154) (3).jpg 	2007
+AlMasria Universal Airlines 	شركة الطيران المصرية العالمية 	AlMasria Universal Airlines logo.jpg 	LMU 	UJ 	ALMASRIA 	Stored airliners at Goodyear, Arizona (13128728385).jpg 	2008
+AMC Airlines 		AMC Airlines logo.svg 	AMV 	9V 	AMV 	AMC Airlines Boeing 737-800 Olivati-1.jpg 	1992
+Aviator 			- 	- 	- 		2014
+Cairo Aviation 		Cairo Aviation logo.png 	CCE 	- 	- 	Tupolev Tu-204-120 Cairo Aviation landing at Vnukovo.jpg 	1998
+EgyptAir 	مصر للطيران 	Egypt Air.svg 	MSR 	MS 	EGYPTAIR 	EgyptAir Boeing 777-300ER SU-GDM London Heathrow Airport.jpg 	1932
+EgyptAir Cargo 		EgyptAir Cargo logo.png 	MSX 	MS 	EGYPTAIR CARGO 	SU-BDG A300F Egyptair Cargo (4474255384) (2).jpg 	2004
+EgyptAir Express 		Egypt Air Express Logo.png 	MSE 	MS 	EGYPTAIR EXPRESS 	Embraer 170-100LR, EgyptAir Express JP7321323.jpg 	2006
+FlyEgypt 			FEG 	FT 	- 		2014
+Nesma Airlines 		Nemsa Airlines Logo.png 	NMA 	NM 	NESMA 	Airbus A320-200 Nesma AL (NMA) SU-NMA - MSN 1697 - Named Bertha (5567976387).jpg 	2010
+Nile Air 	النيل للطيران 		NIA 	NP 	NILEBIRD 	Nile Air Airbus A320-232 (SU-BQC) at Hamburg Airport.jpg 	2008
+Petroleum Air Services 	خدمات البترول الجوية 	Petroleum Air Services logo.png 	PAS 	PS 	SEPHIRA-AIR-PETROLEUM 	Petroleum Air Services Dash 7 Karpezo-4.jpg 	1982
+Smart Aviation Company 		Smart Aviation Company logo.png 	SME 	- 	SMART AVIATION 		2007
+Tristar Air
+
+
+Air Kasai 					N'Dolo Airport 	Charter
+Air Katanga 				Air Katanga BAC111 201AC 9Q-CSJ (6781639771).jpg 	Lubumbashi International Airport 	Charter
+Air Tropiques 					N'Dolo Airport 	The first certified company in DRC[1]
+Airfast Congo 					Lubumbashi International Airport 	Charter
+Aviatrade Congo 					Active 2014 	Charter
+BlueSky Airlines (Congo Kinshasa) 				Bluesky Aviation Let L-410UVP-E Turbolet Potters-1.jpg 	Active 2012 	Business/Private Charter
+Compagnie Africaine d'Aviation 	E9 	FPY 	AFRICOMPANY 	CAA Congo Airbus A320 Mutzenberg.jpg 	N'djili Airport 	Active as of May 2014
+Cetraca Aviation Service 		CER 		Cetraca Air Service Let L-410 Potters-1.jpg 	Beni Airport 	CHARTER
+Filair 		FIL 		Filair kikwit.jpg 	N'Dolo Airport 	CHARTER
+Gomair 					Goma International Airport 	Charter
+ITAB - International Trans Air Business 					Lubumbashi International Airport 	Charter
+Katanga Wings 					Lubumbashi International Airport 	Charter
+Kin Avia 					N'Dolo Airport 	Scheduled Carrier
+Korongo Airlines 	ZC 	KGO 		Boeing 737-3M8, Korongo Airlines JP7145857.jpg 	Lubumbashi International Airport 	Scheduled Carrier
+LAC - Lignes Aériennes Congolaises 	4V 	LCG 		Lignes Aériennes Congolaises Boeing 767-200ER TF-ATO BRU 2002-3-2.png 	N'djili Airport 	Scheduled Carrier
+Malift Air 		MLC 			N'Dolo Airport 	Charter
+Malu Aviation 					N'Dolo Airport 	Scheduled Carrier
+Mango Airlines 				Mango Airlines Antonov An-26 Shevelev-1.jpg 	Beni Airport 	Scheduled Carrier
+Services Air 				Services Air Antonov An-26 SDV-1.jpg 	N'djili Airport 	Cargo
+Swala Aviation 				Swala Aviation Short Skyvan Shevelev-1.jpg 	Kavumu Airport 	Charter
+Trans Air Cargo Service 					N'djili Airport 	Cargo
+Victoria Airways 					Goma International Airport 	Cargo
+XL Trading 					Lubumbashi International Airport 	Cargo
+Defunct airlines
+
+This is a list of now defunct airlines from Democratic Republic of the CongoDemocratic Republic of the Congo.
+AIRLINE 	IATA 	ICAO 	CALLSIGN 	IMAGE 	COMMENCED OPERATIONS 	CEASED OPERATIONS 	NOTES
+ACS Air Charter Service 		CHR 		Boeing 727-30, ACS - Air Charter Service AN0207910.jpg 	1983 	1991 	Inter-Fret Transport Aérien (-1985) merged into ACS Air Charter Service
+Africa One (Congo Kinshasa) 		CFR 			2002 	2007 	
+Air Baraka 					2013 	2014 	
+Air Boyoma 				Air Boyama Antonov An-26 Potters-1.jpg 	2001 	2004 	
+Air Congo (1961) 				Air Congo Caravelle Volpati.jpg 	1961 	1971 	Rebranded as Air Zaire
+Air Zaire 	QC 	AZR 		Air Zaïre DC-8-63CF 9Q-CLG LBG 1986-6-2.png 	1971 	1975 	Rebranded from Air Congo (1961) (1961-1971)
+airDC 				AirDC BAe 146-200 Verkuringen.jpg 	2007 	2009 	
+Armi Global Business Air 					2011 	2012 	
+ATO - Air Transport Office 					1991 	2006 	
+Ban Air Cargo 				Douglas DC-8-62(CF), Air Cargo Chartering JP6581884.jpg 	2009 	2011 	
+Blue Airlines (Congo) 		BUL 		Blue Air Lines Boeing 727-100 Potters-1.jpg 	2001 	2005 	
+Bravo Air Congo 	K6 	BRV 		Bravo Air Congo McDonnell Douglas DC-9-32 Potters-3.jpg 	2006 	2008 	
+Business Aviation (Congo Kinshasa) 	4P 	ABB 			1998 	2007 	
+CAL - Congo Airlines 	EO 	ALX 		Congo Airlines B727-30 9Q-CRG (9436353361).jpg 	1997 	2000 	Rebranded as HBA - Hewa Bora Airways
+Cargair International 					2005 	2006 	
+Congo Express 	9X 	CXR 			2009 	2011 	
+CO-ZA Airways 				Boeing 727-89 AN0653597.jpg 	2004 	2008 	
+Dallex Trade 					2006 	2006 	
+DAS Airlines 		RKC 			2004 	2005 	
+El Sam Airlift 					2006 	2007 	
+Espace Aviation Services 		EPC 			1995 	1998 	
+EWA - Enterprise World Airways 			EWS 		1998 	 ? 	
+Flight Express (Congo Kinshasa) 					2004 	2006 	
+flyCongo 	EO 	ALX 		FlyCongo B767-266ER 9Q-CPD (8613386639).jpg 	2012 	2013 	Merged into CAA - Compagnie Africaine d'Aviation
+Fontshi Aviation Service 	FY 	FUN 			1984 	1993 	
+Garinco Airways 					2007 	2009 	
+Gisair 					? 	2014 	
+Goma Express 					? 	2014 	
+Great Lakes Business Company 					2001 	2007 	
+Groupe Rubuye Aviation 					2006 	2007 	
+HBA - Hewa Bora Airways 	EO 	ALX 		L1011 Hewa Bora Airways 9Q-CHA BRU July 2002.jpg 	2000 	2012 	Rebranded from CAL - Congo Airlines (1997-2000)
+Inter African Cargo Airlines 					? 	1998 	
+Inter-Fret Transport Aérien 					? 	1985 	Merged into ACS Air Charter Service
+Jet Congo Airlines 					2012 	2014 	
+Jetair (Congo Kinshasa) 					1995 	2006 	
+Katale Aero Transport 					1977 	1991 	
+Katanga Express 					2010 	2012 	
+Kavatsi Airlines 					2003 	2005 	
+Kinshasa Airways 		KNS 		9Q-CWY Boeing B.747SP Kinshasa (8392126288).jpg 	2002 	2005 	
+Kivu Air 					1997 	2009 	
+Lubumbashi Air Service 					? 	2014 	
+MIBA Aviation 				Boeing 727-22(F), MIBA AN0758305.jpg 	1994 	1995 	
+New ACS 		CHR 			1991 	1996 	
+Okapi Airlines 	OI 	OKP 			2011 	2014 	
+Pan African Express 		PNF 			1986 	1991 	
+Pegasus Aviation (Congo) 					2005 	2014 	
+Regional Express (Congo Kinshasa) 					2002 	2003 	
+Scibe Airlift Congo 	ZM 	SBZ 		9Q-CBL B707-321B Scibe Airlift Zaire MAN SEP87 (12850936785).jpg 	1979 	1998 	
+Shabair 	S5 	SHB 		Shabair McDonnell Douglas DC-10-10 JetPix-1.jpg 	1984 	1997 	Merged into CAL - Congo Airlines
+Sion Airlines 					 ? 	2014 	
+Stellar Airways 	S1 				2011 	2011 	
+Tango Airways 					2012 	2013 	
+TMK Air Commuter 					1987 	2011 	
+Waltair (Congo) 				Avro 748 and Sud Aviation Caravelle at Kinshasa International.jpg 	1983 	2005 	
+Wetrafa Airlift 					1996 	2009 	
+Wimbi Dira Airways 	9C 	WDA 			2003 	2011 	
+Wolf Aviation 					1983 	1984 	
+ZICAS - Zaire International Cargo Air System
+
+Afrijet Chad 						2014
+Aviatrade Airways 						
+Avmax Chad 						2012
+CHC Tchad 					Bombardier Dash 8-311, CHC Tchad JP6845555.jpg 	2009
+RJM Aviation 						2010
+Toumaï Air Tchad
+
+
+Cabo Verde Express 	Cabo Verde Express.jpg 	- 	CVE 	KABEX 	LET-410.jpg
+TACV
+
+
+Air Leasing Cameroon 		- 	- 	- 	Fokker F-28 Fellowship Air Leasing Cameroon, BRU Brussels (Bruxelles) (National-Zaventem), Belgium PP1164016701.jpg
+Camair-co 	Camair-Co logo.png 	QC 	CRC 	CAMAIRCO 	Camair Co Boeing 737-700 TJ-QCB CDG 2014-05-17.png
+Elysian Airlines 	Elysian Airlines logo.png 	E4 	GIE 	ELYSIAN 	
+Section Liaison Air Yaoundé 		- 	- 	- 	
+African Lines
+
+Air Burkina 		2J 	VBW 	BURKINA 	Ouagadougou Airport 	Air Burkina MD-87 (withdrawn?) parked at Olbia Airport (XT-ABD) (9501041401).jpg 	
+Colombe Airlines 					Ouagadougou Airport 		
+Canguro o.n.l.u.s. Flights Aid
+
+
+Air Botswana 	BP 	BOT 	BOTSWANA 	Sir Seretse Khama International Airport 	1972 	
+Mack Air 					1994 	
+Moremi Air 				1997 	
+Northern Air (Botswana) 						
+Wilderness Air 						
+Blue Sky Airways 				Sir Seretse Khama International Airport 	2012 	
+Flying Mission Services 				Sir Seretse Khama International Airport 	1977 	
+Debswana 				Sir Seretse Khama International Airport 	1978 	
+Kalahari Air Services & Charter 				Sir Seretse Khama International Airport 	1968 		
+Kavango Air 					2005 	
+Major Blue Air
+Westair Benin 	
+
+
+SJL Aeronautica 							
+Guicango 							
+Airjet 			MBC 	Embraer EMB-120 Brasilia, Airjet JP5960421.jpg 			
+Air 26 	Air 26 logo.png 		DCD 	D2-EYN Embraer Emb.120 Air 26 (7682729906).jpg 	DUCARD 		
+Alada 			RAD 		AIR ALADA 		
+Angola Air Charter 			AGO 	Boeing 707-324C, Angola Air Charter AN0192382.jpg 	ANGOLA CHARTER 		
+Diexim Expresso 							
+Aerojet 	Aerojetlogo.png 		TEJ 				
+SonAir 	SonAir logo.png 		SOR 	Fokker 50, Sonair JP5853170.jpg 	SONAIR 		
+TAAG Angola Airlines 		DT 	DTA 	TAAG 777-3M2ER.jpg 	DTA 		
+Serviços Executivos Aéreos de Angola 							
+Heli Malongo Airways
+
+Air Algérie 	Logo Air Algérie.svg 	AH 	DAH 	7T-VJX A330 Air Algerie (14600866149).jpg 	AIR ALGERIE 	1947
+Air Express Algeria 	Air Express Algeria logo.png 	- 	AEA 	ZS-NAC Beechcraft Be.1900 Air Express Algeria (7690095118).jpg 	Air Express 	2002
+Star Aviation 	Star Aviation logo.png 	- 	- 		- 	2001
+Tassili Airlines 	Tassili Airlines logo.png 	SF 	DTH 	P3260032.JPG 	TASSILI AIRLINES 	1997
+Defunct airlines
+
+This is a list of now defunct airlines from Algeria:[2]
+AIRLINE 	LOGO 	IATA 	ICAO 	IMAGE 	CALLSIGN 	COMMENCED OPERATIONS 	CEASED OPERATIONS
+Antinea Airlines 	Antinea Airlines logo.png 	HO* 	DJA 		ANTINEA 	1999 	2003
+Ecoair International 		9H* 	DEI 		- 	1999 	2002
+Khalifa Airways
+
+Air Andorra
+
+2Excel Aviation 			BRO 	BROADSWORD
+AirTanker 	AirbusVoyageratRIAT2011.jpg 		TOW 	TOWLINE
+Atlantic Airlines 	Atlantic.airlines.electra.g-lofd.arp.jpg 		NPT 	NEPTUNE
+BA CityFlyer 	2010-11-07 12-57-09 United Kingdom Scotland Kirkliston.jpg 	CJ 	CFE 	FLYER
+BAE Systems Corporate Air Travel 			BAE 	FELIX
+BMI Regional 	Bmi embraer erj145 g-rjxd arp.jpg 	BM 	BMR 	MIDLAND
+Bristow Helicopters 	Bristow Helicopters Australia Aerospatiale AS-332L1 Super Puma Vabre.jpg 		BHL 	BRISTOW
+British Airways 	British Airways A380-800 G-XLEC LHR 2014-03-29.png 	BA 	BAW 	SPEEDBIRD
+Cello Aviation 			CLJ 	CELLOJET
+DHL Air UK 	DHL Air UK - G-BIKK - Boeing 757-200 - Airport Budapest (9433-35).jpg 	D0 	DHK 	WORLD EXPRESS
+Eastern Airways 	Easternairways j41 g-majx arp.jpg 	T3 	EZE 	EASTFLIGHT
+EasyJet 	Easyjet.takeoff.closeup.300506.arp.jpg 	U2 	EZY 	EASY
+Flybe 	DHC8-G-JEDL-0297.jpg 	BE 	BEE 	JERSEY
+Jet2 	Jet2.com b757-200 g-lsae at manchester airport arp.jpg 	LS 	EXS 	CHANNEX
+Jota Aviation 	Beech B90 King Air, Jota Aviation AN2091500.jpg 		ENZ 	ENZO
+Loganair 	G-BVVK (8480006592).jpg 	LC 	LOG 	LOGAN
+Monarch Airlines 	Monarch.a321-200.g-ozbi.arp.jpg 	ZB 	MON 	MONARCH
+RVL Aviation 		7M 	REV 	ENDURANCE
+Thomas Cook Airlines 	Thomas Cook Airlines A321 (G-TCDE) lands Bristol 22.6.14 arp.jpg 	MT 	TCX 	KESTREL
+Thomson Airways 	Thomson Boeing 787-8 G-TUID MAN (UK).jpg 	BY 	TOM 	TOMSON
+Titan Airways 	Titan Airways BAe 146.jpg 	ZT 	AWC 	ZAP
+Virgin Atlantic Airways 	Boeing 747-400 - Virgin Atlantic Airways (G-VROC).JPG 	VS 	VIR 	VIRGIN
+Type B Operating Licence Holders[2]
+247 Jet 			TWF 	CLOUD RUNNER
+Acropolis Aviation 			CRV 	ACROPOLIS
+AH Helicopters 				
+Air Charter Scotland 	G-OODM (8484061422).jpg 		EDC 	SALTIRE
+Air Medical 			MCD 	AIR MEDICAL
+Aravco 			ARV 	ARAVCO
+Arena Aviation 	Arena AS355 fleet.jpg 		REN 	ARENA
+Atlas Helicopters 			TDT 	TRIDENT
+AV8 Helicopters 			AVH 	KENT HELI
+Blink 			BKK 	BLINKAIR
+Bond Air Services 			RHD 	RED HEAD
+Bond Offshore Helicopters 	Bond Offshore Helicopters - Eurocopter AS-332L2 Super Puma Mk2.jpg 		BND 	BOND
+Bookajet 			BOO 	BOOKAJET
+Cambridge Aero Club 				
+Capital Air Charter 			EGL 	PRESTIGE
+Capital Air Services 			WDK 	WOODSTOCK
+Castle Air 				CASTLEFILM
+Centreline Air Charter 			CLF 	CLIFTON
+Central Helicopters 				
+CHC Scotia 	CHC Helicopter Scotia Sikorsky S-92A.jpg 			
+Cobham Flight Inspection 			CLB 	CALIBRATOR
+Concierge Aviation 			RHK 	REDHAWK
+Corporate Jet Management 			CJM 	CHECKMARK
+Cutting Edge Helicopters 				
+Diamond Executive Aviation 			WKT 	WHITE KNIGHT
+Directflight 			DCT 	
+DO Systems 			STA 	STAR
+East Midlands Helicopters 				
+EBG Helicopters 				REDHILL
+Elite Helicopters 				SOLENT
+Eurojet Aviation 			GOJ 	GOJET
+Excel Charter 			XEL 	HELI EXCEL
+Execujet (UK) 			LCY 	LONDON CITY
+Executive Aviation Services 			JTR 	JESTER
+Flairjet 			FLJ 	FLAIRJET
+Fly Heli Wales 				
+Fly Vectra 			VCG 	THUNDERCAT
+FB Heliservices 				
+FR Aviation 	Dassault.falcon20.g-frak.arp.jpg 		FRA 	RUSHTON
+Gama Aviation 	G-GMAB (8490531786).jpg 		GMA 	GAMA
+Global Flight Solutions 				
+Hangar 8 			HGR 	HANG
+Haverdfordwest Air Charter Services 				
+Hebridean Air Services 	G-HEBS (8491334275).jpg 		HBR 	HEBRIDEAN
+Heli Air 			HLY 	WHISPER
+Heli Charter 				HELI-CHARTER
+Helicentre Liverpool 			HLL 	FUSION
+Helicopter Services 			TOA 	TOPCAT
+HG Helicopters Scotland 				
+HH Helicopters 			HHH 	CORINIUM
+Hields Aviation 				HIELDS
+HJS Helicopters 				
+IAS Medical 			MDI 	MEDOPS
+Interflight (Air Charter) 			IFT 	INTERFLIGHT
+Isles of Scilly Skybus 	Skybus otter ml.jpg 	5Y 	IOS 	SCILLONIA
+Lakeland Seaplane Tours 				
+Links Air 			LNW 	FASTLINK
+Loch Lomond Seaplanes 				
+London Executive Aviation 	G-LEAC (8490532898) (2).jpg 		LNX 	LONEX
+London Helicopter Centres 			LHC 	MUSTANG
+Lydd Air 			LYD 	LYDDAIR
+Moorgoods Helicopters 				
+Multiflight 	G-WENA (8489500811).jpg 		MFT 	YORKAIR
+Northumbria Helicopters 			NHL 	NORTHUMBRIA
+Oryx Jet 			OJT 	ORYSTAR
+PDG Helicopters 	Departing Drumnadrochit - geograph.org.uk - 1417721.jpg 		PDG 	OSPREY
+Pen-Avia 			PDY 	PENDLEY
+Perfect Aviation UK 				
+Phoenix Helicopter Academy 				
+Police Aviation Services 			PLC 	SPECIAL
+Polo Aviation 			CUK 	CHUKKA
+PremiAir Aviation Services 			PGL 	PREMIERE
+Ravenair 	G-ORVR (6995623606).jpg 		RVN 	RAVEN
+Redhill Aviation 			RHC 	REDAIR
+Rise Aviation 				
+SaxonAir 			SXN 	SAXONAIR
+Sloane Helicopters 			SLN 	SLOANE
+Starspeed 			SSP 	STARSPEED
+Synergy Aviation 			SYG 	SYNERGY
+TAG Aviation (UK) 	G-EGVO (8480007772).jpg 		VIP 	SOVEREIGN
+Triair (Bermuda) 			TBQ 	
+Veritair Aviation 				
+London's Air Ambulance 	London's Air Ambulance Helicopter at Tower Bridge.jpg 		HME 	HELIMED
+VLL Limited 			EDY 	STOBART
+VVB Aviation Charter Services 			VVB 	VEE-TRANS
+Whizzard Helicopters 				
+Woodgate Aviation (NI) 				
+Xclusive Jet Charter 			XJC 	EXCLUSIVE JET
+Yorkshire Air Ambulance 				
+Zephyr Aviation 			MBG 	CHALGROVE
+Air Transport Licence Holders[3]
+Aurigny Air Services 	ATR72-G-BWDA-02.jpg 	GR 	AUR 	AYLINE
+Blue Islands 	Blueislands G-BYHG.jpg 	AX 	BCI 	BLUE ISLAND
+Others
+Coyne Airways[4]
+
+Ukraine International Airlines 	AUI 	PS 	UKRAINE INTERNATIONAL 	Boryspil International Airport
+Commercial 				
+Air Urga 	URG 	3N 	URGA 	Kirovohrad Airport/Kryvyi Rih International Airport
+Dniproavia 	UDN 	Z6 	DNIEPRO 	Dnipropetrovsk International Airport
+Motor Sich Airlines 	MSI 	M9 	MOTOR SICH 	Zaporizhia International Airport
+Kharkiv Airlines 	KHK 	KT 	KHARKIV 	Kharkiv International Airport/Boryspil International Airport
+UM Airlines 	UKM 	UF 	UKRAINE MEDITERRANEE 	Boryspil International Airport
+UTair-Ukraine 	UTN 	QU 	UT-UKRAINE 	Luhansk International Airport
+Charter 				
+Aero Charter 	UCR 	DW 	CHARTER UKRAINE 	Boryspil International Airport
+Aerostar Airlines 	UAR 		AEROSTAR 	Kiev International Airport
+Bukovyna Airlines 	BKV 		BUKOVYNA 	Chernivtsi International Airport
+Business Aviation Center 	BCV 		BUSINESS AVIATION 	Boryspil International Airport/Kiev-Zhulyany Airport
+ChallengeAero 	CHG 		SKY CHALLENGER 	
+Constanta Airline 	UZA 		CONSTANTA 	Zaporizhia International Airport
+Ukraine Air Enterprise 	UKN 		ENTERPRISE UKRAINE 	
+Wind Rose Aviation 	WRC 	7W 	WIND ROSE 	Boryspil International Airport
+Yuzhmashavia 	UMK 	2N 	YUZMASH 	Dnipropetrovsk International Airport
+Cargo 				
+Aerovis Airlines 	VIZ 		AEROVIZ 	
+Antonov Airlines 	ADB 		ANTONOV BUREAU 	Gostomel Airport
+Cavok Air 	CVK 		CARGO LINE 	
+Ukraine Air Alliance 	UKL 		UKRAINE ALLIANCE 	Boryspil International Airport/Kiev-Zhulyany Airport
+Unsorted 				
+Aeronavigaciya 	KTN 		AERONAVIGACIYA 	
+Air Anastasia 	RUD 		ANASTASIA 	
+Air Kirovograd 	KAD 		AIR KIROVOGRAD 	
+Air Sirin 	- 			
+Aircompany Chaika 	CHJ 		AIR CHAIKA 	
+Aircompany Rosavia 	URA 		ROSAVIA 	
+ARP 410 Airlines 	URP 		AIR-ARP 	Boryspil International Airport
+Artem-Avia 	ABA 		ARTEM-AVIA 	
+As, Opened Joint Stock Company 	AOO 		COMPANY AS 	
+ATS Private Company 	CPF 		TECHSERVICE 	
+Aviaexpress Aircompany 	VXX 		EXPRESSAVIA 	
+Aviatrans-Kiev 	KCA 		TRANS-KIEV 	
+Baltyka 	BTK 		BALTYKA 	
+Breeze Ltd 	BRE 		AVIABREEZE 	
+BT-Slavuta 	BTT 		BEETEE-SLAVUTA 	
+CABI 	CBI 	CV 	CABI 	
+Concordavia 	COD 		CONCORDAVIA 	
+Crimea Universal Avia 	KRM 		TRANS UNIVERSAL 	
+Delta Express International 	DLI 		DELTA EXPRESS 	
+DESNA 	DSN 		DESNA 	
+Discovery 	DCR 		DISCO 	
+Euroline 				
+Galaircervis 	GLS 		GALS 	
+Gorlitsa Airlines 	GOR 		GORLITSA 	
+Ilyich-Avia 	ILL 		ILYICHAVIA 	
+Interaviatrans 	IVT 		INTERAVIA 	
+ISD Avia 	ISD 		ISDAVIA 	
+Khoriv-Avia 	KRV 		KHORIV-AVIA 	
+Khors Aircompany 	KHO 	KO 	AIRCOMPANY KHORS 	Boryspil International Airport
+Kiev Aviation Plant 	UAK 		AVIATION PLANT 	
+Krimaviamontag 	KRG 		AVIAMONTAG 	
+Kroonk Air Agency 	KRO 		KROONK 	
+Krym 	KYM 		CRIMEA AIR 	
+Luhansk 	LHS 		ENTERPRISE LUHANSK 	
+Mars RK 	MRW 	6V 	AVIAMARS 	
+Meridian 	POV 		AIR POLTAVA 	
+Meridian Limited 	MEM 		MERIDIAN CHERRY 	
+Nikolaev-Air 	NKV 		AIR NIKOLAEV 	
+Podilia-Avia 	PDA 		PODILIA 	
+Rivne Universal Avia 	UNR 		RIVNE UNIVERSAL 	Rivne International Airport
+Sevastopol-Avia 	SVL 		SEVAVIA 	"Belbek" Sevastopol International Airport
+Shovkoviy Shlyah 	SWW 	S8 	WAY AERO 	
+Sincom-Avia 	INK 		SINCOM AVIA 	
+Skif-Air 	USK 		SKIF-AIR 	
+Status-Alpha Airline 	STB 		STATUS-ALPHA 	
+Ues-Avia Aircompany 	UES 		AVIASYSTEM 	
+Ukraine Transavia 	TRB 		KIROVTRANS 	
+Ukrainian Helicopters 	UHL 		UKRAINE COPTERS 	
+Ukrainian Pilot School 	UPL 		PILOT SCHOOL 	
+Universal Avia 	HBU 		KHARKIV UNIVERSAL 	
+Universal-Avia 	UAZ 		UNIVERSAL-AVIA 	
+V-Avia Airline 	WIW 		VEE-AVIA 	
+Vega Air Company 	WGA 		WEGA FRANKO 	Ivano-Frankivsk International Airport/Kiev-Zhulyany Airport
+Veles, Ukrainian Aviation Company 	WEL 		VELES 	
+Veteran Airlines
+
+
+Anadolujet 	Anadolujet Havayolları 	AJA 	TK 	ANADOLUJET 	2008
+Atlasjet 	Atlasjet Havayolları 	KKK 	KK 	ATLASJET 	2001
+Borajet 	Borajet Havayolları 	BRJ 	YB 	BORA JET 	2010
+Corendon Airlines 	Corendon Havayolları 	CAI 	XC 	CORENDON 	2005
+Freebird Airlines 	Hürkuş Havayolu Taşımacılık ve Ticaret 	FHY 	FH 	FREEBIRD AIR 	2001
+IZair 	İzmir Hava Yolları 	IZM 	4I 	IZMIR 	2006
+MNG Airlines 	MNG Havayolları 	MNB 	MB 	BLACK SEA 	1997
+MyCargo Airlines 		RUN 	9T 	CARGO TURK 	2004 (2011)1
+Onur Air 	Onur Air Taşımacılık 	OHY 	8Q 	ONUR AIR 	1992
+Pegasus Airlines 	Pegasus Hava Taşımacılığı 	PGT 	PC 	SUNTURK 	1990
+Saga Airlines 	Saga Hava Taşımacılık 	SGX 	2J 	SAGA 	2004
+Seabird Airlines 	Seabird Airlines 	— 	— 	SEABIRD 	2012
+SunExpress 	Güneş Ekspres Havacılık 	SXS 	XQ 	SUNEXPRESS 	1990
+Tailwind Airlines 	Tailwind Havayolları 	TWI 	TI 	TAILWIND 	2009
+Turkish Airlines 	Türk Hava Yolları 	THY 	TK 	TURKISH 	1933
+ULS Airlines Cargo
+
+Air Glaciers 	SA315B Air Glaciers Boarding.jpg 		AGV 	AIR GLACIERS 		
+Belair (airline) 	Belair B752 HB-IHR.jpg 	4T 	BHP 	BELAIR 	Zurich Airport 	
+Club Airways International 					Geneva International Airport 	
+Comlux 	9H-AWK in ZRH.jpg 		CLA 	COMLUX 		
+Darwin Airline 	Darwin Saab 2000 HB-IZZ @ Geneva International Airport.jpg 	0D 	DWT 	DARWIN 	Lugano Airport 	
+EasyJet Switzerland 	EasyJet A319 HB-JZG @ Geneva International Airport.jpg 	DS 	EZS 	TOPSWISS 	EuroAirport Basel-Mulhouse-Freiburg 	
+Edelweiss Air 	Edelweiss Air A330-200 HB-IQI taking off from ZRH.jpg 	WK 	EDW 	EDELWEISS 	Zurich Airport 	
+Heliswiss 	Kamov Ka-32 A12.jpg 		HSI 	HELISWISS 	Bern Airport 	
+Helvetic Airways 	Helvetic Airways Fokker 100 HB-JVG landing in ZRH.jpg 	2L 	OAW 	HELVETIC 	Zurich Airport 	
+Jet Aviation 		PP 	PJS 	JETAVIATION 	Zurich Airport, Teterboro Airport 	
+Lions Air 			LEU 	LIONSAIR 		
+PrivatAir 	HB-IEE landing in GVA.jpg 	PT 	PTI 	PRIVATAIR 		
+Sky Work Airlines 	Skywork Dornier 328 in Bern.jpg 	SX 	SRK 	SKYFOX 	Bern Airport 	
+Swiss Global Air Lines 	2011-05-29 15-53-24 Switzerland Kanton Zürich Grundbuck-Gässli.jpg 	LX 	SWU 	EUROSWISS 	Geneva International Airport, EuroAirport Basel-Mulhouse-Freiburg 	
+Swiss International Air Lines 	Swiss A340.jpg 	LX 	SWR 	SWISS 	Zurich Airport 	
+Zimex Aviation
+
+Amapola Flyg 		APF 	AMAPOLA 	Stockholm-Arlanda Airport 	
+Avia Express 	JZ 	SKX 	SKY EXPRESS 	Stockholm-Arlanda Airport 	
+Barents AirLink 	8N 	NKF 	NORDFLIGHT 	Luleå Airport 	
+Braathens Regional 	DC 	BRX 	BRAATHENS 	Stockholm-Bromma Airport 	
+Direktflyg 	HS 	HSV 	HIGHSWEDE 	Borlänge Airport 	
+Grafair 			GRAFAIR 	Stockholm-Bromma Airport 	
+Höga Kusten Flyg 	HK 	GAO 	GOLDEN 	Örnsköldsvik Airport 	
+International Business Air 	6I 	IBZ 	INTERBIZ 	Stockholm-Arlanda Airport, Stockholm-Bromma Airport 	
+Jämtlands Flyg 					
+Kullaflyg 	2Q 	ETS 	EXTRANS 	Ängelholm-Helsingborg Airport 	
+Malmö Aviation 	TF 	SCW 	SCANWING 	Malmö Airport 	
+Nextjet 	2N 	NTJ 	NEXTJET 	Stockholm-Arlanda Airport 	
+Nord-Flyg 		NEF 	NORDEX 		
+Norrlandsflyg 		HMF 	LIFEGUARD SWEDEN 		
+Novair 	1I 	NVR 	NAVIGATOR 	Gothenburg-Landvetter Airport 	
+Scandinavian Airlines 	SK 	SAS 	SCANDINAVIAN 	Stockholm-Arlanda Airport 	With partnership between Denmark and Norway
+Sparrow Aviation 	9I 			Jönköping Airport 	
+Sundsvallsflyg 				Sundsvall-Härnösand Airport 	
+Sverigeflyg 	2Q 	ETS 	EXTRANS 	Stockholm-Bromma Airport 	
+TUIfly Nordic 	6B 	BLX 	BLUESCAN 	Stockholm-Arlanda Airport 	
+WaltAir 	XW 	GOT 	GOTHIC 		
+West Air Sweden
+
+Aerofan 		CFF 			
+Aeronova 		OVA 	Aeronova 	1996 	
+Air Europa 	UX 	AEA 	EUROPA 	1986 	
+Air Nostrum 	YW 	ANE 	NOSTRUM AIR 	1994 	
+Air Pullmantur 	EB 	PLM 	PULLMANTURE 	2003 	
+AlbaStar 	JQ 	LAV 		2010 	
+Audeli Air 		ADI 	AUDELI 		
+Binter Canarias 	NT 	IBB 	BINTER 	1989 	
+Calima Aviación 		CMV 		2008 	
+Evelop Airlines 	E9 	EVE 	EVELOP 	2013 	
+Executive Airlines (Spain) 		EXU 	SACAIR 		
+Gestair 	GP 	GES 	GESTAIR 	1977 	
+Gestair Cargo 		RGN 	CYGNUS AIR 	1994 	
+Helicópteros del Sureste 					
+Iberia (airline) 	IB 	IBE 	IBERIA 	1927 	National carrier
+Iberia Cargo 					
+Iberia Express 	I2 	IBS 	IBEREXPRES 	2012 	
+Ibertrans Aérea 		IBT 	IBERTRANS 	1991 	
+Mayoral Executive Jet 		MYO 	MAYORAL 	1985 	
+Navegacion y Servicios Aéreos Canarios 	ZN 	NAY 	NAYSA 	1969 	
+PAN Air 	PV 	PNR 	 	1987 	
+Privilege Style 		PVG 	PRIVILEGE 	2003 	
+Sky Service Aviation 		SSA 	STAR JET 		
+Swiftair 	W3 	SWT 	SWIFT 	1986 	
+Taxijet 					
+Volotea 	V7 	VOE 	VOLOTEA 	2012 	
+Vueling 	VY 	VLG 	VUELING 	2004 	
+Wamos Air 	EB 	PLM 	PULMANTUR 	2003 	
+Wondair
+
+Adria Airways 	JP 	ADR 	ADRIA 	1961 	
+Solinair
+
+ACG Air Cargo Global 	Boeing 747-409(BDSF) Air Cargo Germany D-ACGA, HHN Hahn, Germany PP1307381455.jpg 		CCC 	GLOBAL CARGO 	2013 	
+Aero Slovakia 	Cessna 150 (D-EEBB) 01.jpg 		ASO 	AERO NITRA 	1992 	
+Air Explore 	OM-AEX B737 Air Explore (5062322708) (2).jpg 	ED 	AXE 	GALILEO 	2010 	
+Air Transport Europe 	Air Transport Europe Mil Mi-8T Kral-1.jpg 		EAT 	TRANS EUROPE 	1990 	
+Go2Sky 	OM-GTA1.jpg 	6G 	RLX 	RELAX 	2013 	
+OPERA JET 	Dassault Falcon 2000 Opera Jet OM-OPF, LUX Luxembourg (Findel), Luxembourg PP1340811335.jpg 		OPJ 	OPERA JET 	2007 	
+Slovak Government Flying Service 	Tupolev Tu-154M Slovak Republic.jpg 		SSG 	SLOVAK GOVERNMENT 	1993 	
+Travel Service (Slovakia)
+
+
+Airpink 	  	  	  	Nikola Tesla International Airport
+Air Serbia 	JU 	JAT 	TBA 	Nikola Tesla International Airport
+Avio-Service 	  	  	  	Nikola Tesla International Airport
+Eagle Express Air Taxi 	  	  	  	Nikola Tesla International Airport
+Infinity Aviation 	  	  	  	Nikola Tesla International Airport
+Prince Aviation
+
+
+2nd Arkhangelsk United Aviation Division 	ОАО «2-й Архангельский объединенный авиаотряд» 	463[2] 	OAO 		АЧ 	DVINA 	2nd Arkhangelsk United Aviation Division Let L-410.jpg
+223rd Flight Unit 	ФГКУ «Государственная авиакомпания «223 летный отряд» Министерства обороны Российской Федерации 	239[3] 	CHD 		ЮЦ 	CHKALOVSK-AVIA 	223rd Flight Unit Ilyushin Il-62M Pichugin 2006.jpg
+224th Flight Unit 	ОАО «Государственная авиакомпания «224 летный отряд» 	529 	TTF 		ЮИ 	CARGO UNIT 	224th Flight Unit Antonov An-124 Ryabtsev.jpg
+Abakan-Air 	ООО «Абакан Эир» 	551 	NKP 		АЭ 		
+AeroBratsk 	ОАО «Аэропорт Братск» 	240[2] 	BRP 		БВ 	AEROBRA 	AeroBratsk Yakovlev Yak-40 Osokin.jpg
+Aeroflot-Russian Airlines 	ОАО «Аэрофлот — российские авиалинии» 	1[2] 	AFL 	SU 	СУ 	AEROFLOT 	Ilyushin Il-96.jpg
+AeroGeo 	ООО «АэроГео» 	517 			ЕГ 		
+Aerokuzbas 	ООО «Аэрокузбасс» 	211 	NKZ 		БН 	NOVOKUZNETSK 	
+Aerolimousine 	ООО «Аэролимузин» 	505 	LIN 		ЛИ 	AEROLIMOUSINE 	Aerolimousine Yakovlev Yak-40 Maksimov.jpg
+Aeroservice 	ООО «Аэросервис» (Забайкальский край, г. Чита) 				ЯУ 		
+Aeroservice 	ООО «Авиакомпания «Аэросервис» (Дагестан, г. Махачкала) 	408 			ЮГ 		
+AirBridgeCargo Airlines 	ООО «Авиакомпания ЭйрБриджКарго» 	501[4] 	ABW 	RU 	БК 	AIRBRIDGE CARGO 	AirBridgeCargo Boeing 747-200F Kustov.jpg
+Air Management Group 	ЗАО «Авиа Менеджмент Груп» 	481[2] 	DXT 		ДТ 	DEXTER 	Dexter Pilatus PC-12.jpg
+Air Samara 	ОАО «Эйр Самара» 	559 	BRZ 	E5 	СИ 		
+Aircompany Amur 	ООО «Авиационная компания «Амур» 	555 			АП 		
+Ak Bars Aero 	ОАО «Ак Барс Аэро» 	249[5] 	BGM 	2B 	БГ 	BUGULMA 	Bugulma Air Enterprise Yakovlev Yak-40.jpg
+Alrosa Mirny Air Enterprise 	ЗАО «Авиакомпания АЛРОСА» 	230[6] 	DRU 	6R 	ЯМ 	MIRNY 	Alrosa Mirny Air Enterprise Tupolev Tu-134 Osokin.jpg
+Altay airlines 	Алтайское краевое государственное унитарное предприятие «Алтайские авиалинии» 	333 			БШ 		
+Amega 	ООО «Авиакомпания «АМЕГА» 				ЭГ 		
+Amur aviation base 	Государственное автономное учреждение Амурской области «Амурская авиабаза» 	527 			ЦХ 		
+Angara Airlines 	ЗАО «Авиакомпания «Ангара» 	477[2] 	AGU 	2G 	ИК 	SARMA 	Angara Airlines Antonov An-24RV Osokin Feb 2011.jpg
+Argo JSK 	ЗАО «Авиакомпания «АРГО» 	124 			ТЯ 		
+ATRAN 	ООО «АТРАН» 	499[2] 	VAS 	V8 	ЮЛ 	ATRAN 	ATRAN Antonov An-12.jpg
+Aurora 	ОАО «Авиакомпания «Аврора» 	486 	SHU 	HZ 	ИЕ 		
+Aviacon Zitotrans 	ОАО «Авиакомпания «Авиакон Цитотранс» 	442[2] 	AZS 	ZR 	РЦ 	ZITOTRANS 	Aviacon Zitotrans Ilyushin Il-76 August 2010.jpg
+Avialift Vladivostok 	ЗАО «Авиалифт Владивосток» 	120 	VLV 		ДВ 	VLADLIFT 	
+Aviashelf 	ЗАО «Совместное предприятие «Авиационная компания «Авиашельф — Aviashelf» 	9 			ЮШ 		
+Aviaservis 	ООО «Авиасервис» 	560 	KZN 		ТБ 		
+Aviastar-TU 	ООО «Авиационная компания «Авиастар-ТУ» 	458[2] 	TUP 	4B 	ЦТ 	TUPOLEVAIR 	Aviastar-TU Tupolev Tu-204C.jpg
+Aviation Ministry of the Interior of the Russian Federation 			RIF 			INTERMIN AVIA 	
+Barkol Airlines 	ООО «Авиакомпания «Баркол» 	126[5] 	BKL 		ИР 	BARCOL 	Barkol Mil Mi-2.jpg
+Baltic Airlines 	ЗАО «Авиакомпания «Балтийские авиалинии» 	237 	BLL 		БП 	BALTIC AIRLINES 	
+Belogorie 	ООО «АВИА Белогорье» 		BLO 		БЛ 		
+Budzhetnyj perevozchik (airline Pobeda) 	ООО «Бюджетный перевозчик» 		PBD 	DP 	ДР 	POBEDA 	Pobeda Boeing 737-800 at SVO.jpg
+Bural 	ОАО «Авиакомпания Бурятские авиалинии» 	218[5] 	BUN 	U4 	БЮ 	BURAL 	Buryat Airlines Antonov An-24RV Osokin.jpg
+Centre-South 	ООО «Авиакомпания «Центр-Юг» 	169[7] 	CTS 		ФР 	CENTRE-SOUTH 	Centre-South Airlines Yakovlev Yak-40.jpg
+Chukotavia 	Федеральное государственное унитарное предприятие «ЧукотАВИА» 	108[8] 			АД 	CHUKOTAVIA 	Chukotavia Antonov An-26.jpg
+Dalnerechensk avia 	ООО «Дальнереченск Авиа» 	549 			ДА 		
+Delta K 	ООО «Производственно — коммерческое авиационное предприятие «Дельта К» 	114 			ШИ 		
+Dobrolet 	ООО «Добролёт» 	557 	DBR 	QD 	ДЛ 		1st Dobrolet flight SVO-SIP (1).jpg
+Donavia 	ОАО «Донавиа» 	89[2] 	DNV 	D9 	Д9 	DONAVIA 	Aeroflot-Don Tupolev Tu-154.jpg
+Elcovka 	ЗАО «Авиапредприятие «Ельцовка» 	532 			ЕД 		
+External images RA-24430
+Flight Inspections and Systems 	ЗАО «Летные проверки и системы» 	467[3] 	LTS 		ЛТ 	SPECAIR 	Specair Antonov An-26.jpg
+Flying technology airline limited 	ООО «Авиакомпания «Летные технологии» 		FTG 		ШЦ 	TECHNOLOGY 	
+Gazpromavia 	ООО «Авиапредприятие «Газпром авиа» 	423[9] 	GZP 	4G 	ОП 	GAZPROM 	Gazpromavia Antonov An-74-T-100.jpg
+Globus 	ООО «Глобус» 	515[9] 	GLP 	GH 	ГЛ 	GLOBUS 	Globus Tupolev Tu-154.jpg
+Goscorporation of OrVD 	ФГУП «Государственная корпорация по организации воздушного движения в Российской Федерации» 		OVD 		ВП 		
+Grozny Avia 	ОАО «Авиакомпания «Грозный Авиа» 	519[9] 	GOZ 	ZG 	ГГ 	GROZNYY AVIA 	Grozny Avia Yakovlev Yak-42.jpg
+Helidrive 	ООО «Хели-драйв» 	550 			РЖ 		
+Helix 	ЗАО «Авиакомпания «Геликс» 	382 			ПЮ 		
+I-Fly 	ООО «АЙ ФЛАЙ» 	533 	RSY 	H5 	ФЛ 	RUSSIAN SKY 	Ifly-a330.jpg
+IrAero 	ЗАО «Авиакомпания «ИрАэро» 	480[10] 	IAE 	IO 	РД 	IRAERO 	IrAir Antonov An-26 Pavel.jpg
+Ikar 	ООО «Авиакомпания «Икар» 	36 	KAR 		АЬ 	KRASJET 	
+Izhavia 	ОАО «Ижавиа» 	479[10] 	IZA 	I8 	ИЖ 	IZHAVIA 	Izhavia Tupolev Tu-134.jpg
+JET AIR GROUP 	ОАО «Джет Эйр Групп» 	491 	JSI 		СЭ 	SISTEMA 	
+Jet-2000 	ООО «Авиакомпания ДЖЕТ-2000» 		JTT 			MOSCOW JET 	
+KAPO Avia 	ЗАО «КАПО Авиа» 	455[11] 	KAO 	G7 	ЛЯ 	KAZAVIA 	KAPO Ilyushin Il-62 Hut.jpg
+Katekavia 	ООО «Производственно-коммерческая фирма «КАТЭКАВИА» 	140[11] 	KTK 		КЮ 	KATEKAVIA 	Katekavia Antonov An-24 Osokin.jpg
+Kazan Air Enterprise 	ОАО «Казанское авиапредприятие» 	356[11] 			ЛЖ 		Kazan Air Enterprise Ilyushin Il-86 Adzhigildaev.jpg
+Khabarovsk Airlines 	Краевое государственное унитарное предприятие «Хабаровские авиалинии» 	459[12] 			НИ 		Khabarovsk Airlines Yakovlev Yak-40.jpg
+Kogalymavia 	ООО «Авиакомпания Когалымавиа» 	165 	KGL 	7K 	7К 	KOGALYM 	
+Komiaviatrans 	ОАО «Комиавиатранс» 	174 	KMA 		ИГ 	KOMI AVIA 	
+Konvers Avia 	ЗАО «Авиакомпания Конверс Авиа» 	419[11] 	CVS 		ЕШ 	CONVERS 	Konvers Avia Mil Mi-2.jpg
+Kosmos 	ЗАО «Производственное объединение «Космос» ОАО РКК «Энергия» им. С. П. Королева 	444[11] 	KSM 	K6 	ГК 	KOSMOS 	MAGAS Kosmos Tupolev Tu-134 Misko.jpg
+Kostroma Air Enterprise 	ОАО «Костромское авиапредприятие» 	489[11] 			КБ 		Kostroma Air Enterprise Antonov An-26.jpg
+KrasAvia 	Государственное предприятие Красноярского края «КрасАвиа» 	484[11] 	SSJ 		ЭК 	SIBERIAN SKY 	KrasAvia Antonov An-32 Osokin.jpg
+Light Air 	ЗАО Авиакомпания «Лайт Эйр» 	554 			ПУ 		
+Lukiaviatrans 	ООО «Лукиавиатранс» 		LKV 		УЛ 		Lukaviatrans Antonov An-30.jpg
+LUKoil-Avia 	ООО «ЛУКОЙЛ-АВИА» 	469[3] 	LUK 		ЛЩ 	LUKOIL 	Lukoil-Avia Yakovlev Yak-42.jpg
+MBKS 	ОАО «МБК-С» 		PLG 			PILGRIM 	
+Meridian (1) 	Авиакомпания «Меридиан» 	238[6] 	MMM 		МП 	AVIAMERIDIAN 	Tu-134 of Meridian Airlines in Belgorod.jpg
+Meridian+ 	ООО «Научно-производственное аэрогеодезическое предприятие «Меридиан+» 		MDN 		ЦЕ 		
+Moscow Aircraft Overhaul Plant 	ЗАО «Московский авиационно-ремонтный завод РОСТО» 				ДУ 		
+MOSCOW AVIATION CENTRE 	Государственное казенное учреждение города Москвы «Московский авиационный центр» 	546 			ЦФ 		
+Murmansk aviation enterprise 	ООО «Мурманское авиационное предприятие» 	541 	MRM 		МУ 	MURMAN 	
+Naryan-Mar United Aviation Squadron 	ОАО «Нарьян-Марский объединенный авиаотряд» 	497[13] 			НЯ 		Naryan-Mar United Aviation Squadron Mil Mi-8MTV-1.jpg
+Nizhnevartovskavia 	ОАО «Нижневартовскавиа» 	470 	NVK 		НП 	VARTOVSKAVIA 	
+Nordavia 	ЗАО «Нордавиа — региональные авиалинии» 	466[2] 	AUL 	5N 	5Н 	ARCHANGELSK AIR 	AeroflotnordTU5.jpg
+Nordwind Airlines 	ООО «Северный Ветер» 	516[14] 	NWS 	N4 	КЛ 	NORDWIND 	Nordwind Airlines Boeing 767-300ER VQ-BPT SVO Jun 2010.png
+Northwest Air Base 	Государственное учреждение Республики Карелия «Северо-Западная база авиационной охраны лесов» 				БХ 		Northwest Air Base Antonov An-2 Dvurekov.jpg
+Orenburg Airlines 	ОАО «Оренбургские авиалинии» 	244[15] 	ORB 	R2 	Р2 	ORENBURG 	Orenair B735 VP-BGR.jpg
+Orenburg Tsentralny Airport 	Федеральное государственное унитарное предприятие «Международный аэропорт «Оренбург» 	539 	ORG 	O7 	УЭ 	ORENAVIA 	
+Orion-x 	ООО «Орион-Икс» 		OIX 			ORIONIX 	
+PANH 	ОАО «Научно-производственная компания «ПАНХ» 	69 	PNH 		ЮФ 	KUBAN LIK 	
+PANH Aircompany 	ООО «Авиационная компания «ПАНХ» 	542 			ШС 		
+Petropavlovsk 	ЗАО «Управляющая компания «Петропавловск» 		PPV 		ПВ 	PAVLOVSK 	
+Petropavlovsk-Kamchatsky Air Enterprise 	Государственное унитарное предприятие Камчатского края «Камчатское авиационное предприятие» 	330[16] 	PTK 		ДЕ 	PETROKAM 	Petropavlovsk-Kamchatsky Air Enterprise Antonov An-26B-100.jpg
+Polar Airlines 	ОАО «Авиакомпания «Полярные авиалинии» 	538 	RKA 	PI 	ЯП 	AIR SAKHA 	Polar Airlines Antonov An-26-100 Sibille.jpg
+Polet Airlines 	ЗАО «Авиакомпания «Полет» 	14[16] 	POT 	YQ 	ПО 	POLET 	Polet Airlines An-124 swallowing  Airbus A380.jpg
+Pskovavia 	ОАО «Псковавиа» 	465[16] 	PSW 		ЛП 	PSKOVAVIA 	Pskovavia Antonov An-26.jpg
+Red Wings Airlines 	ЗАО «Ред Вингс» 	57 	RWZ 	WZ 	ИН 	AIR RED 	Red Wings Airlines Tupolev Tu-204-100.jpg
+Rossiya 	ОАО «Авиакомпания «Россия» 	2[17] 	SDM 	FV 	ПЛ 	RUSSIA 	Il96-300pu-96016.jpg
+Rosvertol-Avia 	ЗАО «Авиакомпания «Роствертол-Авиа» 	514 	RVT 		ВЛ 	ROSTVERTOL 	
+Royal Flight 	ЗАО «Авиакомпания «РОЯЛ ФЛАЙТ» 	198[2] 	ABG 		ГН 	ABAKAN-AVIA 	Abakan-Avia Ilyushin Il-76T Nussbaumer.jpg
+Rusaero 	ЗАО «Авиационная компания «РУССЭЙР» 	553 	RUR 		РЛ 	RUSSTAR 	
+RusJet 	ОАО «Авиакомпания «РусДжет» 	498[17] 	RSJ 		ШТ 	RUSJET 	RusJet Yakovlev Yak-42D Parfaits.jpg
+RusLine 	ЗАО «Авиационная Компания «РусЛайн» 	225[17] 	RLU 	7R 	РГ 	RUSLINE AIR 	RusLine CRJ-200.jpg
+Russian Air Force 			RFF 			RUSSIAN AIRFORCE 	Russian Air Force Antonov An-26 Dvurekov.jpg
+Russian Sky Airlines 	ЗАО «Авиакомпания «Русское небо» 	61 	ESL 	P7 	П7 	RADUGA 	Russian Sky Il-86 RA-86139 DME 2005-5-1.png
+S7 Airlines (OJSC Siberia Airlines ) 	ОАО «Авиакомпания «Сибирь» 	31[14] 	SBI 	S7 	С7 	SIBERIAN AIRLINES 	Tolmachevo terminal nazionale.jpg
+Saratov Airlines 	ОАО «Саратовские авиалинии» 	102[14] 	SOV 	6W 	6В 	SARATOV AIR 	Saravia Yak-42D RA-42550 DME Aug 2009.png
+Severo-zapad 	ООО «Авиакомпания «Северо-Запад» 	548 			ЕИ 		
+Severstal Air Company 	ООО «Авиапредприятие «Северсталь» 	251[14] 	SSF 	D2 	Д2 	SEVERSTAL 	Severstal Yakovlev Yak-40.jpg
+Shar Ink 	ООО «Производственная многоотраслевая авиакомпания «Шар инк Лтд.» 	208[18] 	UGP 		ЖВ 	SHARINK 	Shar Ink Antonov An-74 2007.jpg
+Sibia 	ООО «Авиакомпания «СИБИА» 	99[14] 	SBD 		ШВ 	SIBIA 	
+External images RA-40487
+Suburskaja Ljegkaja Aviacija 	ООО «Сибирская Легкая Авиация» 	552 			СЛ 		
+Simargl Air Company 	ООО «Авиакомпания «СИМАРГЛ» 	246[14] 	SML 		СГ 	SIMAVIA 	
+Sirius-Aero 	ООО «Авиакомпания «Сириус-Аэро» 	207 	CIG 		ВЦ 	SIRIUS AERO 	Sirius-Aero Tupolev Tu-134.jpg
+Skol Airlines 	ООО «Авиакомпания «СКОЛ» 	228[14] 	CDV 		СД 	SKOL 	Skol Yakovlev Yak-40 Pavel.jpg
+Smolenskaerotrans 	ЗАО «Смоленскаэротранс» 				УФ 		
+Sokol 	ЗАО «Авиакомпания «Сокол» 	284 	PIV 		ЮП 	AEROSOKOL 	
+SPECIAL DETACHMENT - RUSSIA, FED.ST.B.I. 	ФГБУ «Специальный лётный отряд «Россия» Управления делами Президента Российской Федерации 	530 	RSD 		ЛР 	STATE AERO 	
+State Unitary Air Enterprise MChS Rossii 	ФГУАП МЧС России 	8[6] 	SUM 		РФ 	SUMES 	MChS Rossii Mi-8 and Mi-26.jpg
+Taimyr Air Company 	ОАО «Авиакомпания «Таймыр» 	452[19] 	TYA 	Y7 	ТИ 	TAIMYR 	Nordstar Boeing 737-800.jpg
+Tomsk Avia 	ООО «Авиакомпания «Томск Авиа» 	494[19] 	TSK 	T9 	СП 	TOMSK AVIA 	
+Transaero Airlines 	ОАО «Авиационная компания «Трансаэро» 	51[19] 	TSO 	UN 	УН 	TRANSOVIET 	Transaero Airlines Tu-214.jpg
+TSSKB-Progress 	ФГУП «Государственный научно-производственный ракетно-космический центр «ЦСКБ-Прогресс» 		PSS 		ЦС 	PROGRESS 	
+Tulpar air 	ООО «Авиакомпания «Тулпар Эйр» 	359 	TUL 		ТЫ 	URSAL 	
+Turuhan 	ООО «Авиакомпания «Турухан» 	90 			УТ 		
+Tuva Airlines 	Республиканское казенное предприятие «Авиакомпания «Тувинские авиационные линии» 	547 			КФ 	AIR TYVA 	
+Uktus 	ЗАО «Авиакомпания «Уктус» 	540 	UKT 		УБ 	UKTUS 	
+Ulyanovsk Higher Civil Aviation School 	ФГБОУ ВПО «Ульяновское высшее авиационное училище гражданской авиации (институт)» 		UHS 		ЖК 	PILOT AIR 	UVAUGA Tupolev Tu-154M.jpg
+Unoversal-Avia 	ГП «Универсал-Авиа» 	556 			УД 		
+Ural Airlines 	ОАО «Авиакомпания «Уральские авиалинии» 	18 	SVR 	U6 	У6 	SVERDLOVSK AIR 	Ural Airlines A320 VP-BPU.jpg
+UTair Aviation 	ОАО «Авиакомпания «ЮТэйр» 	6[20] 	UTA 	UT 	ЮТ 	UTAIR 	UTair Boeing 737-400 Ates.jpg
+UTair Cargo 	ЗАО «ЮТэйр-Карго» 	53[20] 	TUM 		ПП 	TUMTEL 	UTair Cargo An-26 side view.jpg
+UTair Express 	ООО «ЮТэйр-Экспресс» 	504[20] 	UTX 	UR 	ЮР 	KOMINTER 	ATR42 utair.jpg
+UTair — Veriljetnyje uslugi 	ОАО «ЮТэйр — Вертолётные услуги» 	34 	NFT 		НФ 	NEFTEAVIA 	
+Vektor 	ООО «Авиационно — Промышленная Компания ВЕКТОР» 		VEK 		ЖЦ 		
+Vertical-T 	ООО «Авиакомпания Вертикаль-Т» 	79 	VLT 		ИТ 	VERTICAL 	Vertical-T Mil Mi-8.jpg
+Vertical-Team 	ООО «Авиакомпания Вертикаль-Тим» 		VCL 		ФШ 		
+VIM Airlines 	ООО «Авиакомпания «ВИМ-АВИА» 	451[21] 	MOV 	NN 	НН 	MOV AIR 	VIM Airlines Boeing 757.jpg
+Vityaz-aero 	ООО «Авиационная компания «Витязь-Аэро» 	536 			ЯФ 		
+Vladivostok air 	ОАО «ВЛАДИВОСТОК АВИА» 		VLK 	XF 	ДД 	VLADIVOSTOK AIR 	
+Volga-Dnepr 	ООО «Авиакомпания Волга-Днепр» 	21[21] 	VDA 	VI 	ВД 	VOLGA-DNEPR 	Antonov An-124 2006 IAH (17).jpg
+Vologda Aviation Enterprise 	ОАО «Вологодское авиационное предприятие» 	195[21] 	VGV 		ВГ 	VOLOGDA AIR 	Vologda Air Enterprise Yak-40.jpg
+Voronezh Aircraft Production Association 	Авиация общего назначения «Воронежское акционерное самолетостроительное общество» 		VSO 		ВШ 	VASO 	Воронежский авиационный завод (2010-09-06).jpeg
+Vostok Airlines 	ОАО «Авиационная компания «Восток» 	266[21] 	VTK 		ДХ 	VOSTOK 	Vostok An-38.jpg
+Vzlet 	ЗАО «НПО «Взлет» 	537[21] 	VZL 		НБ 	VZLYET 	Vzlet Mil Mi-10K.jpg
+Yakutia Airlines 	ОАО «Авиакомпания «Якутия» 	464[22] 	SYL 	R3 	ЯК 	AIR YAKUTIA 	Open Air Exposition - MAKS-2005 - 2005-08-20 Photo-26.jpg
+Yamal Airlines 	ОАО «Авиационная транспортная компания «Ямал» 	142[22] 	LLM 	YC 	ЛА 	YAMAL 	Yamal Airlines Tupolev Tu-134.jpg
+Yamal air company 	ООО «Авиационная компания «Ямал» 	526 			ЯЛ 		
+Zonalnoye Air Enterprise
+
+Air Bucharest 		BUR 	AIR BUCHAREST 	Henri Coandă International Airport 	2010 	charter airline
+Blue Air 	0B 	JOR 	BLUE TRANSPORT 	Bacău International Airport, Henri Coandă International Airport 	2004 	Low-cost carrier
+C&I Corporation 					2008 	business jets
+Carpatair 	V3 	KRP 	CARPATAIR 	Chișinău International Airport, Traian Vuia International Airport 	1999 rebranded from Veg Air 	regional airline
+Eurojet Romania 		RDP 	JET-ARROW 	Aurel Vlaicu International Airport 	2004 	business jets
+Regional Air Services 		RTZ 	AEROTUZLA 	Tuzla Airfield 	1998 	general aviation, business jets
+TAROM 	RO 	ROT 	TAROM 	Henri Coandă International Airport, Iași International Airport 	1954 rebranded from TARS 	flag carrier
+Ten Airways 		OTJ[1] 	TENDER AIR 	Aurel Vlaicu International Airport 	2009 a merger of Medallion Air and Tend Air 	charter airline
+Toyo Aviation 					2009 	business jets
+Ţiriac Air
+
+
+Aero VIP (Portugal) 		RVP 	WV 	AEROVIP 	Dornier Do-228-202, Aero Vip JP6246256.jpg 	1990 	Regional, Regular, Non-Regular Transport and Cargo
+EuroAtlantic Airways 	Euroatlantic logo.png 	MMZ 	MM 	EUROATLANTIC 	CS-TFM B777 EuroAtlantic (5736672391).jpg 	2000 	
+Hifly 	Hifly.png 	HFY 	5K 	SKY FLYER 	HiFly A340.jpg 	2006 	
+Masterjet 		LMJ 	- 	MASTERJET 	Dassault Falcon 7X MasterJet CS-DTD, LBG Paris (Le Bourget), France PP1337098537.jpg 	2003 	
+NetJets Europe 	Netjestd.png 	NJE 	1I 	FRACTION 	Cessna 550B Citation Bravo, NetJets Europe JP5937261.jpg 	1996 	
+Omni - Aviação e Tecnologia 		OAV 	OC 	OMNI 	Airbus A319-115(LR), Omni Aviacao e Tecnologia JP6806867.jpg 	1998 	
+Orbest 	Logo-orbest-portugal.png 	OBS 	6O 	ORBEST 	A320 Orbest CS-TRL 02.jpg 	2007 	
+Portugália 	Portugalia logo.svg 	PGA 	NI 	PORTUGALIA 	Fokker 100, PGA Portugalia Airlines JP7048454.jpg 	1989 	
+SATA Air Açores 	GrupoSataLogo.png 	SAT 	SP 	SATA 	Bombardier Dash 8-Q402, SATA Air Acores JP6971104.jpg 	1941 	S.A.T.A. stands for the Portuguese words Sociedade Açoriana de Transportes Aéreos
+SATA International 	GrupoSataLogo.png 	RZO 	S4 	AIR AZORES 	SATA International Airbus A310-300 Verkuringen.jpg 	1998 	
+TAP Portugal 	TAP Portugal Logo.svg 	TAP 	TP 	AIR PORTUGAL 	Airbus A330-223, TAP Portugal JP6139756.jpg 	2005 	T.A.P. stands for the Portuguese words Transportes Aéreos Portugueses
+White Airways 	White Airways logo.png 	WHT 	- 	WHITEJET 	Airbus A320-232, White Airways AN1810137.jpg 	2004 	
+LEASY FLY 		LZF 	- 	LEASY FLY 		2012 	
+Agroar Carga Aérea 		GRR 	- 	AGROAR 	Agroar Boeing 737-3Y0F; ZS-SMJ@FNC;12.07.2011 607bk (5940059792).jpg 	1998 	
+Aeronorte 		RTE 	- 	AERONORTE 	Cessna 510 Citation Mustang, Aeronorte Transportes Aereos JP6875328.jpg 	1989 	
+Elitávia Portugal Serviços Aéreos 		- 	- 	ELITAVIA 		2009 	
+TAM - Transportes Aéreos Militares
+
+
+Enter Air 	E4[1] 	ENT 	ENTERAIR 	2009[2] 	
+LOT Polish Airlines 	LO[1] 	LOT 	LOT 	2001[3] (1929) 	New company created in 2001[3]
+Skytaxi 	TE[1] 	IGA 	IGUANA 	2000 	
+Small Planet Airlines (Poland) 	P7[1] 	LLP 	SKYPOL 	2009[4] 	(formerly known as flyLAL Charters PL)[4]
+SprintAir 		SRN 	SPRINTAIR 	2008[5] 	(former Air Polonia Cargo, Sky Express, Direct Fly)
+SprintAir Cargo 		SAR 	SPRINTAIR CARGO 	2006[6] 	(formerly known as Sky Carrier)[6]
+Travel Service Polska
+
+
+Arktikugol 				Operates Helicopter service 	
+Lufttransport Svalbard
+
+
+Air Norway 	M3 	NFA 	NORTH FLYING 	Oslo-Gardermoen, Ørland 	2003 	
+Bergen Air Transport 		BGT 	BERGEN AIR 	Bergen-Flesland 	1998 	
+Bristow Norway 		BHL 	BRISTOW 	Bergen-Flesland, Brønnøysund-Brønnøy, Hammerfest, Stavanger-Sola 	1993 	
+CHC Helikopter Service 	L5 	HKS 	HELIBUS 	Bergen-Flesland, Brønnøysund-Brønnøy, Florø, Kristiansund-Kvernberget, Stavanger-Sola 	1956 	
+Fonnafly 		NOF 	FONNA 	Bergen-Flesland 	1970 	
+Helitrans 	9I 	HTA 	SCANBIRD 	Mo i Rana, Oslo-Torp, Trondheim-Værnes 	1990 	
+Hesnes Air 		HSG 	SKY DOLPHIN 	Oslo-Torp 	1992 	
+Krohn Air 				Molde-Årø, Ålesund-Vigra 	2010 	
+Lufttransport 	L5 	LTR 	LUFT TRANSPORT 	Tromsø 	1971 	
+Norsk Luftambulanse 					1977 	
+North Flying 	M3 	NFA 	NORTH FLYING 		1963 	
+Norwegian Air Shuttle 	DY 	NAX 	NOR SHUTTLE 	Bergen-Flesland, Oslo-Gardermoen, Stavanger-Sola, Trondheim-Værnes 	1993 	
+Norwegian Long Haul 	DY 	NLH 	NORSTAR 	Oslo-Gardermoen 	2013 	
+Scandinavian Airlines 	SK 	SAS 	SCANDINIVIAN 	Bergen-Flesland, Copenhagen, Gothenburg-Landvetter, Oslo-Gardermoen, Stavanger-Sola, Stockholm-Arlanda, Trondheim-Værnes 	1946 	
+Sundt Air 		MDT 	MIDNIGHT 	Oslo-Gardermoen 	1997 	
+Widerøe
+
+AIS Airlines 	Jetstream 32 AIS Airlines PH-CCI.JPG 	IS 	PNX 	SPINNER 	2009 	
+Arkefly 	PH-AHQ ArkeFly Boeing 767-383(ER), landing at Schiphol (AMS - EHAM), Netherlands, pic4.JPG 	OR 	TFL 	ARKFLY 	2005 	
+CHC Airways 		AW 	SCH 	SCHREINER 	1945 	
+Corendon Dutch Airlines 	TC-TJJ Corendon Airlines Boeing 737-8S3(WL) - cn 29247 taxiing 18july2013 pic-001.JPG 	CD 	CND 	DUTCH CORENDON 	2010 	
+Denim Air 	Fokker 100 (F-28-0100), Denim Air AN2063707.jpg 	J7 	DNM 	DENIM 	1996 	
+Dutch Dakota Association 	Douglas DC-4 Flying Dutchman.jpg 				1983 	
+KLM 	KLM Boeing 747-400 (M); PH-BFO@HKG;31.07.2011 614nb (6052686767).jpg 	KL 	KLM 	KLM 	1919 	
+KLM Cityhopper 	Embraer ERJ-190-100STD 190STD, KLM Cityhopper AN1949040.jpg 	WA 	KLC 	CITY 	1991 	
+Martinair 	PH-MCY Martinair Holland McDonnell Douglas MD-11F, landing at Schiphol (AMS - EHAM), Netherlands, pic4.JPG 	MP 	MPH 	MARTINAIR 	1958 	
+Transavia
+
+
+Montenegro Airlines 	MGX 	YM 	MONTAIR 	Podgorica Airport
+Charter
+Di Air 	DIS 		DI AIR 	Podgorica Airport, Tivat Airport
+OKI Air International 				Podgorica Airport
+Vektra Aviation
+
+Heli Air Monaco 	
+
+Air Malta 	Air Malta (2012).svg 	Airbus A320-211 Air Malta 9H-AEK (9370312677).jpg 	KM 	AMC 	AIR MALTA 	1973 	
+Comlux Aviation Malta 	Comlux logo.png 	Airbus A320-214(CJ) Prestige, Comlux Aviation Malta JP7550744.jpg 		MLM 		2008 	
+European 2000 Airlines 		9H-AEU SA.227DC Metro 23 Europe 2000 A-l LPA 26JAN07 (6780063766).jpg 		EUT 		2001 	
+Hermes Aviation 		Fly Hermes - 9H-HER.jpg 		HME 		2014 	
+Hi Fly Malta 	Hifly.png 	Hi-fly A340-600 (10335293916).jpg 	5M 	HFM 		2013 	
+Medavia
+
+Cargolux 	Cargolux Logo.svg 	Boeing 747-8R7(F) Cargolux LX-VCC, LUX Luxembourg (Findel), Luxembourg PP1340036553.jpg 	CV[2] 	CLX 	CARGOLUX 	1970 	
+Ducair 							
+Global Jet Luxembourg 		Global Jet Luxembourg Airbus A319CJ Schmid.jpg 		SVW 		2004 	
+JDP Lux 							
+Luxair 	Luxair Logo.svg 	Boeing 737-7C9, Luxair - Luxembourg Airlines JP6627528.jpg 	LG[2] 	LGL 	LUXAIR 	1961 	
+Luxaviation 		Embraer ERJ-135BJ Legacy 600 Luxaviation, LUX Luxembourg (Findel), Luxembourg PP1374511738.jpg 	- 	LXA 	RED LION 	2009[3] 	
+Luxflight 							
+Premiair 							
+Smart Cargo
+
+Aviavilsa 		LY- APN (3316610052).jpg 	LVR 		AVIAVILSA 	1999 		
+Avion Express 	Avion-express-logo.jpg 	Avion Express Airbus A320 LY-VEY (6705403435) (2).jpg 	NVD 	X9 	NORDVIND 			Rebranded from Nordic Solutions Air (2005-2008)
+DOT LT 	DOTLT logo.jpg 	Danish Air Transport TAR-72 OY-RUB @ Düsseldorf International Airport.jpg 	DNU 	R6 	DANU 	2004 		
+Grand Cru Airlines 		Boeing 737-35B, Untitled JP7666853.jpg 	GCA 			2013 		
+Small Planet Airlines
+Air Baltic 	AirBaltic logo.svg 	Boeing 737-300 Air Baltic.jpg 	BT 	BTI 	AIR BALTIC 	1995 	
+Alpha Express Airlines 				APZ 		2013 	
+Baltic Jet AirCompany 		Canadair CL-600-2B16 Challenger 601-3A, Baltic Jet AirCompany JP6462281.jpg 				2005 	
+KS Avia 		Antonov AN-74 KS Avia, RIX Riga (Skulte), Latvia PP1089969001.jpg 		KSA 		1994 	
+Primera Air Nordic 	Logo-primera air.png 	Primera Air Nordic, YL-PSC, Boeing 737-86N (19582942952) (2).jpg 	6F 	PRW 	PRIMERA 	2014 	
+RAF-Avia 		RAF-Avia Antonov An-26 Lebeda-3.jpg 		MTL 	MITAVIA 	1990 	
+SmartLynx Airlines
+
+Kosova Airlines 	Kosova Airlines logo.png 	Hamburg International (Kosova Airlines) Boeing 737-700 Pinter.jpg 				Pristina International Airport 	2003 	no fleet since 2006
+Air Prishtina
+
+Air Dolomiti 	Air Dolomiti logo.svg 	I-ADJN Embraer 195-200LR Air Dolomiti (7155664847).jpg 	EN 	DLA 			
+Air Four 		Air Four Canadair CL-600-16 Challenger 604(I-WISH) (6313755541).jpg 				Linate Airport 	
+Air Italy 	Air Italy logo.png 	Air Italy Boeing 767-200ER Olivati-2.jpg 	I9 	AEY 			
+Air Panarea 						Panarea (ZJE) 	
+Air Vallée 	Air Vallée logo 2015.png 	Air Vallee Dornier 328-300 328JET Airwim-1.jpg 	DO 	RVL 			
+Airumbria 		Douglas DC-3, Air Umbria JP6547947.jpg 		UMB 		Perugia 	License for up to 19 seats aircraft
+Alba Servizi Aerotrasporti 		Gulfstream G-IV, Alba Servizi Aerotrasporti JP6109553.jpg 				Linate Airport
+Alidaunia 			D4 	LID 	ALIDA 	Foggia 	License for helicopters operation only
+Alitalia 	Alitalia.svg 	Alitalia Airbus A321 I-BIXT.jpg 	AZ 	AZA 	ALITALIA 	Rome–Fiumicino 	
+Alitalia CityLiner 	Alitalia CityLiner.png 	Embraer ERJ-170STD Alitalia Cityliner (CYL) EI-RDJ - MSN 342 - Named Parco Nazionale Del Circeo (10276116695).jpg 	CT 	CYL 	CITYLINER 	Rome–Fiumicino 	formerly Air One CityLiner
+Blu Express 		Boeing 737-31S, Blu-express JP7696757.jpg 				Rome–Fiumicino 	Division of Blue Panorama Airlines
+Blue Panorama Airlines 	Bluepanlogo.png 	Boeing 767-3G5(ER), Blue Panorama Airlines JP6518777.jpg 	BV 	BPA 	BLUE PANORAMA 	Rome–Fiumicino 	
+Cargolux Italia 	Cargolux Logo.svg 	Boeing 747-4R7F-SCD, Cargolux Italia (Cargolux) AN1545614.jpg 	C8 	ICV 		Milan–Malpensa 	Cargo only
+Elitaliana 		Agusta A109S Grand, Elitaliana JP7482227.jpg 				Lamezia Terme (SUF) 	
+Icaro Aero Taxi 				ICA 		Forli (FRL) 	
+Jetcom 						Rome–Fiumicino 	
+Jet-Ops Europe 						Venice Marco Polo Tessera (VCE) 	
+Meridiana 	MeridianaflyLogo.png 	McDonnell Douglas MD-83, Meridiana JP7100073.jpg 	IG 	ISS 	MERAIR 	Olbia 	
+Meridiana fly 		Airbus A320-214, Meridiana fly JP7699931.jpg 	IG 	ISS 		Olbia 	Eurofly (1989-2010) merged into Meridiana fly
+Mistral Air 	Mistral Air LOGO.svg 	Mistral Air Boeing 737-300 Bidini-1.jpg 	7M 	MSA 	MISTRAL 	Rome–Fiumicino 	
+Neos 	Neos.png 	Neos Boeing 737-800 I-NEOT.jpg 	NO 	NOS 	MOONFLOWER 	Milan–Malpensa 	
+Professione Volare 				PVL 		Forli (FRL) 	
+SW Italia
+
+
+Aer Arann Islands 	Aer Arann Islands logo.gif 	AER ARRAN ISLANDS BN2B ISLANDER EI-BCE AT INVERIN AIRPORT CONNEMARA IRELAND JULY 2013 (9198251155).jpg 				1970
+Aer Lingus 	Aerlinguslogo.svg 	Aerlingus.a321-200.ei-cpe.arp.jpg 	EI 	EIN 	SHAMROCK 	1936
+Air Contractors 	Air contractors logo.svg 	EI-SLF Air Contractors (3789441186).jpg 	AG 	ABR 	CONTRACT 	1972
+CityJet 	Cityjet logo.svg 	CityJet Fokker 50 OO-VLN LUX 2010-2-27.png 	WX 	BCY 	CITY-IRELAND 	1992
+Norwegian Long Haul 	Norwegianairshuttlelogo2013.png 	Boeing787-EI-LNA.jpg 	DU 	NLH 	NORSTAR 	2013
+Ryanair 	Ryanair logo 2013.png 	Ryanair Boeing 737-800 At Manchester International Airport.jpg 	FR 	RYR 	RYANAIR 	1985
+Stobart Air
+
+Air Atlanta Icelandic 	Air Atlanta Icelandic logo.svg 	Air Atlanta Icelandic Boeing 747-200 Mehdi-1.jpg 	CC 	ABD 	ATLANTA 	1986
+Air Iceland 	Airicland logo white.PNG 	Air Iceland F50 TF-JMM.jpg 	NY 	FXI 	FAXI 	1997
+Bluebird Cargo 	Bluebird Cargo logo.svg 	Bluebird Cargo Boeing 737-300F Pierobon.jpg 	BF 	BBD 	BLUE CARGO 	2000
+Eagle Air 	EagleAir Iceland logo.png 			FEI 	ARCTIC EAGLE 	1970
+Icelandair 	Icelandair logo.svg 	Icelandair Boeing 757-256 Wedelstaedt.jpg 	FI 	ICE 	ICEAIR 	1937
+Mýflug 	Mýflug Air logo.jpg 	Mýflug Beech B200 Super King Air Goetting.jpg 		MYA 	MYFLUG 	1985
+Norlandair 	Norlandairlogo.PNG 	545af (4329422629).jpg 		FNA 	NORLANDAIR 	2008
+WOW air
+
+ABC Air Hungary 		- 	AHU 	- 		1998 	
+Air Max Cargo (Hungary) 		- 	- 	- 		2000 	
+Budapest Aircraft Service 	Budapest Aircraft Service logo.png 	- 	BPS 	BASE 	Embraer EMB-120ER Brasilia, BASe - Budapest Aircraft Services JP6612894.jpg 	1991 	
+CityLine Hungary 	CityLine Hun logo.jpg 	ZM 	CNB 	CITYHUN 	Cityline Hungary Boeing 737-200 Vekony.jpg 	2003 	
+Farnair Hungary 	Farnair Europe logo.png 	- 	FAH 	BLUE STRIP 	Farnair Hungary, HA-FAV, Boeing 737-46Q SF (16882167246).jpg 	1990 	
+Fleet Air 		- 	FRF 	FAIRFLEET 	HA-TAB (14219889343).jpg 	2007 	
+Ronan Air (Hungary) 		- 	- 	- 		2014 	Ronan Air
+Sólyom Hungarian Airways 	Sólyom Hungarian Airways logo.png 	- 	HUN 	HUNGARIAN 	Sólyom Hungarian Airways B737 4.jpg 	2013 	From August 18th 2013 with the 1st aircraft arriving from EuropeanAviationBournemouth.
+Travel Service (Hungary) 	Travel Service logo.png 	- 	TVL 	TRAVEL SERVICE 	Boeing 737-8K5, Travel Service Hungary JP6504913.jpg 	2001 	
+Wizz Air
+
+Air Greenland 	Air Greenland logo.svg 	GL 	GRL 	GREENLAND 	OY GRL 752 GL 1.JPG 	1960 		Kangerluassuaq
+Aluu Airlines
+
+
+Aegean Airlines 	Aegean Airlines logo.svg 	AEE 	A3 	AEGEAN 	Airbus A320-232, Aegean Airlines JP6636510.jpg 	1987
+Aeolian Airlines 		AOL 		AEOLIAN 	DSC 0065-SX-BTM (10630347203).jpg 	2011
+Amjet Executive 	Amjet Executive SA - LOGO.jpg 	AMJ 		AMJET EXEC 		2009
+Astra Airlines 	Astra Airlines logo.svg 	AZI 	A2 	GREEK STAR 	SX-DIO LLBG02-04-2015b.jpg 	2008
+Aviator Airways 		AVW 	- 	AVIATOR 	British Aerospace Jetstream 31 Aviator Airways SX-BSR, GRQ Groningen (Eelde), Netherlands PP1123176177.jpg 	1992
+Bluebird Airways 	Bluebird Airways Logo.png 	BBG 	BZ 	CANDIA BIRD 	Bluebird Airways SX-TZE B737-400.jpg 	2008
+Ellinair 	Ellinair logo.png 	ELB 	EL 	ELLINAIR HELLAS 	Ellin Air.jpg 	2013
+GainJet Aviation 		GNJ 	- 	HERCULES JET 	Boeing 757-23N, GainJet Aviation JP7522994.jpg 	2006
+Hermes Airlines 		HRM 	H3 	HERMES 	Airbus A321-211 Hermes Airlines SX-BHT, LUX Luxembourg (Findel), Luxembourg PP1380043042.jpg 	2011
+K2 SmartJets 		KSJ 	- 	KAY-JETS 	Embraer ERJ-135BJ Legacy 600, K2 SmartJets JP6147783.jpg 	2007
+Mediterranean Air Freight 		MDF 	- 	MED-FREIGHT 		2002
+Minoan Air 	Minoan Air (MAV) logo.jpg 	MAV 	- 	MINOAN 	Fokker 50, Minoan Air JP7623969.jpg 	2012
+Olympic Air 	Olympic Air logo.svg 	OAL 	OA 	OLYMPIC 	SX-OBH DHC8-400 Olympic (7371448248).jpg 	2009 (as Olympic Air)
+1957 (as Olympic Airways)
+Sky Express 	Sky express.svg 	SEH 	GQ 	AIR CRETE 	British Aerospace Jetstream 41, Sky Express JP6938510.jpg 	2005
+SkyGreece Airlines 	SkyGreece Airlines logo.png 	SGR 	GW 	SKYGREECE 		2012
+Ver-Avia
+
+ACM Air Charter 		BVR 	BAVARIAN 	D-BFFB (5759346520) (2).jpg 	1992 	
+ADAC Luftrettung 				Eurocopter EC-135 ADAC Luftrettung D-HHIT, GRQ Groningen (Eelde), Netherlands PP1153290874.jpg 	1903 	
+Aero-Dienst 		ADN 	AERODIENST 	Aero-Dienst Potez 841 at Munich Riem Airport.jpg 	1958 	
+AeroLogic 	3S 	BOX 	GERMAN CARGO 	AeroLogic Boeing 777-FZN; D-AALA@FRA;16.07.2011 609ep (6190492656).jpg 	2009 	
+Air Berlin 	AB 	BER 	AIR BERLIN 	Air Berlin Airbus A330-200 Prasertwit-4.jpg 	1991 	Rebranded from Air Berlin USA (1978-1991)
+
+dba (2004-2008) merged into Air Berlin LTU International Airways (1955-2011) merged into Air Berlin
+Air Hamburg 	HH 	AHO 	DAYTON 	Britten-Norman BN-2A Islander (D-IAEB) 03.jpg 	2001 	
+Air Independence 		JTV 	JUNIOR 	Learjet 60, Air Independence JP7568988.jpg 	1998 	
+air-taxi europe 	TZ 	TWG 	TWIN-GOOSE 	F406 air taxi europe d-iccc.jpg 	2005 	
+AirGO Flugservice 		XGO 	PASTIS 	D-IZZY (7493097540).jpg 		
+Arcus-Air 	ZE 	AZE 	ARCUS AIR 	D-CAAZ (6192735414) (2).jpg 	1973 	
+Avanti Air 		ATV 	AVANTI AIR 	D-BCRP ATR.42-312 Avanti Air MAN 03SEP07 (5930138737).jpg 	1994 	
+Bin Air 		BID 		Fairchild SA-227DC Metro 23, Bin Air AN1600759.jpg 	1996 	
+Businesswings 		JMP 		Dornier 228-100, Businesswings AN0393189.jpg 	1989 	
+Condor 	DE 	CFG 	CONDOR 	Condor B763 D-ABUE.jpg 	1955 	Südflug (1952-1968) merged into Condor
+
+Condor Berlin (1997-2013) merged into Condor
+DC Aviation 		DCS 	TWIN STAR 	Learjet 45 DC Aviation D-CAHB, LUX Luxembourg (Findel), Luxembourg PP1315072629.jpg 	2007 	Rebranded from DaimlerChrysler Aviation (1998-2007)
+
+Cirrus Aviation (2001-2008) merged into DC Aviation
+Deutsche Lufthansa Berlin-Stiftung 				Messerschmitt Me 108 Taifun, Deutsche Lufthansa Berlin-Stiftung (DLBS) JP6898680.jpg 		
+Deutsche Zeppelin Reederei 				Zeppelin LZ N07-100 Airship, Deutsche Zeppelin Reederei AN0402825.jpg 	2001 	
+DRF Stiftung Luftrettung gemeinnützige 	1I 	AMB 		DRF Luftrettung Hubschrauber beim Start.JPG 	1972 	
+European Air Transport Leipzig 	QY 	BCS 	EUROTRANS 	D-AEAG DHL (European Air Transport - EAT) (6872540344).jpg 	2010 	Rebranded from EAT - European Air Transport (1971-2010)
+Eurowings 	EW 	EWG 	EUROWINGS 	Eurowings A320 D-AIZQ STR.jpg 	1993 	NFD - Nürnberger Flugdienst (1975-1992) merged into Eurowings
+
+RFG - Regionalflug (1976-1992) merged into Eurowings
+FAI rent-a-jet 		IFA 	RED ANGLE 			
+FLN Frisia Luftverkehr 				Britten-Norman BN-2B-20 Islander FLN Frisia-Luftverkehr Norddeich D-IFKU, NOD Norddeich, Germany PP1149579983.jpg 	2014 	Rebranded from Frisia-Luftverkehr Norddeich (1969-2014)
+
+LFH - Luftverkehr Friesland Harle (1983-2014) merged into FLN - Die Inselflieger
+Germania 	ST 	GMI 	GERMANIA 	D-ASTW (15404009249).jpg 	1978 	Berlin European UK (1986-1991) merged into Germania
+Germanwings 	4U 	GWI 	GERMAN WINGS 	320 GERMANWINGS D-AIPX 147 10 05 14 BCN RIP (16730197959).jpg 	1996 	
+Hahn Air 	HR 	HHN 	ROOSTER 	Cessna 525C Citation CJ4 Hahn Air, LUX Luxembourg (Findel), Luxembourg PP1325863356.jpg 	1994 	
+Jet Executive 		JEI 				
+Luftfahrtgesellschaft Walter 	HE 	LGW 	WALTER 	LGW - Luftfahrtgesellschaft Walter Dornier 228-200 at Hanover (2872116477).jpg 	1980 	
+Lufthansa 	LH 	DLH 	LUFTHANSA 	Lufthansa A333 D-AIKN-1.jpg 	1926 	
+Lufthansa Cargo 	LH 	GEC 	LUFTHANSA CARGO 	Lufthansa Cargo D-ALCM.jpg 	1993 	Rebranded from German Cargo (1977-1993)
+Lufthansa CityLine 	CL 	CLH 	HANSALINE 	LufthansaCityline E195LR D-AEBD CGN 2010-10-06 01.jpg 	1992 	
+Nightexpress 		EXT 	EXECUTIVE 	Beech 99 Airliner, Nightexpress AN2166007.jpg 	1984 	
+OFD-Ostfriesischer- Flug-Dienst 				D-AOLH (2714417558).jpg 	2011 	Rebranded from OLT - Ostfriesische Lufttransport (1958-2011)
+PrivatAir (Germany) 		PTG 		D-APBC B737-8BKW Privatair Germany FRA 30JUN13 (9201526094).jpg 	2003 	
+Private Wings 	8W 	PWF 	PRIVATE WINGS 	Dornier Do-328-100 Private Wings Flugcharter D-CREW (9299114262).jpg 	1991 	
+RWL German Flight Academy 	DZ 	RWL 	RHEINTRAINER 	Piper PA-28-161 Cadet RWL German Flight Academy, EDWF Leer-Papenburg, Germany PP1184227099.jpg 		
+Stuttgarter Flugdienst 		FFD 	FIRST FLIGHT 	Cessna 560XL Citation Excel, Stuttgarter Flugdienst (SFD) JP7571884.jpg 		
+SunExpress Deutschland 	XG 	SXD 	SUNRISE 	D-ASXT (18884224456).jpg 	2010 	                                                          
+Sylt Air 	7E 	AWU 	SYLT-AIR 		2001 	
+TUIfly 	X3 	HLX 	YELLOW CAB 	TUIfly B737-700 D-AHXB DUS.jpg 	2006 	Rebranded from Hapag-Lloyd Express (2002-2006)
+
+Hapagfly (2005-2007) merged into TUIfly (Germany)
+WDL Aviation 	W1 	WDL 	WDL 	WDL, Stuttgart Airport.jpg 	1955 	
+Wiking Helikopter Service 		WHS 		Sikorsky S-76B Wiking Helikopter Service, GRQ Groningen (Eelde), Netherlands PP1082731614.jpg 		
+Windrose Air 		QGA 	QUADRIGA 			
+Defunct airlines
+
+This is a list of now defunct airlines from Germany:[2]
+AIRLINE 	IATA 	ICAO 	CALLSIGN 	IMAGE 	COMMENCED OPERATIONS 	CEASED OPERATIONS 	NOTES

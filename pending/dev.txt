@@ -1,0 +1,720 @@
+<a href="http://www.ip2location.com/?ipinfodb=2d076fda3f08252139f9ab38445bda46" target="_blank"><img alt="IP Address Geolocation to Identify Website Visitor's Geographical Location" src="//www.ipinfodb.com/img/powered_by_ip2location.jpg" /></a>
+###### CMS ######
+SGC ne nécessitant pas de base de données
+Articles détaillés : Système de gestion de base de données et Base de données.
+
+Cette section recense des solutions de gestion de contenu qui ne nécessitent pas la mise en œuvre d’une base de données avec un SGBD.
+
+99ko CMS 
+    CMS français écrit en PHP 5, ne nécessitant pas de base de données. Il permet de gérer des sites de type vitrine, personnel, TPE/PME/associations, sans connaissance particulière en programmation. Il supporte des thèmes et des modules d'extension (plug-ins), qui permettent d'étendre les fonctionnalités de base et de le personnaliser.
+Artologik AhbWebPublish 
+    Système de gestion de contenu multi-utilisateurs permettant l’édition homogène des contenus grâce à des modèles.
+aulis-cms-gen 
+    C’est une plate-forme de création et d’hébergement de site Internet, gratuite (mais avec des bandeaux publicitaires).
+Caméléon CMS 
+    Le Caméléon est un CMS à code source libre (open source) permettant de construire l’architecture d’information du site ainsi que de mettre à jour le contenu. Il permet également de gérer les utilisateurs et les groupes d’utilisateurs. Caméléon 5 est un CMS français et a remporté l'Octas du français dans les TI en 2011 au Québec.
+Cleasite 
+    CMS permettant de créer un site Internet sans aucune connaissance technique. De nombres fonctionnalités permettent de créer un calendrier, un blog, de gérer ces newsletters, etc... Il se destine aux entreprises, associations et aux secteurs du tourisme. Cleasite est déclinée en deux offres une gratuite et une payante.
+CMS++ 
+    Basé sur Java, struts, Ajax, DWR (en), jQuery. Simple à utiliser malgré de nombreuses fonctions. Multilingue, flux de travaux, pages basées sur une structure XML flexible, fonction glisser-déposer …
+CMS Made Simple 
+    CMS libre sous GPL, créé en 2004 pour offrir une alternative simple à d'autres logiciels jugés plus complexes. CMS Made Simple nécessite une base de données MySQL.
+CMSimple 
+    Logiciel danois écrit en PHP qui stocke la totalité du site dans un seul fichier HTML en se basant sur les balises H1, H2 et H3 pour hiérarchiser son contenu, le menu latéral étant généré automatiquement sur trois niveaux : page, sous-page et sous-sous-page. Éditeur WYSIWYG. Des modèles sont disponibles. Sauvegarde des dix dernières versions. Mal adapté aux gros contenus. Gratuit ou payant selon le fait que le copyright soit mentionné ou non. Des greffons sont disponibles (gestionnaire de nouvelles, galerie d’images, livre d’or).
+
+CMSUno
+
+    CMS multilingue spécialisé dans la création de sites sur une page. Architecture PHP/Ajax avec CKEditor et ElFinder. Pas de base de données, sauvegarde en fichiers JSON. La page créée est en .html ce qui permet une grande rapidité d'affichage. Développement de plugins aisé ; une vingtaine sont déjà disponibles. Mise à jour automatique du CMS et des plugins en ligne via GitHub. Licence MIT.
+E-monsite 
+    CMS hébergé proposant une dizaine de modules de création de contenu (création de pages, blog, agenda, ...). Il est disponible en version gratuite ou payante (suppression de la publicité, vente en ligne, nom de domaine, espace membre). Il gère les sites multilingues et l'édition de site à plusieurs webmestres. E-monsite, édité par la société française Awelty est également décliné dans une version internationale nommée doomby.
+EasyEditPage 
+    SGC proposant une interface utilisateur pour la configuration globale d’un site Internet et son édition. Il est utilisable sans connaissance de programmation. Il se destine aux sites personnels mais aussi aux sites de TPE/PME/associations. L'accès à ce service est payant.
+Eclatis 
+    SGC utilisable sans connaissance de programmation, permettant de mettre en ligne et de gérer un site Web. Il se destine aux sites personnels mais aussi aux sites de TPE/PME/associations. Il permet de gérer deux niveaux de menu. Il contient également un moteur de nouvelles et un formulaire de contact. Il n'existe plus sous ce nom mais sous le nom « ZesitePLUS » et est dépendant d'un réseau commun.
+Edicy 
+    SGC gratuit en version limitée proposant une interface utilisateur pour la configuration globale d’un site Internet et son édition WYSIWYG, ne nécessitant aucune connaissance en HTML.
+Geniecube 
+    SGC développé en 2002 par une agence lyonnaise. En mode ASP (commercialisation via un fournisseur de services d'applications) - programmé en Java J2EE, principe de plate-forme évolutive en respect des normes W3C. Des modules complémentaires peuvent compléter la plate-forme de base (ex : optimisation référencement, animation flash). Le nom a changé : devenu Addonline et devenu payant.
+gpEasy 
+    CMS sous licence GNU GPL. Les pages sont éditables avec CKEditor.
+Get-Simple 
+    Un SGC très simple utilisant le XML pour stocker les informations. Il possède un WYSIWYG, gère les plugins et est traduit en plus de 40 langues. Sa communauté devient de plus en plus importante. Ce SGC a tendance a s'orienter pour la conception de sites dit « vitrine ».
+Guppy 
+    Portail français sans base de données en PHP, Html5, CSS3, JQuery, base de données intégrée, respectant les standards. Comprend : articles, nouvelles, forum, blogue, livre d’or, liste de diffusion, FAQ, formulaire de contact, RSS, multi-utilisateurs, galerie, diaporama, sondage, compteur, zone d'administration et membre, interface mobile, réécriture des adresses, possibilité de présentation bilingue... Nombreuses interfaces (Skins) ajustables par fichier CSS disponibles.
+Hello! CMS 
+    open source écrit en PHP/JavaScript, fonctionnant sans base de données (fichiers plats). L’édition du contenu se fait en langage Wiki et le canevas est personnalisable, ce qui permet de donner facilement l’apparence que l’on souhaite au site. Site en anglais.
+Itseasy 
+    Gestionnaire de blogues, construit autour de la technologie PHP, ce SGC gratuit et open source ne nécessite pas de base de données. Il ne comprend pas d’éditeur WYSIWYG mais un éditeur de code en ligne, un gestionnaire de fichiers et un gestionnaire de thèmes permettant de le personnaliser. Cet outil est développé par une équipe française. Il est distribué sous licence Creative Commons Attribution-Non Commercial-Share Alike 2.01.: Ne semble plus être suivi depuis 2010.
+iZi SiteMaker
+    iZi SiteMaker est un service web permettant de créer, d’héberger et de gérer son site internet sans connaissance technique. Module « petites annonces ».
+Jimdo 
+    Jimdo est un service web gratuit permettant de créer et d’héberger facilement un site internet. L'adresse portera la mention « .jimdo.com ». Une version payante permet d'accéder à plus de fonctionnalités et occulte la publicité.
+Lenya 
+    Lenya est tout en XML (contenus, utilisateurs, etc), sans base de données, respectant les standards W3C (XML, XSL, XHTML), 100 % Java, basé sur le framework ou cadre d'applications Apache Cocoon.
+Limbo 
+    Version allégée de Mambo, Limbo en conserve l’interface et les fonctions tout en ne nécessitant pas obligatoirement de base de données.
+Lutèce
+    Lutèce est un outil de portail open source Web Java développé par la Mairie de Paris. L'administrateur du site a accès à un ensemble de fonctionnalités avancées : définition dynamique des types de contenu (sans programmation), flux de travaux et règles de notification paramétrables en ligne, installation de plugins, interface de prévisualisation des pages du site, avec possibilité de suspendre à la publication des blocs de contenu, affichage et production de fils RSS, lettre d'information, calendrier, gestion électronique des ressources documentaires insérés dans les rubriques de type référentiels de contenus JSR170 : JCR JackRabbit et interface avec Alfresco (avec versionning et indexation). Nécessite un serveur de base de données.
+NanoBlogger 
+    outil open source entièrement écrit en bash. Il s'utilise donc en ligne de commande, et utilise les commandes UNIX de base comme sed, grep et cat pour générer des pages HTML statiques.
+Netedit 
+    Netedit offre une gestion de contenu utilisant le format XML (contenu, sections, gabarits, utilisateurs, etc.), et permet une conformité des normes W3C (XML, XSLT, XHTML). C’est un logiciel commercial à installer sur plate-forme Windows.Net.
+Netweb 
+    Netweb permet de créer un site web facilement sans connaissances en HTML et il utilise sa propre base de données. Netweb est un portail Xnet (CMS, intranet, extranet, réseau social) grand public. En plus de la gestion de contenu Web, il est possible de créer un réseau social avec Netweb.
+Nibbleblog 
+    Nibbleblog utilise des fichiers XML. Il offre peu de fonctionnalité ce qui en fait un système de gestion de blog, léger et rapide à prendre en main. Il est distribué sous licence libre GPL v3.
+Odyssey 
+    Gestionnaire de contenu avec édition en direct des pages et des menus sans étapes intermédiaires. Logiciel fournit par la société Objectfusion basé à Montpellier. Il peut être adapté à n'importe quel web-design et ne nécessite aucune connaissance technique en informatique.
+Phortail 
+    Mini SGC sans base de données créé par Pierre Gentile.
+Plook 
+    Un mini SGC sans base de données sous licence GPL3, léger, multilingue et configurable.
+PluXml 
+    Contraction de Plume et de XML, ce petit SGC libre, gratuit et distribué sous licence GNU/GPL, est en cours de développement. Il est possible de créer aussi bien des blogs que des sites. Il est basé, comme son nom l’indique, sur des fichiers XML. Il s’occupe des RSS. Il lui manque cependant un éditeur WYSIWYG pour écrire les articles. Cependant, il est possible à l'aide d'un plugin d'ajouter un éditeur WYSIWYG pour l'écriture des articles. Il est également possible d'ajouter un plugin permettant la mise en place d'habillages (thèmes) pour la lecture des contenus sur des appareils mobiles (téléphones, tablettes...).
+Portix-CMS 
+    Portix-CMS est un projet PHP pour la gestion de contenus Web.
+Progyl 
+    Mini site, administrable sans avoir besoin de connaissances en HTML, CSS ou PHP. Inclus un éditeur de texte dans l’administration à affichage réduit ou pleine page.
+Quomodo 
+    Quomodo est un CMS entièrement en ligne et gratuit si la publicité est maintenue, basé sur un éditeur WYSIWYG. Il ne nécessite aucune installation de logiciel. Quomodo propose une facilité d'installation sur ses pages de widgets, comme l'intégration de vidéo, de dépôt de photos, de formulaires de contact ou des inscriptions à des lettres d'information, ...
+Silex 
+    Gestionnaire de contenus qui permet d’assembler tous les formats multimédias, sur le web mais aussi sur CD-R. Silex a été projet du mois sur SourceForge2.
+SimpleGC 
+    SGC qui ne requiert pas d’installation et qui peut fonctionner sans base de données. Il permet notamment de modifier les pages grâce à un éditeur WYSIWYG, de modifier le menu, d’insérer des modules complémentaires tels qu'un formulaire de contact ou une galerie photo. Son utilisation ne nécessite pas de connaissance technique en PHP ou HTML.
+Simpleweb 
+    SGC intégré par PHP et CSS. Il est possible d’ajouter des extensions, ce qui permet son évolutivité. Simpleweb est développé principalement par Libre Informatique sur Gna! sous licence libre GNU GPL.
+Site Internet facile 
+    Application en ligne de création de site Internet web et mobile. Utilise la technologie webstation développé par la société Vivaneo avec le framework ou cadre d'applications PHP Symfony.
+SOFTPX 
+    Softpx est un logiciel en ligne écrit en PHP permettant de créer un site. Intègre la plupart des outils courants tels que blog, boutique, lecteur media. Hébergement testable gratuitement pendant un mois puis payant.
+SoleWeb 
+    SGC multilingue existant depuis 1997, utilisable uniquement en ligne sur le serveur de la société CIMA+.
+TeamProjet 
+    Application web spécialisée dans la gestion de contenus éditée par Projet2Team. Pour chaque affaire (projets, évènements), TeamProjet permet de générer un site web comportant des pages statiques ou dynamiques. Les pages dynamiques peuvent proposer des formulaires qui sont paramétrables tant au niveau des champs de saisie que des styles. Un formulaire de contact peut être facilement créé. TeamProjet propose également un module CRM qui est directement relié aux formulaires dynamiques créés et mis en ligne sur les sites web. Un module de gestion de dossiers permet de proposer des fonctionnalités ecommerce. TeamProjet est bien adapté pour gérer des évènements (formulaires d'inscription, paiements en ligne). Il permet également de mettre en place des sites de prospection avec des questionnaires en ligne permettant de générer des leads.
+WebOrder.biz 
+    Une application web, orientée BtoB (business to business), qui permet de composer des catalogues multilingues publiés sous forme de pages dynamiques. Pour chaque établissement d’une entreprise virtuelle, WebOrder.biz génère automatiquement un module de commerce électronique autonome dans lequel les catalogues de l’établissement sont publiés. Chaque module étant référencé par une adresse web spécifique (URL), il peut être inclus dans des pages ou des parties de page (cadre ou iframe) d’un autre site web. WebOrder.biz gère également l’inscription des utilisateurs des modules, permet leur regroupement et autorise ainsi la publication de catalogues spécifiques aux différents groupes d’utilisateurs. WebOrder.biz est gratuit pour les vendeurs aussi longtemps que leurs catalogues ne comptent pas plus de dix produits au total. L’application est entièrement gratuite pour les utilisateurs des modules de vente.
+Webzoo 
+    Éditeur de site internet qui fonctionne avec un simple glissez/déposez. Webzoo est une solution en ligne qui regroupe plusieurs applications, outils et fonctionnalités : Réservations, Deals, Espace membres, notation par étoile, version mobile, base de données... Créez et gérez votre site avec une interface de gestion très simple pour les débutants. Webzoo propose également un hébergement éco-label, un nom de domaine et des adresses emails pro.
+Wix 
+    Wix.com est une plateforme en ligne qui permet de créer des sites internet en HTML5 ou en Flash, des sites mobile ou encore de personnaliser des pages Facebook.
+Wizboo
+    Wizboo est une application en ligne qui permet de créer un site Internet professionnel. Il regroupe toutes les étapes de la création d’un site Web : éditeur de site (SGC), design, hébergement, nom de domaine et référencement optimisé. Payant.
+WMaker 
+    Solution de gestion de contenu en ligne. WMaker est administrable depuis un navigateur Web grâce à des interfaces graphiques. Il propose outils d’administration, sécurité, stockage. Les outils proposent des fonctionnalités comme l’insertion de photos, vidéos, sondages, petites annonces, boutique, lettres d'information, communauté en ligne. Payant.
+ZiteCMS 
+    Petit SGC (écrit en PHP) sans base de données, possédant un menu hiérarchique ainsi que deux niveaux d’administration. Un modèle pour tout le site, avec possibilité d’en mettre plusieurs avec un peu de code. 35 ko en version de base. On peut y intégrer facilement un éditeur WYSIWYG comme TinyMCE ou CKEditor. La nouvelle version 0.6 gère des adresses signifiantes. La dernière version 0.6.8 permet le développement de greffons. Il est déjà possible, par exemple, de gérer un site en plusieurs langues.
+ZitePlus 
+    Un SGC simple et léger, fonctionnant sans base de données. Il s'agit d'un Fork de ZiteCMS (la migration depuis ce dernier étant automatique) réalisée dans une optique modulaire et multi-utilisateurs. Il connaît cinq niveaux d’utilisation différents (administrateur, webmaster, rédacteur, lecteur, visiteur). Il gère les utilisateurs et les groupes d’utilisateurs. La consultation ou la modification d’une page, d’un document peut-être restreinte à un ou plusieurs groupes d’utilisateurs. Il gère la réécriture d’URL, dispose d’un moteur de recherche intégré et d’un éditeur WYSIWYG. ZitePlus est sous licence CeCILL-B.
+ZwiiCMS 
+    ZwiiCMS est un CMS sans base de données qui vous permet de créer et gérer facilement un site web sans aucune connaissance en programmation. Ses principaux avantages sont: un éditeur WYSIWYG ; le thème est complètement personnalisable depuis une interface dédiée, vous pouvez changer les couleurs, ajouter des images, modifier la disposition des éléments, ... ; une administration multilingue ; une interface simple et efficace ; Un module de création de formulaires, pour générer des formulaires de contact, de devis, ... ; un module de news .
+
+Portails
+
+AppleCute 
+    Doté d'une grande facilité d'utilisation, ce CMS vous permettra de réaliser votre propre site en quelques clics ! De plus, une administration claire, intuitive et dynamique sera à votre disposition une fois le CMS installé. Une seconde version bien plus évoluée est en cours de développement.
+CoreMedia CMS 
+    Développé en Java par une entreprise allemande.
+CMF 
+    Pensé pour les développeurs par la communauté Symfony. Il possède les fonctions basiques d'un CMS mais permet d’intégrer très facilement ses propres fonctionnalités de CMS.
+CrazyCMS 
+    SGC français fonctionnant en PHP / MySQL. Des modules sont intégrables. Il est doté d’un système de modèle permettant la mise en place de thèmes. Il est également doté d’une extension multi-langue permettant à chaque utilisateur de choisir sa langue.
+Direct News 
+    SGC open source distribué sous la licence GPL. Direct News est un SGC, qui facilite le référencement du site Web dans les moteurs de recherche. Gestion d’extranet, gestion de formulaire, flux de travaux, agenda, bibliothèque multimédia, annuaire, gestion de contenu Flash.
+e107 
+    Moderne par son respect XHTML, système de cache avancé et de répartition de la charge, architecture modulaire, et sa vocation est la gestion de communauté et la création de portails. Du point de vue de la sécurité on trouve le support SSL.
+eXo Platform
+    Solution Open Source de gestion collaborative de contenus et documents.
+Explid 
+    Solution de gestion de contenus et de portail multi-sites intégrant de nombreux modules, Explid est doté d’une solution de gestion d’Extranet, d’envoi de lettres d'information, de gestion d’un annuaire et inclut la solution de mesure d’audience.
+FirstSpirit 
+    Intégrable avec Microsoft SharePoint®2010, IBM WebSphere Portal, SAP Portal et Liferay Portal.
+FlexIT CMS
+    Gestionnaire de contenu open source multisite, multilingue, multiutilisateurs. Le back-office, les modules, les upgrades et la documentation, les commentaires sont entièrement en français.
+    Son developpement à débuté en 2002, depuis il répond à 80% des problématiques clients sans développement spécifique.
+    Respectueux des standards du Web préconisés par le W3C (CSS, HTML), basé sur PHP 5 et MySQL, il permet de gérer des sites vitrines, des extranet, des boutiques.
+Fork CMS
+    Système de gestion de contenu open source pour construire, contrôler et mettre à jour un espace web. Un panneau de bord intuitif et complet témoigne que ce SGC est conçu aussi bien pour débutants que pour professionnels.
+Gaïa Mundi 
+    Interface multi-utilisateurs réunissant un SGC et un progiciel de gestion intégré (ERP). Organisée sous forme de modules, elle permet la création et la gestion de sites vitrines, de boutiques en ligne, de listes de diffusion, de portefeuilles clients, de suivis de projets.
+GeekLog 
+    Permet de diffuser l’information d’un particulier, d’une communauté, d’une association ou d’une entreprise (blog, vlog, portail). GeekLog est doté d’outils sous la forme de greffons : forum, galerie d’images, de sons, de vidéos, de liens, calendrier, sondages, téléchargements, commerce électronique, etc.
+Isotools studio 
+    Logiciel tout en XML, il ne nécessite pas de connaissance de programmation PHP ou ASP. Il permet de créer des portails en Intranet ou Extranet. L’intégration d’une charte graphique peut se faire grâce à une interface avec Macromedia Dreamweaver.
+Ixprim3 
+    Système de gestion de contenu professionnel open source et francophone développé en PHP/MySQL (compatible php 5.4 et MySQL 5) . Son but est la création de portails Internet dynamiques.
+Jahia 
+    CMS écrit en Java et utilisant beaucoup de bibliothèques et d’outils open source (Lucene, Slide, Struts). Il offre d’origine de nombreux services, tels que : portail d’entreprise, gestion de contenu, gestion d’activité, moteur de recherche ou encore suite collaborative. Son principe de licence est l’une de ses originalités : le développement collaboratif, qui permet de ne pas payer de licence si l’on développe des fonctionnalités utiles à l’application.
+Jalios JCMS 
+    JCMS est une solution de gestion de l’information éditée par Jalios. Solution Java basée sur un entrepôt de donnée ne nécessitant « pas forcément » de base de données. Sans base de données JCMS offre des fonctionnalités de gestion de contenu (flux de travaux), de gestion documentaire (GED) et de portail dynamique. Pour la recherche, le moteur Lucene est utilisé.
+JBoss Portal 
+    Offre une plateforme libre pour l'hébergement et le service d'une interface Web de portail permettant de publier et de gérer son contenu et de personnaliser son utilisation.
+Joomla! 
+    Créé à la suite des désaccords d’une partie des développeurs de Mambo.
+K-Portal 
+    Solution JAVA J2EE pour la mise en œuvre de projets Xnet (Internet, Intranet et Extranet). Modulaire et prêt à l'emploi K-Portal repose sur un triptyque gestion de contenu, portail de services et portail collaboratif. La solution K-Portal est éditée par la société Kosmos.
+KwsPHP 
+    SGC open source, une mise en place facilité via une interface ergonomique et un code accessible pour les personnes peu expérimentées en PHP et MySQL.
+Labstag 
+    Portail qui plusieurs outils différents pour la gestion de contenu.
+Liferay 
+    Portail open source J2EE compatible JSR 168 (portlets), JSR 170 (Java Content Repository, WSRP (consommateur uniquement). Liferay est compatible avec la plupart des systèmes d’exploitation, serveurs d’applications et bases de données. Il embarque des fonctionnalités de gestion de contenu (Liferay journal) qui permettent de restituer des contenus formatés (XSL, Velocity) sur les pages du portail à travers des portlets dédiés. Quelques dizaines de portlets sont fournis avec la solution et permettent de mettre en place les fonctionnalités de base d’un portail intranet facilement et rapidement.
+LundaPorta 
+    CMS propriétaire développé par l'agence de communication ProgAcces. Il est écrit en PHP5, duquel il tire toute la puissance de l'orienté objet. Optimisé pour les campagnes de publicité, il recèle de modules extensibles et offre à l'utilisateur un moteur performant de visualisation de statistiques (Web metrics). Il comporte aussi un moteur de blog avec authorship et syndication.
+Lutèce 
+    Moteur de portail open source développé en Java par la Mairie de Paris. Il est basé notamment sur des outils open source de l’Apache Software Foundation.
+Lynxpress 
+    Fonctionnant avec PHP(5.3.3+)/MySQL(5+), libre et gratuit sous licence GNU GPL V3. Conçu dans l'objectif d'être le plus simple d'utilisation possible.
+MAJinet 
+    Outil de gestion de contenu et de sites basé sur les technologies ASP.NET ou Java. Ce type d’outils permet à des utilisateurs non-techniciens de mettre à jour le contenu du site de façon autonome.
+Malleo 
+    Système de gestion de contenu ou de publication d’informations fonctionnant en PHP/SQL, libre, gratuit et distribué sous Licence CeCILL V2,il est pourvus des fonctions de base : wiki/pages_html/forum/blog/messagerie/fiche_utilisateur.
+Mambo 
+    Ce SGC open source est polyvalent, grâce aux modules qu’il propose. La hiérarchie des menus est limitée à trois niveaux. Il a donné naissance à Joomla! et ne semble plus actualisé, la dernière version est d'avril 2013, le site n'est plus fonctionnel.
+Maximus (CMS) 
+    Progiciel de gestion de site Internet open source d’origine francophone et polyvalent, grâce à la quantité et la variété des modules qu’il propose ainsi que sa compatibilité avec un autre SGC (actuellement PHPNuke). Plusieurs points ont été tout particulièrement développés : la sécurité, la rapidité, les mises en conformité XHTML 1.0 et CSS 2, l’utilisation de son système de cache.
+MayGIK 
+    Simple, rapide, modulable (grâce au CSS) et surtout léger, MayGIK est un nouveau SGC. Ce soft est encore en test. MayGIK ne nécessite pas de connaissances particulières en PHP, XHTML, ou CSS, mais cela peut être utile pour modifier les templates, ou pour en créer.
+MDPro 
+    Système de gestion de contenu open source disposant d’une base de modules et d’une documentation. Développé par une communauté internationale de développeurs (MaxDev).
+NeoFrag
+    CMS open source et gratuit, il est principalement destiné aux équipes eSport mais ses fonctionnalités permettent de créer un site web tout destiné à des usages classiques.
+NPBuilder
+    CMS gratuit qui insiste sur la flexibilité.
+NPDS 
+    Au delà de la gestion de contenu 'classique', NPDS met en œuvre un ensemble de fonctions spécifiquement dédiées à la gestion de Communauté et de groupe de travail collaboratif. Il s'agit d'un Content & Community Management System (CCMS) robuste, sécurisé, complet, performant et parlant vraiment français. Gérez votre Communauté d'utilisateurs, vos groupes de travail collaboratifs, publiez, gérez et organisez votre contenu grâce aux puissants outils disponibles de base.
+Nuked-Klan 
+    Portail PHP avec gestion de contenu, il permet d’installer et d’administrer un site Web de manière interactive à partir du Web. Il nécessite simplement un hébergement PHP/MySQL pour fonctionner. Spécialisé dans les jeux en réseaux dans sa version gamer clan edition, une version normal edition nommée SP existe.
+† Manga-Cms 
+    Fork de Nuked-Klan destiné aux fans de Mangas. Manga-Cms est abandonné en 2011.
+PHPBoost 
+    Fonctionne avec PHP, SQL et HTML5 / CCS3. PHPBoost dispose d'une trentaine de modules pour permettre la création d'un site communautaire, vitrine ou associatif. La prise en main est facile, tout comme sa personnalisation. Version actuelle : PHPBoost 5.0.7
+PHP Fusion 
+    Système de gestion de contenu léger et open source disposant d’une grande modularité et de fonctions avancées.
+PHP-Nuke 
+    Écrit en PHP/SQL, répandu, doté de nombreuses fonctions prêtes à l’emploi (sondage, liste des meilleurs articles, etc.) pour gérer les pages et présenter le contenu. S’il a été l’instigateur du concept de portail, il souffre en revanche de grandes failles de sécurité.
+
+    DragonFlyCMS 
+        Fils de PHP-nuke, il reprend beaucoup des fonctionnalités (sondage, liste des meilleurs articles, album photo, forum, etc.), avec une attention toute particulière à la sécurité, la rapidité, et le suivi de ces défauts.
+
+phpTournois 
+    Outil sous licence GNU/GPL d'aide à l'organisation de tournois divers, plus spécialisé cependant dans les tournois de jeux vidéo en LAN ou online. L'intégration de MatchMod (dJeyL.net) et de AdminBot-MX (neXen.org) permet de lancer et de récupérer directement les matchs Counter-Strike sur les serveurs avec la map et les paramètres voulus. L'installation nécessite un hébergement PHP/MySQL pour fonctionner.
+Portail ZED 
+    Conçu de façon à permettre aux Webmestres d’ajouter ou de modifier le contenu de leur portail, sans avoir de très grandes connaissances en ce qui à trait à la programmation Web. Il offre également aux programmeurs Web, la possibilité de développer des modules supplémentaires.
+† PostNuke 
+    PostNuke est écrit en PHP/MySQL. Il est modulaire et personnalisable par le biais de templates. L’accès au site est optimisé par un cache performant. Grâce à son API, la programmation de fonctionnalités est facilitée. Postnuke est abandonné en 2008 au profit de Zikula.
+
+    ? Xaraya 
+        Système de gestion de contenu multilingue écrit en PHP, il s'agit à l'origine d'un fork de PostNuke développé depuis 2002.
+    ? Zikula 
+        Version évoluée de Postnuke, Zikula est un système de publication collaborative modulaire permettant d'ajouter des fonctionnalités à un noyau. Il est ainsi possible d'utiliser le système comme gestionnaire d'information ou de blog, mais aussi de lui ajouter la possibilité d'intégrer des galeries d'images, des gestions de carnet d'adresses, des interactions entre les membres, l'inter-connexion avec d'autres systèmes (tel que la plate-formation moodle. Zikula peut donc servir aussi bien la gestion d'un portail, d'un intranet, d'une communauté, un blog. Compatible avec les normes d'accessibilité, il offre aussi la possibilité d'un déploiement mutualisé (un zikula installé pour plusieurs sites indépendants). Il fonctionne principalement sur des serveurs LAMP.
+
+Puntal 
+    Puntal se veut être un LCMS (Light Content Management System) à l’inverse des gros CMS, il se veut léger et performant et repose sur l’outil de forum qu’est PunBB.
+PwP 
+    Portail Web PHP écrit en PHP et utilise une base de données SQL.
+PyroCMS 
+    Système de gestion de contenu disponible en une version communautaire gratuite ainsi qu'en une version professionnelle payante.
+CMS Radio Édition 
+    Système de gestion de contenu professionnel destiné aux radios et Webradios. Doté d'une centaine de modules (actualités, podcasts, lecteurs, lettres d'information, dédicaces...) il est modulable et personnalisable. Son interface d'administration multi-utilisateur permet de mettre à jour son site internet rapidement et facilement.
+Rubedo 
+    Solution multi-sites de gestion de contenu et Commerce électronique open-source en PHP. Basé sur Zend Framework et la base NoSQL MongoDB, Rubedo permet de créer des portails « Xnet » (internet, intranet, extranet et vente en ligne). La solution propose la personnalisation des contenus et des produits par ciblage comportemental
+
+SK EDIT4
+
+    Le Système KIMBANGU Edit est un gestionnaire de contenu conçu par GASTON LIFETA IKATI, jeune autodidacte de la RDC dont la particularité est la création de site en temps records et la conversion facile des templates statiques en dynamique. Site web du CMS : www.skedit.info. Site web de l'Editeur : www.glisweb.com
+Silverpeas
+    Plateforme de gestion de contenus, écrit en Java J2EE qui utilise une base de données et un serveur d’applications, Silverpeas gère différents types (documents, images 3D, nouvelles, apprentissage en ligne). Les contenus peuvent être classés sur un plan de classement multi-axes, multi-niveaux, ou Folksonomie. La plateforme est administrable par les utilisateurs sans connaissances techniques particulières.
+TikiWiki 
+    À l’origine un Wiki qui a vu ses fonctions s’étendre pour devenir un portail communautaire : forums, articles, wiki, liens, calendrier, galerie photo, etc.
+
+    ? Bitweaver 
+        Anciennement appelé tikipro, Bitweaver intègre wiki et blog multi-utilisateurs, en plus des fonctions habituelles. Son architecture modulaire, son orientation utilisateur et son système d’administration le distinguerait de TikiWiki, dont il est un dérivé.
+
+uPortal 
+    uPortal évolue rapidement à cause d’une bonne diffusion et d’une certaine popularité dans les universités, les organismes d’enseignements et les centres de recherches dans le monde. Il utilise des standards ouverts : JSR-168 (portlet), XML, WSRP. Il utilise principalement la technologie Java. Il est facile de trouver des centaines d’applicatifs harmonisés pour son socle.
+UWS Portal 
+    Portail Intranet/Extranet payant (mais testable gratuitement) simple à installer et à utiliser pour les petites et moyennes entreprises.
+Vignette Portal 
+    Vignette Portal est un produit commercial de la société américaine Vignette à la suite du rachat d'Epicentric. Vignette Portal est un progiciel propriétaire utilisé au sein de nombreuses entreprises.
+Webliberté 
+    Éditeur de site Web en ligne sans installation de logiciel, basé sur une technologie Flash, il est compatible tout système d’exploitation. Webliberté permet de créer des sites vitrines, des blogs, forums. Il peut aussi créer des sites de vente en ligne sans connaissance de programmation. Accès administrateur, possibilité de réserver une partie du site à des membres. Webliberté intègre les outils d’analyses et de référencements Google. Webliberté est évolutif avec sa technologie de widget en flash.
+WPmanager.be 
+    Wpmanager est un CMS PHP/SQL . Ce CMS est particulièrement orienté vers les jeux en ligne de type MMO.
+Xiawe 
+    Automatise le travail du Webmaster. À l’origine, prévu pour un site orienté manga, l’auteur a ensuite généralisé son moteur afin de le transformer en un SGC. Pratique pour les petits sites personnels.
+Xoops 
+    XOOPS (eXtended Object Oriented Personal System) est un système de construction de portail écrit en PHP orienté objet. Avec une approche très différente par rapport à PHPNuke, XOOPS est adapté pour développer des sites communautaires, portails Intranet, portails corporatifs, journaux en ligne, etc.
+
+    ? cmScouts 
+        Un système de gestion de contenu spécialement étudié pour les unités scoutes. Le projet n’est pour l’instant qu’à sa phase de démarrage, et s’appuie sur Xoops.
+
+zPage 
+    Solution de portail sur plate-forme J2EE basé sur les technologies XML/XSLT, avec interface Web, pour les entreprises et institutions. À destination d’utilisateurs non-techniciens et orienté Web, la gestion des informations est encadrée au travers de différents modules — notamment gestion des pages (documents), gestion des ressources (contenus non structurés; ex : images, multimédia…) et gestion des zones partagées.
+
+SGC avec base de données
+
+1Gcontent 
+    1Gcontent est un SGC J2EE édité par la société 1Genia, développé sur la base d’un socle open source (Struts, Hibernate, Lucene, Slide, Jetspeed, OSWorkflow). Fonctionnalités : portail, gestion de contenu, travail collaboratif, flux de travaux, multisite, support WebDAV, support LDAP, stockage XHTML, support multi-canal (Web, PDA).
+1Work 
+    Logiciel créé en Suisse par l'agence -1-Computer et commercialisé depuis 2003. Tout en XML, il ne nécessite pas de connaissance de programmation HTML ou PHP (WYSIWYG). Solution pour ISP multi-sites permet de créer des sites Internet ou des portails en Intranet ou extranet. Il est ouvert sur les standards du Web W3C (XHTML1.1, CSS, RSS), et utilisable en multi-utilisateurs. Visible sur tout type d’écran : mobile, PDA, Umpc et PC aussi bien en mode client qu’en mode édition. Les premières versions de 1Work n’utilisent pas de base de données, à partir de la version 2.0 une base de données SQLite est nécessaire pour la partie vente en ligne et la gestion des articles uniquement.
+Academic 
+    SGC de blog minimaliste basé sur CakePHP et Bootstrap. Supporte la syntaxe HTML ou Markdown.
+Agestis 
+    Outil de gestion de sites en ligne développé par la société ARICIA. Il permet la mise à jour d’un site Internet avec un navigateur sans connaissances techniques ni programmation. Divers modules complémentaires (catalogue, boutique en ligne, lettre d'information, sondage, forum) peuvent être intégrés. Payant.
+Agora 
+    Solution de gestion de contenu basée historiquement sur SPIP 1.7, il s’agit d’un des premiers projets libre de l’administration publique (lancement du projet fin 2002 / début 2003). Il intègre une surcouche objet (par rapport au projet père) qui permet notamment de gérer l’abstraction de sa base de données (en théorie Agora peut donc être branché à n’importe quel format de base). Ses atouts résident essentiellement sur sa gestion des droits utilisateurs et des mots clefs en arborescence. Sa contrepartie est une certaine complexité et lourdeur concernant les petits et moyens sites. Arrêt du développement en mai 2008.
+Alfresco 
+    Alfresco est un ECM open source en langage Java. Il est compatible avec de nombreux systèmes d’exploitation, serveurs d’applications et bases de données. Son interface utilisateur Web permet l’administration et l’accès aux contenus; Elle est complétée par des possibilités d’accès aux documents via CIFS, NFS, WebDAV et FTP. Alfresco est à la base plutôt orienté stockage de documents mais dispose d’un module WCM (Web Content Management). Il propose des fonctionnalités en standard telles que : gestion des permissions, indexation automatique, recherche simple et évoluée, flux de travaux, application automatique de règles sur les documents, versionnage, verrouillage de documents en modification, conversion de documents (basée sur OpenOffice), scripting, templates de présentation freemarker, …
+Altitude3.Net 
+    Système de gestion de contenu propriétaire développé sur la technologie Microsoft .Net Framework et destiné aux moyennes et grandes entreprises. Respecte les standards Web et W3C. Interface WYSIWYG. Multilingue et multiutilisateurs. Compatible avec d’autres systèmes (système comptable, logiciel de gestion manufacturier (MRP), logiciel de gestion d'entreprise (progiciel de gestion intégré (ERP)), base de données, fichiers Excel, XML, CSV ou tout autre type de données structurables).
+Arkotheque 
+    Arkotheque est un progiciel de gestion de contenu développé par la société française « 1 égal 2 » avec une architecture LAMP. Il est destiné au domaine particulier de la publication des instruments de recherche en archivistique IR XML / DTD EAD Description archivistique encodée, des fonds sériels, des archives sonores et audiovisuelles numériques. Il dispose d'un moteur Wiki de tagage iconographique et d'annotation collaborative. Son module d'administration permet le paramétrage de la partie éditoriale, des expositions virtuelles et des archives numérisées pour les services d'archive et les bibliothèques numériques.
+Ametys 
+    SGC en langage Java distribué sous licence Apache, développé par la communauté et soutenu par l’entreprise Anyware Services. Ametys propose des fonctionnalités de gestion de contenu (portails, sites Web et Intranet) mais également des modules de travail collaboratif : espace de gestion documentaire, calendrier partagé, offre de formations (destiné aux établissements d’enseignement). Ametys est basé sur des technologies open source standard comme Apache Cocoon, Apache Jackrabbit.
+Apache Jetspeed 
+    fait partie du projet Apache, l’un des principaux organismes open source mondiaux. Il est à la fois un portail opérationnel et un framework de portail.
+Apache Lenya 
+    Apache Lenya s’appuie sur Cocoon, Java et XML. Il permet la révision des versions, la planification, la recherche “plein texte” et offre un éditeur WYSIWYG. Cet outil gère les flux de travaux.
+Artiphp 
+    Artiphp est un SGC modulaire, chaque utilisateur installe uniquement les greffons qu’il utilise. Les dernières évolutions de ce logiciel se sont axées sur les normes W3C et recommandations WAI afin de permettre l’accessibilité aux personnes souffrant de handicap.
+aulis-cms 
+    Plateforme de création et d’hébergement de site Internet gratuit. N'est plus mis à jour depuis 2008.
+Automne 
+    Système de gestion de contenu libre français basé sur une architecture LAMP. Respecte les standards du W3C, contrôle total sur le code généré, modèles écrits en XHTML+XML. Automne facilite la gestion de pages et de modules applicatifs personnalisés pour les sites Internet, intranet, extranet. Interface ergonomique WYSIWYG, générateur de modules intégré, gestion des droits RBAC, gestion multi-sites. Communauté principalement française.
+Akiwi CMS Multilingue 
+    Akiwi CMS Multilingue est développé par l’agence Web belge Akimedia. Ce système propose des possibilités de personnalisation des interfaces aux besoins de l’utilisateur. Il est développé en PHP et utilise la réécriture d’adresses. Un serveur mutualisé suffit à son installation.
+Ayana-cms 
+    CMS Multilingue et propriétaire développé par Saki-studio. Ayana-cms s'oriente dans la gestion de contenu de sites professionnels.
+b2evolution 
+    Cet outil permet la publication par plusieurs contributeurs dans des blogs gérés par catégories. Il est également multiutilisateur et multiblogs.
+BlankApplication 
+    Développé par thinkdry depuis 2007, ce CMS 2.0 OpenSource a pour vocation de simplifier et centraliser la gestion et la diffusion de contenu au sens large. Un élément de contenu étant aussi bien un article une vidéo, qu'un produit ou un lettre d'information. La diffusion est multisites et multicanaux (boutique, site, RSS).
+Betsy 
+    SGC Multi-utilisateur et multilingue disposant d’un support RSS, un module de diaporama Flash intégré, ainsi que d’une fonctionnalité réécriture d'adresse Web. Ce SGC permet de gérer des espaces personnels avec gestion d’annonces. Il intègre également la vocalisation ReadSpeaker et un éditeur de pages WYSIWYG. Betsy est développé en PHP avec base de données MySQL. Payant.
+Bizy-Nova 
+    Logiciel développé par Novius pour gérer un site de vente en ligne. La solution permet aux entreprises de créer et de maintenir, en toute autonomie, des boutiques en ligne.
+BlogoText 
+    Logiciel gratuit, écrit en PHP par Frédéric Nassar en 2006 (repris par Timo Van Neerden en 2010). Il permet de gérer un blog avec SQLite ou MySQL. Disponible en plusieurs langues dont le français et l'anglais. Principales fonctionnalités : gestion des thèmes, respect des normes (HTML5 et CSS3), adresses significatives, fil RSS, recherche par mots-clés, recherche par date (calendrier contextuel), commentaires, partage de liens, de fichiers.
+Calker CMS 
+    Calker CMS est développé en PHP 5, pour un déploiement sur serveur Apache avec base de données MySQL, en utilisant le langage XHTML combiné au CSS, standards du Web. Des modules sont disponibles (gestionnaire d'information, gestionnaire d'infolettres, galerie d’images, livre d’or, catalogue, tags, gestionnaire de formulaires, bannières de pub). Actuellement en version 1.0, Calker CMS a été développé à partir de CI-CMS, il utilise le cadriciel Codeigniter (MVC) et permet une gestion plug and play (prêt à l'emploi) des modules.
+Ceqoya CMS 
+    Système de gestion de contenu multilingue. Il est orienté objet et basé sur son propre framework. Ce SGC est dirigé vers la création de sites vitrines, affaires électroniques, extranet et commerce électronique (vente en ligne), développé en PHP et MySQL.
+Centurion CMF 
+    Plateforme de gestion de contenu français. Basé sur Zend Framework, il permet la réalisation de site web sur mesure.
+Changer 
+    SGC avec gestion du multilinguisme, statistiques, gestion de contenu, et des outils comme la recherche et le paiement pour le commerce électronique. Le développeur peut modifier la structure. Un directeur par exemple peut simplement manipuler le contenu. Des modules extra comme AJAX sont aussi disponibles.
+CMS chronosite 
+    un module de gestion de contenu dédié au monde scolaire. Un système de droits privés et publics permet de gérer avec une grande facilité des groupes d'élèves notamment lors des sorties scolaires. Il est de doté d'un certains nombres de modules comme le gestionnaire de formulaire chrono-form qui permet, via une base de données mysql de créer et gérer un formulaire en ligne.
+Citrus System - Site 
+    Module de gestion de contenu de l'application web Citrus System édité par GreenCitrus. Destiné à ceux voulant gérer eux-mêmes leur site, sans avoir de connaissances techniques et sans perdre de temps. Développé en PHP et MySQL, dispose d’une interface riche et intuitive (avec HTML5 et AJAX), optimisation SEO.
+CMS made simple 
+    SGC simple d’utilisation et libre, maintenu et développé par une équipe internationale. CMS made simple utilise Smarty, un moteur de template pour PHP.
+CMS Nina 
+    Système de gestion de contenu libre qui comprend différents modules : actualités, agenda, moteur de recherche, nuage de mots, diaporama, plan du site, annuaire, sondage, enquête, annonce, forum, formulaire dynamique, parrainage, podcast et videocast, lettre d'information, appel offre. Ce SGC est basé sur PHP5, MySQL et le moteur de template Smarty.
+CMS Entreprises 
+    SGC open-source pour les vitrines d'entreprises. Il utilise PHP/Mysql, propose un sitemap et des flux d'informations.
+CMS.Eolas 
+    écrit en PHP et adossé à Mysql et JQuery. Riche et complet, très simple à utiliser : gestion wysiwyg inline. Multilingue, flux de travaux, pages basées sur une structure XML flexible, fonction glisser-déposer pour gérer les portlets et l'arborescence, pré-packagé avec des modules fonctionnels dédiés aux collectivités territoriales françaises.
+ClanLite 
+    ClanLite est un portail (ou SGC) de communauté pour tout type de jeu en ligne. Il est personnalisable tant au niveau graphique (basé sur le système de modèle PHPBB2) qu’à son contenu. Il est facile d’emploi, avec son panneau d’administration simple. Toute la structure est en PHP (testé de 4.3.0 à 5), aux normes CSS 2 et XHTML 1.0 Strict, multi-langue, un système de modèle.
+Clic! 
+    Système de gestion de contenu professionnel, ergonomique et orienté référencement. Il utilise les standards Web et W3C (xHTML 1.0 Strict, CSS-3, Web sémantique, WAI, Microformats, ICBM, RSS, iCal, SOAP, etc.).
+Clix 
+    Système de Gestion de Contenus, multilingue et multisite, entièrement développé sur la technologie Microsoft .Net, édité par NExcess Technologies. Il est destiné aux moyennes et grandes entreprises et peut être hébergé sur IIS ou Apache. Il repose sur une base de données MS SQL. Il propose des bibliothèques multimédia, une interface conviviale et un processus complet d'approbation de contenus.
+Combo 
+    Combo est un système de gestion de contenu AJAX. Il permet d'intégrer des éléments HTML (statique) ou PHP (dynamique) par un simple glissé/déposé et de les positionner ou redimensionner très facilement par l'administrateur du site. Les développeurs ont la possibilité d'incorporer des plugins permettant d'améliorer ou de compléter des fonctionnalités natives. N'est plus mis à jour depuis 2008 et présenté en Bêta.
+Contao (ex-TYPOlight) 
+    Contao est un système de gestion de contenu web spécialisé dans l'accessibilité (back-office et front-office) et utilise XHTML et CSS conforme W3C/WAI pour générer les pages. Il a été mis au point par Leo Feyer en 2004 et a été publié sous la Lesser General Public License (LGPL).
+Content Server 10 (ex-Livelink) 
+    Content Server 10 est une solution de gestion électronique de contenu d'entreprise (ECM). Crée par la société OpenText, il permet aux entreprises de stocker, partager et gérer le cycle de vie de documents.
+CrazyCMS 
+    SGC français, il fonctionne en PHP / MySQL / AJAX, et est muni d’un système de cache afin d’accélérer la vitesse de génération des pages. CrazyCMS est doté d’un système de modèle pour permettre la mise en place des thèmes. Il est également doté d’un module multilangue permettant à chaque utilisateur de choisir sa langue.
+Cykia 
+    SGC français développé par Edenweb, basé sur J2EE, PostgreSQL et XML. Il permet à l'utilisateur de gérer son site web simplement : rubrique actualités, annuaire, lettre d'information, création de fiches produits et de pages illimitées, gestion multi-langues. Il permet de faire tourner aussi bien des sites marchands que des sites vitrines, de rajouter des vidéos, de l'animation flash et une photothèque. Payant.
+Daber 
+    Développé en PHP / MySQL. Le système se caractérise par sa gestion de groupe d’utilisateurs et des droits afférents permettant de gérer des espaces Web internes au portail. Ce qui le rend très adapté à des organismes multi-communautaires : communes avec leurs associations, établissements scolaires avec leurs classes, etc. Des boîtes d’informations sont gérables et constituent un habillage des pages, éventuellement selon des modèles. Le système possède les fonctions sondages, forums", panneaux d’affichage, et un mécanisme de messagerie interne.
+Darkness 
+    Application Web gratuite et écrit en PHP, elle permet de réaliser un site. Parmi les fonctionnalités qu’offre ce SGC, on peut trouver : possibilité d’inscription et de gestion des membres, soumission de commentaires en réponse aux articles, liaison avec un forum phpBB2, éditeur de pages WYSIWYG.
+DelAdmin 
+    Système de gestion de contenu multi-sites et multi-utilisateurs développé en PHP et MySQL sous licence. Le Back Office est développé pour tous types de Front Office optimisé SEO, site web multilingue et validé W3C.
+DigiContent 
+    Logiciel de gestion de contenu propriétaire, édité par Digifactory et basé sur la plate-forme LAMP. Très léger, une simple connexion bas débit (=56k) suffit à charger l'interface d'administration de DigiContent, ce qui le rend utilisable en situation de mobilité. Son utilisation vise plus un public PME ou Grand Compte que grand public, de par ses très nombreux paramètres disponibles. DigiCommerce, l'évolution de DigiContent pour la vente en ligne, en reprend l'ensemble des fonctionnalités de gestion de contenu.
+Django CMS 
+    Système de gestion de contenu basé sur le cadre d'applications Django et comme lui écrit en Python. Logiciel libre. D'origine suisse.
+DocuShare 
+    DocuShare de Xerox est une plateforme logicielle Web de gestion de contenu d’entreprise qui regroupe des outils de gestion électronique des documents, de travail collaboratif et de circuits de validation élaborés (flux de travaux). Les différentes versions basées sur une même architecture sécurisée permettent de couvrir la chaîne documentaire dans son ensemble.
+Doorgets
+    doorGets est un système de gestion de contenu écrit en PHP 5.3 avec une base de données MySQL par Mounir R'Quiba. Il est gratuit et open source, la version dernière version est la 7.0 qui date du 31 Août 2015.
+DotClear 
+    SGC français qui utilise PHP et MySQL pour sa première version (1.2.7.1), et plusieurs SGBD depuis sa version 2.0 beta 7). Spécialement conçu pour les blogs et documenté. Possibilités de personnalisation (modules d'extension et thèmes). Les utilisateurs formant une communauté en France essentiellement.
+DotNetNuke 
+    VB.NET/MS SQL Server. DotNetNuke (DNN pour les intimes) supporte la création de plusieurs portails avec une même installation. Il est possible d’ajouter des greffons à cet outil. DNN est publié sous licence BSD.
+Drupal 
+    Drupal est un SGC hybride et un peu atypique. S’il est orienté communautés, ce n’est pas pour autant un portail. Drupal permet de gérer une information comme un nœud, ce nœud peut ensuite être attaché à un forum, article, nouvelle, tutoriel, commentaire, livre collaboratif, etc. La forme n’est pas figée à une architecture type. En contrepartie de cette liberté, il faut passer un peu de temps pour se familiariser avec sa logique particulière. Ce CMS est francisé mais pas l’intégralité de ses modules.
+E-majine 
+    SGC de l'éditeur Medialibs, essentiellement utilisé par des agences de communications.
+EasyPlay 
+    Ce SGC entièrement en français a été développé par la SOFRACS (France) avec pour but d’offrir un outil qui permet à l’utilisateur d’ajouter, modifier ou supprimer : les pages, les rubriques, les langues du site, les paramètres de référencement, le moteur de recherche, les galeries photos, les galeries de produits, les forums, les lettres d'information, les zones protégés par mot de passe, les formulaires de contact ou d’achat. Ce SGC est développé sous PHP et tourne sous une base de données MySQL. Système payant — le client acquiert les droits sur les sources[réf. nécessaire].
+eBazten CMS 
+    Conçu par la société eBazten, cet outil dispose de nombreux modules (validations en cascade, gestion des contacts avancée pour campagne courriel, cartographie en ligne). Il est développé en C# ASP.NET MVC. La base de données utilisée est SQL Server mais la solution est intégrable sous MySQL, PostGreSQL et Oracle.
+Édimestre Plus (mc) 
+    Édimestre Plus(mc) permet de créer et de gérer des contenus Web. Le gestionnaire de contenu Édimestre Plus (mc) offre la possibilité de communiquer facilement. Le logiciel Édimestre Plus(mc) est conforme aux standards internationaux promus par le World Wide Web Consortium (W3C) et il est certifié du sceau Bétel du Banc d’évaluation technolinguistique de l’Office québécois de la langue française.
+EDUCASP 
+    Gestion de contenu adapté à l’Éducation Nationale et couplé à un ENT.
+e-site 
+    Solution payante française. e-site respecte l’ensemble des normes W3C (XHTML 1.0 Strict, WAI A et Web sémantique). Il intègre un framework d’aide au développement du site Web et une API pour la création des modules.
+Exist 
+    Édité par la société You-Exist.com, Exist est un logiciel Web permettant de créer son site. Le projet vise un public non-technicien, et se base sur PHP, MySQL. L'installation se déroule grâce à un assistant.
+eZ Publish 
+    eZ publish est un CMS et un framework de développement tout à la fois. Doté de fonctionnalités permettant la gestion simplifiée de contenus, les flux de travaux, la gestion des versions, le multilinguisme, des fonctions collaboratives mais aussi des fonctions de vente en ligne le tout au sein d'un système de classes paramétrable et extensible.
+Flux CMS 
+    Système de gestion robuste (« fabriqué en Suisse »), propulsé par Popoon (équivalent php de cocoon qui lui fonctionne en java) et complètement articulé autour de XML. Code en php5 orienté objet. Templating en XSL. Système de plugin inclus.
+
+Grand Central
+
+    Logiciel de publication de contenu et d'applications multilingue, orienté objet, développé en PHP et MySQL. Gratuit et open-source.
+IAMHERE CMS 
+    Solution de gestion de contenu ciblant les entreprises, IAMHERE CMS intègre des fonctionnalités destinées à assurer toute la chaîne de publication, et à référencer les pages dans les moteurs de recherche. IAMHERE CMS est développé en Ruby on Rails. IAMHERE CMS est un produit édité par une start-up française.
+Inu
+    Inu est un Système de gestion de contenu francophone, libre, gratuit et open source développé en PHP/MYSQL. Son but est de permettre la création de blogs.
+Isotools 
+    Logiciel tout en XML qui ne nécessite pas de connaissance de programmation HTML ou PHP, et ouvert sur les standards du Web. Utilisable en multi-utilisateurs. Payant.
+Jaow CMS
+    Jaow est un système de gestion de contenu web gratuit spécialisé dans la création de petits sites. Il nécessécite une base de données MySQL. Il permet de créer rapidement un site vitrine, un blog ou un portfolio.
+Jalios JCMS 
+    JCMS est une solution de gestion de l’information éditée par Jalios. Solution Java basée sur un entrepôt de donnée ne nécessitant « pas forcément » de base de données. La base de données permet à JCMS d'offrir un support de fortes volumétries notamment pour les fonctions de travail collaboratif et de réseau social d’entreprise. Nativement JCMS traite la gestion de contenu (flux de travaux), la gestion documentaire (GED) et le portail dynamique. Pour la recherche, le moteur Lucene est utilisé.
+Joomla! 
+    Un système de gestion de contenu Web (sites internet et blogs) assez lourd mais du moins plutôt simple à utiliser. Il requiert néanmoins des connaissances en HTML et en PHP pour la mise en page et le système de gestion du contenu du site.
+Jumbe 
+    Application de gestion de contenu web développée par la société Indexel. Conçu à partir du framework open source Symfony, Jumbe permet de réaliser des sites web sur mesure mais dont la mise à jour ne nécessite aucune connaissance technique ni programmation. Disponible en mode hébergé, il s'avère particulièrement adapté aux TPE/PME. Vraisemblablement payant.
+Kentico CMS 
+    Kentico CMS est un système de gestion de contenu basé sur les technologies ASP.NET et C# utilisant la base de données MS SQL Server. Ce système contient plus que 250 Webpartes et 40 modules encastrés (blogs, sondages, wiki...) et il couvre des besoins de petites firmes et de firmes moyennes, sites web communautaires (Community webs) et solutions de commerce en ligne. Il existe en plusieurs éditions. Le module de base est gratuit.
+K-Portal 
+    K-Portal est une solution Java J2EE pour la mise en œuvre de projets Xnet (Internet, Intranet et Extranet). Modulaire et prêt à l'emploi K-Portal repose sur un triptyque gestion de contenu, portail de services et portail collaboratif. La solution K-Portal est éditée par la société Kosmos.
+KwsPhp 
+    SGC open source ciblant les personnes peu expérimentées en PHP et MySQL. Reste un portail et nécessite des compétences si l'on veut créer une sorte de portail amélioré.
+Lodel 
+    Lodel est un logiciel conçu pour l’édition scientifique en sciences humaines et sociales. Il permet l’importation de fichier Word.
+LogicalDOC 
+    LogicalDOC est un logiciel Web pour la gestion électronique des documents. Il peut traiter documents dans n'importe quel format et est particulièrement efficace lorsque le volume de documents traités est important. Fonctionnalités du logiciel incluent le marquage de documents, de les organiser dans des dossiers et la recherche plein texte dans le document référentiel. Il intègre également un moteur de flux de travaux qui permet de gérer efficacement le cycle de vie des documents. LogicalDOC est disponible en 2 versions: open source, gratuit et librement utilisable, et dans la version entreprise pour une taxe.
+Magnolia
+    Logiciel libre de gestion de contenu web développé en Java et basé sur la Content Repository API (en). De nombreuses fonctionnalités sont disponibles en standard : Multi-sites, Mutli-canaux, WYSIWYG, flux de travaux de validation, versionning, moteur de template, internationalisation, gestion des permissions ...
+
+Maurisource 
+    Maurisource CMS est développé en PHP5 / MySQL, basé sur la Technologie MVC Modèle-Vue-Contrôleur. Le CMS offre une gestion multilingue, zone administrative avec la possibilité de modifier le contenu du site avec le back-office sécurisé. L'outil WYSIWYG est présent pour les webmasters afin de modifier directement le contenu sur votre site. Maurisource CMS offre la possibilité d'inscrire plusieurs langues, site internet entièrement modifiable par Modèles HTML-CSS.
+Magix CMS
+    CMS orienté référencement dont les atouts sont principalement la facilité d'utilisation et la très grande rapidité d'indexation dans les moteurs. Magix CMS peut gérer l'ajout de langues et comprend de base une multitude de fonctionnalités telles que les nouvelles, des micro galerie. Magix CMS est basé sur la bibliothèque Magix cjQuery.
+MasterEdit 
+    SGC en WYSIWYG, orienté pour le référencement et pour l’accessibilité. Il gère le multilinguisme et diverses fonctionnalités en standard (actualités, moteur de recherche, galeries photos, vidéos, formulaires). Il possède une extension vente en ligne (MasterShop) et un module de lettre d'information (MasterMail). Payant.
+Metaliquid 
+    Metaliquid est un système intégré de gestion de contenu Web et de collaboration. Les fonctions principales sont : la gestion de documents historisés, la gestion de tâches, la gestion du calendrier partagé, le support group-mail, la recherche plein texte, la consultation des nouvelles RSS, la gestion de formulaires, la création intuitive de requêtes, la gestion de site Internet (contenu, style, gabarit), le support WebDAV ainsi que la prévisualisation des documents bureautiques.
+Mykos 4 
+    SGC français pour entreprises. Intuitif et visuel, il gère le multilangue, les accès privés selon les groupes de visiteurs. Il permet la gestion de contenu, les fonds documentaires, les forums et le commerce électronique avec paiement en ligne. Possibilité d’ajout de modules supplémentaires grâce à une API fournie aux développeurs PHP / MySQL.
+Neko-CMS 
+    Système de gestion de contenu sous licence LGPL, Neko-CMS est un SGC orienté vers la flexibilité et l'économie de ressources. Son interface d'administration tire à de nombreuses reprises parti du principe AJAX.
+NetManager 
+    Application de gestion de contenu modulable. Compatible avec les normes W3C XHTML et CSS, NetManager intègre les modules NetContent (gestion de contenu), NetDocument (gestion documentaire), NetLetter (lettres d'information et publipostage en ligne) et NetReport (statistiques de consultation détaillées).
+Neural v4.0; 
+    Gestion de contenu SGC multilingue, multiusager et modulaire, développé sous IIS (ASP, ASP.NET, C#) depuis 1998. Compatible avec la plupart des bases de données (SQL Server, SQL Express, MySQL, Access...). Compatibles avec les normes W3C, HTML5/CSS3, le contenu, l'arborescence et la syndication RSS générés par Neural 3 est en pure XML. Offrant ainsi un contenu libre du gestionnaire, indépendant de la base de données et entièrement disponible aux technologies XSLT, XSL, xPath, XMP et AJAX.
+Novius OS 
+    Novius OS est un système de gestion de contenu libre et open-source (licence GNU Affero General Public License) publié par la société Novius.
+Nuxeo EP 
+    Plateforme de gestion de contenu d’entreprise libre / open source (licence LGPL), développé par une communauté de développeurs et supporté par la société Nuxeo. Nuxeo EP propose notamment des fonctions de gestion documentaire, de gestion des contenus multimédia, de travail collaboratif, d’indexation et recherche, d’archivage, de flux de travaux. Nuxeo EP est développé en utilisant les technologies d’entreprise Java EE, et s’appuie sur des standards comme JCA, JAX-RS, JAX-WS, CMIS, JavaServer Faces et des composants open source issus des projets JBoss, Apache, Eclipse et des projets libres de Sun.
+NPDS 
+    Au delà de la gestion de contenu 'classique', NPDS met un œuvre un ensemble de fonctions spécifiquement dédiées à la gestion de Communauté et de groupe de travail collaboratif. Il s'agit d'un Content & Community Management System (CCMS) robuste, sécurisé, complet, performant et parlant vraiment français. Gérez votre Communauté d'utilisateurs, vos groupes de travail collaboratifs, publiez, gérez et organisez votre contenu grâce aux puissants outils disponiblent de base.
+Onyx Publication
+    Suite de logiciels (PIM, DAM, DTP) qui vous permettra d’éviter de nombreuses erreurs dans votre contenu à être publié, vous sauvera du temps et simplifiera la gestion des informations de vos produits. Simplifier vos productions avec le logiciel de mise en page DTP.
+OpenSite 
+    SGC réalisé en Flash qui permet l’édition de site web directement sur les écrans du site lui-même, sans BackOffice. La présence du moteur Flash dans ce SGC lui confére des possibilités très différentes des SGC classiques. Contient également les fonctionnalités standards de la plupart des SGC : multi-langue, vidéo, forum, clavardage, album photo, langage de programmation interne, optimisation de référencement, création de base de données automatique, gestion des droits, moteur de publipostage. Payant.
+Orki 
+    SGC permettant l'administration du site dans le site lui-même.
+Ovidentia 
+    PHP/MySQL sous licence GNU GPL. Ovidentia est une solution fonctionnelle de publication et collaborative orientée vers les milieux professionnels, en offrant des fonctionnalités telles que : publication, agendas partagés, interface de messagerie, annuaires, partage de fichiers, forums, FAQs, flux de travaux applicatif, gestion de demandes de congés, organigrammes.
+PACKflow 
+    Plateforme générique d'applications de gestion de contenu collaboratives, workflows et gestion électronique des documents.
+Parsimony 
+    Parsimony est une application Web multi-plateforme et multi-applicative qui a pour dogme scientifique et philosophique le principe de parcimonie et pour but de créer tout type d'application ou site web dynamique PHP, HTML5. Les créateurs ont voulu utiliser le strict nécessaire pour doter l'environnement de développement d’un système de gestion de contenu (CMS) et d’un framework PHP performant. L'application web libre et open-source est publiée sous licence Open Software 3.0 (Open Software License)5 et écrite en PHP 5.3.
+Philum
+    Est un SGC français multiblogs, multilingue, qui utilise MySql, capable d'aspirer les articles des autres sites en homogénéisant l'aspect, doté d'un constructeur de design et d'une architecture entièrement modulaire basée sur des micro-bases de données qui contiennent aussi bien les parties molles de sa programmation que des tableaux que les utilisateurs peuvent partager. Il est cross-platform (communication entre sites) et est mis à jour quotidiennement via une interface d'update.
+PHPMyPortfolio 
+    Est un SGC français permettant de mettre en place un portfolio et d’administrer son contenu sans connaissances particulières.
+phpwcms 
+    Est un SGC petit frère de TYPO3. Sous licence GNU GPL et basé sur LAMP c’est un outil adapté aux Webmasters et codeurs moyens/chevronnés. Logiciel à la base allemand, il se décline en plus de 20 langues, dont le français.
+Pimcore 
+    Pimcore est un SGC novateur6 utilisant le Framework Zend, qui permet l'utilisation d'une architecture robuste pour la gestion des contenus, et un confort pour l'utilisateur basé sur une interface intuitive et ergonomique. Il est la révélation de l'année 20106, et est élu le CMS open source le plus prometteur7. C'est un logiciel gratuit publié en français (Pimcore Édition Fr 2012) sous licence gratuite Zend Framework Gestion de contenu numérique professionnel8.
+Plone 
+    Plone est un système de gestion de contenu basé sur le serveur d’application Zope. Sous licence GPL, il répond à la plupart des normes d’utilisabilité et d’accessibilité, et est traduit en 50 langues. Plone possède une communauté française et internationale très active. Environ 250 modules applicatifs existent pour Plone.
+Plume-CMS 
+    Plume est un logiciel de gestion de contenu et de site Internet sous licence GNU GPL, qui s’attache à la conformité avec les standards du Web du W3C. Il s’installe même chez les hébergeurs les plus contraignants. Il est basé sur le système de publication de blogs Dotclear.
+Postnuke 
+    Est un SGC permettant une grande gestion de modules et de thèmes afin que chaque site puisse avoir son aspect. Site en anglais.
+Publi-Nova 
+    Solution globale de gestion de contenu éditorial développée par Novius. C’est une plate-forme conçue pour permettre à des utilisateurs non informaticiens d’administrer des sites complexes de façon entièrement automatisée, ce qui leur permet de se concentrer sur le fond plus que sur la forme. Payant.
+PragmaMx 
+    Est un SGC d’origine allemande qui existe depuis 2002. PragmaMx est écrit en Langage PHP fonctionnant avec une base de données MySQL, il est distribué sous licence open source GNU/GPL.
+ProgACF 
+    Projet conçu par quinze lycéens pour la plupart débutant en PHP en un an. Il était destiné à des sites personnels et n'existe plus.
+PwsPHP 
+    est un SGC français simple à utiliser. La mise en page se fait par blocs et le contenu s’ajoute sans aucune connaissance en HTML. PwsPHP a fermé et est désormais disponible sous le nom de KwsPHP.
+Quilium 
+    est un CMS (Content Management System) créé par l'agence web luxembourgeoise E-connect. Il permet de gérer en temps réel l'intégralité du contenu des sites Internet sans aucune connaissance particulière en programmation.
+Radiant CMS 
+    Ruby et base de données MySQL, PostgreSQL ou SQLite. Gère uniquement du contenu.
+RBS Change 
+    plateforme de gestion de contenu Web (CMS) et de commerce électronique. Distribué sous la licence open source GNU Affero General Public License.
+RPortal 
+    Est un système de publication français.
+Rubedo 
+    utilise la base NoSQL MongoDB.
+SilverStripe 
+    permet de créer et d'éditer des sites Web, y compris en WYSIWYG.
+SK EDIT4
+    Le Système KIMBANGU Edit est un gestionnaire de contenu conçu par GASTON LIFETA IKATI, jeune autodidacte de la RDC dont la particularité est la création de site en temps records et la conversion facile des templates statiques en dynamique. Site web du CMS : www.skedit.info. Site web de l'Editeur : www.glisweb.com
+Sux0r 
+    Un moteur de blog avec un lecteur RSS et un système de marque-page en ligne plus une plate-forme photo. C'est un projet code source libre (open source) sous licence GNU GPL.
+Système D 
+    Créé par PenseWeb.com, ce système payant comprend beaucoup de modules particulièrement adaptés aux besoins des PME du Canada. Que ce soit pour un site de base, du commerce électronique ou de la gestion interne comme l'embauche ou la gestion de projets, il permet de centraliser toutes les opérations de l'entreprise.
+SPIP 
+    SPIP est notamment utilisé dans les milieux associatifs, administratifs et éducatifs. Des gabarits (appelés squelettes) tout faits existent et la communauté d’aide est nombreuse et active.
+Tactic! LMS 
+    Tactic! LMS est une plateforme Web de gestion et de diffusion de contenu d'apprentissage totalement intégrée et personnalisable. Elle peut prendre la forme d’un portail éducationnel. Son système assure le suivi des formations et met en évidence la progression des utilisateurs.
+Textpattern 
+    Créé par Dean Allen, un Canadien vivant en France dans le Languedoc, Textpattern peut être utilisé comme un outil de blog mais aussi comme un système de publication. L’installation est multilingue, entièrement francisée. La grande force de Textpattern, c’est sa communauté active et l’implication de nombreux développeurs, ce qui a donné naissance à environ de 200 greffons (plugins).
+Thelia 
+    Thelia est une application web de commerce électronique. Elle est disponible gratuitement et publiée sous licence publique générale GNU.
+TYPO3 
+    PHP/MySQL sous licence GNU GPL. Il est basé sur le concept de pages et de blocs (une page contient un ensemble de blocs). TYPO3 peut être multilangue, multisite et multiutilisateur.
+Ultime CMS 
+    Orienté vers les entreprises et les institutions qui nécessitent un suivi. La mise en page se fait par ajout de modules.
+Umapresence 
+    CMS PHP/MySQL open source, publié sous licence GPL et créé par l'entreprise Umazuma en 2003. Il propose notamment une gestion dite « en contexte » des contenus, permettant d'éditer directement la page souhaitée dans son contexte graphique final.
+UWS Portal 
+    Portail Intranet/Extranet payant (mais testable gratuitement) simple à installer et à utiliser pour les petites et moyennes entreprises. Inclut une gestion documentaire liée à une bases de données SQL Server.
+VCS 
+    Solution programmée en PHP qui permet d’afficher le code source des pages aux visiteurs tout en ayant la possibilité de masquer certains fichiers tels que les fichiers de configuration, coloration du code et configuration avancée. Offrant aussi un mode avec et sans base de donnée.
+Vignette VCM 
+    SGC propriétaire Java basé sur WebLogic 8 s’interfaçant avec le Vignette Portal avec le produit DPM. Il permet de travailler sur différents étapes comme la prévisualisation avant publication vers la production. Ce produit gère les versions ainsi que les flux de travaux de publication. Il est également capable de diffuser les fichiers en fonction du type, de la source et de la destination.
+Vitamine CMS 
+    SGC français, développé en PHP / MySQL, possédant un mode Édition Directe (modification du contenu du site sans back-office) basé sur le concept du WYSIWYG: Modifiez vos pages directement sur votre site. Vitamine CMS permet de gérer plusieurs sites et plusieurs langues.
+WebGUI 
+    Perl/MySQL. Un SGC personnalisable.
+Webagoo 
+    Outil de gestion de contenu orienté WYSIWYG développé en PHP, permettant la création de site, depuis son apparence graphique (gestion de CSS, modèles) jusqu’à l’arborescence multi-niveaux, en passant par l’ajout de modules complémentaires (catalogue, boutique de vente en ligne, calendrier de manifestations). Sa plus grande particularité réside dans sa liaison avec un réseau de portails régionaux et thématiques, diffusant des éléments partagés (actualités, images, produits). Principalement utilisé par de petites entreprises. Payant.
+Web-ADNS 
+    Outil de gestion de contenu orienté vers une utilisation professionnelle, il s'agit d'une solution multisite et multilingue, développée en WebObjects, qui peut être associée à plusieurs modules originaux (commerce électronique, publipostage en ligne et gestion événementielle en ligne (inscriptions, paiements et hébergement). Web-ADNS est un outil payant, édité et distribué par la société nantaise Algo Data.
+WebGazelle CMS 2.0 
+    Développée depuis 2002 par la société Cognix Systems, cette solution est principalement conçue pour la mise à jour de sites vitrines d'entreprise. Elle a été redéveloppée en 2009 sur la base des technologies PHP et Ajax
+WebSPELL 
+    Outil de gestion de contenu. Gratuit, multilingue, spécialisé dans les jeux vidéo depuis 2005. Depuis 2009 une version société modulable est sortie.
+Wedia WMS 
+    Outil de gestion de contenu. Il supporte la gestion multi-site, multilingue, multi-média. Une version gratuite est disponible, en plus des versions payantes. Solution technique basée sur Java, elle fonctionne sur diverses plates-formes (système d'exploitation, base de données, serveur d'application).
+wi.Commerce 
+    Application de gestion de contenu orientée vente en ligne basée sur une interface simple. Compatible avec les normes W3C XHTML/CSS, wi.Commerce permet de gérer de façon simple et autonome un site de vente en ligne.
+Windows SharePoint Services 
+    Gratuit (à vérifier, et impliquant de toutes façons l'utilisation de nombreux logiciels onéreux) et incluant modifications en ligne directe des documents, wikis, calendriers, formulaires de communication de données.
+WvnCMS 
+    Développé depuis 2002 grâce aux technologies .NET, la société belge WaVeNet propose un SGC modulable et facile à utiliser.
+Wolf CMS (en) 
+    open source (licence GPLv3), ce CMS est codé exclusivement en PHP, il offre la possibilité d'utiliser MySQL, SQLite ou PostgreSQL comme base de données.
+WordPress 
+    Sur une base de gestion de blog (vocation historique), Wordpress est à présent une solution modulaire de gestion de contenu, multisite et multilingue.
+Xbtit-seo 
+    Xbtit-seo est un système de gestion de torrent écrit en PHP avec la particularité de réécrire les url du site.
+XIBUX 
+    Il s’agit d’un système de gestion de contenu orienté production, multisite et multilingue, distribué par la société XIMEDIA Software. Le module XIMOBILE permet de générer des sites pour le web mobile. XIBUX est développé en PHP (version 5), base de données MySQL (version 5), XML et AJAX.
+Xooloop CMS 
+    Système de gestion de contenus écrit en Php orienté objet, sur une base de données MySql, développé depuis 2009 par Xooloop Studio. Le backoffice est en Html5 et Ajax. Il gère le multilinguisme nativement et est très fortement personnalisable (modèles des données). Initialement conçu pour motoriser un Wiki, il s'est ensuite enrichi pour gérer des Blogs, puis des sites web institutionnels ou vitrines, puis des sites communautaires, des portails Intranet, et permet désormais de réaliser facilement des sites de vente en ligne.
+Xoops 
+    XOOPS (eXtended Object Oriented Personal System) est un système de construction de portail écrit en PHP orienté objet. Avec une approche très différente par rapport à PHPNuke, XOOPS est adapté pour développer des sites communautaires, portails Intranet, portails corporatifs, journaux en ligne, etc.
+YaCS 
+    Gestionnaire de contenu open source multisite et multilingue, sans outil d’administration WYSIWYG. Respectueux des standards du Web préconisés par le W3C (CSS, HTML), basé sur PHP 4 et 5 et MySQL, il permet de gérer des blogs, forum, galeries photographiques, ou site “vitrine”.
+ZenCMS 
+    Si l'on pouvait encore le trouver, mais son site a disparu et sur SourceForge il n'y a que son nom. ZenCMS se destine particulièrement à la création de sites personnels, vitrines ou d’associations. La création de pages se faisant en mode HTML, ZenCMS s’adresse à des personnes ayant quelques connaissances de base en HTML, au contraire des autres fonctions.
+Candle CMS 
+    SGC français édité par la société BYOOS solutions, développé en PHP5 / MySQL, basé sur la Technologie Modèle-Vue-Contrôleur CODEIGNITER 2.0.3 possédant une gestion multilingue, modulaire Édition Directe (modification du contenu du site avec back-office) basé sur le concept du WYSIWYG: Modifiez vos pages directement sur votre site. CandleCMS permet de gérer plusieurs instances de site sur le même hébergement, plusieurs langues, Modèles HTML-CSS.:
+
+SGC avec base de données NoSQL
+
+Plone
+
+CMS écrit en Python avec sa propre base de données NoSQL ZODB.
+
+Rubedo
+
+    CMS français, utilise la base NoSQL MongoDB.
+
+Frameworks orientés gestion de contenu
+Article détaillé : Framework.
+
+Les frameworks ou cadres d'applications orientés gestion de contenu sont des cadres applicatifs permettant la construction, le développement, de système de gestion de contenu.
+
+Content repository API for Java (en) 
+    JCR est une spécification, dans le cadre du langage Java visant à répondre aux besoins en matière de gestion d’informations : gestion des liens (hiérarchie), indexation, gestion des versions et gestion de l’intégrité référentielle ; « This API will focus on transactional read/write access, binary content (stream operations), textual content, full-text searching, filtering, observation, versioning, handling of hard and soft structured content9,10. »
+Freedom-ECM 
+    Freedom-ECM est une solution de gestion de contenu (ECM) libre (Licence GPL) développée principalement par la société Anakeen. Freedom-ECM est développé en PHP/JavaScript et utilise la base de données PostgreSQL. La partie serveur fonctionne sous Linux (Fedora, Debian, ...) et la partie client nécessite uniquement un navigateur récent (ex: Firefox). Freedom-ECM permet de stocker tout type de document dans des familles et de les gérer à l'aide de cycles de vies (flux de travaux) et de profils d'accès dynamique en fonction du contenu.
+Jalios JCMS 
+    Solution de gestion de l’information éditée par Jalios. C’est une solution Java/XML qui ne nécessite pas de base de données et qui offre des fonctionnalités de gestion de contenu, de gestion documentaire, de travail collaboratif et de portail.
+Kiwi-CMS 
+    Basé sur les composants de la plateforme Libresource, Java et XML. Il intègre plusieurs modules spécifiques comme la gestion de sondages, de fichiers partagés. Le module CMS quant à lui intègre une base de données XML native permettant l’interrogation de l’ensemble des contenus en XQuery.
+MODx 
+    Plus qu’un CMS, MODx est un framework de gestion de contenu, utilisant une architecture modulaire, une interface tirant parti d’AJAX et une grande flexibilité en matière de personnalisation des pages Web et de gestion du contenu, une conformité aux standards Web les plus récents (XHTML 1.1, CSS 2.0). À noter, les types de contenus et variables sont personnalisables (champs, type de données, valeur par défaut, propriétés …). 
+
+
+
+###### FRAMEWORK ######
+######PHP
+    Agavi 
+    GLIAL 
+    Horde   
+    Mouf 
+    Opulence 
+    Phalcon 
+    PHPixie
+    PHP Tool Suite 
+    Syrinx 
+    Pluf 
+    Recess 
+
+###### FRAMEWORK ######
+######Ruby
+Camping 	2.1 (dormant) 	2010-08-20 	MIT
+Padrino 	0.13.2 	2016-05-09[51] 	MIT
+Ruby on Rails 	5.0.0 	2016-06-30[52] 	MIT
+Sinatra 	1.4.7 	2016-01-24[53] 	MIT
+Merb 	1.1.3 (dormant) 	2010-07-10 	MIT
+PureMVC 	2.0.4 (dormant) 	2008-08-14 	CC +Attribution
+
+
+###### FRAMEWORK ######
+######haskell
+Happstack 	7.0 	2012-03-29 	BSD-3
+Snap 	0.13 	2014-05-06 	BSD-3
+Yesod 	1.4.1 	2014-11-23[11] 	MIT License
+
+
+###### FRAMEWORK ######
+######scala
+Play! 	2.4.3 	2015-09-07 	Apache 2.0
+Lift 	2.6 	2015-01-11 	Apache 2.0
+Scalatra 	2.3.0 	2014-06-11 	BSD
+
+
+###### FRAMEWORK ######
+######Javascript
+DOM (manipulation) oriented
+
+    Dojo Toolkit
+    jQuery
+    midori
+    MooTools
+    Prototype JavaScript Framework
+    React.js
+    YUI Library
+
+Graphical/visualization (canvas or SVG related)
+
+    AnyChart
+    D3.js
+    Highcharts
+    EaselJS, part of CreateJS
+    JavaScript InfoVis Toolkit
+    p5.js
+    Pixi.js
+    Plotly
+    Processing.js
+    Raphaël
+    SWFObject
+    Three.js
+    Velocity.js
+    WhitestormJS
+
+GUI-related (widget)
+
+    Ext JS of Sencha
+    AngularJS (framework)
+    Bootstrap
+    DHTMLX
+    Dojo Widgets
+    ZURB Foundation
+    Google's Polymer paper elements
+    jQuery UI
+    jQWidgets
+    Ignite UI of Infragistics
+    Kendo UI of Telerik
+    Wijmo 5 of GrapeCity
+    OpenUI5 of SAP
+    qooxdoo
+    SmartClient
+    Webix
+    WinJS
+    Vue.js(https://vuejs.org/)
+
+Pure JavaScript/Ajax
+
+    Google Closure Library
+    Joose
+    JsPHP
+    Microsoft's Ajax library
+    MochiKit
+    PDF.js
+    Rico
+    Socket.IO
+    Spry framework
+    Underscore.js
+
+Template systems
+
+    Cascade Framework
+    Handlebars
+    jQuery Mobile
+    Mustache
+
+Unit testing
+
+    Jasmine
+    Mocha
+    QUnit
+    Unit.js
+
+Web-application related (MVC, MVVM)
+
+    AngularJS
+    Backbone.js
+    Cappuccino
+    Chaplin.js
+    Echo
+    Ember.js
+    Enyo
+    Ext JS
+    Google Web Toolkit
+    JavaScriptMVC
+    Knockout
+    Meteor
+    Mojito
+    MooTools
+    NodeJS
+    Prototype JavaScript Framework
+    React.js
+    Rialto Toolkit
+    SproutCore
+    Wakanda Framework
+
+
+###### FRAMEWORK ######
+######CSS
+
+    awsm.css
+    inuitcss
+    Jalsonic Opinion
+    Kathamo
+    Kule Lazy
+    Material Design            JBoss Seam — de la société JBoss
+    JUnit — pour les tests
+    JavaServer Faces
+    Leonardi - de la société W4 (GPL)
+    Qt Jambi - Framework permettant de faire des interfaces Qt en Java.
+    Zerocouplage - Framework permettant de développer des applications web, des applications mobiles et/ou ordinateurs de bureau à partir d’une unique couche métier indépendante de la couche présentation.
+
+
+
+
