@@ -1,0 +1,12 @@
+
+Marriott (Alias : marriott)
+TimHotel (Alias : timhotel)
+Ibis (Alias : ibis)
+pullmanhotels (Alias : pullmanhotels)
+HotelF1 (Alias : hotelf1)
+Novotel (Alias : novotel)
+Mercure (Alias : mercure)
+Adagio city (Alias : adagio-city)
+Thalassa (Alias : thalassa)
+hotel Sogo (Alias : hotelsogo)
+Sofitel (Alias : sofitel)

@@ -1,0 +1,6 @@
+ValSoftware (Alias : valsoftware)
+Afpa (Alias : afpa)
+Epitech (Alias : epitech)
+Cuisine mode d'emploi(s) (Alias : cuisine-mode-d-emploi-s)
+Epita (Alias : epita)
+Ecole 42 (Alias : ecole-42)

@@ -1,0 +1,7 @@
+flixbus (Alias : flixbus)
+Navya (Alias : navya)
+Victory Liner (Alias : victory-liner)
+Megabus (Alias : megabus)
+OuiBus (Alias : ouibus)
+Eurolines (Alias : eurolines)
+RATP (Alias : ratp)
