@@ -1,0 +1,8 @@
+	
+Emirates SkyCargo (Alias : emirates-skycargo)
+FedEx (Alias : fedex)
+Singapore Airlines Cargo (Alias : singapore-airlines-cargo)
+Lufthansa Cargo (Alias : lufthansa-cargo)
+United Parcel Service (ups) (Alias : ups)
+Cargolux (Alias : cargolux)
+LBC Express (Alias : lbc-express)
