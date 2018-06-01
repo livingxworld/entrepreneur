@@ -230,7 +230,7 @@
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge parent="" category="" entreprise="" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
+			[lxw-badge parent="administration" category="hospital" entreprise="" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]advice final[/h5]
 			[ends tags="div" /]	
