@@ -4,7 +4,7 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Comparez votre assurance auto, habitation et mutuelle santé et économisez jusqu&#039;à 40% sur votre assurance. Nos devis sont gratuits, sans engagement et réalisé en moins de 5 minutes au 02 30 06 00 60 ou sur notre site. Nous sommes basés à Brest. Nos conseillers vous aideront à choisir l&#039;assurance adaptée à vos besoins.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[dailymotion source="" /]
@@ -16,16 +16,16 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Site internet[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://acommeassure.com" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] Rue Jean Fourastié, 29480 Le Relecq-Kerhuon [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33230060060" rel="nofollow"]02 30 06 00 60[/a] [br /]
+		SIRET/VAT [a href="https://www.societe.com/societe/media-courtage-524259975.html" rel="nofollow"]524 259 975 00026[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Lundi à Vendredi: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Samedi: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Dimanche: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Jour férié: xxhxx - xxhxx[ends tags="li" /]
+			[begins tags="li" /]Lundi à Vendredi: 09h00 - 19h00[ends tags="li" /]
+			[begins tags="li" /]Samedi: Fermé[ends tags="li" /]
+			[begins tags="li" /]Dimanche: Fermé[ends tags="li" /]
+			[begins tags="li" /]Jour férié: Fermé[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Transport[/h3] [br /]
 		[begins tags="ul" /]
@@ -36,10 +36,10 @@
 		[ends tags="ul" /]	
 		[h3]Autres[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /][fa name="wheelchair" zoom="2x" /] [fa name="blind" zoom="2x" /] [fa name="deaf" zoom="2x" /] [fa name="sign-language" zoom="2x" /][ends tags="li" /]
+			[begins tags="li" /][fa name="wheelchair" zoom="2x" /] --[ends tags="li" /]
 			[begins tags="li" /][fa name="broadcast-tower" zoom="2x" /] --[ends tags="li" /]
 			[begins tags="li" /][fa name="wifi" zoom="2x" /] --[ends tags="li" /]
-			[begins tags="li" /][fa name="money-bill" zoom="2x" /] --[ends tags="li" /]
+			[begins tags="li" /][fa name="money-bill" zoom="2x" /] CB, virement bancaire[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Ces logiciels et Apps[/h3]
 		[begins tags="ul" /]
@@ -51,7 +51,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[gmaps url="" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2648.8325083640416!2d-4.411171684341711!3d48.40215957924539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4816bbc01d017831%3A0x6fdbf2d7ec24dc9d!2sAcommeAssure.com!5e0!3m2!1sfr!2sfr!4v1527913345581" /]
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -62,13 +62,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="acommeassure.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="acommeassure.com" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
+		[api-myipms query="acommeassure.com" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -77,25 +77,27 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
+		[img src="https://business.livingxworld.com/images/photo/administration/assurance-mutuel/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingxworld.com/images/photo/administration/assurance-mutuel/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingxworld.com/images/photo/administration/assurance-mutuel/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingxworld.com/images/photo/administration/assurance-mutuel/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 [/none]
 
 
 [h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
+---
+[none]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-6" /]	
 		[h4 class="text-center"]Particulier[/h4]
@@ -224,13 +226,13 @@
 		[ends tags="div" /]	
 	[ends tags="div" /]	
 [ends tags="div" /]	
-
+[/none]
 [h2 class="text-center"][begins tags="strong" /]Note et avis avec exigence[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge parent="administration" category="assurance-mutuelle" entreprise="" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-warning" /]
+			[lxw-badge parent="administration" category="assurance-mutuelle" entreprise="acommeassure" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]advice final[/h5]
 			[ends tags="div" /]	
@@ -249,7 +251,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] Manque RGPD/GRPD[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
@@ -257,7 +259,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] Let's Encrypt Authority X3 : B non sécurisé (corrigé Forward Secrecy)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -276,27 +278,23 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingxworld.com/images/logo/",
-		"telephone": "+33100000000",
-		"description": "description",
+		"name": "AcommeAssure",
+		"url": "https://acommeassure.com",
+		"logo": "https://business.livingxworld.com/images/logo/administration/assurance-mutuel/acommeassure.png",
+		"telephone": "+33230060060",
+		"description": "Comparez votre assurance auto, habitation et mutuelle santé et économisez jusqu&#039;à 40% sur votre assurance. Nos devis sont gratuits, sans engagement et réalisé en moins de 5 minutes au 02 30 06 00 60 ou sur notre site. Nous sommes basés à Brest. Nos conseillers vous aideront à choisir l&#039;assurance adaptée à vos besoins.",
 		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"paymentAccepted": "card, bank wire",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "Rue Jean Fourastié",
+			"addressLocality": "Le Relecq-Kerhuon",
+			"postalCode": "29480",
+			"addressCountry": "France"
 		},
-		"hasMap": "url-map",
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2648.8325083640416!2d-4.411171684341711!3d48.40215957924539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4816bbc01d017831%3A0x6fdbf2d7ec24dc9d!2sAcommeAssure.com!5e0!3m2!1sfr!2sfr!4v1527913345581",
 		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
+			"Mo-Fr 09:00-19:00"
 		]
 	}
 [ends tags='script' /]
