@@ -148,7 +148,7 @@
 		[begins tags="div" class="card text-white bg-success" /]
 			[lxw-badge parent="administration" category="assurance-mutuelle" entreprise="ag2rlamondiale" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]advice final[/h5]
+				[h5 class="card-title"]Trust[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]	
 	[ends tags="div" /]	
