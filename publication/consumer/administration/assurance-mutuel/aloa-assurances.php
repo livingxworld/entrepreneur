@@ -153,12 +153,12 @@ Demande de devis
 		"@type": "LocalBusiness",
 		"name": "Aloa Assurances",
 		"url": "https://aloa-assurances.fr",
-		"logo": "https://business.livingxworld.com/images/logo/aloa-assurances.png",
+		"logo": "https://business.livingxworld.com/images/logo/administration/assurance-mutuel/aloa-assurances.png",
 		"currenciesAccepted": "EUR",
 		"address": {
+			"@type": "PostalAddress",
 			"streetAddress": "4 rue Fulton",
 			"addressLocality": "Angers cedex 9",
-			"addressRegion": "région",
 			"postalCode": "49912",
 			"addressCountry": "France"
 		}
