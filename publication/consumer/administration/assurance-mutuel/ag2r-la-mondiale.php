@@ -1,4 +1,4 @@
-
+[img src="https://business.livingxworld.com/images/logo/administration/assurance-mutuel/ag2rlamondiale.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="ag2rlamondiale" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]

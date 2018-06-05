@@ -1,4 +1,4 @@
-
+[img src="https://business.livingxworld.com/images/logo/administration/assurance-mutuel/administration/assurance-mutuel/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -280,7 +280,7 @@
 		"@type": "LocalBusiness",
 		"name": "nom",
 		"url": "https://url.com",
-		"logo": "https://business.livingxworld.com/images/logo/",
+		"logo": "https://business.livingxworld.com/images/logo/administration/assurance-mutuel/",
 		"telephone": "+33100000000",
 		"description": "description",
 		"currenciesAccepted": "EUR",
