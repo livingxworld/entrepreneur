@@ -7,7 +7,7 @@
 		Assurance en ligne auto, habitation et santé. Devis gratuit et rapide : découvrez-vite la différence AllSecur : des formules simples et pas chères
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="YuX2-jfLLTQ" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

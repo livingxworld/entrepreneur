@@ -7,7 +7,7 @@
 		Assurbike, spécialiste de l’assurance Motos, Scooters, Quads, 50cc. Devis et souscription en ligne à des tarifs Low Cost !
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		Vidéo de présentation innexistant
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

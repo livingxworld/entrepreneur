@@ -7,7 +7,7 @@
 		Economisez jusqu&#039;à 200 € sur votre Assurance auto. 300 000 clients déjà satisfaits. Eurofil, marque d&#039;Aviva Assurances, un des leaders de l&#039;assurance en France
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="j-MAlNz3dVE" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

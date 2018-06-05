@@ -7,7 +7,7 @@
 		Bienvenue sur le site d&#039;AG2R LA MONDIALE : 1er groupe de protection sociale. Découvrez nos offres mutuelle santé, prévoyance, épargne et retraite. Trouvez une agence proche de chez vous, contactez-nous, réalisez un devis en ligne.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="2ciHKKZOLn8" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

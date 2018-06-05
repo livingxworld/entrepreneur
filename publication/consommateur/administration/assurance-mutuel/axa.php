@@ -7,7 +7,7 @@
 		AXA Assurance et Banque. D&eacute;couvrez les garanties et services de nos assurances auto, habitation, sant&eacute;, pr&eacute;voyance et &eacute;pargne. Votre devis en ligne.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="PKLF1jAwYv4" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

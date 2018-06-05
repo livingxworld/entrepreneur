@@ -7,7 +7,7 @@
 		Discover our range of insurance products and financial services, make quotes online and get rates.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="L4eNAMKrUf0" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

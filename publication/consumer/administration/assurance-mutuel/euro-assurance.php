@@ -7,7 +7,7 @@
 		Your insurance on Euro-Insurance: insurance broker auto, motorcycle, scooter and home. Free estimate and without commitment.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="OWPwIH7jrXo" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

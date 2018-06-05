@@ -7,7 +7,7 @@
 		Assurpeople est spécialisée dans l&#039;assurance auto des conducteurs résiliés, sinistrés ou malussés ainsi que des jeunes conducteurs. Réalisez dès maintenant votre devis d&#039;assurance auto en ligne en quelques minutes.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="yQ1QahiPcAY" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

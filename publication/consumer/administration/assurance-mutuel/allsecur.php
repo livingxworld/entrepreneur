@@ -7,7 +7,7 @@
 		Online auto, home and health insurance. Free and fast quote: discover the difference AllSecur: simple and cheap formulas
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="YuX2-jfLLTQ" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

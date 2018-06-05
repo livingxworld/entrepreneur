@@ -7,7 +7,7 @@
 		AssurOnline vous propose une large gamme d'assurances performantes pour l'auto, la moto,le scooter, l'habitation, la santé, la voiture sans permis et le camping-car.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="TJpxikgHYoQ" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

@@ -7,7 +7,7 @@
 		Discover the APRIL insurance contracts: mortgage insurance, complementary health insurance, auto-auto malus insurance, home insurance, provident insurance.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[dailymotion source="x2jeel7" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

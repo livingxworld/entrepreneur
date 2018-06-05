@@ -7,7 +7,7 @@
 		Découvrez notre gamme de produits d'assurances et de services financiers, réalisez des devis en ligne et obtenez des tarifs.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="L4eNAMKrUf0" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

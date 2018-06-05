@@ -7,7 +7,7 @@
 		Direct insurance, head of online insurance for different products: car insurance, motorcycle, housing and borrower. Simulation of free quote and online subscription.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="3U21RCP5y5Q" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

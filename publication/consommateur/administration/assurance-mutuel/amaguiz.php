@@ -7,7 +7,7 @@
 		Assurance en ligne Amaguiz : assurance auto classique ou au km, habitation, GAV, chiens/chats et emprunteur. Votre devis personnalisé en ligne en 3 mn seulement !
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[dailymotion source="x2emj9l" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

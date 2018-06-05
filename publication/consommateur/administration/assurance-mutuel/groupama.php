@@ -7,7 +7,7 @@
 		Vos devis d&#039;assurance auto, habitation, santé... Et aussi nos assurances pour les pros et les agriculteurs. Souscrivez en ligne. Prenez rendez-vous avec un conseiller près de chez vous. Déjà client? Accédez à votre espace pour toutes vos démarches
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[dailymotion source="x5hq41d" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

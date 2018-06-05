@@ -7,7 +7,7 @@
 		Quotation and simulation online: complementary health insurance, loan insurance, funeral insurance and pension. Private, self-employed, retiree and business, Alptis protects nearly half a million people.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="9bh8XPDLpqA" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

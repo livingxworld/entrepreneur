@@ -7,7 +7,7 @@
 		Société d&#039;assurance, Aviva vous propose les meilleures solutions d&#039;assurance auto, habitation, santé, prévoyance et épargne pour particuliers et professionnels.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[dailymotion source="x4o56z0" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

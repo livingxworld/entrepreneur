@@ -7,7 +7,7 @@
 		Compare your car, home and mutual health insurance and save up to 40% on your insurance. Our quotes are free, without commitment and realized in less than 5 minutes on 02 30 06 00 60 or on our site. We are based in Brest. Our advisors will help you choose the insurance that suits your needs.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[dailymotion source="xk66jp" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

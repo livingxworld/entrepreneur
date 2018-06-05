@@ -7,7 +7,7 @@
 		Welcome to the website of AG2R LA MONDIALE: 1st group of social protection. Discover our mutual health, welfare, savings and retirement offers. Find an agency near you, contact us, make an estimate online.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="2ciHKKZOLn8" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

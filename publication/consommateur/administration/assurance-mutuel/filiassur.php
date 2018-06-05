@@ -7,7 +7,7 @@
 		Découvrez les produits d&#039;assurance Filiassur adaptés aux particuliers: Hospitalisation, Dépendance, Perte d’emploi, Accidents de la vie, Décès, Obsèques
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="3VjCzFrzlm8" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

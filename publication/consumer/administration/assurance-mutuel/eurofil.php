@@ -7,7 +7,7 @@
 		Save up to € 200 on your Car Insurance. 300,000 customers already satisfied. Eurofil, brand of Aviva Insurance, one of the leading insurance companies in France
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="j-MAlNz3dVE" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

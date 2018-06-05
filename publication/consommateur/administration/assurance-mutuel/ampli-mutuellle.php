@@ -7,7 +7,7 @@
 		Depuis 45 ans la Mutuelle AMPLI - Avenir Mutuelle des Professions Libérales et Indépendantes - est le spécialiste de la santé, prévoyance, de l'épargne et de la retraite pour les professions libérales et indépendantes et pour leurs salariés.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		Vidéo de présentation innextant
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

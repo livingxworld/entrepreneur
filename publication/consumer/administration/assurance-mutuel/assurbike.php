@@ -7,7 +7,7 @@
 		Assurbike, insurance specialist Motorcycles, Scooters, Quads, 50cc. Quotation and subscription online at low cost rates!
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		Movie of presentation not existe
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

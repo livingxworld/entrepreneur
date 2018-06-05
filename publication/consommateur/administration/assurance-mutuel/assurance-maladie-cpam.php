@@ -7,7 +7,7 @@
 		Le site officiel de l&#039;Assurance Maladie. Actualités – Droits et Démarches – Remboursements – Prestations et aides – Santé – Offres de prévention 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		Vidéo de présentation innexistant
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

@@ -7,7 +7,7 @@
 		Devis et simulation en ligne : assurance complémentaire santé, assurance de prêt, assurance obsèques et prévoyance. Particulier, travailleur indépendant, retraité et entreprise, Alptis protège près d’un demi million de personnes.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="9bh8XPDLpqA" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

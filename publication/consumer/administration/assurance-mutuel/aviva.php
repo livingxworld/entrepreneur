@@ -7,7 +7,7 @@
 		Insurance company, Aviva offers the best solutions for auto insurance, home, health, welfare and savings for individuals and professionals.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[dailymotion source="x4o56z0" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

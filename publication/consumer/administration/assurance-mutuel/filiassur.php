@@ -7,7 +7,7 @@
 		Discover the Filiassur insurance products adapted to individuals: Hospitalization, Dependency, Loss of employment, Accidents of life, Death, Funeral
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="3VjCzFrzlm8" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

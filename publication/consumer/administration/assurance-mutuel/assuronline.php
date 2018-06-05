@@ -7,7 +7,7 @@
 		AssurOnline offers a wide range of high-performance insurance for cars, motorcycles, scooters, homes, health, cars without a license and motorhomes.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="TJpxikgHYoQ" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

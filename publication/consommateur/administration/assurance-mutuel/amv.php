@@ -7,7 +7,7 @@
 		AMV est leader de l&#39;assurance moto et 2 roues. Réalisez gratuitement vos devis assurance moto, scooter, auto, collection, quad, jet ski, habitation.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[dailymotion source="xpn0fq" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

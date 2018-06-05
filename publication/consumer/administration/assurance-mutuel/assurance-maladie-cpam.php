@@ -7,7 +7,7 @@
 		The official website of the Health Insurance. News - Rights and procedures - Refunds - Benefits and aids - Health - Prevention offers
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		Movie of presentation not exist
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

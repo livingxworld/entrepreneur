@@ -7,7 +7,7 @@
 		AXA Insurance and Bank. Discover the warranties and services of our car, home, health, care and savings insurance. Your quote online.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="PKLF1jAwYv4" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

@@ -7,7 +7,7 @@
 		Comparez votre assurance auto, habitation et mutuelle santé et économisez jusqu&#039;à 40% sur votre assurance. Nos devis sont gratuits, sans engagement et réalisé en moins de 5 minutes au 02 30 06 00 60 ou sur notre site. Nous sommes basés à Brest. Nos conseillers vous aideront à choisir l&#039;assurance adaptée à vos besoins.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[dailymotion source="xk66jp" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

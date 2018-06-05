@@ -7,7 +7,7 @@
 		Amaguiz online insurance: classic car insurance or at km, home, GAV, dogs / cats and borrower. Your personalized quote online in 3 minutes only!
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[dailymotion source="x2emj9l" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

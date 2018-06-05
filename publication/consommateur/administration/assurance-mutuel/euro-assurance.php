@@ -7,7 +7,7 @@
 		Votre assurance en ligne sur Euro-Assurance : courtier en assurance auto, moto, scooter et habitation. Devis gratuit et sans engagement.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="OWPwIH7jrXo" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

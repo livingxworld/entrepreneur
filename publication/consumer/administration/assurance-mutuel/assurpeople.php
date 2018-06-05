@@ -7,7 +7,7 @@
 		Assurpeople specializes in auto insurance for terminated, damaged or maligned drivers as well as young drivers. Make your auto insurance quote online now in minutes.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="yQ1QahiPcAY" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

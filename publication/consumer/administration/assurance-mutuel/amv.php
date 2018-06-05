@@ -7,7 +7,7 @@
 		AMV is a leader in motorcycle and 2-wheel insurance. Carry out your motorcycle, scooter, auto, collection, quad, jet ski and home insurance quotes for free.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[dailymotion source="xpn0fq" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

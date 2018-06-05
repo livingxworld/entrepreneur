@@ -7,7 +7,7 @@
 		For 45 years Mutual AMPLI - Mutual Future of the Independent and Professions - is the specialist of health, welfare, saving and retirement for the liberal and independent professions and for their employees.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		Movie of presentation not exist
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

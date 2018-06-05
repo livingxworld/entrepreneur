@@ -7,7 +7,7 @@
 		Découvrez les contrats d&#039;assurance APRIL : assurance de prêt immobilier, complémentaire santé, assurance auto - auto malus, habitation, prévoyance.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[dailymotion source="x2jeel7" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
