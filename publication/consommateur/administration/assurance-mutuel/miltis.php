@@ -1,13 +1,13 @@
-[img src="https://business.livingxworld.com/images/logo/administration/assurance-mutuel/administration/assurance-mutuel/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingxworld.com/images/logo/administration/assurance-mutuel/administration/assurance-mutuel/miltis.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="miltis" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Mutuelle familiale pour tous. Devis immédiat en une minute. Garanties selon vos besoins. Facilité d&#039;accès aux soins. Budget optimisé couvrant l&#039;essentiel. Souscription en ligne.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="jZ2fRyV8zUg" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -16,16 +16,16 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Site internet[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://mutuelle-miltis.fr" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 25 cours Albert Thomas – 69003 LYON [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33472361660" rel="nofollow"]04 72 36 16 60[/a] [br /]
+		SIRET/VAT [a href="hhttps://www.societe.com/societe/miltis-417934817.html" rel="nofollow"]417 934 817 00020[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Lundi à Vendredi: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Samedi: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Dimanche: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Jour férié: xxhxx - xxhxx[ends tags="li" /]
+			[begins tags="li" /]Lundi à Vendredi: 9h30 - 18h00[ends tags="li" /]
+			[begins tags="li" /]Samedi: 9h30 - 13h00[ends tags="li" /]
+			[begins tags="li" /]Dimanche: Fermé[ends tags="li" /]
+			[begins tags="li" /]Jour férié: --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Transport[/h3] [br /]
 		[begins tags="ul" /]
@@ -36,7 +36,7 @@
 		[ends tags="ul" /]	
 		[h3]Autres[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /][fa name="wheelchair" zoom="2x" /] [fa name="blind" zoom="2x" /] [fa name="deaf" zoom="2x" /] [fa name="sign-language" zoom="2x" /][ends tags="li" /]
+			[begins tags="li" /][fa name="wheelchair" zoom="2x" /] --[ends tags="li" /]
 			[begins tags="li" /][fa name="broadcast-tower" zoom="2x" /] --[ends tags="li" /]
 			[begins tags="li" /][fa name="wifi" zoom="2x" /] --[ends tags="li" /]
 			[begins tags="li" /][fa name="money-bill" zoom="2x" /] --[ends tags="li" /]
@@ -51,7 +51,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[gmaps url="" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2784.351017708084!2d4.8677007148698905!3d45.74410842274446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4c1dfe53f0cff%3A0x527f2748c7011bc2!2sMutuelle+Miltis!5e0!3m2!1sfr!2sfr!4v1529788855321" /]
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -62,13 +62,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="mutuelle-miltis.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="www.mutuelle-miltis.fr" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
+		[api-myipms query="mutuelle-miltis.fr" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -96,143 +96,16 @@
 
 
 [h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
-[begins tags="div" class="row" /]
-	[begins tags="div" class="col col-12 col-md-6" /]	
-		[h4 class="text-center"]Particulier[/h4]
-		[begins tags="div" class="table-responsive" /] 
-			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
-				[begins tags="thead" /] 
-					[begins tags="tr" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-					[ends tags="tr" /] 
-				[ends tags="thead" /] 
-				[begins tags="tbody" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-					[ends tags="tr" /]
-					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-					[ends tags="tr" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a] [ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-					[ends tags="tr" /]
-				[ends tags="tbody" /] 
-			[ends tags="table" /] 
-		[ends tags="div" /]	
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-6" /]		
-		[h4 class="text-center"]Société[/h4]
-		[begins tags="div" class="table-responsive" /] 
-			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
-				[begins tags="thead" /] 
-					[begins tags="tr" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-					[ends tags="tr" /] 
-				[ends tags="thead" /] 
-				[begins tags="tbody" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-					[ends tags="tr" /]
-					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-					[ends tags="tr" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a] [ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-					[ends tags="tr" /]
-				[ends tags="tbody" /] 
-			[ends tags="table" /] 
-		[ends tags="div" /]	
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[begins tags="div" class="row" /]
-	[begins tags="div" class="col col-12 col-md-6" /]	
-		[h4 class="text-center"]Micro-Entrepreneur[/h4]
-		[begins tags="div" class="table-responsive" /] 
-			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
-				[begins tags="thead" /] 
-					[begins tags="tr" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-					[ends tags="tr" /] 
-				[ends tags="thead" /] 
-				[begins tags="tbody" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-					[ends tags="tr" /]
-					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-					[ends tags="tr" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a] [ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-					[ends tags="tr" /]
-				[ends tags="tbody" /] 
-			[ends tags="table" /] 
-		[ends tags="div" /]	
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-6" /]		
-		[h4 class="text-center"]Association[/h4]
-		[begins tags="div" class="table-responsive" /] 
-			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
-				[begins tags="thead" /] 
-					[begins tags="tr" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-					[ends tags="tr" /] 
-				[ends tags="thead" /] 
-				[begins tags="tbody" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-					[ends tags="tr" /]
-					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-					[ends tags="tr" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a] [ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-					[ends tags="tr" /]
-				[ends tags="tbody" /] 
-			[ends tags="table" /] 
-		[ends tags="div" /]	
-	[ends tags="div" /]	
-[ends tags="div" /]	
+Demander un devis
 
 [h2 class="text-center"][begins tags="strong" /]Note et avis avec exigence[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge parent="administration" category="assurance-mutuelle" entreprise="" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-danger" /]
+			[lxw-badge parent="administration" category="assurance-mutuelle" entreprise="miltis" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-danger" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]advice final[/h5]
+				[h5 class="card-title"]insécurité web[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]		
 	[ends tags="div" /]	
@@ -249,7 +122,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] RGPD/GRPD et CGV manquante[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
@@ -257,7 +130,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] GeoTrust SHA256 SSL CA : F (corriger Poodle sslv3, OpenSSL Padding Oracle vulnerability (CVE-2016-2107), RC4 cipher et Forward Secrecy)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -276,27 +149,23 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingxworld.com/images/logo/administration/assurance-mutuel/",
-		"telephone": "+33100000000",
-		"description": "description",
+		"name": "miltis",
+		"url": "https://mutuelle-miltis.fr",
+		"logo": "https://business.livingxworld.com/images/logo/administration/assurance-mutuel/miltis.png",
+		"telephone": "+33472361660",
+		"description": "Mutuelle familiale pour tous. Devis immédiat en une minute. Garanties selon vos besoins. Facilité d&#039;accès aux soins. Budget optimisé couvrant l&#039;essentiel. Souscription en ligne.",
 		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
-		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "25 cours Albert Thomas",
+			"addressLocality": "LYON",
+			"postalCode": "69003",
+			"addressCountry": "france"
 		},
-		"hasMap": "url-map",
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2784.351017708084!2d4.8677007148698905!3d45.74410842274446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4c1dfe53f0cff%3A0x527f2748c7011bc2!2sMutuelle+Miltis!5e0!3m2!1sfr!2sfr!4v1529788855321",
 		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
+			"Mo-Fr 9:30-17:00",
+			"Sa 9:30-13:30"
 		]
 	}
 [ends tags='script' /]
