@@ -1,13 +1,13 @@
-[img src="https://business.livingxworld.com/images/logo/administration/assurance-mutuel/smatis.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="smatis" /]
+[img src="https://business.livingxworld.com/images/logo/administration/assurance-mutuel/hiscox.jpeg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="hiscox" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		Companies, TNS and individuals, find the mutual that adapts to your budget and your needs. Health, welfare, car and home!
+		Your quote online with Hiscox professional insurance, adapted to professionals and entrepreneurs. Discover also our offers for individuals.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="aI5m0IoXCTk" /]
+		[youtube source="B3PkkL1wTxM" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -16,14 +16,13 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://smatis.fr" target="_blank" rel="dofollow"]Website[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] 6 RUE DU PIAVE 16000 ANGOULEME [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+33977400400" rel="nofollow"]0977 400 400[/a] [br /]
-		SIRET/VAT [a href="https://www.societe.com/societe/solid-mutua-ass-trava-indep-salar-france-781166293.html" rel="nofollow"]781 166 293 00097[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://hiscox.fr" target="_blank" rel="dofollow"]Website[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 1, Great St. Helen’s – Londres EC3A 6HX – Royaume-Uni [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33810502010" rel="nofollow"]0810 50 20 10[/a] [br /]
+		SIRET/VAT [a href="https://www.societe.com/societe/hiscox-europe-underwriting-limited-524737681.html" rel="nofollow"]524 737 681 00014[/a] [br /]
 		[h3]Opening schedules[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Monday: Closed[ends tags="li" /]
-			[begins tags="li" /]thursday to Friday: 13h00 - 17h00[ends tags="li" /]
+			[begins tags="li" /]Monday to Friday: 8h30 - 19h00[ends tags="li" /]
 			[begins tags="li" /]Saturday: Closed[ends tags="li" /]
 			[begins tags="li" /]Sunday: Closed[ends tags="li" /]
 			[begins tags="li" /]holidays: --[ends tags="li" /]
@@ -52,7 +51,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]MAP[/h3]
-		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2626.6389993692555!2d2.3246021156732577!3d48.82694897928446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671b1dd6a6c61%3A0x1c1c56f022fcdd80!2sMutuelle+sant%C3%A9+Smatis+France!5e0!3m2!1sfr!2sfr!4v1529794915517" /]
+		[gmaps url="hhttps://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.9283537620295!2d-0.08459728488081096!3d51.514530418003744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760352a90e932d%3A0x25133bcdc4e0d210!2s1+Great+St+Helen&#39;s%2C+London+EC3A+6HX%2C+Royaume-Uni!5e0!3m2!1sfr!2sfr!4v1529882354579" /]
 		[h4]Are you interested? [begins tags="small"]Click on the affiliate banner[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -84,13 +83,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="smatis.fr" /] 
+		[whois-domains url="hiscox.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="smatis.fr" /]
+		[ssllabs domains="www.hiscox.fr" /]
 		[h3]Your data are[/h3]
-		[api-myipms query="smatis.fr" /]	
+		[api-myipms query="hiscox.fr" /]	
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -103,10 +102,10 @@ Asking quote
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-warning" /]
-			[lxw-badge parent="administration" category="assurance-mutuelle" entreprise="smatis" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-success" /]
+			[lxw-badge parent="administration" category="assurance-mutuelle" entreprise="hiscox" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]doudt[/h5]
+				[h5 class="card-title"]Valid[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]	
 	[ends tags="div" /]	
@@ -115,7 +114,7 @@ Asking quote
 		[begins tags="blockquote" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Customer services[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] It's all OK[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Team atmosphere[ends tags="dt" /] 
@@ -123,15 +122,15 @@ Asking quote
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /] RGPD/GRPD and CGV missing[ends tags="dd" /] 
+				[begins tags="dd" /] Conform[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Tester reviews[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] Valid[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] GlobalSign Organization Validation CA - SHA256 - G2 : B (fixing Diffie-Hellman (DH) )[ends tags="dd" /] 
+				[begins tags="dd" /] DigiCert SHA2 Extended Validation Server CA :B (fixing Forward Secrecy)[ends tags="dd" /] 
 			[ends tags="dl" /]
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -152,22 +151,17 @@ Asking quote
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "smatis",
-		"url": "https://smatis.fr",
-		"logo": "https://business.livingxworld.com/images/logo/administration/assurance-mutuel/smatis.png",
-		"telephone": "+33977400400",
-		"description": "Companies, TNS and individuals, find the mutual that adapts to your budget and your needs. Health, welfare, car and home!",
+		"name": "hiscox",
+		"url": "https://hiscox.fr",
+		"logo": "https://business.livingxworld.com/images/logo/administration/assurance-mutuel/hiscox.jpeg",
+		"telephone": "+33810502010",
+		"description": "Your quote online with Hiscox professional insurance, adapted to professionals and entrepreneurs. Discover also our offers for individuals.",
 		"currenciesAccepted": "EUR",
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.9283537620295!2d-0.08459728488081096!3d51.514530418003744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760352a90e932d%3A0x25133bcdc4e0d210!2s1+Great+St+Helen&#39;s%2C+London+EC3A+6HX%2C+Royaume-Uni!5e0!3m2!1sfr!2sfr!4v1529882354579",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "6 RUE DU PIAVE",
-			"addressLocality": "ANGOULEME",
-			"postalCode": "16000",
-			"addressCountry": "france"
-		},
-		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2626.6389993692555!2d2.3246021156732577!3d48.82694897928446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671b1dd6a6c61%3A0x1c1c56f022fcdd80!2sMutuelle+sant%C3%A9+Smatis+France!5e0!3m2!1sfr!2sfr!4v1529794915517",
-		"openingHours": [
-			"Th-Fr 13:00-17:00"
-		]
+			"streetAddress": "1 GREAT ST HELEN'S",
+			"addressLocality": "ROYAUME-UNI",
+		}
 	}
 [ends tags='script' /]

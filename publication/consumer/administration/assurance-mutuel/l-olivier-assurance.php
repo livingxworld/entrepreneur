@@ -1,10 +1,10 @@
-[img src="https://business.livingxworld.com/images/logo/administration/assurance-mutuel/administration/assurance-mutuel/lolivier.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="l'olivier assurance" /]
+[img src="https://business.livingxworld.com/images/logo/administration/assurance-mutuel/lolivier.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="l'olivier assurance" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		 Faites confiance à un leader européen de l’assurance auto.✓ 5 millions d’assurés ✓ Tarifs Attractifs ✓ 92% de clients satisfaits
+		 Trust a leading European auto insurer.✓ 5 million insureds ✓ Attractive prices ✓ 92% satisfied customers
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[youtube source="L8jciv07eFQ" /]
@@ -155,7 +155,7 @@ Asking quote
 		"url": "https://lolivier.fr",
 		"logo": "https://business.livingxworld.com/images/logo/administration/assurance-mutuel/lolivier.jpg",
 		"telephone": "+33184022022",
-		"description": " Faites confiance à un leader européen de l’assurance auto.✓ 5 millions d’assurés ✓ Tarifs Attractifs ✓ 92% de clients satisfaits",
+		"description": " Trust a leading European auto insurer.✓ 5 million insureds ✓ Attractive prices ✓ 92% satisfied customers",
 		"currenciesAccepted": "EUR",
 		"address": {
 			"@type": "PostalAddress",

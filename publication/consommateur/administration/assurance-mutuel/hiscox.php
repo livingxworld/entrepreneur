@@ -1,13 +1,13 @@
-[img src="https://business.livingxworld.com/images/logo/administration/assurance-mutuel/rva.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="rva" /]
+[img src="https://business.livingxworld.com/images/logo/administration/assurance-mutuel/hiscox.jpeg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="hiscox" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		RVA Assureur moto par passion depuis 1982
+		Votre devis en ligne avec l&#039;assurance professionnelle Hiscox, adaptée aux professionnels et entrepreneurs. Découvrez aussi nos offres pour les particuliers.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="dztPIYIJ6s4" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -16,13 +16,13 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://rva.fr" target="_blank" rel="dofollow"]Site internet[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] 15 Avenue Edouard Belin, 92500 Rueil-Malmaison [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+33144889285" rel="nofollow"]01 44 88 92 85[/a] [br /]
-		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://hiscox.fr" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 1, Great St. Helen’s – Londres EC3A 6HX – Royaume-Uni [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33810502010" rel="nofollow"]0810 50 20 10[/a] [br /]
+		SIRET/VAT [a href="https://www.societe.com/societe/hiscox-europe-underwriting-limited-524737681.html" rel="nofollow"]524 737 681 00014[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Lundi à Vendredi: 9h00 - 18h00[ends tags="li" /]
+			[begins tags="li" /]Lundi à Vendredi: 8h30 - 19h00[ends tags="li" /]
 			[begins tags="li" /]Samedi: Fermé[ends tags="li" /]
 			[begins tags="li" /]Dimanche: Fermé[ends tags="li" /]
 			[begins tags="li" /]Jour férié: --[ends tags="li" /]
@@ -51,7 +51,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[gmaps url="" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.9283537620295!2d-0.08459728488081096!3d51.514530418003744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760352a90e932d%3A0x25133bcdc4e0d210!2s1+Great+St+Helen&#39;s%2C+London+EC3A+6HX%2C+Royaume-Uni!5e0!3m2!1sfr!2sfr!4v1529882354579" /]
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -62,13 +62,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="rva.fr" /] 
+		[whois-domains url="hiscox.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="www.rva.fr" /]
+		[ssllabs domains="www.hiscox.fr" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="rva.fr" /]
+		[api-myipms query="hiscox.fr" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -96,16 +96,16 @@
 
 
 [h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
-Demander un devis
+Demande de devis
 
 [h2 class="text-center"][begins tags="strong" /]Note et avis avec exigence[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-warning" /]
-			[lxw-badge parent="administration" category="assurance-mutuelle" entreprise="rva" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
+			[lxw-badge parent="administration" category="assurance-mutuelle" entreprise="hiscox" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]DOuteux[/h5]
+				[h5 class="card-title"]Douteux[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]		
 	[ends tags="div" /]	
@@ -122,7 +122,7 @@ Demander un devis
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /] CGV manquante et mention légale rediriger[ends tags="dd" /] 
+				[begins tags="dd" /] RGPD/GRPD manquante[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
@@ -130,7 +130,7 @@ Demander un devis
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /]  	Let's Encrypt Authority X3 : A[ends tags="dd" /] 
+				[begins tags="dd" /] DigiCert SHA2 Extended Validation Server CA :B (Corriger Forward Secrecy)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -149,22 +149,17 @@ Demander un devis
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "rva",
-		"url": "https://rva.fr",
-		"logo": "https://business.livingxworld.com/images/logo/administration/assurance-mutuel/rva.png",
-		"telephone": "+33144889285",
-		"description": "RVA Assureur moto par passion depuis 1982",
+		"name": "hiscox",
+		"url": "https://hiscox.fr",
+		"logo": "https://business.livingxworld.com/images/logo/administration/assurance-mutuel/hiscox.jpeg",
+		"telephone": "+33810502010",
+		"description": "Votre devis en ligne avec l&#039;assurance professionnelle Hiscox, adaptée aux professionnels et entrepreneurs. Découvrez aussi nos offres pour les particuliers.",
 		"currenciesAccepted": "EUR",
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.9283537620295!2d-0.08459728488081096!3d51.514530418003744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760352a90e932d%3A0x25133bcdc4e0d210!2s1+Great+St+Helen&#39;s%2C+London+EC3A+6HX%2C+Royaume-Uni!5e0!3m2!1sfr!2sfr!4v1529882354579",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "15 Avenue Edouard Belin",
-			"addressLocality": "Rueil-Malmaison",
-			"postalCode": "92500",
-			"addressCountry": "france"
-		},
-		"hasMap": "url-map",
-		"openingHours": [
-			"Mo-Fr 9:00-18:00"
-		]
+			"streetAddress": "1 GREAT ST HELEN'S",
+			"addressLocality": "ROYAUME-UNI",
+		}
 	}
 [ends tags='script' /]

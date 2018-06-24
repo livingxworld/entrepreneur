@@ -1,10 +1,10 @@
-[img src="https://business.livingxworld.com/images/logo/administration/assurance-mutuel/administration/assurance-mutuel/maaf.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="maaf" /]
+[img src="https://business.livingxworld.com/images/logo/administration/assurance-mutuel/maaf.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="maaf" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		Réalisez votre devis assurance auto, moto, habitation et mutuelle santé en quelques clics. Retrouvez dans votre espace client toutes les informations dont vous avez besoin : MAAF, la préférence client !
+		Make your car, motorcycle, home and mutual health insurance quotes in just a few clicks. Find in your customer area all the information you need: MAAF, customer preference!
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[youtube source="Hx34KJwgZiE" /]
@@ -155,7 +155,7 @@ Asking quote
 		"url": "https://maaf.fr",
 		"logo": "https://business.livingxworld.com/images/logo/administration/assurance-mutuel/maaf.jpg",
 		"telephone": "+33549343536",
-		"description": "Réalisez votre devis assurance auto, moto, habitation et mutuelle santé en quelques clics. Retrouvez dans votre espace client toutes les informations dont vous avez besoin : MAAF, la préférence client !",
+		"description": "Make your car, motorcycle, home and mutual health insurance quotes in just a few clicks. Find in your customer area all the information you need: MAAF, customer preference!",
 		"currenciesAccepted": "EUR",
 		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d41898.32220114983!2d2.288670444515743!3d48.9072118657294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1smaaf!5e0!3m2!1sfr!2sfr!4v1529655111807",
 		"address": {
