@@ -53,7 +53,7 @@
 		[h3]La carte[/h3]
 		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2034.9169194794583!2d18.065205116072544!3d59.334340881660594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9d5c36579955%3A0x262ee768907e21a4!2sRegeringsgatan+59%2C+111+56+Stockholm%2C+Su%C3%A8de!5e0!3m2!1sfr!2sfr!4v1531073926200" /]
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
-		
+		[url href="http://po.st/Ddgfxw"]S'inscire[/url]
 	[ends tags="div" /]	
 [ends tags="div" /]
 
