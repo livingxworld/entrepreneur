@@ -36,7 +36,7 @@
 		[ends tags="ul" /]	
 		[h3]Autres[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /][fa name="wheelchair" zoom="2x" /] [fa name="blind" zoom="2x" /] [fa name="deaf" zoom="2x" /] [fa name="sign-language" zoom="2x" /][ends tags="li" /]
+			[begins tags="li" /][fa name="wheelchair" zoom="2x" /] --[ends tags="li" /]
 			[begins tags="li" /][fa name="broadcast-tower" zoom="2x" /] --[ends tags="li" /]
 			[begins tags="li" /][fa name="wifi" zoom="2x" /] --[ends tags="li" /]
 			[begins tags="li" /][fa name="money-bill" zoom="2x" /] --[ends tags="li" /]
