@@ -8,7 +8,7 @@
 Grow your online business with HiPay, the secured payment platform for e-commerce. Expand your business internationally with more than 220 payment methods and get more value from your payment data.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="RT1lyTpmpgk" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

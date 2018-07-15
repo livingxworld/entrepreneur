@@ -7,7 +7,7 @@
 		Développez votre activité en ligne avec HiPay, la plateforme de paiement sécurisé pour le commerce électronique. Développez votre activité au niveau international avec plus de 220 méthodes de paiement et bénéficiez de plus de valeur à partir de vos données de paiement.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="8UJewzmFl4s" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
