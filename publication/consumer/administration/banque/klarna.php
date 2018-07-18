@@ -7,7 +7,7 @@
 		Payez maintenant. Payer plus tard. Tranchez-le. Klarna vous permet de compléter votre achat en ligne de la manière qui vous convient le mieux. Maintenant c'est smoooth.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		--
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

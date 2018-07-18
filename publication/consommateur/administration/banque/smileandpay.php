@@ -1,10 +1,10 @@
 [img src="https://business.livingxworld.com/images/logo/administration/banque/smileandpay.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="smileandpay" /]
 <hr id="system-readmore" />
-[h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
+[h2 class="text-center"][begins tags="strong" /]Pr�sentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		Smile &amp;Pay 🇫🇷 le terminal de paiement électronique mobile (TPE) pour accepter les paiements par cartes bancaires 💳 Sans engagement et sans frais fixe.
+		Smile &amp;Pay 🇫🇷 le terminal de paiement �lectronique mobile (TPE) pour accepter les paiements par cartes bancaires 💳 Sans engagement et sans frais fixe.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[youtube source="wbAW0WGNLzY" /]
@@ -15,7 +15,7 @@
 [h2 class="text-center"][begins tags="strong" /]Information[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
-		[h3]Coordonné[/h3]
+		[h3]Coordonn�[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="https://smileandpay.com" target="_blank" rel="dofollow"]Site internet[/a] [br /]
 		[fa name="map-marker-alt" zoom="2x" /] 60 AV CHARLES DE GAULLE 92200 NEUILLY SUR SEINE France [br /]
 		[fa name="phone" zoom="2x" /][a href="tel:+33183818295" rel="nofollow"]01 83 81 82 95[/a] [br /]
@@ -25,7 +25,7 @@
 			[begins tags="li" /]Lundi à Vendredi: --[ends tags="li" /]
 			[begins tags="li" /]Samedi: --[ends tags="li" /]
 			[begins tags="li" /]Dimanche: --[ends tags="li" /]
-			[begins tags="li" /]Jour férié: --[ends tags="li" /]
+			[begins tags="li" /]Jour f�ri�: --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Transport[/h3] [br /]
 		[begins tags="ul" /]
@@ -52,7 +52,7 @@
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
 		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2623.7846100534325!2d2.270444215675184!3d48.88138247928975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66566c66aa46f%3A0x7511c68a5d9b06bd!2s60+Avenue+Charles+de+Gaulle%2C+92200+Neuilly-sur-Seine!5e0!3m2!1sfr!2sfr!4v1531108843316" /]
-		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
+		[h4]Êtes-vous int�resser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]
@@ -67,7 +67,7 @@
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
 		[ssllabs domains="smileandpay.com" /]
-		[h3]Vos données sont:[/h3]
+		[h3]Vos donn�es sont:[/h3]
 		[api-myipms query="smileandpay.com" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -95,7 +95,7 @@
 [/none]
 
 
-[h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
+[h2 class="text-center"][begins tags="strong" /]Les Tarifs Propos�s en TTC (sans promotion)[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-12" /]	
 		[begins tags="div" class="table-responsive" /] 
@@ -141,18 +141,18 @@
 		[ends tags="div" /]		
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-6" /]
-		[h3]Contrôle indépendant[/h3]
+		[h3]Contrôle ind�pendant[/h3]
 		[begins tags="blockquote" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Services chez le client[ends tags="dt" /] 
 				[begins tags="dd" /] en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
-				[begins tags="dt" /]Ambiance d'équipe[ends tags="dt" /] 
+				[begins tags="dt" /]Ambiance d'�quipe[ends tags="dt" /] 
 				[begins tags="dd" /] en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
-				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
+				[begins tags="dt" /]R�glementation web[ends tags="dt" /] 
 				[begins tags="dd" /] GRPD/RGPD manquante[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
@@ -160,7 +160,7 @@
 				[begins tags="dd" /] en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
-				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
+				[begins tags="dt" /]Teste de s�curit� web[ends tags="dt" /] 
 				[begins tags="dd" /] COMODO RSA Domain Validation Secure Server CA : A+[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
@@ -173,7 +173,7 @@
 		[ends tags="div" /] 
 	[ends tags="div" /]
  [br /] [br /]
-[h6]A vous de donner votre opignon: selon ses services clientèles, ses proposition, qualité de la prestation et encore plus.[/h6]
+[h6]A vous de donner votre opignon: selon ses services clientèles, ses proposition, qualit� de la prestation et encore plus.[/h6]
 
 
 [begins tags='script' more='type="application/ld+json"' /] 
@@ -184,7 +184,7 @@
 		"url": "https://smileandpay.com",
 		"logo": "https://business.livingxworld.com/images/logo/smileandpay.png",
 		"telephone": "+33183818295",
-		"description": "Smile &amp;Pay 🇫🇷 le terminal de paiement électronique mobile (TPE) pour accepter les paiements par cartes bancaires 💳 Sans engagement et sans frais fixe.",
+		"description": "Smile &amp;Pay 🇫🇷 le terminal de paiement �lectronique mobile (TPE) pour accepter les paiements par cartes bancaires 💳 Sans engagement et sans frais fixe.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card",
 		"priceRange": "€€",

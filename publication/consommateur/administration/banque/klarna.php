@@ -7,7 +7,7 @@
 		Pay now. Pay later. Slice it. Klarna lets you complete your online purchase in the way that suits you best. Now that&#039;s smoooth.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		--
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
