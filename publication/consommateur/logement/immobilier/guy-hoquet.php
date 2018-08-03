@@ -1,4 +1,4 @@
-
+[img src="https://business.livingxworld.com/images/logo/administration/logement/immobilier/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -278,7 +278,7 @@
 		"@type": "LocalBusiness",
 		"name": "nom",
 		"url": "https://url.com",
-		"logo": "https://business.livingxworld.com/images/logo/",
+		"logo": "https://business.livingxworld.com/images/logo/administration/logement/immobilier/",
 		"telephone": "+33100000000",
 		"description": "description",
 		"currenciesAccepted": "EUR",

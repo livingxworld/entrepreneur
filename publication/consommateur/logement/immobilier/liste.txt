@@ -14,3 +14,5 @@ LaForêt (Alias : laforêt)
 Guy Hoquet (Alias : guy-hoquet)
 Foncia (Alias : foncia)
 Orpi (Alias : orpi)
+scpi-invest
+grandbleu
