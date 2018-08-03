@@ -7,7 +7,7 @@
 		You are to know more about the functioning of SCPI? Discover the advice of our experts and perfect your investment in SCPI. Consult our selection of SCPI and their detailed sheets. Comprehensive support: information, advice, subscription, credit file editing, monitoring over time.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

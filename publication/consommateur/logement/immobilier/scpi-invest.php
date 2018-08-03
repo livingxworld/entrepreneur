@@ -7,7 +7,7 @@
 		Vous souhaitez en savoir plus sur le fonctionnement des SCPI ? Découvrez les conseils de nos experts et réussissez vos investissements sur les SCPI. Consultez notre sélection de SCPI et leurs fiches détaillées. Accompagnement complet: informations, conseils, souscription, montage dossier à crédit, suivi sur la durée.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		L'auteur ne contient pas de vidéo
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
