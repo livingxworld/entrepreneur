@@ -7,7 +7,7 @@
 		Plongez dans la culture et la communauté locales. Apprendre, enseigner et partager des compétences. Sortez de la piste touristique. Ne suis pas le troupeau. Contactez des dizaines de milliers d'hôtes locaux pour commencer vos aventures.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="dXLOvILyiHA" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

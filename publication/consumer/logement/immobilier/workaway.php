@@ -7,7 +7,7 @@
 		Immerse yourself in local culture and community. Learn, teach and share skills. Get off the tourist trail. Don’t follow the herd. Contact tens of thousands of local hosts to start your adventures.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="dXLOvILyiHA" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
