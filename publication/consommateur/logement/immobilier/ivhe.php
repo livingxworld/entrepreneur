@@ -1,10 +1,10 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/immobilier/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingxworld.com/images/logo/administration/logement/immobilier/Ivhe.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="Ivhe" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Un séjour de luxe ne signifie pas dépenser des milliers. Notre équipe organise les métiers les plus exclusifs pour vous. Contactez-nous sur info.ivhe.com
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[youtube source="iXyoY4lRzT0" /]
@@ -16,10 +16,10 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Site internet[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://ivhe.com" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 100 Corporate Woods Suite 220 Rochester NY, 14623 [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+18443965244" rel="nofollow"]+1 844 396 5244[/a] [br /]
+		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
 			[begins tags="li" /]Lundi à Vendredi: --[ends tags="li" /]
@@ -51,7 +51,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[gmaps url="" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2912.7952143282255!2d-77.6225641845198!3d43.10881837914368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d14b300ddec1d3%3A0x876e89c55f9c2d86!2s100+Corporate+Woods+%23220%2C+Rochester%2C+NY+14623%2C+%C3%89tats-Unis!5e0!3m2!1sfr!2sfr!4v1533353917226" /]
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -62,13 +62,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="ivhe.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="ivhe.com" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
+		[api-myipms query="ivhe.com" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -97,127 +97,26 @@
 
 [h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
-	[begins tags="div" class="col col-12 col-md-6" /]	
-		[h4 class="text-center"]Particulier[/h4]
+	[begins tags="div" class="col col-12 col-md-12" /]
 		[begins tags="div" class="table-responsive" /] 
 			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
 				[begins tags="thead" /] 
 					[begins tags="tr" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
+						[begins tags="th" /]Direct Exchange Plan[ends tags="th" /] 
+						[begins tags="th" /]Silver Credits Plan[ends tags="th" /] 
+						[begins tags="th" /]Platinum-Deluxe Plan[ends tags="th" /] 
 					[ends tags="tr" /] 
 				[ends tags="thead" /] 
 				[begins tags="tbody" /] 
 					[begins tags="tr" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-					[ends tags="tr" /]
-					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
+						[begins tags='td' mdataprop='price' more='content="159"' /]$159.00 [begins tags="span" mdataprop="priceCurrency" /]USD[ends tags="span" /]/ans[ends tags='td' /]  
+						[begins tags='td' mdataprop='price' more='content="159"' /]$159.00 [begins tags="span" mdataprop="priceCurrency" /]USD[ends tags="span" /]/ans[ends tags='td' /]  
+						[begins tags='td' mdataprop='price' more='content="375"' /]$375.00 [begins tags="span" mdataprop="priceCurrency" /]USD[ends tags="span" /]/ans[ends tags='td' /]  
 					[ends tags="tr" /] 
 					[begins tags="tr" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a] [ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-					[ends tags="tr" /]
-				[ends tags="tbody" /] 
-			[ends tags="table" /] 
-		[ends tags="div" /]	
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-6" /]		
-		[h4 class="text-center"]Société[/h4]
-		[begins tags="div" class="table-responsive" /] 
-			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
-				[begins tags="thead" /] 
-					[begins tags="tr" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-					[ends tags="tr" /] 
-				[ends tags="thead" /] 
-				[begins tags="tbody" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-					[ends tags="tr" /]
-					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-					[ends tags="tr" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a] [ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-					[ends tags="tr" /]
-				[ends tags="tbody" /] 
-			[ends tags="table" /] 
-		[ends tags="div" /]	
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[begins tags="div" class="row" /]
-	[begins tags="div" class="col col-12 col-md-6" /]	
-		[h4 class="text-center"]Micro-Entrepreneur[/h4]
-		[begins tags="div" class="table-responsive" /] 
-			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
-				[begins tags="thead" /] 
-					[begins tags="tr" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-					[ends tags="tr" /] 
-				[ends tags="thead" /] 
-				[begins tags="tbody" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-					[ends tags="tr" /]
-					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-					[ends tags="tr" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a] [ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-					[ends tags="tr" /]
-				[ends tags="tbody" /] 
-			[ends tags="table" /] 
-		[ends tags="div" /]	
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-6" /]		
-		[h4 class="text-center"]Association[/h4]
-		[begins tags="div" class="table-responsive" /] 
-			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
-				[begins tags="thead" /] 
-					[begins tags="tr" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-					[ends tags="tr" /] 
-				[ends tags="thead" /] 
-				[begins tags="tbody" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-					[ends tags="tr" /]
-					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-					[ends tags="tr" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a] [ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
+						[begins tags="td" /][a href="https://www.ivhe.com/join" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
+						[begins tags="td" /][a href="https://www.ivhe.com/join" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
+						[begins tags="td" /][a href="https://www.ivhe.com/join" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
 					[ends tags="tr" /]
 				[ends tags="tbody" /] 
 			[ends tags="table" /] 
@@ -229,10 +128,10 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge parent="logement" category="immobilier" entreprise="" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-warning" /]
+			[lxw-badge parent="logement" category="immobilier" entreprise="ivhe" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]advice final[/h5]
+				[h5 class="card-title"]douteux[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]		
 	[ends tags="div" /]	
@@ -249,7 +148,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] RGPD/GRPD manquante[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
@@ -257,7 +156,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] Go Daddy Secure Certificate Authority - G2 : B (corrigé  Forward Secrecy)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -276,27 +175,20 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingxworld.com/images/logo/administration/logement/immobilier/",
-		"telephone": "+33100000000",
-		"description": "description",
-		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"name": "Ivhe",
+		"url": "https://ivhe.com",
+		"logo": "https://business.livingxworld.com/images/logo/administration/logement/immobilier/Ivhe.png",
+		"description": "Un séjour de luxe ne signifie pas dépenser des milliers. Notre équipe organise les métiers les plus exclusifs pour vous. Contactez-nous sur info.ivhe.com",
+		"tel": "+18443965244",
+		"currenciesAccepted": "USD",
+		"paymentAccepted": "card",
+		"priceRange": "$$$",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "100 Corporate Woods Suite 220 Rochester",
+			"addressLocality": "NY",
+			"postalCode": "14623",
 		},
-		"hasMap": "url-map",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		]
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2912.7952143282255!2d-77.6225641845198!3d43.10881837914368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d14b300ddec1d3%3A0x876e89c55f9c2d86!2s100+Corporate+Woods+%23220%2C+Rochester%2C+NY+14623%2C+%C3%89tats-Unis!5e0!3m2!1sfr!2sfr!4v1533353917226"
 	}
 [ends tags='script' /]
