@@ -4,7 +4,7 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Explore the range of H & # xF4 such Marriott International and cover what makes them unique. R & # xE9; serve a host directly with us for a stress free trip.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[youtube source="3fGV-xRksyQ" /]
@@ -16,10 +16,10 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Website[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://marriott.fr" target="_blank" rel="dofollow"]Website[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 10400 Fernwood Road, Bethesda, Maryland 20817 États-Unis[br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+13013801853" rel="nofollow"]+130 138 01853[/a] [br /]
+		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]
 		[h3]Opening schedules[/h3] [br /]
 		[begins tags="ul" /]
 			[begins tags="li" /]Monday to Friday: --[ends tags="li" /]
@@ -83,13 +83,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="marriott.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="www.marriott.fr" /]
 		[h3]Your data are[/h3]
-		[api-myipms query="" /]	
+		[api-myipms query="marriott.fr" /]	
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -101,10 +101,10 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge parent="logement" category="hotel" entreprise="marriott" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-succes" /]
+			[lxw-badge parent="logement" category="hotel" entreprise="marriott" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-succes" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]advice final[/h5]
+				[h5 class="card-title"]trust[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]	
 	[ends tags="div" /]	
@@ -121,7 +121,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] conform[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Tester reviews[ends tags="dt" /] 
@@ -129,7 +129,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] Entrust Certification Authority - L1K : A[ends tags="dd" /] 
 			[ends tags="dl" /]
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -151,20 +151,20 @@
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
 		"name": "marriott",
-		"url": "https://url.com",
+		"url": "https://marriott.fr",
 		"logo": "https://business.livingxworld.com/images/logo/marriott.png",
-		"telephone": "+33100000000",
-		"description": "description",
+		"telephone": "+13013801853",
+		"description": "Explore the range of H & # xF4 such Marriott International and cover what makes them unique. R & # xE9; serve a host directly with us for a stress free trip.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"priceRange": "€€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "10400 Fernwood Road",
+			"addressLocality": "Bethesda",
+			"addressRegion": "Maryland",
+			"postalCode": "20817",
+			"addressCountry": "États-Unis"
 		},
 		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d41958.8931192752!2d2.2886444350059834!3d48.90718361737622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1smarriott!5e0!3m2!1sfr!2sfr!4v1533531847409"
 	}
