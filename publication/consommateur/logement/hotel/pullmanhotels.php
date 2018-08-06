@@ -165,11 +165,6 @@
 			"postalCode": "code postal",
 			"addressCountry": "pays"
 		},
-		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d83917.81294807825!2d2.253624166862341!3d48.90716771293152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1spullmanhotel!5e0!3m2!1sfr!2sfr!4v1533532556592",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		]
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d83917.81294807825!2d2.253624166862341!3d48.90716771293152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1spullmanhotel!5e0!3m2!1sfr!2sfr!4v1533532556592"
 	}
 [ends tags='script' /]

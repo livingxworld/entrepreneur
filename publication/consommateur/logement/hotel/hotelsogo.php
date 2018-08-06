@@ -165,11 +165,6 @@
 			"postalCode": "code postal",
 			"addressCountry": "pays"
 		},
-		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3998922.7260198025!2d120.38093209841172!3d11.821403787065805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1shotel+sogo!5e0!3m2!1sfr!2sfr!4v1533524813496",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		]
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3998922.7260198025!2d120.38093209841172!3d11.821403787065805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1shotel+sogo!5e0!3m2!1sfr!2sfr!4v1533524813496"
 	}
 [ends tags='script' /]

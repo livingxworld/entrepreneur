@@ -165,11 +165,6 @@
 			"postalCode": "code postal",
 			"addressCountry": "pays"
 		},
-		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d41958.8931192752!2d2.2886444350059834!3d48.90718361737622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sadagio+city!5e0!3m2!1sfr!2sfr!4v1533524446787",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		]
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d41958.8931192752!2d2.2886444350059834!3d48.90718361737622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sadagio+city!5e0!3m2!1sfr!2sfr!4v1533524446787"
 	}
 [ends tags='script' /]
