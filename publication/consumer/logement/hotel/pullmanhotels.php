@@ -4,7 +4,7 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Pullman presents upscale hotels in tune with the modern world, combining performance and fun, always in rhythm and certainly in fashion.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[youtube source="6cxY-1tk0Co" /]
@@ -16,10 +16,10 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Website[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://pullmanhotels.com" target="_blank" rel="dofollow"]Website[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 82 RUE H FARMAN 92130 ISSY LES MOULINEAUX France[br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33145388600" rel="nofollow"]+33 (0)1 45 38 86 00 [/a] [br /]
+		SIRET/VAT [a href="https://www.societe.com/societe/accor-602036444.html" rel="nofollow"]B 602 036 444[/a] [br /]
 		[h3]Opening schedules[/h3] [br /]
 		[begins tags="ul" /]
 			[begins tags="li" /]Monday to Friday: --[ends tags="li" /]
@@ -83,13 +83,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="pullmanhotels.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="pullmanhotels.com" /]
 		[h3]Your data are[/h3]
-		[api-myipms query="" /]	
+		[api-myipms query="pullmanhotels.com" /]	
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -102,10 +102,10 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge parent="logement" category="hotel" entreprise="pullmanhotels" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-warning" /]
+			[lxw-badge parent="logement" category="hotel" entreprise="pullmanhotels" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]advice final[/h5]
+				[h5 class="card-title"]doudt[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]	
 	[ends tags="div" /]	
@@ -130,7 +130,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] nothing ssl/tls wildcast[ends tags="dd" /] 
 			[ends tags="dl" /]
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -152,20 +152,19 @@
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
 		"name": "pullman hotels",
-		"url": "https://url.com",
+		"url": "https://pullmanhotels.com",
 		"logo": "https://business.livingxworld.com/images/logo/pullmanhotels.png",
-		"telephone": "+33100000000",
-		"description": "description",
+		"telephone": "+33145388600",
+		"description": "Pullman presents upscale hotels in tune with the modern world, combining performance and fun, always in rhythm and certainly in fashion.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"priceRange": "€€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "82 RUE H FARMAN",
+			"addressLocality": "ISSY LES MOULINEAUX",
+			"postalCode": "92130",
+			"addressCountry": "France"
 		},
 		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d83917.81294807825!2d2.253624166862341!3d48.90716771293152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1spullmanhotel!5e0!3m2!1sfr!2sfr!4v1533532556592"
 	}
