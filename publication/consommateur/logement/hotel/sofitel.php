@@ -4,7 +4,7 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Réservez un hôtel Sofitel et vivez une expérience unique - découvrez l'Art de Vivre à la française mêlé à la culture et la gastronomie locale.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[youtube source="g5AfK5Rwnzo" /]
@@ -17,9 +17,9 @@
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Site internet[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 82 RUE H FARMAN 92130 ISSY LES MOULINEAUX [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33145388600" rel="nofollow"]+33 (0)1 45 38 86 00 [/a] [br /]
+		SIRET/VAT [a href="https://www.societe.com/societe/accor-602036444.html" rel="nofollow"]B 602 036 444[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
 			[begins tags="li" /]Lundi à Vendredi: --[ends tags="li" /]
@@ -102,10 +102,10 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge parent="logement" category="hotel" entreprise="sofitel" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-success" /]
+			[lxw-badge parent="logement" category="hotel" entreprise="sofitel" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]advice final[/h5]
+				[h5 class="card-title"]validé[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]		
 	[ends tags="div" /]	
@@ -122,7 +122,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] conforme[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
@@ -130,7 +130,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] GlobalSign Organization Validation CA - SHA256 - G2 : A+[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -152,18 +152,17 @@
 		"name": "sofitel",
 		"url": "https://url.com",
 		"logo": "https://business.livingxworld.com/images/logo/sofitel.png",
-		"telephone": "+33100000000",
-		"description": "description",
+		"telephone": "+33145388600",
+		"description": "Réservez un hôtel Sofitel et vivez une expérience unique - découvrez l'Art de Vivre à la française mêlé à la culture et la gastronomie locale.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "82 RUE H FARMAN",
+			"addressLocality": "ISSY LES MOULINEAUX",
+			"postalCode": "92130",
+			"addressCountry": "france"
 		},
 		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d41958.8931192752!2d2.2886444350059834!3d48.90718361737622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1ssofitel!5e0!3m2!1sfr!2sfr!4v1533533067334"
 	}
