@@ -16,7 +16,7 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://wework.com" target="_blank" rel="dofollow"]Site internet[/a] [br /]
 		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
 		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
 		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
@@ -230,7 +230,7 @@
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge parent="logement" category="coworking" entreprise="" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
+			[lxw-badge parent="logement" category="coworking" entreprise="wework" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]advice final[/h5]
 			[ends tags="div" /]	
@@ -277,7 +277,7 @@
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
 		"name": "nom",
-		"url": "https://url.com",
+		"url": "https://wework.com",
 		"logo": "https://business.livingxworld.com/images/logo/",
 		"telephone": "+33100000000",
 		"description": "description",

@@ -83,13 +83,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="artichaut-coworking.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="artichaut-coworking.com" /]
 		[h3]Your data are[/h3]
-		[api-myipms query="" /]	
+		[api-myipms query="artichaut-coworking.com" /]	
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -230,7 +230,7 @@
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge parent="logement" category="coworking" entreprise="" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
+			[lxw-badge parent="logement" category="coworking" entreprise="artichaut-coworking" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]advice final[/h5]
 			[ends tags="div" /]	
@@ -279,7 +279,7 @@
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
 		"name": "nom",
-		"url": "https://url.com",
+		"url": "https://artichaut-coworking.com",
 		"logo": "https://business.livingxworld.com/images/logo/",
 		"telephone": "+33100000000",
 		"description": "description",
