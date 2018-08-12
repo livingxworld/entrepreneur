@@ -7,7 +7,7 @@
 		
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="9yk9tJMApGs" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
