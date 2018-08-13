@@ -1,10 +1,10 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/digital-village.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="digital village" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Digital Village is a digital production studio only composed of independent workers, all located in different coworking spaces.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[youtube source="rG9kx0m_YWE" /]
@@ -17,15 +17,15 @@
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]coordinated[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="https://digital-village.fr" target="_blank" rel="dofollow"]Website[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 8 RUE BEAUMARCHAIS 93100 MONTREUIL  [br /]
+		[fa name="phone" zoom="2x" /] [a href="#" rel="nofollow"]--[/a] [br /]
+		SIRET/VAT [a href="https://www.societe.com/societe/dv-813989019.html" rel="nofollow"]813 989 019[/a] [br /]
 		[h3]Opening schedules[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Monday to Friday: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Saturday: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Sunday: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]holidays: xxhxx - xxhxx[ends tags="li" /]
+			[begins tags="li" /]Monday to Friday: 9h00 - 20h00[ends tags="li" /]
+			[begins tags="li" /]Saturday: --[ends tags="li" /]
+			[begins tags="li" /]Sunday: --[ends tags="li" /]
+			[begins tags="li" /]holidays: --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Transport[/h3] [br /]
 		[begins tags="ul" /]
@@ -51,7 +51,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]MAP[/h3]
-		[gmaps url="" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2622.7978344733438!2d2.35302718139745!3d48.8279212634075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e672239698ec79%3A0x6f44bdff2303ce6!2sDigital+Village+Paris!5e0!3m2!1sfr!2sfr!4v1534132258715" /]
 		[h4]Are you interested? [begins tags="small"]Click on the affiliate banner[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -95,144 +95,17 @@
 
 
 [h2 class="text-center"][begins tags="strong" /]The Prices Proposed in Taxe (without promotion)[ends tags="strong" /] [/h2]
-[begins tags="div" class="row" /]
-	[begins tags="div" class="col col-12 col-md-6" /]	
-		[h4 class="text-center"]Particulier[/h4]
-		[begins tags="div" class="table-responsive" /] 
-			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
-				[begins tags="thead" /] 
-					[begins tags="tr" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-					[ends tags="tr" /] 
-				[ends tags="thead" /] 
-				[begins tags="tbody" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-					[ends tags="tr" /]
-					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-					[ends tags="tr" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]buy offer[/a][ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]buy offer[/a] [ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]buy offer[/a][ends tags="td" /] 
-					[ends tags="tr" /]
-				[ends tags="tbody" /] 
-			[ends tags="table" /] 
-		[ends tags="div" /]	
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-6" /]		
-		[h4 class="text-center"]Société[/h4]
-		[begins tags="div" class="table-responsive" /] 
-			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
-				[begins tags="thead" /] 
-					[begins tags="tr" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-					[ends tags="tr" /] 
-				[ends tags="thead" /] 
-				[begins tags="tbody" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-					[ends tags="tr" /]
-					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-					[ends tags="tr" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]buy offer[/a][ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]buy offer[/a] [ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]buy offer[/a][ends tags="td" /] 
-					[ends tags="tr" /]
-				[ends tags="tbody" /] 
-			[ends tags="table" /] 
-		[ends tags="div" /]	
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[begins tags="div" class="row" /]
-	[begins tags="div" class="col col-12 col-md-6" /]	
-		[h4 class="text-center"]Micro-Entrepreneur[/h4]
-		[begins tags="div" class="table-responsive" /] 
-			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
-				[begins tags="thead" /] 
-					[begins tags="tr" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-					[ends tags="tr" /] 
-				[ends tags="thead" /] 
-				[begins tags="tbody" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-					[ends tags="tr" /]
-					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-					[ends tags="tr" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]buy offer[/a][ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]buy offer[/a] [ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]buy offer[/a][ends tags="td" /] 
-					[ends tags="tr" /]
-				[ends tags="tbody" /] 
-			[ends tags="table" /] 
-		[ends tags="div" /]	
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-6" /]		
-		[h4 class="text-center"]Association[/h4]
-		[begins tags="div" class="table-responsive" /] 
-			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
-				[begins tags="thead" /] 
-					[begins tags="tr" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-					[ends tags="tr" /] 
-				[ends tags="thead" /] 
-				[begins tags="tbody" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-					[ends tags="tr" /]
-					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-					[ends tags="tr" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]buy offer[/a][ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]buy offer[/a] [ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]buy offer[/a][ends tags="td" /] 
-					[ends tags="tr" /]
-				[ends tags="tbody" /] 
-			[ends tags="table" /] 
-		[ends tags="div" /]	
-	[ends tags="div" /]	
-[ends tags="div" /]	
+--	
 
 
 [h2 class="text-center"][begins tags="strong" /]Note and advice with requirement[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge parent="logement" category="coworking" entreprise="digital-village" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-warning" /]
+			[lxw-badge parent="logement" category="coworking" entreprise="digital-village" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]advice final[/h5]
+				[h5 class="card-title"]insecure[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]	
 	[ends tags="div" /]	
@@ -249,7 +122,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] RGPD/GRPD missing[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Tester reviews[ends tags="dt" /] 
@@ -257,7 +130,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] not ssl/tls use[ends tags="dd" /] 
 			[ends tags="dl" /]
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -278,27 +151,21 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
+		"name": "digital village",
 		"url": "https://digital-village.fr",
-		"logo": "https://business.livingxworld.com/images/logo/",
-		"telephone": "+33100000000",
-		"description": "description",
+		"logo": "https://business.livingxworld.com/images/logo/digital-village.png",
+		"description": "Digital Village is a digital production studio only composed of independent workers, all located in different coworking spaces.",
 		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
-		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "8 RUE BEAUMARCHAIS",
+			"addressLocality": "MONTREUIL",
+			"postalCode": "93100",
+			"addressCountry": "France"
 		},
-		"hasMap": "url-map",
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2622.7978344733438!2d2.35302718139745!3d48.8279212634075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e672239698ec79%3A0x6f44bdff2303ce6!2sDigital+Village+Paris!5e0!3m2!1sfr!2sfr!4v1534132258715",
 		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
+			"Mo-Fr 9:00-20:00"
 		]
 	}
 [ends tags='script' /]
