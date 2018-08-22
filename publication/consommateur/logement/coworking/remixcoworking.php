@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/remixcoworking.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="remix coworking" /]
+[img src="https://business.livingxworld.com/images/logo/logement/coworking/remixcoworking.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="remix coworking" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -151,7 +151,7 @@
 		"@type": "LocalBusiness",
 		"name": "remix coworking",
 		"url": "https://remixcoworking.com",
-		"logo": "https://business.livingxworld.com/images/logo/remixcoworking.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/remixcoworking.png",
 		"telephone": "0972254428",
 		"description": "Superconnected.",
 		"currenciesAccepted": "EUR",

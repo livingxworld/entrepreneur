@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/immobilier/orpi.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="orpi" /]
+[img src="https://business.livingxworld.com/images/logo/logement/immobilier/orpi.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="orpi" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -150,7 +150,7 @@
 		"@type": "LocalBusiness",
 		"name": "orpi",
 		"url": "https://orpi.com",
-		"logo": "https://business.livingxworld.com/images/logo/administration/logement/immobilier/orpi.jpg",
+		"logo": "https://business.livingxworld.com/images/logo/logement/immobilier/orpi.jpg",
 		"telephone": "0153809999",
 		"description": "Annonces immobilières, agence immobiliere. ORPI, 1er réseau français d&#039;agences immobilières propose ses annonces immobilières de location, vente, achat de maison, appartement, studio, garage, ... Système alerte mail pour vos annonces.",
 		"currenciesAccepted": "EUR",

@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/hotel/marriott.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="marriott" /]
+[img src="https://business.livingxworld.com/images/logo/logement/hotel/marriott.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="marriott" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -151,7 +151,7 @@
 		"@type": "LocalBusiness",
 		"name": "marriott",
 		"url": "https://marriott.fr",
-		"logo": "https://business.livingxworld.com/images/logo/marriott.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/hotel/marriott.png",
 		"telephone": "+13013801853",
 		"description": "Explorez la gamme d&apos;h&#xF4;tels Marriott International et d&#xE9;couvrez ce qui les rend uniques. R&#xE9;servez un h&#xF4;tel directement avec nous pour un voyage sans stress.",
 		"currenciesAccepted": "EUR",

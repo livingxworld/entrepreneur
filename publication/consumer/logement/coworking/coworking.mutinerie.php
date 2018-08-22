@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/mutinerie.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="mutinerie" /]
+[img src="https://business.livingxworld.com/images/logo/logement/coworking/mutinerie.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="mutinerie" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -152,7 +152,7 @@
 		"@type": "LocalBusiness",
 		"name": "mutinerie",
 		"url": "https://coworking.mutinerie.org",
-		"logo": "https://business.livingxworld.com/images/logo/mutinerie.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/mutinerie.png",
 		"description": "After 7 years serving an incredible community, our space on the 29th has closed. Go to Mutinerie Village or on Copass for the rest!"
 	}
 [ends tags='script' /]

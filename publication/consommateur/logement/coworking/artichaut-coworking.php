@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/artichaut-coworking.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="artichaut coworking" /]
+[img src="https://business.livingxworld.com/images/logo/logement/coworking/artichaut-coworking.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="artichaut coworking" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -177,7 +177,7 @@
 		"@type": "LocalBusiness",
 		"name": "artichaut coworking",
 		"url": "https://artichaut-coworking.com",
-		"logo": "https://business.livingxworld.com/images/logo/artichaut-coworking.jpg",
+		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/artichaut-coworking.jpg",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card",
 		"priceRange": "€€€",

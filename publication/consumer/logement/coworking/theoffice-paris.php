@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/theoffice.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="the office" /]
+[img src="https://business.livingxworld.com/images/logo/logement/coworking/theoffice.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="the office" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -181,7 +181,7 @@
 		"@type": "LocalBusiness",
 		"name": "the office",
 		"url": "https://theoffice-paris.com",
-		"logo": "https://business.livingxworld.com/images/logo/theoffice.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/theoffice.png",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",
 		"priceRange": "€€€",

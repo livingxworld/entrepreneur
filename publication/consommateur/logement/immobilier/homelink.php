@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/immobilier/homelink.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="homelink" /]
+[img src="https://business.livingxworld.com/images/logo/logement/immobilier/homelink.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="homelink" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -151,7 +151,7 @@
 		"@type": "LocalBusiness",
 		"name": "homelink",
 		"url": "https://homelink.org",
-		"logo": "https://business.livingxworld.com/images/logo/administration/logement/immobilier/homelink.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/immobilier/homelink.png",
 		"description": "Rejoignez HomeLink, la première communauté d'échange de maisons et d'échanges de maisons au monde. Échangez des maisons et obtenez un hébergement de vacances gratuit dans le monde entier tout en vivant comme un habitant.",
 		"address": {
 			"@type": "PostalAddress",

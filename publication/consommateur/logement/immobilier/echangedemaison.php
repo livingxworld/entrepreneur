@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/immobilier/echangedemaison.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="echange de maison" /]
+[img src="https://business.livingxworld.com/images/logo/logement/immobilier/echangedemaison.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="echange de maison" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -151,7 +151,7 @@
 		"@type": "LocalBusiness",
 		"name": "echange de maison",
 		"url": "https://echangedemaison.com",
-		"logo": "https://business.livingxworld.com/images/logo/administration/logement/immobilier/echangedemaison.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/immobilier/echangedemaison.png",
 		"description": "Échangez votre maison et voyagez gratuitement, échangez votre maison pour vos vacances"
 	}
 [ends tags='script' /]

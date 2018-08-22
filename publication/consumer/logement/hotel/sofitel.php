@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/hotel/sofitel.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="sofitel" /]
+[img src="https://business.livingxworld.com/images/logo/logement/hotel/sofitel.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="sofitel" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -153,7 +153,7 @@
 		"@type": "LocalBusiness",
 		"name": "sofitel",
 		"url": "https://sofitel.accorhotels.com",
-		"logo": "https://business.livingxworld.com/images/logo/sofitel.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/hotel/sofitel.png",
 		"telephone": "+33145388600",
 		"description": "Book a Sofitel hotel and live a unique experience - discover the Art de Vivre à la française combined with local culture and gastronomy.",
 		"currenciesAccepted": "EUR",

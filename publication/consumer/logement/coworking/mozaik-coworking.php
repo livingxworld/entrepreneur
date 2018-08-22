@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/mozaik-coworking.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="mozaik coworking" /]
+[img src="https://business.livingxworld.com/images/logo/logement/coworking/mozaik-coworking.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="mozaik coworking" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -153,7 +153,7 @@
 		"@type": "LocalBusiness",
 		"name": "mozaik coworking",
 		"url": "https://mozaik-coworking.com",
-		"logo": "https://business.livingxworld.com/images/logo/mozaik-coworking.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/mozaik-coworking.png",
 		"telephone": "0642637934",
 		"description": "MOZAIK Coworking, 3 coworking spaces in Paris (75) open 24/7. Whether you're an artist or developer, executive or consultant ... discover your new workspace and coworkers! Tel: 06 42 63 79 34 or mail: contact@mozaik-coworking.com",
 		"currenciesAccepted": "EUR",

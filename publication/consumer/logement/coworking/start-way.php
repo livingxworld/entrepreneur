@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/startway.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="startway" /]
+[img src="https://business.livingxworld.com/images/logo/logement/coworking/startway.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="startway" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -153,7 +153,7 @@
 		"@type": "LocalBusiness",
 		"name": "startway",
 		"url": "https://start-way.com",
-		"logo": "https://business.livingxworld.com/images/logo/startway.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/startway.png",
 		"telephone": "+33769076138",
 		"description": "French independent network of coworking spaces and collaborative business center for start-ups, entrepreneurs, freelance, telecommuters, large groups looking for agility and innovation.",
 		"currenciesAccepted": "EUR",

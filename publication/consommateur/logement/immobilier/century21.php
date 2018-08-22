@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/immobilier/century21.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="century 21" /]
+[img src="https://business.livingxworld.com/images/logo/logement/immobilier/century21.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="century 21" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -150,7 +150,7 @@
 		"@type": "LocalBusiness",
 		"name": "century 21",
 		"url": "https://century21.fr",
-		"logo": "https://business.livingxworld.com/images/logo/administration/logement/immobilier/century21.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/immobilier/century21.png",
 		"telephone": "0169111221",
 		"description": "► Trouvez le bien immobilier idéal avec les annonces de location ou de vente du réseau d'agences immobilières CENTURY 21",
 		"currenciesAccepted": "EUR",

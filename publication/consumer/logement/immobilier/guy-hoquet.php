@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/immobilier/guyhoquet.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="guy hoquet" /]
+[img src="https://business.livingxworld.com/images/logo/logement/immobilier/guyhoquet.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="guy hoquet" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -152,7 +152,7 @@
 		"@type": "LocalBusiness",
 		"name": "guy hoquet",
 		"url": "https://guy-hoquet.com",
-		"logo": "https://business.livingxworld.com/images/logo/administration/logement/immobilier/guyhoquet.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/immobilier/guyhoquet.png",
 		"description": "A real estate project to realize? Guy Hoquet is committed to estimating, buying, selling, renting or managing your real estate.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",

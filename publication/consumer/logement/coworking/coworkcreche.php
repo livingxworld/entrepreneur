@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/coworkcreche.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="coworkcreche" /]
+[img src="https://business.livingxworld.com/images/logo/logement/coworking/coworkcreche.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="coworkcreche" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -153,7 +153,7 @@
 		"@type": "LocalBusiness",
 		"name": "coworkcreche",
 		"url": "https://coworkcreche.paris",
-		"logo": "https://business.livingxworld.com/images/logo/coworkcreche.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/coworkcreche.png",
 		"telephone": "0182095835",
 		"description": "The first parents friendly coworking space in Paris!",
 		"currenciesAccepted": "EUR",

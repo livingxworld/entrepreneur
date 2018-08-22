@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/immobilier/intervac.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="intervac" /]
+[img src="https://business.livingxworld.com/images/logo/logement/immobilier/intervac.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="intervac" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -153,7 +153,7 @@
 		"@type": "LocalBusiness",
 		"name": "intervac",
 		"url": "https://intervac.fr",
-		"logo": "https://business.livingxworld.com/images/logo/administration/logement/immobilier/intervac.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/immobilier/intervac.png",
 		"telephone": "+33546665276",
 		"description": "Intervac allows you to exchange for free your home or apartment for holidays in France or in the world with confidence and security.",
 		"currenciesAccepted": "EUR",

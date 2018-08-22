@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/immobilier/fnaim.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="fnaim" /]
+[img src="https://business.livingxworld.com/images/logo/logement/immobilier/fnaim.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="fnaim" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -153,7 +153,7 @@
 		"@type": "LocalBusiness",
 		"name": "fnaim",
 		"url": "https://fnaim.fr",
-		"logo": "https://business.livingxworld.com/images/logo/administration/logement/immobilier/fnaim.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/immobilier/fnaim.png",
 		"telephone": "0144207700",
 		"description": "FNAIM real estate portal: all real estate listings in France offered by professionals members of the FNAIM.",
 		"currenciesAccepted": "EUR",

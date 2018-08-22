@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/hotel/timhotel.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="timhotel" /]
+[img src="https://business.livingxworld.com/images/logo/logement/hotel/timhotel.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="timhotel" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -153,7 +153,7 @@
 		"@type": "LocalBusiness",
 		"name": "timhotel",
 		"url": "https://timhotel.com",
-		"logo": "https://business.livingxworld.com/images/logo/timhotel.jpg",
+		"logo": "https://business.livingxworld.com/images/logo/logement/hotel/timhotel.jpg",
 		"telephone": "+33146103340",
 		"description": "Find Timhotel 2, 3 and 4-star hotels for a relaxing stay. Paris, & agrave; Lyon and & gt; Chartres. Best Rate Guarantee, Modern Rooms, Free WIFI.",
 		"currenciesAccepted": "EUR",

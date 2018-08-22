@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/digital-village.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="digital village" /]
+[img src="https://business.livingxworld.com/images/logo/logement/coworking/digital-village.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="digital village" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -153,7 +153,7 @@
 		"@type": "LocalBusiness",
 		"name": "digital village",
 		"url": "https://digital-village.fr",
-		"logo": "https://business.livingxworld.com/images/logo/digital-village.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/digital-village.png",
 		"description": "Digital Village is a digital production studio only composed of independent workers, all located in different coworking spaces.",
 		"currenciesAccepted": "EUR",
 		"address": {

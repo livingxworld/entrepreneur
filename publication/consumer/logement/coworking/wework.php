@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/wework.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="wework" /]
+[img src="https://business.livingxworld.com/images/logo/logement/coworking/wework.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="wework" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -179,7 +179,7 @@
 		"@type": "LocalBusiness",
 		"name": "wework",
 		"url": "https://wework.com",
-		"logo": "https://business.livingxworld.com/images/logo/wework.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/wework.png",
 		"telephone": "+33186652533",
 		"description": "WeWork transforms buildings into beautiful collaborative workspaces. Get the workspace, community and services you need to work while enjoying life ("Make a life, not just a living").",
 		"currenciesAccepted": "EUR",

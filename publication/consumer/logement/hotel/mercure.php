@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/hotel/mercure.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="mercure" /]
+[img src="https://business.livingxworld.com/images/logo/logement/hotel/mercure.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="mercure" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -153,7 +153,7 @@
 		"@type": "LocalBusiness",
 		"name": "mercure",
 		"url": "https://mercure.accorhotels.com",
-		"logo": "https://business.livingxworld.com/images/logo/mercure.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/hotel/mercure.png",
 		"telephone": "+33145388600",
 		"description": "Discover our 3 and 4 star Mercure hotels and get the best deals for your trips, weekends or events",
 		"currenciesAccepted": "EUR",

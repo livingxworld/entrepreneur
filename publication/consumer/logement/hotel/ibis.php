@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/hotel/ibis.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="ibis" /]
+[img src="https://business.livingxworld.com/images/logo/logement/hotel/ibis.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="ibis" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -153,7 +153,7 @@
 		"@type": "LocalBusiness",
 		"name": "ibis",
 		"url": "https://ibis.accorhotels.com",
-		"logo": "https://business.livingxworld.com/images/logo/ibis.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/hotel/ibis.png",
 		"telephone": "+33145388600",
 		"description": "Book your hotel online with ibis. Discover our promotions and book online at more than 2000 ibis, ibis Styles or ibis budget hotels.",
 		"currenciesAccepted": "EUR",

@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/hotel/hotelf1.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="hotelf1" /]
+[img src="https://business.livingxworld.com/images/logo/logement/hotel/hotelf1.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="hotelf1" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -153,7 +153,7 @@
 		"@type": "LocalBusiness",
 		"name": "hotelf1",
 		"url": "https://hotelf1.accorhotels.com",
-		"logo": "https://business.livingxworld.com/images/logo/hotelf1.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/hotel/hotelf1.png",
 		"telephone": "+33145388600",
 		"description": "Spend less for your hotel to enjoy more on the road everywhere in France! Book your hotelF1 road trip quickly and enjoy from your room for one, two or three people, from only 22 €!",
 		"currenciesAccepted": "EUR",

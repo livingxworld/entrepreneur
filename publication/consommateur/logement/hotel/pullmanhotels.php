@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/hotel/pullmanhotels.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="pullman hotels" /]
+[img src="https://business.livingxworld.com/images/logo/logement/hotel/pullmanhotels.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="pullman hotels" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -151,7 +151,7 @@
 		"@type": "LocalBusiness",
 		"name": "pullman hotels",
 		"url": "https://pullmanhotels.com",
-		"logo": "https://business.livingxworld.com/images/logo/pullmanhotels.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/hotel/pullmanhotels.png",
 		"telephone": "+33145388600",
 		"description": "Pullman présente des hôtels haut de gamme en phase avec le monde moderne, alliant performance et plaisir, toujours dans le rythme et assurément à la mode.",
 		"currenciesAccepted": "EUR",

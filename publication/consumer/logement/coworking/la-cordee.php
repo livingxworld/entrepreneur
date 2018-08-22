@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/la-cordee.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="la cordee" /]
+[img src="https://business.livingxworld.com/images/logo/logement/coworking/la-cordee.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="la cordee" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -153,7 +153,7 @@
 		"@type": "LocalBusiness",
 		"name": "la cordee",
 		"url": "https://la-cordee.net",
-		"logo": "https://business.livingxworld.com/images/logo/la-cordee.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/la-cordee.png",
 		"description": "La Cordée is a coworking community of over 800 people, friendly, caring and colorful, in Lyon, Rennes, Nantes, Annecy, Paris ...",
 		"currenciesAccepted": "EUR"
 		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d167950.55386915235!2d2.0920219665230446!3d48.87294130882302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e672044c0fb145%3A0x98f105f05ce45a03!2sLa+Cord%C3%A9e+-+Paris+Gare+de+Lyon!5e0!3m2!1sfr!2sfr!4v1534147013028"

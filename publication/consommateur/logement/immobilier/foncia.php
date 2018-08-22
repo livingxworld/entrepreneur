@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/immobilier/foncia.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="foncia" /]
+[img src="https://business.livingxworld.com/images/logo/logement/immobilier/foncia.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="foncia" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -151,7 +151,7 @@
 		"@type": "LocalBusiness",
 		"name": "foncia",
 		"url": "https://foncia.com",
-		"logo": "https://business.livingxworld.com/images/logo/administration/logement/immobilier/foncia.jpg",
+		"logo": "https://business.livingxworld.com/images/logo/logement/immobilier/foncia.jpg",
 		"description": "Tout l'immobilier Foncia : annonces en achat immobilier et location de + de 600 agences, estimation et vente immobilière, gestion locative de votre bien, syndic de copropriété, location de vacances, investissement, espace client MyFoncia, déménagement,...",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card",

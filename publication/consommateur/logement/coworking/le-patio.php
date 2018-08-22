@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/le-patio.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="le patio" /]
+[img src="https://business.livingxworld.com/images/logo/logement/coworking/le-patio.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="le patio" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -151,7 +151,7 @@
 		"@type": "LocalBusiness",
 		"name": "le patio",
 		"url": "https://le-patio.paris",
-		"logo": "https://business.livingxworld.com/images/logo/le-patio.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/le-patio.png",
 		"telephone": "0145056520",
 		"currenciesAccepted": "EUR",
 		"address": {

@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/immobilier/trocmaison.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="trocmaison" /]
+[img src="https://business.livingxworld.com/images/logo/logement/immobilier/trocmaison.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="trocmaison" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -152,7 +152,7 @@
 		"@type": "LocalBusiness",
 		"name": "trocmaison",
 		"url": "https://trocmaison.com",
-		"logo": "https://business.livingxworld.com/images/logo/administration/logement/immobilier/trocmaison.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/immobilier/trocmaison.png",
 		"description": "Live as a resident of the country. Stay free. Pioneer of the exchange of houses since 1992. Easy, fast, safe. More than 65,000 offers in 150 countries.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card",

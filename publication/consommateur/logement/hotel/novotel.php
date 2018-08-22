@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/hotel/novotel.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="novotel" /]
+[img src="https://business.livingxworld.com/images/logo/logement/hotel/novotel.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="novotel" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -151,7 +151,7 @@
 		"@type": "LocalBusiness",
 		"name": "novotel",
 		"url": "https://novotel.accorhotels.com",
-		"logo": "https://business.livingxworld.com/images/logo/novotel.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/hotel/novotel.png",
 		"telephone": "+33145388600",
 		"description": "Hôtel Novotel - Réservez un hôtel Novotel : salles de réunion et grandes chambres pour voyager avec vos enfants. Nos hôtels équipés de restaurant, piscine, présents dans le monde e",
 		"currenciesAccepted": "EUR",

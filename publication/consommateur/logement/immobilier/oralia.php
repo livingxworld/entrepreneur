@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/immobilier/oralia.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="oralia" /]
+[img src="https://business.livingxworld.com/images/logo/logement/immobilier/oralia.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="oralia" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -150,7 +150,7 @@
 		"@type": "LocalBusiness",
 		"name": "oralia",
 		"url": "https://oralia.fr",
-		"logo": "https://business.livingxworld.com/images/logo/administration/logement/immobilier/oralia.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/immobilier/oralia.png",
 		"description": "Consultez toutes les annonces immobilières sur Lyon Cedex 06, Tarare, Paris 16ème et sa région. Achetez ou vendez votre bien immobilier avec",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card",

@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/hotel/sogohotel.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="sogo hotel" /]
+[img src="https://business.livingxworld.com/images/logo/logement/hotel/sogohotel.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="sogo hotel" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -151,7 +151,7 @@
 		"@type": "LocalBusiness",
 		"name": "sogo hotel",
 		"url": "https://hotelsogo.com",
-		"logo": "https://business.livingxworld.com/images/logo/sogohotel.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/hotel/sogohotel.png",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",
 		"priceRange": "€€",

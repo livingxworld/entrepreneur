@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/immobilier/grandbleu.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="grandbleu" /]
+[img src="https://business.livingxworld.com/images/logo/logement/immobilier/grandbleu.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="grandbleu" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -154,7 +154,7 @@ variable
 		"@type": "LocalBusiness",
 		"name": "grandbleu",
 		"url": "https://grandbleu.fr",
-		"logo": "https://business.livingxworld.com/images/logo/administration/logement/immobilier/grandbleu.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/immobilier/grandbleu.png",
 		"telephone": "+33468376565",
 		"description": "GrandBleu residence rentals by the sea, mountains, countryside ... Booking and special offers Vacation rentals for your holidays online",
 		"currenciesAccepted": "EUR",

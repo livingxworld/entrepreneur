@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/btcoworking.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="btcoworking" /]
+[img src="https://business.livingxworld.com/images/logo/logement/coworking/btcoworking.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="btcoworking" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -174,7 +174,7 @@
 		"@type": "LocalBusiness",
 		"name": "btcoworking",
 		"url": "https://btcoworking.com",
-		"logo": "https://business.livingxworld.com/images/logo/btcoworking.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/btcoworking.png",
 		"telephone": "+33140448743",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card",

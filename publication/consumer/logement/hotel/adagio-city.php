@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/hotel/adagio.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="adagio" /]
+[img src="https://business.livingxworld.com/images/logo/logement/hotel/adagio.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="adagio" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -154,7 +154,7 @@
 		"name": "adagio",
 		"url": "https://adagio-city.com",
 		"tel": "+33155263200",
-		"logo": "https://business.livingxworld.com/images/logo/adagio.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/hotel/adagio.png",
 		"description": "The Aparthotels Adagio have a network of 100 aparthotels located in the heart of the cities with discounts, equipped kitchen and à la carte services.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",

@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/koworkr.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="koworkr" /]
+[img src="https://business.livingxworld.com/images/logo/logement/coworking/koworkr.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="koworkr" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -150,7 +150,7 @@
 		"@type": "LocalBusiness",
 		"name": "koworkr",
 		"url": "https://koworkr.com",
-		"logo": "https://business.livingxworld.com/images/logo/koworkr.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/koworkr.png",
 		"telephone": "0185096103",
 		"description": "Trouvez l’espace de coworking idéal à Paris et en France sur Koworkr.com parmi plus de 100 espaces référencés !",
 		"currenciesAccepted": "EUR"

@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/immobilier/scpi-invest.svg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="scpi invest" /]
+[img src="https://business.livingxworld.com/images/logo/logement/immobilier/scpi-invest.svg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="scpi invest" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -153,7 +153,7 @@
 		"@type": "LocalBusiness",
 		"name": "scpi invest",
 		"url": "https://scpi-invest.fr",
-		"logo": "https://business.livingxworld.com/images/logo/administration/logement/immobilier/scpi-invest.svg",
+		"logo": "https://business.livingxworld.com/images/logo/logement/immobilier/scpi-invest.svg",
 		"telephone": "0144340253",
 		"description": "You are to know more about the functioning of SCPI? Discover the advice of our experts and perfect your investment in SCPI. Consult our selection of SCPI and their detailed sheets. Comprehensive support: information, advice, subscription, credit file editing, monitoring over time.",
 		"address": {

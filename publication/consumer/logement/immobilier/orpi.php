@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/immobilier/orpi.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="orpi" /]
+[img src="https://business.livingxworld.com/images/logo/logement/immobilier/orpi.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="orpi" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -152,7 +152,7 @@
 		"@type": "LocalBusiness",
 		"name": "orpi",
 		"url": "https://orpi.com",
-		"logo": "https://business.livingxworld.com/images/logo/administration/logement/immobilier/orpi.jpg",
+		"logo": "https://business.livingxworld.com/images/logo/logement/immobilier/orpi.jpg",
 		"telephone": "0153809999",
 		"description": "Real estate listings, real estate agency. ORPI, the first French network of real estate agencies offers its ads for rental, sale, purchase of house, apartment, studio, garage, ... Alert system mail for your ads.",
 		"currenciesAccepted": "EUR",

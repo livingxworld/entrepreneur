@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/be-coworking.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="be-coworking" /]
+[img src="https://business.livingxworld.com/images/logo/logement/coworking/be-coworking.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="be-coworking" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -179,7 +179,7 @@
 		"@type": "LocalBusiness",
 		"name": "be-coworking",
 		"url": "https://be-coworking.fr",
-		"logo": "https://business.livingxworld.com/images/logo/be-coworking.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/be-coworking.png",
 		"telephone": "0950051919",
 		"description": "Find your office and join the community & amp; the ecosystem! Trainings, events, tools, and everything needed to develop your project!",
 		"currenciesAccepted": "EUR",

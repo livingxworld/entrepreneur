@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/la-ruche.gif" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="la ruche" /]
+[img src="https://business.livingxworld.com/images/logo/logement/coworking/la-ruche.gif" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="la ruche" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -151,7 +151,7 @@
 		"@type": "LocalBusiness",
 		"name": "la ruche",
 		"url": "https://la-ruche.net",
-		"logo": "https://business.livingxworld.com/images/logo/la-ruche.gif",
+		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/la-ruche.gif",
 		"telephone": "0183645904",
 		"description": "La Ruche est un espace de coworking collaboratif et un incubateur présent à Paris, Montreuil, Bordeaux et Marseille.",
 		"currenciesAccepted": "EUR",

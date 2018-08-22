@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/my-nextdoor.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="nextdoor" /]
+[img src="https://business.livingxworld.com/images/logo/logement/coworking/my-nextdoor.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="nextdoor" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -180,7 +180,7 @@
 		"@type": "LocalBusiness",
 		"name": "nextdoor",
 		"url": "https://my-nextdoor.com",
-		"logo": "https://business.livingxworld.com/images/logo/my-nextdoor.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/my-nextdoor.png",
 		"telephone": "0173283237",
 		"description": "Nextdoor, c’est à la fois une communauté, des lieux, et un état d’esprit. Créateur et opérateur de nouveaux lieux de vie au travail, Nextdoor place l’humain au cœur du business et invite tout à chacun à revoir sa conception du monde du travail pour plus de bienveillance et de productivité.",
 		"currenciesAccepted": "EUR",

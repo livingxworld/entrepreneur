@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/hotel/sofitel.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="sofitel" /]
+[img src="https://business.livingxworld.com/images/logo/logement/hotel/sofitel.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="sofitel" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -151,7 +151,7 @@
 		"@type": "LocalBusiness",
 		"name": "sofitel",
 		"url": "https://url.com",
-		"logo": "https://business.livingxworld.com/images/logo/sofitel.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/hotel/sofitel.png",
 		"telephone": "+33145388600",
 		"description": "Réservez un hôtel Sofitel et vivez une expérience unique - découvrez l'Art de Vivre à la française mêlé à la culture et la gastronomie locale.",
 		"currenciesAccepted": "EUR",

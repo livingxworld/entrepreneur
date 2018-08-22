@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/immobilier/nexity.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="nexity" /]
+[img src="https://business.livingxworld.com/images/logo/logement/immobilier/nexity.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="nexity" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -151,7 +151,7 @@
 		"@type": "LocalBusiness",
 		"name": "nexity",
 		"url": "https://nexity.fr",
-		"logo": "https://business.livingxworld.com/images/logo/administration/logement/immobilier/nexity.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/immobilier/nexity.png",
 		"telephone": "0185551000",
 		"description": "Nexity vous accompagne tout au long de votre vie immobilière : achat d’un bien dans le neuf ou l’ancien, location d’un logement, gestion, transaction…",
 		"currenciesAccepted": "EUR",

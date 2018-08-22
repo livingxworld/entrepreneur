@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/immobilier/guesttoguest.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="guest to guest" /]
+[img src="https://business.livingxworld.com/images/logo/logement/immobilier/guesttoguest.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="guest to guest" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -152,7 +152,7 @@
 		"name": "guest to guest",
 		"url": "https://guesttoguest.fr",
 		"tel": "+33182834930",
-		"logo": "https://business.livingxworld.com/images/logo/administration/logement/immobilier/guesttoguest.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/immobilier/guesttoguest.png",
 		"description": "GuestToGuest - Rejoignez gratuitement notre réseau mondial d&#039;échange de maisons ou d&#039;appartements. Voyagez librement et en toute sécurité avec GuestToGuest."
 	}
 [ends tags='script' /]

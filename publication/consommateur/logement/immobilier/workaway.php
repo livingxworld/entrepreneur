@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/immobilier/workaway.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="workaway" /]
+[img src="https://business.livingxworld.com/images/logo/logement/immobilier/workaway.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="workaway" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -151,7 +151,7 @@
 		"@type": "LocalBusiness",
 		"name": "workaway",
 		"url": "https://workaway.info",
-		"logo": "https://business.livingxworld.com/images/logo/administration/logement/immobilier/workaway.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/immobilier/workaway.png",
 		"description": "Plongez dans la culture et la communauté locales. Apprendre, enseigner et partager des compétences. Sortez de la piste touristique. Ne suis pas le troupeau. Contactez des dizaines de milliers d'hôtes locaux pour commencer vos aventures."
 	}
 [ends tags='script' /]

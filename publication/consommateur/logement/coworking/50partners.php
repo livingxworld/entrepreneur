@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/50partners.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="50partners" /]
+[img src="https://business.livingxworld.com/images/logo/logement/coworking/50partners.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="50partners" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -151,7 +151,7 @@
 		"@type": "LocalBusiness",
 		"name": "50partners",
 		"url": "https://50partners.fr",
-		"logo": "https://business.livingxworld.com/images/logo/50partners.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/50partners.png",
 		"address": {
 			"@type": "PostalAddress",
 			"streetAddress": "62 Rue Jean-Jacques Rousseau",

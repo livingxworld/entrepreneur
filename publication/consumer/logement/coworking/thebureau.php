@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/thebureau.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="thebureau" /]
+[img src="https://business.livingxworld.com/images/logo/logement/coworking/thebureau.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="thebureau" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -153,7 +153,7 @@
 		"@type": "LocalBusiness",
 		"name": "thebureau",
 		"url": "https://thebureau.club",
-		"logo": "https://business.livingxworld.com/images/logo/thebureau.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/thebureau.png",
 		"telephone": "+33183756200",
 		"description": "Offices - Co-working - Meeting Rooms - Lifestyle",
 		"currenciesAccepted": "EUR",

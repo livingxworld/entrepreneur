@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/logement/coworking/beewake.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="beewake" /]
+[img src="https://business.livingxworld.com/images/logo/logement/coworking/beewake.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="beewake" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -151,7 +151,7 @@
 		"@type": "LocalBusiness",
 		"name": "beewake",
 		"url": "https://beewake.fr",
-		"logo": "https://business.livingxworld.com/images/logo/beewake.png",
+		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/beewake.png",
 		"telephone": "0176350501",
 		"description": "Coworking, salle de r&eacute;union, bureau ferm&eacute;, ou espace de travail collaboratif: trouvez un espace de travail pour quelques heures ou toute la journ&eacute;e",
 		"currenciesAccepted": "EUR",
