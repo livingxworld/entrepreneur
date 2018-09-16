@@ -1,13 +1,13 @@
-[img src="https://business.livingxworld.com/images/logo/loisirs/site-de-rencontre/monclasseur.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="monclasseur" /]
+[img src="https://business.livingxworld.com/images/logo/loisirs/site-de-rencontre/tinder.svg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="tinder" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		Monclasseur.com est un site de rencontres gratuit en ligne pour hommes et femmes. Trouvez l’amour grâce à notre agence de rencontre partout au Québec.
+		Avec 20 milliards de Matchs à ce jour, Tinder a mis en relation plus de personnes que n&#x27;importe quelle autre application de rencontre.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		L'auteur ne contient pas de vidéo
+		[youtube source="_lTruViPgcY" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -16,10 +16,10 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://monclasseur.com" target="_blank" rel="dofollow"]Site internet[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] -- [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://tinder.com" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 8750 N. Central Expressway, Suite 1400 Dallas, Texas 75231 États-Unis [br /]
 		[fa name="phone" zoom="2x" /] [a href="#" rel="nofollow"]--[/a] [br /]
-		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]
+		SIRET/VAT [a href="#" rel="nofollow"]--[/a]  [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
 			[begins tags="li" /]Lundi à Vendredi: --[ends tags="li" /]
@@ -43,15 +43,15 @@
 		[ends tags="ul" /]	
 		[h3]Ces logiciels et Apps[/h3]
 		[begins tags="ul" /]
-			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="apple" zoom="2x" /] Apple[/a][ends tags="li" /]
+			[begins tags="li" /][a href="https://itunes.apple.com/fr/developer/tinder-inc/id725634363?mt=8" target="_blank"][fa bs="fab" name="apple" zoom="2x" /] Apple[/a][ends tags="li" /]
 			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="windows" zoom="2x" /] Microsoft[/a][ends tags="li" /]
-			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="android" zoom="2x" /] Android[/a][ends tags="li" /]
+			[begins tags="li" /][a href="https://play.google.com/store/apps/developer?id=Tinder" target="_blank"][fa bs="fab" name="android" zoom="2x" /] Android[/a][ends tags="li" /]
 			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="linux" zoom="2x" /] Linux[/a][ends tags="li" /]
 		[ends tags="ul" /]	
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
-		--
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3351.1897136891575!2d-96.77075748481568!3d32.86669958094497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864e9f96651e8d29%3A0x2ac5a317de8dfb04!2s8750+N+Central+Expy+%231400%2C+Dallas%2C+TX+75231%2C+%C3%89tats-Unis!5e0!3m2!1sfr!2sfr!4v1537122474454" /]
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -62,13 +62,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="monclasseur.com" /] 
+		[whois-domains url="tinder.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="monclasseur.com" /]
+		[ssllabs domains="tinder.com" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="monclasseur.com" /]
+		[api-myipms query="tinder.com" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -96,16 +96,16 @@
 
 
 [h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
-gratuit
+Tarifs non indiqué
 
 [h2 class="text-center"][begins tags="strong" /]Note et avis avec exigence[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-warning" /]
-			[lxw-badge parent="loisirs" category="site-de-rencontre" entreprise="monclasseur" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-success" /]
+			[lxw-badge parent="loisirs" category="site-de-rencontre" entreprise="tinder" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]douteux[/h5]
+				[h5 class="card-title"]validé[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]		
 	[ends tags="div" /]	
@@ -122,15 +122,15 @@ gratuit
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /] non conforme[ends tags="dd" /] 
+				[begins tags="dd" /] confirmé[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] vice caché[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] COMODO ECC Domain Validation Secure Server CA 2 : A[ends tags="dd" /] 
+				[begins tags="dd" /]  	Amazon : A+[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -149,9 +149,15 @@ gratuit
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "monclasseur",
-		"url": "https://monclasseur.com",
-		"logo": "https://business.livingxworld.com/images/logo/loisirs/site-de-rencontre/monclasseur.png",
-		"description": "Monclasseur.com est un site de rencontres gratuit en ligne pour hommes et femmes. Trouvez l’amour grâce à notre agence de rencontre partout au Québec."
+		"name": "tinder",
+		"url": "https://tinder.com",
+		"logo": "https://business.livingxworld.com/images/logo/loisirs/site-de-rencontre/tinder.svg",
+		"description": "Avec 20 milliards de Matchs à ce jour, Tinder a mis en relation plus de personnes que n&#x27;importe quelle autre application de rencontre.",
+		"address": {
+			"@type": "PostalAddress",
+			"streetAddress": "8750 N. Central Expressway, Suite 1400 Dallas, Texas 75231",
+			"addressCountry": "États-Unis"
+		},
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3351.1897136891575!2d-96.77075748481568!3d32.86669958094497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864e9f96651e8d29%3A0x2ac5a317de8dfb04!2s8750+N+Central+Expy+%231400%2C+Dallas%2C+TX+75231%2C+%C3%89tats-Unis!5e0!3m2!1sfr!2sfr!4v1537122474454"
 	}
 [ends tags='script' /]
