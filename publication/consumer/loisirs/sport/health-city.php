@@ -1,13 +1,13 @@
-[img src="https://business.livingxworld.com/images/logo/loisirs/sport/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingxworld.com/images/logo/loisirs/sport/healthcity.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="health city" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Healthcity | Hall and Club de Forme
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="LR2u9SE9ftY" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -16,16 +16,16 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Website[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://healthcity.fr" target="_blank" rel="dofollow"]Website[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 71 BD SAINT GERMAIN 75005 PARIS France [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33153107080" rel="nofollow"]01 53 10 70 80[/a] [br /] [br /]
+		SIRET/VAT [a href="https://www.societe.com/societe/health-city-france-432696524.html" rel="nofollow"]432 696 524[/a] [br /]
 		[h3]Opening schedules[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Monday to Friday: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Saturday: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Sunday: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]holidays: xxhxx - xxhxx[ends tags="li" /]
+			[begins tags="li" /]Monday to Friday: 7h00 - 22h00[ends tags="li" /]
+			[begins tags="li" /]Saturday: 9h00 - 19h00[ends tags="li" /]
+			[begins tags="li" /]Sunday: 9h00 - 19h00[ends tags="li" /]
+			[begins tags="li" /]holidays: --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Transport[/h3] [br /]
 		[begins tags="ul" /]
@@ -51,7 +51,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]MAP[/h3]
-		[gmaps url="" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d41958.8931192752!2d2.2886444350059834!3d48.90718361737622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1shealth+city!5e0!3m2!1sfr!2sfr!4v1537223935561" /]
 		[h4]Are you interested? [begins tags="small"]Click on the affiliate banner[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -83,60 +83,29 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="healthcity.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="healthcity.fr" /]
 		[h3]Your data are[/h3]
-		[api-myipms query="" /]	
+		[api-myipms query="healthcity.fr" /]	
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
 
 [h2 class="text-center"][begins tags="strong" /]The Prices Proposed in Taxe (without promotion)[ends tags="strong" /] [/h2]
-[begins tags="div" class="row" /]
-	[begins tags="div" class="col col-12 col-md-12" /]	
-		[begins tags="div" class="table-responsive" /] 
-			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
-				[begins tags="thead" /] 
-					[begins tags="tr" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-					[ends tags="tr" /] 
-				[ends tags="thead" /] 
-				[begins tags="tbody" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-					[ends tags="tr" /]
-					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-					[ends tags="tr" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]buy offer[/a][ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]buy offer[/a] [ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]buy offer[/a][ends tags="td" /] 
-					[ends tags="tr" /]
-				[ends tags="tbody" /] 
-			[ends tags="table" /] 
-		[ends tags="div" /]	
-	[ends tags="div" /]	
-[ends tags="div" /]	
+--
 
 
 [h2 class="text-center"][begins tags="strong" /]Note and advice with requirement[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge parent="loisirs" category="sport" entreprise="" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-success" /]
+			[lxw-badge parent="loisirs" category="sport" entreprise="health-city" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]advice final[/h5]
+				[h5 class="card-title"]trust[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]	
 	[ends tags="div" /]	
@@ -153,7 +122,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] conform[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Tester reviews[ends tags="dt" /] 
@@ -161,7 +130,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] Let's Encrypt Authority X3 : A[ends tags="dd" /] 
 			[ends tags="dl" /]
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -182,27 +151,25 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingxworld.com/images/logo/loisirs/sport/",
-		"telephone": "+33100000000",
-		"description": "description",
+		"name": "health city",
+		"url": "https://healthcity.fr",
+		"logo": "https://business.livingxworld.com/images/logo/loisirs/sport/healthcity.png",
+		"description": "Healthcity | Hall and Club de Forme",
 		"currenciesAccepted": "EUR",
+		"telephone": "+33153107080",
 		"paymentAccepted": "cash, card",
-		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "71 BD SAINT GERMAIN",
+			"addressLocality": "PARIS",
+			"postalCode": "75005",
+			"addressCountry": "France"
 		},
-		"hasMap": "url-map",
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d41958.8931192752!2d2.2886444350059834!3d48.90718361737622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1shealth+city!5e0!3m2!1sfr!2sfr!4v1537223935561",
 		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
+			"Mo-Fr 7:00-22:00",
+			"Sa 9:00-19:00",
+			"Su 9:00-19:00"
 		]
 	}
 [ends tags='script' /]
