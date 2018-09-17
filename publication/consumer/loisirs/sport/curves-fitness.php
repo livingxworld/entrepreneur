@@ -187,7 +187,7 @@
 		"telephone": "+33100000000",
 		"description": "description",
 		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
+		"paymentAccepted": "cash, card",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
