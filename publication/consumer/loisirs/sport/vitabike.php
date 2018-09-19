@@ -4,10 +4,10 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		VitaBike, 100% French designer and manufacturer of Aquabiking in individual cabin, offers you a complete fitness offer
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="tPzmCMijQ98" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -22,10 +22,10 @@
 		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]
 		[h3]Opening schedules[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Monday to Friday: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Saturday: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Sunday: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]holidays: xxhxx - xxhxx[ends tags="li" /]
+			[begins tags="li" /]Monday to Friday: --[ends tags="li" /]
+			[begins tags="li" /]Saturday: --[ends tags="li" /]
+			[begins tags="li" /]Sunday: --[ends tags="li" /]
+			[begins tags="li" /]holidays: --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Transport[/h3] [br /]
 		[begins tags="ul" /]
@@ -102,10 +102,10 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge parent="loisirs" category="sport" entreprise="vitabike" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-warning" /]
+			[lxw-badge parent="loisirs" category="sport" entreprise="vitabike" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]advice final[/h5]
+				[h5 class="card-title"]doudt[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]	
 	[ends tags="div" /]	
@@ -122,7 +122,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] not completed[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Tester reviews[ends tags="dt" /] 
@@ -130,7 +130,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] Let's Encrypt Authority X3 : A[ends tags="dd" /] 
 			[ends tags="dl" /]
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -154,24 +154,9 @@
 		"name": "vitabike",
 		"url": "https://vitabike.fr",
 		"logo": "https://business.livingxworld.com/images/logo/loisirs/sport/vitabike.jpg",
-		"telephone": "+33100000000",
-		"description": "description",
+		"description": "VitaBike, 100% French designer and manufacturer of Aquabiking in individual cabin, offers you a complete fitness offer",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
-		"priceRange": "€€",
-		"address": {
-			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
-		},
-		"hasMap": "url-map",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		]
+		"hasMap": "url-map"
 	}
 [ends tags='script' /]

@@ -4,10 +4,10 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		VitaBike, concepteur et fabricant 100% français d’Aquabiking en cabine individuelle, vous propose une offre complète de remise en forme
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="tPzmCMijQ98" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -22,10 +22,10 @@
 		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Lundi à Vendredi: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Samedi: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Dimanche: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Jour férié: xxhxx - xxhxx[ends tags="li" /]
+			[begins tags="li" /]Lundi à Vendredi: --[ends tags="li" /]
+			[begins tags="li" /]Samedi: --[ends tags="li" /]
+			[begins tags="li" /]Dimanche: --[ends tags="li" /]
+			[begins tags="li" /]Jour férié: --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Transport[/h3] [br /]
 		[begins tags="ul" /]
@@ -96,47 +96,16 @@
 
 
 [h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
-[begins tags="div" class="row" /]
-	[begins tags="div" class="col col-12 col-md-12" /]	
-		[begins tags="div" class="table-responsive" /] 
-			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
-				[begins tags="thead" /] 
-					[begins tags="tr" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-					[ends tags="tr" /] 
-				[ends tags="thead" /] 
-				[begins tags="tbody" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-					[ends tags="tr" /]
-					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-					[ends tags="tr" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a] [ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-					[ends tags="tr" /]
-				[ends tags="tbody" /] 
-			[ends tags="table" /] 
-		[ends tags="div" /]	
-	[ends tags="div" /]	
-[ends tags="div" /]	
+--
 
 [h2 class="text-center"][begins tags="strong" /]Note et avis avec exigence[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge parent="loisirs" category="sport" entreprise="vitabike" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-warning" /]
+			[lxw-badge parent="loisirs" category="sport" entreprise="vitabike" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]advice final[/h5]
+				[h5 class="card-title"]douteux[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]		
 	[ends tags="div" /]	
@@ -153,7 +122,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] incomplet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
@@ -161,7 +130,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] Let's Encrypt Authority X3 : A[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -183,24 +152,9 @@
 		"name": "vitabike",
 		"url": "https://vitabike.fr",
 		"logo": "https://business.livingxworld.com/images/logo/loisirs/sport/vitabike.jpg",
-		"telephone": "+33100000000",
-		"description": "description",
+		"description": "VitaBike, concepteur et fabricant 100% français d’Aquabiking en cabine individuelle, vous propose une offre complète de remise en forme",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
-		"priceRange": "€€",
-		"address": {
-			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
-		},
-		"hasMap": "url-map",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		]
+		"hasMap": "url-map"
 	}
 [ends tags='script' /]
