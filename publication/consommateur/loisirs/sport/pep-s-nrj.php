@@ -1,13 +1,13 @@
-[img src="https://business.livingxworld.com/images/logo/loisirs/sport/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingxworld.com/images/logo/loisirs/sport/pep-s-nrj.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="pep's nrj" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Pep&#039;s Energy, club de fitness situé à 1 minute du RER C de Saint-Ouen. Découvrez nos espaces : musculation libre, musculation guidée, espace cardio...
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="LqhtWdIeGaE" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -16,16 +16,16 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Site internet[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://pepsenergy.fr" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 23 Rue Arago, 93400 Saint-Ouen [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33652918609" rel="nofollow"]06 52 91 86 09[/a] [br /]
+		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Lundi à Vendredi: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Samedi: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Dimanche: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Jour férié: xxhxx - xxhxx[ends tags="li" /]
+			[begins tags="li" /]Lundi à Vendredi: 7h30 - 22h00[ends tags="li" /]
+			[begins tags="li" /]Samedi: 10h00 - 19h00[ends tags="li" /]
+			[begins tags="li" /]Dimanche: 10h00 - 13h00[ends tags="li" /]
+			[begins tags="li" /]Jour férié: --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Transport[/h3] [br /]
 		[begins tags="ul" /]
@@ -38,7 +38,7 @@
 		[begins tags="ul" /]
 			[begins tags="li" /][fa name="wheelchair" zoom="2x" /] [fa name="blind" zoom="2x" /] [fa name="deaf" zoom="2x" /] [fa name="sign-language" zoom="2x" /][ends tags="li" /]
 			[begins tags="li" /][fa name="broadcast-tower" zoom="2x" /] --[ends tags="li" /]
-			[begins tags="li" /][fa name="wifi" zoom="2x" /] --[ends tags="li" /]
+			[begins tags="li" /][fa name="wifi" zoom="2x" /]oui[ends tags="li" /]
 			[begins tags="li" /][fa name="money-bill" zoom="2x" /] --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Ces logiciels et Apps[/h3]
@@ -51,7 +51,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[gmaps url="" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2622.5540334158054!2d2.3230586156760147!3d48.90483577929212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66f0289130cd7%3A0xd630356235c3fdd!2sPep&#39;s+Energy+-+Salle+de+Sport+%C3%A0+Saint-Ouen!5e0!3m2!1sfr!2sfr!4v1537430668775" /]
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -62,13 +62,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="pepsenergy.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="pepsenergy.fr" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
+		[api-myipms query="pepsenergy.fr" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -102,26 +102,21 @@
 			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
 				[begins tags="thead" /] 
 					[begins tags="tr" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
+						[begins tags="th" /]type[ends tags="th" /] 
+						[begins tags="th" /]Avec engagement[ends tags="th" /] 
+						[begins tags="th" /]Sans engagement[ends tags="th" /] 
 					[ends tags="tr" /] 
 				[ends tags="thead" /] 
 				[begins tags="tbody" /] 
 					[begins tags="tr" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-					[ends tags="tr" /]
-					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
+						[begins tags="td" /]accès illimité mensuel[ends tags="td" /] 
+						[begins tags='td' mdataprop='price' more='content="35"' /]€35.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
+						[begins tags='td' mdataprop='price' more='content="49.90"' /]€49.90 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
 					[ends tags="tr" /] 
 					[begins tags="tr" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a] [ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
+						[begins tags="td" /]--[ends tags="td" /] 
+						[begins tags="td" /][a href="https://pepsenergy.fr/#tarifs" mdataprop="url"]acheter l'offre[/a] [ends tags="td" /] 
+						[begins tags="td" /][a href="https://pepsenergy.fr/#tarifs" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
 					[ends tags="tr" /]
 				[ends tags="tbody" /] 
 			[ends tags="table" /] 
@@ -133,10 +128,10 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge parent="loisirs" category="sport" entreprise="" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-warning" /]
+			[lxw-badge parent="loisirs" category="sport" entreprise="pep-s-nrj" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]advice final[/h5]
+				[h5 class="card-title"]douteux[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]		
 	[ends tags="div" /]	
@@ -153,7 +148,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] non comforme[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
@@ -161,7 +156,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] Let's Encrypt Authority X3 : A[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -180,27 +175,26 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingxworld.com/images/logo/loisirs/sport/",
-		"telephone": "+33100000000",
-		"description": "description",
+		"name": "pep's nrj",
+		"url": "https://pepsenergy.fr",
+		"logo": "https://business.livingxworld.com/images/logo/loisirs/sport/pep-s-nrj.png",
+		"telephone": "+33652918609",
+		"description": "Pep&#039;s Energy, club de fitness situé à 1 minute du RER C de Saint-Ouen. Découvrez nos espaces : musculation libre, musculation guidée, espace cardio...",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "23 Rue Arago",
+			"addressLocality": "Saint-Ouen",
+			"postalCode": "93400",
+			"addressCountry": "France"
 		},
-		"hasMap": "url-map",
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2622.5540334158054!2d2.3230586156760147!3d48.90483577929212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66f0289130cd7%3A0xd630356235c3fdd!2sPep&#39;s+Energy+-+Salle+de+Sport+%C3%A0+Saint-Ouen!5e0!3m2!1sfr!2sfr!4v1537430668775",
 		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
+			"Mo-Fr 7:30-22:00",
+			"Sa 10:00-19:00",
+			"Su 10:00-13:00"
 		]
 	}
 [ends tags='script' /]
