@@ -1,4 +1,5 @@
-[img src="https://www.livingxworld.com/images/post/nologo-found.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="NR'Gym" /]
+(yoga/spa/institu beauté)
+[img src="https://business.livingxworld.com/images/logo/loisirs/sport/zo-zen.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="zo zen" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -16,19 +17,20 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://nrgym.org" target="_blank" rel="dofollow"]Site internet[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] 340 RUE DES PYRENEES 75020 PARIS [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+33143580386" rel="nofollow"]01 43 58 03 86[/a] [br /]
-		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="#" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] Rue Théophile Delbar 5, 1410 Waterloo, Belgique [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+3228502035" rel="nofollow"]+32 2 850 20 35[/a] [br /]
+		SIRET/VAT [a href="#" rel="nofollow"]#[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Lundi à Dimanche: 8h00 - 22h00[ends tags="li" /]
+			[begins tags="li" /]Lundi à Samedi: 9h00 - 18h30[ends tags="li" /]
+			[begins tags="li" /]Dimanche: Fermé[ends tags="li" /]
 			[begins tags="li" /]Jour férié: --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Transport[/h3] [br /]
 		[begins tags="ul" /]
 			[begins tags="li" /][fa name="bus" zoom="2x" /]  --[ends tags="li" /]
-			[begins tags="li" /][fa name="subway" zoom="2x" /]  PYRENEES OU JOURDAIN: 11[ends tags="li" /]
+			[begins tags="li" /][fa name="subway" zoom="2x" /]  --[ends tags="li" /]
 			[begins tags="li" /][fa name="train" zoom="2x" /]  --[ends tags="li" /]
 			[begins tags="li" /][fa name="car" zoom="2x" /]  --[ends tags="li" /]
 		[ends tags="ul" /]	
@@ -49,7 +51,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.1758806754297!2d2.386677815674922!3d48.87392357928899!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66deaf2b91a03%3A0x4841da243c1dc645!2s340+Rue+des+Pyr%C3%A9n%C3%A9es%2C+75020+Paris!5e0!3m2!1sfr!2sfr!4v1537429244464" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2526.1756027722377!2d4.395431115741061!3d50.71668127951296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3d1d22d837dd3%3A0x5a5be7d1a2bd65d5!2sZo+Zen!5e0!3m2!1sfr!2sfr!4v1537427847708" /]
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -60,13 +62,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="nrgym.org" /] 
+		--
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="nrgym.org" /]
+		--
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="nrgym.org" /]
+		--
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -100,10 +102,10 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-danger" /]
-			[lxw-badge parent="loisirs" category="sport" entreprise="nr-gym" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-danger" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-default" /]
+			[lxw-badge parent="loisirs" category="sport" entreprise="zo-zen" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-default" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]danger[/h5]
+				[h5 class="card-title"]neutre[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]		
 	[ends tags="div" /]	
@@ -120,7 +122,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /] non conforme[ends tags="dd" /] 
+				[begins tags="dd" /] --[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
@@ -128,7 +130,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] aucun ssl/tls utilisé[ends tags="dd" /] 
+				[begins tags="dd" /] --[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -147,21 +149,22 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "NR'Gym",
-		"url": "https://nrgym.org",
-		"logo": "https://www.livingxworld.com/images/post/nologo-found.png",
-		"telephone": "+33143580386",
+		"name": "zo zen",
+		"logo": "https://business.livingxworld.com/images/logo/loisirs/sport/zo-zen.jpg",
+		"telephone": "+3228502035",
 		"currenciesAccepted": "EUR",
+		"paymentAccepted": "cash, card",
+		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "340 RUE DES PYRENEES",
-			"addressLocality": "PARIS",
-			"postalCode": "75020",
-			"addressCountry": "France"
+			"streetAddress": "Rue Théophile Delbar 5",
+			"addressLocality": "Waterloo",
+			"postalCode": "1410",
+			"addressCountry": "Belgique"
 		},
-		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.1758806754297!2d2.386677815674922!3d48.87392357928899!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66deaf2b91a03%3A0x4841da243c1dc645!2s340+Rue+des+Pyr%C3%A9n%C3%A9es%2C+75020+Paris!5e0!3m2!1sfr!2sfr!4v1537429244464",
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2526.1756027722377!2d4.395431115741061!3d50.71668127951296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3d1d22d837dd3%3A0x5a5be7d1a2bd65d5!2sZo+Zen!5e0!3m2!1sfr!2sfr!4v1537427847708",
 		"openingHours": [
-			"Mo-Su 9:00-22:00"
+			"Mo-Sa 9:00-18:30"
 		]
 	}
 [ends tags='script' /]
