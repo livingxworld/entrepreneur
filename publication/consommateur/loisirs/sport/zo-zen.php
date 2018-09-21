@@ -1,4 +1,4 @@
-(yoga/spa/institu beauté)
+
 [img src="https://business.livingxworld.com/images/logo/loisirs/sport/zo-zen.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="zo zen" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
