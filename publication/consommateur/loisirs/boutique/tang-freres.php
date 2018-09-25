@@ -1,13 +1,13 @@
-[img src="https://business.livingxworld.com/images/logo/loisirs/boutique/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingxworld.com/images/logo/loisirs/boutique/tang-frere.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="tang frere" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Leader de l&#039;alimentation asiatique en France depuis 1976 : supermarché de vente en gros et en détail, traiteur…
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="Csg1Op7C5lQ" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -16,16 +16,17 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Site internet[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://tang-freres.fr" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 48 AV D'IVRY 75013 PARIS France [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33149605678" rel="nofollow"]01 49 60 56 78[/a] [br /]
+		SIRET/VAT [a href="https://www.societe.com/societe/tang-freres-306243833.html" rel="nofollow"]306 243 833[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Lundi à Vendredi: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Samedi: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Dimanche: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Jour férié: xxhxx - xxhxx[ends tags="li" /]
+			[begins tags="li" /]Lundi: Fermé[ends tags="li" /]
+			[begins tags="li" /]Mardi à Vendredi: 9h00 - 20h00[ends tags="li" /]
+			[begins tags="li" /]Samedi: 8h00 - 20h00[ends tags="li" /]
+			[begins tags="li" /]Dimanche: 8h00 - 13h00[ends tags="li" /]
+			[begins tags="li" /]Jour férié: --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Transport[/h3] [br /]
 		[begins tags="ul" /]
@@ -51,7 +52,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[gmaps url="" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d83917.81294807825!2d2.253624166862341!3d48.90716771293152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1stang+frere!5e0!3m2!1sfr!2sfr!4v1537872041796" /]
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -62,13 +63,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="tang-freres.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="tang-freres.fr" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
+		[api-myipms query="tang-freres.fr" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -100,10 +101,10 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge parent="loisirs" category="commerce" entreprise="" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-success" /]
+			[lxw-badge parent="loisirs" category="commerce" entreprise="tang-freres" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]advice final[/h5]
+				[h5 class="card-title"]Validé[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]		
 	[ends tags="div" /]	
@@ -120,7 +121,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] conforme[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
@@ -128,7 +129,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /]  	Let's Encrypt Authority X3 : A [ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -147,27 +148,25 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingxworld.com/images/logo/loisirs/boutique/",
-		"telephone": "+33100000000",
-		"description": "description",
+		"name": "tang frere",
+		"url": "https://tang-freres.fr",
+		"logo": "https://business.livingxworld.com/images/logo/loisirs/boutique/tang-frere.png",
+		"telephone": "+33149605678",
+		"description": "Leader de l&#039;alimentation asiatique en France depuis 1976 : supermarché de vente en gros et en détail, traiteur…",
 		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"paymentAccepted": "cash, card",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "48 AV D'IVRY",
+			"addressLocality": "PARIS",
+			"postalCode": "75013",
+			"addressCountry": "France"
 		},
-		"hasMap": "url-map",
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d83917.81294807825!2d2.253624166862341!3d48.90716771293152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1stang+frere!5e0!3m2!1sfr!2sfr!4v1537872041796",
 		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
+			"Tu-Fr 9:00-20:00",
+			"Sa 8:00-20:00",
+			"Su 8:00-13:00"
 		]
 	}
 [ends tags='script' /]
