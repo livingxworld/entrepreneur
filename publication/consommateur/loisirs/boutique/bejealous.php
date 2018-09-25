@@ -53,7 +53,7 @@
 		[h3]La carte[/h3]
 		[gmaps url="" /]
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
-		
+		[a href="http://po.st/fYdmvW"][img src="https://www.awin1.com/cshow.php?s=2212364&v=7130&q=303525&r=510459" /][/a]
 	[ends tags="div" /]	
 [ends tags="div" /]
 
