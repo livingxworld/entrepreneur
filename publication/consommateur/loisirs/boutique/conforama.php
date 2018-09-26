@@ -1,13 +1,13 @@
-[img src="https://business.livingxworld.com/images/logo/loisirs/boutique/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingxworld.com/images/logo/loisirs/boutique/conforama.svg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="conforama" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Conforama, achat en ligne de meuble et mobilier, cuisine, articles de décoration, électroménager, image et son, informatique. Tout pour l&#039;équipement et ameublement de la maison à prix discount.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="ZqkUbjumWPg" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -16,16 +16,14 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Site internet[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://conforama.fr" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 80 BD DU MANDINET 77185 LOGNES France [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33892010808" rel="nofollow"]0 892 010 808[/a] [br /]
+		SIRET/VAT [a href="https://www.societe.com/societe/conforama-france-414819409.html" rel="nofollow"]414 819 409[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Lundi à Vendredi: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Samedi: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Dimanche: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Jour férié: xxhxx - xxhxx[ends tags="li" /]
+			[begins tags="li" /]Lundi à Dimanche: 10h00 - 19h00[ends tags="li" /]
+			[begins tags="li" /]Jour férié: --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Transport[/h3] [br /]
 		[begins tags="ul" /]
@@ -51,7 +49,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[gmaps url="" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d41958.8931192752!2d2.2886444350059834!3d48.90718361737622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sconforama!5e0!3m2!1sfr!2sfr!4v1537958989713" /]
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -62,13 +60,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="conforama.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="conforama.fr" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
+		[api-myipms query="conforama.fr" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -100,10 +98,10 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge parent="loisirs" category="commerce" entreprise="" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-success" /]
+			[lxw-badge parent="loisirs" category="commerce" entreprise="conforama" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]advice final[/h5]
+				[h5 class="card-title"]validé[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]		
 	[ends tags="div" /]	
@@ -120,15 +118,15 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /]conforme[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /]valid[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] impossible[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -147,27 +145,23 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingxworld.com/images/logo/loisirs/boutique/",
-		"telephone": "+33100000000",
-		"description": "description",
+		"name": "conforama",
+		"url": "https://conforama.fr",
+		"logo": "https://business.livingxworld.com/images/logo/loisirs/boutique/conforama.svg",
+		"telephone": "+33892010808",
+		"description": "Conforama, achat en ligne de meuble et mobilier, cuisine, articles de décoration, électroménager, image et son, informatique. Tout pour l&#039;équipement et ameublement de la maison à prix discount.",
 		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"paymentAccepted": "cash, card",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "80 BD DU MANDINET",
+			"addressLocality": "LOGNES",
+			"postalCode": "77185",
+			"addressCountry": "France"
 		},
-		"hasMap": "url-map",
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d41958.8931192752!2d2.2886444350059834!3d48.90718361737622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sconforama!5e0!3m2!1sfr!2sfr!4v1537958989713",
 		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
+			"Mo-Su 10:00-19:00"
 		]
 	}
 [ends tags='script' /]
