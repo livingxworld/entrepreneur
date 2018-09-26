@@ -1,13 +1,13 @@
-[img src="https://business.livingxworld.com/images/logo/loisirs/boutique/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingxworld.com/images/logo/loisirs/boutique/intermarche.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="intermarche" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Find the whole world of Intermarché online: stores, practical information, loyalty card and services
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="8HQBHUP-BSM" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -16,16 +16,15 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Website[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://intermarche.com" target="_blank" rel="dofollow"]Website[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 24 RUE AUGUSTE CHABRIERES 75015 PARIS France [br /]
+		[fa name="phone" zoom="2x" /] [a href="#" rel="nofollow"]--[/a] [br /]
+		SIRET/VAT [a href="https://www.societe.com/societe/itm-alimentaire-international-341192227.html" rel="nofollow"]341 192 227[/a] [br /]
 		[h3]Opening schedules[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Monday to Friday: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Saturday: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Sunday: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]holidays: xxhxx - xxhxx[ends tags="li" /]
+			[begins tags="li" /]Monday to Saturday: 8h00 - 22h00[ends tags="li" /]
+			[begins tags="li" /]Sunday: 8h00 - 13h00[ends tags="li" /]
+			[begins tags="li" /]holidays: --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Transport[/h3] [br /]
 		[begins tags="ul" /]
@@ -51,7 +50,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]MAP[/h3]
-		[gmaps url="" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d20979.44489034212!2d2.306154233599324!3d48.907187593367674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sintermarch%C3%A9!5e0!3m2!1sfr!2sfr!4v1537969284741" /]
 		[h4]Are you interested? [begins tags="small"]Click on the affiliate banner[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -83,13 +82,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="intermarche.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="intermarche.com" /]
 		[h3]Your data are[/h3]
-		[api-myipms query="" /]	
+		[api-myipms query="intermarche.com" /]	
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -99,10 +98,10 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge parent="loisirs" category="commerce" entreprise="" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-warning" /]
+			[lxw-badge parent="loisirs" category="commerce" entreprise="intermarche" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]advice final[/h5]
+				[h5 class="card-title"]doudt[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]	
 	[ends tags="div" /]	
@@ -119,15 +118,15 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] RGPD/GRPD missing[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Tester reviews[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] valid[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] COMODO RSA Domain Validation Secure Server CA  : B fixing Diffie-Hellman (DH) & Forward Secrecy[ends tags="dd" /] 
 			[ends tags="dl" /]
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -148,27 +147,23 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingxworld.com/images/logo/loisirs/boutique/",
-		"telephone": "+33100000000",
-		"description": "description",
+		"name": "intermarche",
+		"url": "https://intermarche.com",
+		"logo": "https://business.livingxworld.com/images/logo/loisirs/boutique/intermarche.png",
+		"description": "Find the whole world of Intermarché online: stores, practical information, loyalty card and services",
 		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"paymentAccepted": "cash, card",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "24 RUE AUGUSTE CHABRIERES",
+			"addressLocality": "PARIS",
+			"postalCode": "75015",
+			"addressCountry": "France"
 		},
-		"hasMap": "url-map",
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d20979.44489034212!2d2.306154233599324!3d48.907187593367674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sintermarch%C3%A9!5e0!3m2!1sfr!2sfr!4v1537969284741",
 		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
+			"Mo-Sa 8:00-22:00",
+			"Su 8:00-13:00"
 		]
 	}
 [ends tags='script' /]
