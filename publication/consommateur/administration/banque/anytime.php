@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/banque/anytime.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="anytime" /]
+[img src="https://business.livingx.world/images/logo/administration/banque/anytime.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="anytime" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -72,27 +72,6 @@
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
-[none]
-[h2 class="text-center"][begins tags="strong" /]Ces photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
 
 
 [h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
@@ -159,7 +138,7 @@
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-success" /]
-			[lxw-badge parent="administration" category="banque" entreprise="anytime" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]Validé[/h5]
 			[ends tags="div" /]	
@@ -207,7 +186,7 @@
 		"@type": "LocalBusiness",
 		"name": "anytime",
 		"url": "https://anyti.me",
-		"logo": "https://business.livingxworld.com/images/logo/anytime.png",
+		"logo": "https://business.livingx.world/images/logo/anytime.png",
 		"description": "Le Compte Anytime, c’est un RIB nominatif, une carte Mastercard® et des services pour vous simplifier la vie – Ouvert pour les professionnels et les particuliers. Le Compte sans Banque en ligne ouvert à tous",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card",

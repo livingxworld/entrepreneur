@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/banque/paysafecard.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="paysafecard" /]
+[img src="https://business.livingx.world/images/logo/administration/banque/paysafecard.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="paysafecard" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -72,35 +72,13 @@
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
-[none]
-[h2 class="text-center"][begins tags="strong" /]Ces photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
-
 
 [h2 class="text-center"][begins tags="strong" /]Note et avis avec exigence[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-success" /]
-			[lxw-badge parent="administration" category="banque" entreprise="paysafecard" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]validé[/h5]
 			[ends tags="div" /]	
@@ -148,7 +126,7 @@
 		"@type": "LocalBusiness",
 		"name": "paysafecard",
 		"url": "https://paysafecard.com",
-		"logo": "https://business.livingxworld.com/images/logo/paysafecard.png",
+		"logo": "https://business.livingx.world/images/logo/paysafecard.png",
 		"description": "Grâce à paysafecard, le paiement en ligne devient un jeu d'enfant. Procurez-vous une carte paysafecard et achetez des services en toute sécurité.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",

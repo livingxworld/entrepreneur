@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/banque/credit-agricole.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="crédit agricole" /]
+[img src="https://business.livingx.world/images/logo/administration/banque/credit-agricole.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="crédit agricole" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -72,27 +72,6 @@
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
-[none]
-[h2 class="text-center"][begins tags="strong" /]Ces photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
 
 
 [h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
@@ -104,7 +83,7 @@ varié
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-warning" /]
-			[lxw-badge parent="administration" category="banque" entreprise="credit-agricole" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]non sécurisé[/h5]
 			[ends tags="div" /]	
@@ -152,7 +131,7 @@ varié
 		"@type": "LocalBusiness",
 		"name": "crédit agricole",
 		"url": "https://credit-agricole.fr",
-		"logo": "https://business.livingxworld.com/images/logo/credit-agricole.png",
+		"logo": "https://business.livingx.world/images/logo/credit-agricole.png",
 		"description": "D&#233;couvrez les offres et services du Cr&#233;dit Agricole : assurance-vie, &#233;pargne, placement, retraite, habitation, pr&#233;voyance, cr&#233;dit a la consommation, cr&#233;dit immobilier, garantie des accidents de la vie",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",

@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/banque/xoom.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="xoom" /]
+[img src="https://business.livingx.world/images/logo/administration/banque/xoom.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="xoom" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -72,28 +72,6 @@
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
-[none]
-[h2 class="text-center"][begins tags="strong" /]Ces photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
-
 
 [h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
 Prix vérié
@@ -103,7 +81,7 @@ Prix vérié
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-success" /]
-			[lxw-badge parent="administration" category="banque" entreprise="xoom" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]Validé[/h5]
 			[ends tags="div" /]	
@@ -151,7 +129,7 @@ Prix vérié
 		"@type": "LocalBusiness",
 		"name": "xoom",
 		"url": "https://xoom.com",
-		"logo": "https://business.livingxworld.com/images/logo/xoom.png",
+		"logo": "https://business.livingx.world/images/logo/xoom.png",
 		"telephone": "+14153954225",
 		"description": "Transférer de l'argent en ligne avec Xoom et économiser sur les frais de transfert d'argent. Fil de l'argent à un compte bancaire en quelques minutes ou ramasser de l'argent à des milliers d'endroits.",
 		"currenciesAccepted": "USD",

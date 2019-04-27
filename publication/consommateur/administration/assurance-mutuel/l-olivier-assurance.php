@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/assurance-mutuel/lolivier.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="l'olivier assurance" /]
+[img src="https://business.livingx.world/images/logo/administration/assurance-mutuel/lolivier.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="l'olivier assurance" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -72,27 +72,6 @@
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
-[none]
-[h2 class="text-center"][begins tags="strong" /]Ces photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
 
 
 [h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
@@ -103,7 +82,7 @@ Demande devis
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card" /]
-			[lxw-badge parent="administration" category="assurance-mutuelle" entreprise="l-olivier-assurance" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border" showembed="yes" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]Neutre[/h5]
 			[ends tags="div" /]	
@@ -151,7 +130,7 @@ Demande devis
 		"@type": "LocalBusiness",
 		"name": "l'olivier assurance",
 		"url": "https://lolivier.fr",
-		"logo": "https://business.livingxworld.com/images/logo/administration/assurance-mutuel/lolivier.jpg",
+		"logo": "https://business.livingx.world/images/logo/administration/assurance-mutuel/lolivier.jpg",
 		"telephone": "+33184022022",
 		"description": "Trust a leading European auto insurer.✓ 5 million insureds ✓ Attractive prices ✓ 92% satisfied customers",
 		"currenciesAccepted": "EUR",

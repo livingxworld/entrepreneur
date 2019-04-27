@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/banque/worldremit.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="worldremit" /]
+[img src="https://business.livingx.world/images/logo/administration/banque/worldremit.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="worldremit" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -57,28 +57,6 @@
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
-[none]
-[h2 class="text-center"][begins tags="strong" /]These photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
-
 [h2 class="text-center"][begins tags="strong" /]Automatic scanner[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
@@ -103,7 +81,7 @@ variate
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-success" /]
-			[lxw-badge parent="administration" category="banque" entreprise="worldremit" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]Trust[/h5]
 			[ends tags="div" /]	
@@ -153,7 +131,7 @@ variate
 		"@type": "LocalBusiness",
 		"name": "worldremit",
 		"url": "https://worldremit.com",
-		"logo": "https://business.livingxworld.com/images/logo/worldremit.png",
+		"logo": "https://business.livingx.world/images/logo/worldremit.png",
 		"telephone": "+4402071485800",
 		"description": "Online Money Transfer to friends and family abroad with WorldRemit. You can now send money easily &amp; securely with guaranteed exchange rates and low fees.",
 		"currenciesAccepted": "EUR",

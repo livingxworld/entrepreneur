@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/assurance-mutuel/maaf.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="maaf" /]
+[img src="https://business.livingx.world/images/logo/administration/assurance-mutuel/maaf.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="maaf" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -72,27 +72,6 @@
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
-[none]
-[h2 class="text-center"][begins tags="strong" /]Ces photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
 
 
 [h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
@@ -103,7 +82,7 @@ Demande de devis
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-warning" /]
-			[lxw-badge parent="administration" category="assurance-mutuelle" entreprise="maaf" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]Douteux[/h5]
 			[ends tags="div" /]	
@@ -151,7 +130,7 @@ Demande de devis
 		"@type": "LocalBusiness",
 		"name": "maaf",
 		"url": "https://maaf.fr",
-		"logo": "https://business.livingxworld.com/images/logo/administration/assurance-mutuel/maaf.jpg",
+		"logo": "https://business.livingx.world/images/logo/administration/assurance-mutuel/maaf.jpg",
 		"telephone": "+33549343536",
 		"description": "Réalisez votre devis assurance auto, moto, habitation et mutuelle santé en quelques clics. Retrouvez dans votre espace client toutes les informations dont vous avez besoin : MAAF, la préférence client !",
 		"currenciesAccepted": "EUR",

@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/logement/coworking/my-nextdoor.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="nextdoor" /]
+[img src="https://business.livingx.world/images/logo/logement/coworking/my-nextdoor.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="nextdoor" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -62,19 +62,19 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 [/none]
@@ -182,7 +182,7 @@
 		"@type": "LocalBusiness",
 		"name": "nextdoor",
 		"url": "https://my-nextdoor.com",
-		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/my-nextdoor.png",
+		"logo": "https://business.livingx.world/images/logo/logement/coworking/my-nextdoor.png",
 		"telephone": "0173283237",
 		"description": "Nextdoor is a community, a place, and a state of mind. Creator and operator of new places of life at work, Nextdoor places the human at the heart of the business and invites everyone to reconsider its conception of the world of work for more benevolence and productivity.",
 		"currenciesAccepted": "EUR",

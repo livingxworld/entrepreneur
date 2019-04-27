@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/logement/coworking/wework.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="wework" /]
+[img src="https://business.livingx.world/images/logo/logement/coworking/wework.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="wework" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -77,19 +77,19 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 [/none]
@@ -177,7 +177,7 @@
 		"@type": "LocalBusiness",
 		"name": "wework",
 		"url": "https://wework.com",
-		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/wework.png",
+		"logo": "https://business.livingx.world/images/logo/logement/coworking/wework.png",
 		"telephone": "+33186652533",
 		"description": "WeWork transforme des bâtiments en magnifiques espaces de travail collaboratifs. Obtenez l'espace de travail, la communauté et les services dont vous avez besoin pour travailler tout en profitant de la vie (« Make a life, not just a living »).",
 		"currenciesAccepted": "EUR",

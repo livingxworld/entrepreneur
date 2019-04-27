@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/assurance-mutuel/maaf.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="maaf" /]
+[img src="https://business.livingx.world/images/logo/administration/assurance-mutuel/maaf.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="maaf" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -57,27 +57,6 @@
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
-[none]
-[h2 class="text-center"][begins tags="strong" /]These photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
 
 [h2 class="text-center"][begins tags="strong" /]Automatic scanner[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
@@ -103,7 +82,7 @@ Asking quote
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-warning" /]
-			[lxw-badge parent="administration" category="assurance-mutuelle" entreprise="maaf" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]doudt[/h5]
 			[ends tags="div" /]	
@@ -153,7 +132,7 @@ Asking quote
 		"@type": "LocalBusiness",
 		"name": "maaf",
 		"url": "https://maaf.fr",
-		"logo": "https://business.livingxworld.com/images/logo/administration/assurance-mutuel/maaf.jpg",
+		"logo": "https://business.livingx.world/images/logo/administration/assurance-mutuel/maaf.jpg",
 		"telephone": "+33549343536",
 		"description": "Make your car, motorcycle, home and mutual health insurance quotes in just a few clicks. Find in your customer area all the information you need: MAAF, customer preference!",
 		"currenciesAccepted": "EUR",

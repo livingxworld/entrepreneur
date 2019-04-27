@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/assurance-mutuel/amv.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="amv" /]
+[img src="https://business.livingx.world/images/logo/administration/assurance-mutuel/amv.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="amv" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -57,28 +57,6 @@
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
-[none]
-[h2 class="text-center"][begins tags="strong" /]These photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
-
 [h2 class="text-center"][begins tags="strong" /]Automatic scanner[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
@@ -103,7 +81,7 @@ Asking quote
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-warning" /]
-			[lxw-badge parent="administration" category="assurance-mutuelle" entreprise="amv" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]doudt[/h5]
 			[ends tags="div" /]	
@@ -153,7 +131,7 @@ Asking quote
 		"@type": "LocalBusiness",
 		"name": "amv",
 		"url": "https://amv.fr",
-		"logo": "https://business.livingxworld.com/images/logo/administration/assurance-mutuel/amv.png",
+		"logo": "https://business.livingx.world/images/logo/administration/assurance-mutuel/amv.png",
 		"telephone": "0820820750",
 		"description": "AMV is a leader in motorcycle and 2-wheel insurance. Carry out your motorcycle, scooter, auto, collection, quad, jet ski and home insurance quotes for free.",
 		"currenciesAccepted": "EUR",

@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/logement/coworking/legymnase.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="legymnase" /]
+[img src="https://business.livingx.world/images/logo/logement/coworking/legymnase.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="legymnase" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -62,19 +62,19 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 [/none]
@@ -152,7 +152,7 @@
 		"@type": "LocalBusiness",
 		"name": "legymnase",
 		"url": "https://legymnase.com",
-		"logo": "https://business.livingxworld.com/images/logo/logement/coworking/legymnase.jpg",
+		"logo": "https://business.livingx.world/images/logo/logement/coworking/legymnase.jpg",
 		"description": "PUNCHY CO-WORKING   Paris",
 		"currenciesAccepted": "EUR",
 		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d10502.411024924135!2d2.3613497414751174!3d48.84671546857998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1slegymnase!5e0!3m2!1sfr!2sfr!4v1534275117619"

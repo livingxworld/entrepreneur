@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/logement/hotel/thalassa.gif" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="thalassa" /]
+[img src="https://business.livingx.world/images/logo/logement/hotel/thalassa.gif" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="thalassa" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -77,19 +77,19 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 [/none]
@@ -151,7 +151,7 @@
 		"@type": "LocalBusiness",
 		"name": "thalassa",
 		"url": "https://thalassa-hotels.com",
-		"logo": "https://business.livingxworld.com/images/logo/logement/hotel/thalassa.gif",
+		"logo": "https://business.livingx.world/images/logo/logement/hotel/thalassa.gif",
 		"description": "La chaîne Thlassa Hotels comporte un total de 1000 chambres réparties sur trois unités à Monastir, Mahdia et sousse, vue de mer. Le royal Thalassa Monastir est considéré comme le meilleur 5 étoiles du sahel. La particularité de thalassa Hotels est de s'adresser à toutes les cibles, aussi bien balnéaire, Thalasso, Corporate que sportive.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash"

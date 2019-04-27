@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/logement/hotel/hotelf1.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="hotelf1" /]
+[img src="https://business.livingx.world/images/logo/logement/hotel/hotelf1.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="hotelf1" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -78,19 +78,19 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 [/none]
@@ -152,7 +152,7 @@
 		"@type": "LocalBusiness",
 		"name": "hotelf1",
 		"url": "https://hotelf1.accorhotels.com",
-		"logo": "https://business.livingxworld.com/images/logo/logement/hotel/hotelf1.png",
+		"logo": "https://business.livingx.world/images/logo/logement/hotel/hotelf1.png",
 		"telephone": "+33145388600",
 		"description": "Dépensez moins pour votre hôtel pour profiter plus sur la route partout en France ! Réservez vite votre road trip hotelF1 et profitez
  de votre chambre pour une, deux ou trois personnes, à partir de 22€ seulement !",

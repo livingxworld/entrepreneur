@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/banque/unionpay.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="unionpay" /]
+[img src="https://business.livingx.world/images/logo/administration/banque/unionpay.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="unionpay" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -72,27 +72,6 @@
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
-[none]
-[h2 class="text-center"][begins tags="strong" /]Ces photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
 
 
 [h2 class="text-center"][begins tags="strong" /]Note et avis avec exigence[ends tags="strong" /] [/h2]
@@ -100,7 +79,7 @@
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-danger" /]
-			[lxw-badge parent="administration" category="banque" entreprise="unionpay" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-danger" showembed="yes" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-danger" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]non sécurisé[/h5]
 			[ends tags="div" /]	
@@ -148,7 +127,7 @@
 		"@type": "LocalBusiness",
 		"name": "unionpay",
 		"url": "https://unionpayintl.com",
-		"logo": "https://business.livingxworld.com/images/logo/unionpay.png",
+		"logo": "https://business.livingx.world/images/logo/unionpay.png",
 		"telephone": "862120265666",
 		"description": "UnionPay International est une filiale spécialisée dans les affaires internationales d'UnionPay. UnionPay International définit le système d'adhésion comme base du développement du réseau mondial d'acceptation de cartes UnionPay; promeut l'émission internationale et l'utilisation de la carte UnionPay ainsi que d'autres solutions de paiement innovantes et améliore la position de marque internationale de UnionPay",
 		"currenciesAccepted": "EUR",

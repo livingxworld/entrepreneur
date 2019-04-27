@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/assurance-mutuel/sos-malus.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="sos-malus" /]
+[img src="https://business.livingx.world/images/logo/administration/assurance-mutuel/sos-malus.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="sos-malus" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -72,28 +72,6 @@
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
-[none]
-[h2 class="text-center"][begins tags="strong" /]Ces photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
-
 
 [h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
 Demander un devis
@@ -103,7 +81,7 @@ Demander un devis
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-warning" /]
-			[lxw-badge parent="administration" category="assurance-mutuelle" entreprise="sos-malus" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]douteux[/h5]
 			[ends tags="div" /]	
@@ -151,7 +129,7 @@ Demander un devis
 		"@type": "LocalBusiness",
 		"name": "sos-malus",
 		"url": "https://sosmalus.eu",
-		"logo": "https://business.livingxworld.com/images/logo/administration/assurance-mutuel/sos-malus.png",
+		"logo": "https://business.livingx.world/images/logo/administration/assurance-mutuel/sos-malus.png",
 		"telephone": "+33140737478",
 		"description": "Assurance auto résiliée : non-paiement de prime d&#039;assurance, retrait de permis pour alcoolémie ou excès de vitesse, trop de sinistres ! Faites confiance au N°1 en assurance malus depuis 35 ans sosmalus.eu Devis rapide et assurez-vous en ligne quelques minutes. Gestion de votre simplifiée directement depuis votre mobile avec notre application mobile disponible sur votre &quot;Store&quot;",
 		"currenciesAccepted": "EUR",

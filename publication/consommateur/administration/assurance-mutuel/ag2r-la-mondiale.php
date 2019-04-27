@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/assurance-mutuel/ag2rlamondiale.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="ag2rlamondiale" /]
+[img src="https://business.livingx.world/images/logo/administration/assurance-mutuel/ag2rlamondiale.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="ag2rlamondiale" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -72,28 +72,6 @@
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
-[none]
-[h2 class="text-center"][begins tags="strong" /]Ces photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
-
 
 [h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -147,7 +125,7 @@
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-success" /]
-			[lxw-badge parent="administration" category="assurance-mutuelle" entreprise="ag2rlamondiale" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]Conforme[/h5]
 			[ends tags="div" /]	
@@ -195,7 +173,7 @@
 		"@type": "LocalBusiness",
 		"name": "ag2r la mondiale",
 		"url": "https://ag2rlamondiale.fr",
-		"logo": "https://business.livingxworld.com/images/logo/administration/assurance-mutuel/ag2rlamondiale.png",
+		"logo": "https://business.livingx.world/images/logo/administration/assurance-mutuel/ag2rlamondiale.png",
 		"description": "Bienvenue sur le site d&#039;AG2R LA MONDIALE : 1er groupe de protection sociale. Découvrez nos offres mutuelle santé, prévoyance, épargne et retraite. Trouvez une agence proche de chez vous, contactez-nous, réalisez un devis en ligne.",
 		"currenciesAccepted": "EUR",
 		"priceRange": "€€",

@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/administration/banque/sumup.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="sumup" /]
+[img src="https://business.livingx.world/images/logo/administration/banque/sumup.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="sumup" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -53,31 +53,10 @@
 		[h3]MAP[/h3]
 		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.961927356868!2d-0.14151708422977816!3d51.51391447963615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604d5391797c5%3A0x5caeaa538a9f4506!2s32-34+Great+Marlborough+St%2C+Soho%2C+London+W1F+7JD%2C+Royaume-Uni!5e0!3m2!1sfr!2sfr!4v1531090315192" /]
 		[h4]Are you interested? [begins tags="small"]Click on the affiliate banner[ends="small" /][/h4] [br /]
-		[url href="http://po.st/pL1jhz"][img src="https://business.livingxworld.com/images/photo/administration/banque/sumup-en.jpg" alt="Sumup" /][/url]
+		[url href="http://po.st/pL1jhz"][img src="https://business.livingx.world/images/photo/administration/banque/sumup-en.jpg" alt="Sumup" /][/url]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
-[none]
-[h2 class="text-center"][begins tags="strong" /]These photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
 
 [h2 class="text-center"][begins tags="strong" /]Automatic scanner[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
@@ -130,7 +109,7 @@
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-success" /]
-			[lxw-badge parent="administration" category="banque" entreprise="sumup" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]Trust[/h5]
 			[ends tags="div" /]	
@@ -180,7 +159,7 @@
 		"@type": "LocalBusiness",
 		"name": "sumup",
 		"url": "https://sumup.fr",
-		"logo": "https://business.livingxworld.com/images/logo/sumup.png",
+		"logo": "https://business.livingx.world/images/logo/sumup.png",
 		"telephone": "+33184883081",
 		"description": "Expand your business by accepting card payments with the new SumUp payment terminal! No commitment of duration. Free corrections.",
 		"currenciesAccepted": "EUR",
