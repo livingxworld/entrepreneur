@@ -1,5 +1,4 @@
 Suricate (cat: des-aides-ou-autres)
-Comet (cat: Emploi)
 Optical center (cat:boutique)
 Keem deluxe (cat: vtc/taxi)
 Chimm (cat: hôpital)

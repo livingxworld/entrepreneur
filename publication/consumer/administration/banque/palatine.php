@@ -1,4 +1,4 @@
-[img src="https://business.livingx.world/images/logo/administration/banque/palatine" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="palatine" /]
+[img src="https://business.livingx.world/images/logo/administration/banque/palatine.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="palatine" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
