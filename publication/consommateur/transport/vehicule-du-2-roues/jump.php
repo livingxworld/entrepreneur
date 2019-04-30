@@ -4,7 +4,7 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Participez à une course en quelques minutes ou inscrivez-vous pour devenir pilote et augmentez vos revenus en fonction de votre emploi du temps. Uber vous offre des moyens plus efficaces de bouger, de travailler et de réussir.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		L'auteur ne contient pas de vidéo.
@@ -112,7 +112,7 @@ dévérouillage:1€
 		"url": "https://www.uber.com",
 		"logo": "https://business.livingx.world/images/logo/transport/vehicule-du-2-roues/jump.png",
 		
-		
+		"description": "Participez à une course en quelques minutes ou inscrivez-vous pour devenir pilote et augmentez vos revenus en fonction de votre emploi du temps. Uber vous offre des moyens plus efficaces de bouger, de travailler et de réussir."
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card, paypal",
 		"priceRange": "€"
