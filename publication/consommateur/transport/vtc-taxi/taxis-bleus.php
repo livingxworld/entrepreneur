@@ -1,302 +1,33 @@
-
+<p>[img src="https://business.livingx.world/images/taxis-bleus.jpg" alt="taxis-bleus" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
-[h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
-[begins tags="div" class="row" /]
-	[begins tags="div" class="col col-12 col-md-4" /]
-		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-
-
-[h2 class="text-center"][begins tags="strong" /]Information[ends tags="strong" /] [/h2]
-[begins tags="div" class="row" /]
-	[begins tags="div" class="col col-12 col-md-4" /]
-		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Site internet[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
-		[h3]Horaires[/h3] [br /]
-		[begins tags="ul" /]
-			[begins tags="li" /]Lundi à Vendredi: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Samedi: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Dimanche: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Jour férié: xxhxx - xxhxx[ends tags="li" /]
-		[ends tags="ul" /]	
-		[h3]Transport[/h3] [br /]
-		[begins tags="ul" /]
-			[begins tags="li" /][fa name="bus" zoom="2x" /]  --[ends tags="li" /]
-			[begins tags="li" /][fa name="subway" zoom="2x" /]  --[ends tags="li" /]
-			[begins tags="li" /][fa name="train" zoom="2x" /]  --[ends tags="li" /]
-			[begins tags="li" /][fa name="car" zoom="2x" /]  --[ends tags="li" /]
-		[ends tags="ul" /]	
-		[h3]Autres[/h3] [br /]
-		[begins tags="ul" /]
-			[begins tags="li" /][fa name="wheelchair" zoom="2x" /] [fa name="blind" zoom="2x" /] [fa name="deaf" zoom="2x" /] [fa name="sign-language" zoom="2x" /][ends tags="li" /]
-			[begins tags="li" /][fa name="broadcast-tower" zoom="2x" /] --[ends tags="li" /]
-			[begins tags="li" /][fa name="wifi" zoom="2x" /] --[ends tags="li" /]
-			[begins tags="li" /][fa name="money-bill" zoom="2x" /] --[ends tags="li" /]
-		[ends tags="ul" /]	
-		[h3]Ces logiciels et Apps[/h3]
-		[begins tags="ul" /]
-			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="apple" zoom="2x" /] Apple[/a][ends tags="li" /]
-			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="windows" zoom="2x" /] Microsoft[/a][ends tags="li" /]
-			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="android" zoom="2x" /] Android[/a][ends tags="li" /]
-			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="linux" zoom="2x" /] Linux[/a][ends tags="li" /]
-		[ends tags="ul" /]	
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-8" /]
-		[h3]La carte[/h3]
-		[gmaps url="" /]
-		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
-		
-	[ends tags="div" /]	
-[ends tags="div" /]
-
-	
-[h2 class="text-center"][begins tags="strong" /]Scanner automatique[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-12" /]
-		[h3]Priotitaire du site[/h3]
-		[whois-domains url="" /] 
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-12" /]
-		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
-		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-
-[none]
-[h2 class="text-center"][begins tags="strong" /]Ces photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
-
-
-[h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
-[begins tags="div" class="row" /]
-	[begins tags="div" class="col col-12 col-md-6" /]	
-		[h4 class="text-center"]Particulier[/h4]
-		[begins tags="div" class="table-responsive" /] 
-			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
-				[begins tags="thead" /] 
-					[begins tags="tr" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-					[ends tags="tr" /] 
-				[ends tags="thead" /] 
-				[begins tags="tbody" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-					[ends tags="tr" /]
-					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-					[ends tags="tr" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a] [ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-					[ends tags="tr" /]
-				[ends tags="tbody" /] 
-			[ends tags="table" /] 
-		[ends tags="div" /]	
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-6" /]		
-		[h4 class="text-center"]Société[/h4]
-		[begins tags="div" class="table-responsive" /] 
-			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
-				[begins tags="thead" /] 
-					[begins tags="tr" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-					[ends tags="tr" /] 
-				[ends tags="thead" /] 
-				[begins tags="tbody" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-					[ends tags="tr" /]
-					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-					[ends tags="tr" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a] [ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-					[ends tags="tr" /]
-				[ends tags="tbody" /] 
-			[ends tags="table" /] 
-		[ends tags="div" /]	
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[begins tags="div" class="row" /]
-	[begins tags="div" class="col col-12 col-md-6" /]	
-		[h4 class="text-center"]Micro-Entrepreneur[/h4]
-		[begins tags="div" class="table-responsive" /] 
-			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
-				[begins tags="thead" /] 
-					[begins tags="tr" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-					[ends tags="tr" /] 
-				[ends tags="thead" /] 
-				[begins tags="tbody" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-					[ends tags="tr" /]
-					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-					[ends tags="tr" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a] [ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-					[ends tags="tr" /]
-				[ends tags="tbody" /] 
-			[ends tags="table" /] 
-		[ends tags="div" /]	
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-6" /]		
-		[h4 class="text-center"]Association[/h4]
-		[begins tags="div" class="table-responsive" /] 
-			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
-				[begins tags="thead" /] 
-					[begins tags="tr" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-						[begins tags="th" /][ends tags="th" /] 
-					[ends tags="tr" /] 
-				[ends tags="thead" /] 
-				[begins tags="tbody" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-						[begins tags="td" /]--[ends tags="td" /] 
-					[ends tags="tr" /]
-					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-					[ends tags="tr" /] 
-					[begins tags="tr" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a] [ends tags="td" /] 
-						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
-					[ends tags="tr" /]
-				[ends tags="tbody" /] 
-			[ends tags="table" /] 
-		[ends tags="div" /]	
-	[ends tags="div" /]	
-[ends tags="div" /]	
-
-[h2 class="text-center"][begins tags="strong" /]Note et avis avec exigence[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-6" /]
-		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge parent="transport" category="taxi-vtc" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
-			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]advice final[/h5]
-			[ends tags="div" /]	
-		[ends tags="div" /]		
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-6" /]
-		[h3]Contrôle indépendant[/h3]
-		[begins tags="blockquote" /] 
-			[begins tags="dl" /] 
-				[begins tags="dt" /]Services chez le client[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
-			[ends tags="dl" /] 
-			[begins tags="dl" /] 
-				[begins tags="dt" /]Ambiance d'équipe[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
-			[ends tags="dl" /] 
-			[begins tags="dl" /] 
-				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
-			[ends tags="dl" /] 
-			[begins tags="dl" /] 
-				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
-			[ends tags="dl" /] 
-			[begins tags="dl" /] 
-				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
-			[ends tags="dl" /] 
-		[ends tags="blockquote" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[h2 class="text-center"][begins tags="strong" /]Faire connaître[ends tags="strong" /] [/h2]
-	[begins tags="div" class="row" /] 
-		[begins tags="div" class="col-md-12 center-block text-center" /]
-			[div class="addthis_inline_share_toolbox" /] 
-		[ends tags="div" /] 
-	[ends tags="div" /]
- [br /] [br /]
-[h6]A vous de donner votre opignon: selon ses services clientèles, ses proposition, qualité de la prestation et encore plus.[/h6]
-
-
-[begins tags='script' more='type="application/ld+json"' /] 
-	{
-		"@context": "http://www.schema.org",
-		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingx.world/images/logo/",
-		"telephone": "+33100000000",
-		"description": "description",
-		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
-		"priceRange": "€€",
-		"address": {
-			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
-		},
-		"hasMap": "url-map",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		]
-	}
-[ends tags='script' /]
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
+<p><strong>Description:</strong> Réservation de taxi en immédiat ou à l'avance. Cliquez ici ou appelez le 3609 ! Nos services sont disponibles à Paris et partout en France, 24h/24, 7j/7 !</p>
+<p>[youtube source="HPJXziVbZL4" /] [begins tags="div" class="row text-center" /] [begins tags="div" class="col-md-12" /] [h3]Ces logiciels et Apps[/h3]</p>
+<p>Apple Store [a href="https://itunes.apple.com/fr/app/taxis-bleus-commandez-gratuitement/id388634910?mt=8" target="_blank"][fa name="apple" zoom="2x" /][/a] Windows Store [a href="https://www.microsoft.com/fr-fr/store/apps/taxisbleus/9nblggh090p3" target="_blank"][fa name="windows" zoom="2x" /][/a] Google Play [a href="https://play.google.com/store/apps/details?id=fr.airweb.lestaxisbleus" target="_blank"][fa name="android" zoom="2x" /][/a]</p>
+<p>[ends tags="div" /] [ends tags="div" /]</p>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Information</strong></span></h2>
+<p> </p>
+<p>[begins tags="div" class="row" /] [begins tags="div" class="col-xs-12 col-md-4" /] [h3]Coordonné[/h3] [fa name="external-link" zoom="2x" /] [a href="//taxis-bleus.com" target="_blank"]Site internet[/a] [br /] [fa name="map-marker" zoom="2x" /] 1 RUE HENRI POINCARE 93270 SEVRAN FRANCE [br /] [fa name="phone" zoom="2x" /] [a href="tel:3609"]3609[/a] [br /] SIREN [a href="https://www.societe.com/societe/allo-taxi-712003334.html"]712 003 334[/a] [br /] [h3]Horaires[/h3] [br /]</p>
+<ul>
+<li>24h sur 7 jours</li>
+</ul>
+<p>[h3]Transport[/h3] [br /]</p>
+<ul>
+<li>Véhicule</li>
+</ul>
+<p>[ends tags="div" /] [begins tags="div" class="col-xs-12 col-md-8" /] [h3]La carte[/h3] [mapbox-custom parent="transport" category="vtc" entreprise="taxis-bleus" /] [ends tags="div" /] [ends tags="div" /]</p>
+<p> </p>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Scanner automatique</strong></span></h2>
+<p> </p>
+<p>[begins tags="div" class="row text-center" /] [begins tags="div" class="col-xs-12 col-md-12" /] [h3]Priotitaire du site[/h3] [whois-domains url="taxis-bleus.com" /] [ends tags="div" /] [begins tags="div" class="col-xs-12 col-md-12" /] [h3]HTTPS: SSL/TLS[/h3] [ssllabs domains="taxis-bleus.com" /] [h3]Vos données sont:[/h3] [api-myipms query="taxis-bleus.com" /] [ends tags="div" /] [ends tags="div" /]</p>
+<p> </p>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
+<p> </p>
+<p>tarifs fixe non indiqué</p>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note et avis avec exigence</strong></span></h2>
+<p> </p>
+<p>[begins tags="div" class="row text-center" /] [begins tags="div" class="col-xs-12 col-md-6" /] [h3]Badge[/h3] [lxw-badge showembed="yes" /] [begins tags="dl" class="dl-horizontal" /] [begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] [begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] [ends tags="dl" /] [begins tags="dl" class="dl-horizontal" /] [begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] [begins tags="dd" /] GeoTrust Extended Validation SHA256 SSL CA : F (non sécurisé doit faire mieux A+) | à corriger DROWN, RC4 cipher et Forward Secrecy[ends tags="dd" /] [ends tags="dl" /] [ends tags="div" /] [begins tags="div" class="col-xs-12 col-md-6" /] [h3]Contrôle indépendant[/h3] [begins tags="blockquote" /] [begins tags="dl" class="dl-horizontal" /] [begins tags="dt" /]Services chez le client[ends tags="dt" /] [begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] [ends tags="dl" /] [begins tags="dl" class="dl-horizontal" /] [begins tags="dt" /]Ambiance d'équipe[ends tags="dt" /] [begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] [ends tags="dl" /] [begins tags="dl" class="dl-horizontal" /] [begins tags="dt" /]Réglementation web[ends tags="dt" /] [begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] [ends tags="dl" /] [ends tags="blockquote" /] [ends tags="div" /] [ends tags="div" /]</p>
+<p> </p>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Faire connaître</strong></span></h2>
+<p> </p>
+<p>[begins tags="div" class="row" /] [begins tags="div" class="col-md-12 center-block text-center" /] [div class="addthis_inline_share_toolbox" /] [ends tags="div" /] [ends tags="div" /] [br /] [br /] A vous de donner votre opignon: selon ses services clientèles, ses proposition, qualité de la prestation et encore plus. [begins tags='script' more='type="application/ld+json"' /] { "@context": "http://www.schema.org", "@type": "LocalBusiness", "name": "taxis-bleus", "url": "https://taxis-bleus.com", "logo": "https://business.livingx.world/images/taxis-bleus.jpg", "telephone": "3609", "description": "Réservation de taxi en immédiat ou à l'avance. Cliquez ici ou appelez le 3609 ! Nos services sont disponibles à Paris et partout en France, 24h/24, 7j/7 !", "currenciesAccepted": "EUR", "paymentAccepted": "card", "priceRange": "€", "address": { "@type": "PostalAddress", "streetAddress": "1 RUE HENRI POINCARE", "addressLocality": "SEVRAN", "postalCode": "93270", "addressCountry": "FRANCE" }, "hasMap": "https://www.google.fr/maps/place/1+Rue+Henri+Poincar%C3%A9,+93270+Sevran/@48.9477798,2.5272466,17z/data=!3m1!4b1!4m5!3m4!1s0x47e6146c7c7c57b3:0x6285c2838f3d6106!8m2!3d48.9477798!4d2.5294353", "review": { "@type": "Review", "author": "Alexon Balangue", "dateCreated": "2014-06-12", "datePublished": "2014-06-12", "dateModified": "2017-08-25", "inLanguage": "french", "name": "taxis-bleus", "reviewBody": "", "reviewRating": { "@type": "Rating", "bestRating": "5", "ratingValue": "1", "worstRating": "1" }, "CopyrightHolder": "LivingxWorld", "creator": "Alexon Balangue" } } [ends tags="script" /]</p>

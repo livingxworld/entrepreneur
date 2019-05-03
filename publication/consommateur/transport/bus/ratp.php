@@ -20,7 +20,7 @@
 <li>tramway</li>
 <li>RER</li>
 </ul>
-<p>[ends tags="div" /] [begins tags="div" class="col-xs-12 col-md-8" /] [h3]La carte[/h3] [mapbox-custom parent="transport" category="train" entreprise="ratp" /] [ends tags="div" /] [ends tags="div" /]</p>
+<p>[ends tags="div" /] [begins tags="div" class="col-xs-12 col-md-8" /] [h3]La carte[/h3] [mapbox-custom parent="transport" category="bus" entreprise="ratp" /] [ends tags="div" /] [ends tags="div" /]</p>
 <p> </p>
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Scanner automatique</strong></span></h2>
 <p> </p>
@@ -28,7 +28,7 @@
 <p> </p>
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
 <p> </p>
-<p>[begins tags="div" class="table-responsive" /] [begins tags="table" class="table table-bordered" /] [begins tags="thead" /] [begins tags="tr" /] [begins tags="th" /]avec correspondance[ends tags="th" /] [begins tags="th" /]illimité[ends tags="th" /] [ends tags="tr" /] [ends tags="thead" /] [begins tags="tbody" /] [begins tags="tr" /] [begins tags="td" /]€1.90/trajet (Paris zone 1) [ends tags="td" /] [begins tags="td" /]à partir de €7.50/jour (Paris zone 1-2) [ends tags="td" /] [ends tags="tr" /] [ends tags="tbody" /] [ends tags="table" /] [ends tags="div" /]</p>
+<p>[begins tags="div" class="table-responsive" /] [begins tags="table" class="table table-bordered" /] [begins tags="thead" /] [begins tags="tr" /] [begins tags="th" /]sans correspondance[ends tags="th" /] [ends tags="tr" /] [ends tags="thead" /] [begins tags="tbody" /] [begins tags="tr" /] [begins tags="td" /]€2/trajet [ends tags="td" /] [ends tags="tr" /] [ends tags="tbody" /] [ends tags="table" /] [ends tags="div" /]</p>
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note et avis avec exigence</strong></span></h2>
 <p> </p>
 <p>[begins tags="div" class="row text-center" /] [begins tags="div" class="col-xs-12 col-md-6" /] [h3]Badge[/h3] [lxw-badge showembed="yes" /] [begins tags="dl" class="dl-horizontal" /] [begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] [begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] [ends tags="dl" /] [begins tags="dl" class="dl-horizontal" /] [begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] [begins tags="dd" /] impossible de scanner[ends tags="dd" /] [ends tags="dl" /] [ends tags="div" /] [begins tags="div" class="col-xs-12 col-md-6" /] [h3]Contrôle indépendant[/h3] [begins tags="blockquote" /] [begins tags="dl" class="dl-horizontal" /] [begins tags="dt" /]Services chez le client[ends tags="dt" /] [begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] [ends tags="dl" /] [begins tags="dl" class="dl-horizontal" /] [begins tags="dt" /]Ambiance d'équipe[ends tags="dt" /] [begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] [ends tags="dl" /] [begins tags="dl" class="dl-horizontal" /] [begins tags="dt" /]Réglementation web[ends tags="dt" /] [begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] [ends tags="dl" /] [ends tags="blockquote" /] [ends tags="div" /] [ends tags="div" /]</p>

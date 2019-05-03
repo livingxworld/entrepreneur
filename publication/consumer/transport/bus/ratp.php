@@ -20,7 +20,7 @@
 <li>tramway</li>
 <li>RER</li>
 </ul>
-<p>[ends tags="div" /] [begins tags="div" class="col-xs-12 col-md-8" /] [h3]La carte[/h3] [mapbox-custom parent="transport" category="train" entreprise="ratp" /] [ends tags="div" /] [ends tags="div" /]</p>
+<p>[ends tags="div" /] [begins tags="div" class="col-xs-12 col-md-8" /] [h3]La carte[/h3] [mapbox-custom parent="transport" category="bus" entreprise="ratp" /] [ends tags="div" /] [ends tags="div" /]</p>
 <p> </p>
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Automatic scanner</strong></span></h2>
 <p> </p>
@@ -28,7 +28,7 @@
 <p> </p>
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>The Prices Proposed in Taxe (without promotion)</strong></span></h2>
 <p> </p>
-<p>[begins tags="div" class="table-responsive" /] [begins tags="table" class="table table-bordered" /] [begins tags="thead" /] [begins tags="tr" /] [begins tags="th" /]avec correspondance[ends tags="th" /] [begins tags="th" /]illimité[ends tags="th" /] [ends tags="tr" /] [ends tags="thead" /] [begins tags="tbody" /] [begins tags="tr" /] [begins tags="td" /]€1.90/traject (Paris zone 1) [ends tags="td" /] [begins tags="td" /]start from €7.50/day (Paris zone 1-2) [ends tags="td" /] [ends tags="tr" /] [ends tags="tbody" /] [ends tags="table" /] [ends tags="div" /]</p>
+<p>[begins tags="div" class="table-responsive" /] [begins tags="table" class="table table-bordered" /] [begins tags="thead" /] [begins tags="tr" /] [begins tags="th" /]sans correspondance[ends tags="th" /] [ends tags="tr" /] [ends tags="thead" /] [begins tags="tbody" /] [begins tags="tr" /] [begins tags="td" /]€2/traject [ends tags="td" /] [ends tags="tr" /] [ends tags="tbody" /] [ends tags="table" /] [ends tags="div" /]</p>
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note and advice with requirement</strong></span></h2>
 <p> </p>
 <p>[begins tags="div" class="row text-center" /] [begins tags="div" class="col-xs-12 col-md-6" /] [h3]Badge[/h3] [lxw-badge showembed="yes" /] [begins tags="dl" class="dl-horizontal" /] [begins tags="dt" /]Tester reviews (by Administrateur)[ends tags="dt" /] [begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] [ends tags="dl" /] [begins tags="dl" class="dl-horizontal" /] [begins tags="dt" /]Web security test[ends tags="dt" /] [begins tags="dd" /] impossible to scan[ends tags="dd" /] [ends tags="dl" /] [ends tags="div" /] [begins tags="div" class="col-xs-12 col-md-6" /] [h3]Independent control[/h3] [begins tags="blockquote" /] [begins tags="dl" class="dl-horizontal" /] [begins tags="dt" /]Customer services[ends tags="dt" /] [begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] [ends tags="dl" /] [begins tags="dl" class="dl-horizontal" /] [begins tags="dt" /]Team atmosphere[ends tags="dt" /] [begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] [ends tags="dl" /] [begins tags="dl" class="dl-horizontal" /] [begins tags="dt" /]Web Regulations[ends tags="dt" /] [begins tags="dd" /][fa name="check" /] complete[ends tags="dd" /] [ends tags="dl" /] [ends tags="blockquote" /] [ends tags="div" /] [ends tags="div" /]</p>
