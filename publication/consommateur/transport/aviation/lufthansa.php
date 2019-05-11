@@ -1,4 +1,4 @@
-[img src="https://business.livingx.world/images/logo/transport/aviation/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingx.world/images/logo/transport/aviation/lufthansa.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="lufthansa" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -16,10 +16,10 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://lufthansa.com" target="_blank" rel="dofollow"]Site internet[/a] [br /]
 		[fa name="map-marker-alt" zoom="2x" /] --[br /]
-		[fa name="phone" zoom="2x" /] [a href="#" rel="nofollow"]--[/a] [br /]
-		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]		
+		[fa name="phone" zoom="2x" /] [a href="tel:+49696960" rel="nofollow"]+49 - 69 - 69 60[/a] [br /]
+		SIRET/VAT [a href="#" rel="nofollow"] 122 652 565[/a] [br /]		
 		[h3]Ces logiciels et Apps[/h3]
 		[begins tags="ul" /]
 			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="apple" zoom="2x" /] Apple[/a][ends tags="li" /]
@@ -41,13 +41,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="lufthansa.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="lufthansa.com" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
+		[api-myipms query="lufthansa.com" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -77,7 +77,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] conforme[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
@@ -85,7 +85,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /]DigiCert SHA2 Secure Server CA : A[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -104,9 +104,9 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingx.world/images/logo/transport/aviation/",
+		"name": "lufthansa",
+		"url": "https://lufthansa.com",
+		"logo": "https://business.livingx.world/images/logo/transport/aviation/lufthansa.png",
 		"description": "description",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",

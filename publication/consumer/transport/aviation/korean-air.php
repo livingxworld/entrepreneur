@@ -1,4 +1,4 @@
-[img src="https://business.livingx.world/images/logo/transport/aviation/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingx.world/images/logo/transport/aviation/korean-air.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="korean air" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -16,7 +16,7 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Website[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://koreanair.com" target="_blank" rel="dofollow"]Website[/a] [br /]
 		[fa name="map-marker-alt" zoom="2x" /] --[br /]
 		[fa name="phone" zoom="2x" /] [a href="#" rel="nofollow"]--[/a] [br /]
 		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]	
@@ -41,13 +41,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="koreanair.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="koreanair.com" /]
 		[h3]Your data are[/h3]
-		[api-myipms query="" /]	
+		[api-myipms query="koreanair.com" /]	
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -77,7 +77,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] conform[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Tester reviews[ends tags="dt" /] 
@@ -85,7 +85,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] COMODO RSA Organization Validation Secure Server CA : A Zombie POODLE[ends tags="dd" /] 
 			[ends tags="dl" /]
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -106,9 +106,9 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingx.world/images/logo/transport/aviation/",
+		"name": "korean air",
+		"url": "https://koreanair.com",
+		"logo": "https://business.livingx.world/images/logo/transport/aviation/korean-air.png",
 		"description": "description",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",

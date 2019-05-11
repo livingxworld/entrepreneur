@@ -1,10 +1,10 @@
-[img src="https://business.livingx.world/images/logo/transport/aviation/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingx.world/images/logo/transport/aviation/royal-jet.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="royal jet" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Royal Jet est un prestataire international de services de vol de luxe primé basé à Abou Dhabi, capitale des Émirats arabes unis (EAU).
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[youtube source="" /]
@@ -16,7 +16,7 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://royaljetgroup.com" target="_blank" rel="dofollow"]Site internet[/a] [br /]
 		[fa name="map-marker-alt" zoom="2x" /] --[br /]
 		[fa name="phone" zoom="2x" /] [a href="#" rel="nofollow"]--[/a] [br /]
 		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]		
@@ -41,13 +41,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="royaljetgroup.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="royaljetgroup.com" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
+		[api-myipms query="royaljetgroup.com" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -77,7 +77,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] conforme[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
@@ -85,7 +85,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /]aucun ssl/tls[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -104,10 +104,10 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingx.world/images/logo/transport/aviation/",
-		"description": "description",
+		"name": "royal jet",
+		"url": "https://royaljetgroup.com",
+		"logo": "https://business.livingx.world/images/logo/transport/aviation/royal-jet.png",
+		"description": "Royal Jet est un prestataire international de services de vol de luxe primé basé à Abou Dhabi, capitale des Émirats arabes unis (EAU).",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
 		"priceRange": "€€€"

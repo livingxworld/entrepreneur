@@ -1,10 +1,10 @@
-[img src="https://business.livingx.world/images/logo/transport/aviation/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingx.world/images/logo/transport/aviation/heli-dubai.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="heli dubai" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Helidubai.com is a premier helicopter service provider in UAE who offers tours, corporate ad VIP transfers. We also provide private helicopter air charter, aerial filming and photography.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[youtube source="" /]
@@ -16,7 +16,7 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Website[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://helidubai.com" target="_blank" rel="dofollow"]Website[/a] [br /]
 		[fa name="map-marker-alt" zoom="2x" /] --[br /]
 		[fa name="phone" zoom="2x" /] [a href="#" rel="nofollow"]--[/a] [br /]
 		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]	
@@ -41,13 +41,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="helidubai.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="helidubai.com" /]
 		[h3]Your data are[/h3]
-		[api-myipms query="" /]	
+		[api-myipms query="helidubai.com" /]	
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -77,7 +77,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] not conform[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Tester reviews[ends tags="dt" /] 
@@ -85,7 +85,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] nothing ssl/tls[ends tags="dd" /] 
 			[ends tags="dl" /]
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -106,10 +106,10 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingx.world/images/logo/transport/aviation/",
-		"description": "description",
+		"name": "heli dubai",
+		"url": "https://helidubai.com",
+		"logo": "https://business.livingx.world/images/logo/transport/aviation/heli-dubai.png",
+		"description": "Helidubai.com is a premier helicopter service provider in UAE who offers tours, corporate ad VIP transfers. We also provide private helicopter air charter, aerial filming and photography.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
 		"priceRange": "€€€"
