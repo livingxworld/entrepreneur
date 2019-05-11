@@ -7,7 +7,7 @@
 		
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="uqt9Pc4ef00" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -107,7 +107,7 @@
 		"name": "la compagnie",
 		"url": "https://lacompagnie.com",
 		"logo": "https://business.livingx.world/images/logo/transport/aviation/la-compagnie.jpg",
-		"description": "description",
+		
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
 		"priceRange": "€€€"

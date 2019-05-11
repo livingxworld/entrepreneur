@@ -7,7 +7,7 @@
 		ExecuJet is a private aviation jet company offering a diverse range of quality and safe services worldwide. Learn more about our exclusive fleet today.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

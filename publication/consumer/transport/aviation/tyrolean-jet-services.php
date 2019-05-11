@@ -7,7 +7,7 @@
 		For more than 30 years TJS as Austria´s first Executive Air Operator have been providing Business Jet Services to valuable clients on the worldwide Executive Air Charter Market and to the SWAROVSKI Corporate Flight Department.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

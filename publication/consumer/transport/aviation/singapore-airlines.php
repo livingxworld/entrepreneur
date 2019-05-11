@@ -7,7 +7,7 @@
 		
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="6ZOWrb39xLo" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -109,7 +109,7 @@
 		"name": "singapore airlines",
 		"url": "https://singaporeair.com",
 		"logo": "https://business.livingx.world/images/logo/transport/aviation/singapore-airlines.png",
-		"description": "description",
+		
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
 		"priceRange": "€€€"

@@ -7,7 +7,7 @@
 		Aerovista propose des solutions ACMI, de location à sec, de vente d’aéronefs, de location d’aéronefs, de solutions de gestion des aéronefs, adaptées aux besoins spécifiques de chaque client. Il dessert les marchés émergents.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="srF8B-PkvcA" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

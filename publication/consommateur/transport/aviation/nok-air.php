@@ -7,7 +7,7 @@
 		
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="8BILXeyRKQY" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -107,7 +107,7 @@
 		"name": "nok air",
 		"url": "https://nokair.com",
 		"logo": "https://business.livingx.world/images/logo/transport/aviation/nok-air.jpg",
-		"description": "description",
+		
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
 		"priceRange": "€€€"

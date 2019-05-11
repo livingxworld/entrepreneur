@@ -7,7 +7,7 @@
 		
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="2S6H2y0sHgI" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -107,7 +107,7 @@
 		"name": "lufthansa",
 		"url": "https://lufthansa.com",
 		"logo": "https://business.livingx.world/images/logo/transport/aviation/lufthansa.png",
-		"description": "description",
+		
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
 		"priceRange": "€€€"

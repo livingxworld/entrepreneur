@@ -7,7 +7,7 @@
 		Seaplanes have the unique ability to land on water, opening up a vast network of routes that provide convenient point to point transfers in the UAE.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

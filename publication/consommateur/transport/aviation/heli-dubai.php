@@ -7,7 +7,7 @@
 		Helidubai.com est un fournisseur de services d'hélicoptères de premier plan aux EAU proposant des circuits, des transferts d'entreprise et des transferts VIP. Nous fournissons également des vols nolisés, des prises de vues aériennes et des photographies pour les hélicoptères privés.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		L'auteur ne contient pas de vidéo
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

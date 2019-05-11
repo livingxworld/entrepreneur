@@ -7,7 +7,7 @@
 		Tarif préférentiel. Réservez vos billets aujourd'hui pour profiter des offres! Skytrax - compagnie aérienne 4 étoiles. Site officiel de Vietnam Airlines. Recevez des milles de récompense avec le programme de fidélisation Lotusmile.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="hnkpTX-pmno" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

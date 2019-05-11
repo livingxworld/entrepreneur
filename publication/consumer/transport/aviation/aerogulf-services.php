@@ -7,7 +7,7 @@
 		Looking For The Best Helicopter Services in the UAE? - AeroGulf Offers Exclusive Flight Operations, Engineering and Training Services. Book a Heli-Tour!
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="CiKcjYZjJKI" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

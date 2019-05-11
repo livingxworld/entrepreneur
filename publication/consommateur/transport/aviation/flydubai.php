@@ -7,7 +7,7 @@
 		Flydubai Vols - Réservez vos billets de vol en ligne avec flydubai et profitez des billets au meilleur prix pour votre prochain voyage. Explorez les services en vol de classe mondiale et les offres de vol exclusives &amp; traite avec flydubai.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="HJRJLGgdKPA" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

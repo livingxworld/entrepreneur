@@ -7,7 +7,7 @@
 		Book your plane ticket at the best price for the most beautiful destinations with Cathay Pacific.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="KHHzmT7JZY0" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

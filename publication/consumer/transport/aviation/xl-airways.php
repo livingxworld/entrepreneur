@@ -7,7 +7,7 @@
 		Discover our flights and promotions - Book your ticket online - Destinations: New York, Los Angeles, Miami, San Francisco, Reunion, Cancun, Cuba, Dominican Republic ...
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

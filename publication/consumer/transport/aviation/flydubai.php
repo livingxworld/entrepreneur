@@ -7,7 +7,7 @@
 		flydubai Flights - Book your flight tickets online with flydubai and avail best-priced flight tickets for your next trip. Explore the world-class inflight services and exclusive flight offers &amp; deals with flydubai.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="HJRJLGgdKPA" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

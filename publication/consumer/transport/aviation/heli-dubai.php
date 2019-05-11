@@ -7,7 +7,7 @@
 		Helidubai.com is a premier helicopter service provider in UAE who offers tours, corporate ad VIP transfers. We also provide private helicopter air charter, aerial filming and photography.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

@@ -7,7 +7,7 @@
 		The Emirates Flying Search allows you to find plane tickets at the best price for your next trip. Choose Emirates Airline to benefit from world-class service on all flights. - Emirates
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="gVW-6E3hf8w" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

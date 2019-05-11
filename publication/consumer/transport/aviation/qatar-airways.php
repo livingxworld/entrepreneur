@@ -7,7 +7,7 @@
 		Fly to more than 160 destinations around the world. Book a flight online and take advantage of our exclusive rates from Paris and Nice.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="IZA7cclhFmI" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

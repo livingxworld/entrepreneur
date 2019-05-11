@@ -7,7 +7,7 @@
 		Les hydravions ont la capacité unique d'atterrir sur l'eau, ouvrant ainsi un vaste réseau de routes offrant des correspondances pratiques entre les Émirats arabes unis.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		L'auteur ne contient pas de vidéo
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

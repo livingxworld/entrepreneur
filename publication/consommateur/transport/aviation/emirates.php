@@ -7,7 +7,7 @@
 		La recherche de vol d&#x27;Emirates vous permet de trouver les billets d&#x27;avion au meilleur prix pour votre prochain voyage. Choisissez Emirates Airline pour bénéficier d&#x27;un service de renommée mondiale sur tous les vols. - Emirates
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="gVW-6E3hf8w" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

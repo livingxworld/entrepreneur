@@ -7,7 +7,7 @@
 		Depuis plus de 30 ans, TJS, en tant que premier exploitant aérien exécutif en Autriche, fournit des services de Business Jet à de précieux clients sur le marché mondial de la location d’aéronefs pour cadres et au service des vols commerciaux de SWAROVSKI.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		L'auteur ne contient pas de vidéo
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

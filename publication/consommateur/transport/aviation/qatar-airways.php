@@ -7,7 +7,7 @@
 		Envolez-vous vers plus de 160 destinations à travers le monde. Réservez un vol en ligne et profitez de nos tarifs exclusifs au départ de Paris et Nice.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="IZA7cclhFmI" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

@@ -7,7 +7,7 @@
 		Royal Jet is an award-winning international luxury flight services provider headquartered in Abu Dhabi, the capital of the United Arab Emirates (UAE).
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

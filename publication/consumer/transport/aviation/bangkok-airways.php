@@ -7,7 +7,7 @@
 		For Domestic or International routes you choose to fly with us, Bangkok Airways delivers only the best and full services. From boutique lounges waiting for flight, free of seat selection and in-flight meal category request, passenger will also receive 20 kg of baggage allowance. Destination: Samui, Phuket, Chiang Mai, Krabi, Trat and Bangkok.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="2OlF5MVogo0" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

@@ -7,7 +7,7 @@
 		Pour les vols nationaux ou internationaux sur lesquels vous choisissez de voler avec nous, Bangkok Airways ne fournit que les meilleurs services. Dans les salons boutique en attente de vol, sans sélection de siège ni demande de catégorie de repas en vol, le passager recevra également 20 kg de franchise de bagages. Destination: Samui, Phuket, Chiang Mai, Krabi, Trat et Bangkok.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="2OlF5MVogo0" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

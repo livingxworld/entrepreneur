@@ -7,7 +7,7 @@
 		
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -109,7 +109,7 @@
 		"name": "ocen pacific airlines",
 		"url": "https://oceanpacificair.ca",
 		"logo": "https://business.livingx.world/images/logo/transport/aviation/ocen-pacific-airlines.png",
-		"description": "description",
+		
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
 		"priceRange": "€€€"

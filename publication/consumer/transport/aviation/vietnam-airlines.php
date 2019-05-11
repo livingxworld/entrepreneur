@@ -7,7 +7,7 @@
 		Preferential fare. Book your tickets today to enjoy deals! Skytrax - 4-star airline. Official website of Vietnam Airlines. Receive reward miles with Lotusmile frequent flyer program.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="hnkpTX-pmno" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
