@@ -1,10 +1,10 @@
-[img src="https://business.livingx.world/images/logo/loisirs/remuneration/yougov.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="yougov" /]
+[img src="https://business.livingx.world/images/logo/loisirs/remuneration/cryptotab.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="cryptotab" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Try the new CryptoTab browser with an integrated mining algorithm and get up to eight times faster than Google Chrome.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 	the author does not contain video
@@ -16,7 +16,7 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://fr.yougov.com/refer/wG5FdL1fbMUJTS1qMaK_A/" target="_blank" rel="dofollow"]Website[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://get.cryptobrowser.site/2015545" target="_blank" rel="dofollow"]Website[/a] [br /]
 		[fa name="map-marker-alt" zoom="2x" /] -- [br /]
 		[fa name="phone" zoom="2x" /] [a href="#" rel="nofollow"]--[/a] [br /]
 		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]
@@ -33,6 +33,7 @@
 		--
 		[h4]Are you interested? [begins tags="small"]Click on the affiliate banner[ends="small" /][/h4] [br /]
 		
+		[iframe src="https://get.cryptobrowser.site/promo/ad/4/2015545/01/" style="width: 300px; height: 250px" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -40,13 +41,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="yougov.com" /] 
+		[whois-domains url="cryptobrowser.site" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="yougov.com" /]
+		[ssllabs domains="cryptobrowser.site" /]
 		[h3]Your data are[/h3]
-		[api-myipms query="yougov.com" /]	
+		[api-myipms query="cryptobrowser.site" /]	
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -76,15 +77,15 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /] conform[ends tags="dd" /] 
+				[begins tags="dd" /]conform[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Tester reviews[ends tags="dt" /] 
-				[begins tags="dd" /] trust[ends tags="dd" /] 
+				[begins tags="dd" /]trust[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] DigiCert SHA2 High Assurance Server CA : A[ends tags="dd" /] 
+				[begins tags="dd" /] impossible to scan[ends tags="dd" /] 
 			[ends tags="dl" /]
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -105,8 +106,9 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "yougov",
-		"url": "https://yougov.com",
-		"logo": "https://business.livingx.world/images/logo/loisirs/remuneration/yougov.png"
+		"name": "cryptotab",
+		"url": "https://cryptobrowser.site",
+		"logo": "https://business.livingx.world/images/logo/loisirs/remuneration/cryptotab.png",
+		"description": "Try the new CryptoTab browser with an integrated mining algorithm and get up to eight times faster than Google Chrome."
 	}
 [ends tags='script' /]
