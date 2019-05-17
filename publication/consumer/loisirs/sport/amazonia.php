@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/loisirs/sport/amazonia.svg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="amazonia" /]
+[img src="https://business.livingx.world/images/logo/loisirs/sport/amazonia.svg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="amazonia" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -27,20 +27,6 @@
 			[begins tags="li" /]Sunday: 6h00 - 23h00[ends tags="li" /]
 			[begins tags="li" /]holidays: --[ends tags="li" /]
 		[ends tags="ul" /]	
-		[h3]Transport[/h3] [br /]
-		[begins tags="ul" /]
-			[begins tags="li" /][fa name="bus" zoom="2x" /]  --[ends tags="li" /]
-			[begins tags="li" /][fa name="subway" zoom="2x" /]  --[ends tags="li" /]
-			[begins tags="li" /][fa name="train" zoom="2x" /]  --[ends tags="li" /]
-			[begins tags="li" /][fa name="car" zoom="2x" /]  --[ends tags="li" /]
-		[ends tags="ul" /]	
-		[h3]Others[/h3] [br /]
-		[begins tags="ul" /]
-			[begins tags="li" /][fa name="wheelchair" zoom="2x" /] [fa name="blind" zoom="2x" /] [fa name="deaf" zoom="2x" /] [fa name="sign-language" zoom="2x" /][ends tags="li" /]
-			[begins tags="li" /][fa name="broadcast-tower" zoom="2x" /] --[ends tags="li" /]
-			[begins tags="li" /][fa name="wifi" zoom="2x" /] --[ends tags="li" /]
-			[begins tags="li" /][fa name="money-bill" zoom="2x" /] --[ends tags="li" /]
-		[ends tags="ul" /]	
 		[h3]These software and Apps[/h3]
 		[begins tags="ul" /]
 			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="apple" zoom="2x" /] Apple[/a][ends tags="li" /]
@@ -56,28 +42,6 @@
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
-
-[none]
-[h2 class="text-center"][begins tags="strong" /]These photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
 
 [h2 class="text-center"][begins tags="strong" /]Automatic scanner[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
@@ -103,7 +67,7 @@ pricing not indicated
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-warning" /]
-			[lxw-badge parent="loisirs" category="sport" entreprise="amazonia" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]doudt[/h5]
 			[ends tags="div" /]	
@@ -153,7 +117,7 @@ pricing not indicated
 		"@type": "LocalBusiness",
 		"name": "amazonia",
 		"url": "https://amazonia.fr",
-		"logo": "https://business.livingxworld.com/images/logo/loisirs/sport/amazonia.svg",
+		"logo": "https://business.livingx.world/images/logo/loisirs/sport/amazonia.svg",
 		"description": "Amazonia ™: fitness club of a new concept accessible to everyone everywhere in France! Get advice and help from a sports manager in one of our many clubs.",
 		"currenciesAccepted": "EUR",
 		"address": {

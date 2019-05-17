@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/loisirs/sport/pointgym.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="pointgym" /]
+[img src="https://business.livingx.world/images/logo/loisirs/sport/pointgym.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="pointgym" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -35,13 +35,6 @@
 			[begins tags="li" /][fa name="train" zoom="2x" /]  Desnouettes[ends tags="li" /]
 			[begins tags="li" /][fa name="car" zoom="2x" /]  --[ends tags="li" /]
 		[ends tags="ul" /]	
-		[h3]Autres[/h3] [br /]
-		[begins tags="ul" /]
-			[begins tags="li" /][fa name="wheelchair" zoom="2x" /] [fa name="blind" zoom="2x" /] [fa name="deaf" zoom="2x" /] [fa name="sign-language" zoom="2x" /][ends tags="li" /]
-			[begins tags="li" /][fa name="broadcast-tower" zoom="2x" /] --[ends tags="li" /]
-			[begins tags="li" /][fa name="wifi" zoom="2x" /] --[ends tags="li" /]
-			[begins tags="li" /][fa name="money-bill" zoom="2x" /] --[ends tags="li" /]
-		[ends tags="ul" /]	
 		[h3]Ces logiciels et Apps[/h3]
 		[begins tags="ul" /]
 			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="apple" zoom="2x" /] Apple[/a][ends tags="li" /]
@@ -72,29 +65,6 @@
 		[api-myipms query="pointgym.fr" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
-
-[none]
-[h2 class="text-center"][begins tags="strong" /]Ces photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
-
 
 [h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -145,7 +115,7 @@
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-warning" /]
-			[lxw-badge parent="loisirs" category="sport" entreprise="pointgym" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]douteux[/h5]
 			[ends tags="div" /]	
@@ -193,7 +163,7 @@
 		"@type": "LocalBusiness",
 		"name": "pointgym",
 		"url": "https://pointgym.fr",
-		"logo": "https://business.livingxworld.com/images/logo/loisirs/sport/pointgym.jpg",
+		"logo": "https://business.livingx.world/images/logo/loisirs/sport/pointgym.jpg",
 		"telephone": "+33145337109",
 		"description": "Une salle de gym convivialeDes cours de gym diversifiés (gym douce,gym posturale,stretching,gym du dos,culture physique,pilates,abdos,yoga,qi gong,danse classique,street jazz,zumba, du coaching  et un espace massage où vous pouvez vous détendre à tout moment de la journée. Notre équipe sera présente pour vous motiver, vous conseiller et mesurer vos progrès.N'attendez plus! procurez vous un Pass Découverte et tester notre Point Gym",
 		"currenciesAccepted": "EUR",

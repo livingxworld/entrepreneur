@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/loisirs/sport/lady-moving.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="lady moving" /]
+[img src="https://business.livingx.world/images/logo/loisirs/sport/lady-moving.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="lady moving" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -26,20 +26,6 @@
 			[begins tags="li" /]Samedi: --[ends tags="li" /]
 			[begins tags="li" /]Dimanche: --[ends tags="li" /]
 			[begins tags="li" /]Jour férié: --[ends tags="li" /]
-		[ends tags="ul" /]	
-		[h3]Transport[/h3] [br /]
-		[begins tags="ul" /]
-			[begins tags="li" /][fa name="bus" zoom="2x" /]  --[ends tags="li" /]
-			[begins tags="li" /][fa name="subway" zoom="2x" /]  --[ends tags="li" /]
-			[begins tags="li" /][fa name="train" zoom="2x" /]  --[ends tags="li" /]
-			[begins tags="li" /][fa name="car" zoom="2x" /]  --[ends tags="li" /]
-		[ends tags="ul" /]	
-		[h3]Autres[/h3] [br /]
-		[begins tags="ul" /]
-			[begins tags="li" /][fa name="wheelchair" zoom="2x" /] [fa name="blind" zoom="2x" /] [fa name="deaf" zoom="2x" /] [fa name="sign-language" zoom="2x" /][ends tags="li" /]
-			[begins tags="li" /][fa name="broadcast-tower" zoom="2x" /] --[ends tags="li" /]
-			[begins tags="li" /][fa name="wifi" zoom="2x" /] --[ends tags="li" /]
-			[begins tags="li" /][fa name="money-bill" zoom="2x" /] --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Ces logiciels et Apps[/h3]
 		[begins tags="ul" /]
@@ -72,28 +58,6 @@
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
-[none]
-[h2 class="text-center"][begins tags="strong" /]Ces photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
-
 
 [h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
 --
@@ -103,7 +67,7 @@
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-warning" /]
-			[lxw-badge parent="loisirs" category="sport" entreprise="lady-moving" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]douteux[/h5]
 			[ends tags="div" /]	
@@ -151,7 +115,7 @@
 		"@type": "LocalBusiness",
 		"name": "lady moving",
 		"url": "https://ladymoving.fr",
-		"logo": "https://business.livingxworld.com/images/logo/loisirs/sport/lady-moving.png",
+		"logo": "https://business.livingx.world/images/logo/loisirs/sport/lady-moving.png",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
 		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d83917.81294807825!2d2.253624166862341!3d48.90716771293152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1slady+moving!5e0!3m2!1sfr!2sfr!4v1537306465500"
