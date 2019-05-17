@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/loisirs/boutique/hachette-collections.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="hachette collections" /]
+[img src="https://business.livingx.world/images/logo/loisirs/boutique/hachette-collections.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="hachette collections" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -27,20 +27,6 @@
 			[begins tags="li" /]Sunday: --[ends tags="li" /]
 			[begins tags="li" /]holidays: --[ends tags="li" /]
 		[ends tags="ul" /]	
-		[h3]Transport[/h3] [br /]
-		[begins tags="ul" /]
-			[begins tags="li" /][fa name="bus" zoom="2x" /]  --[ends tags="li" /]
-			[begins tags="li" /][fa name="subway" zoom="2x" /]  --[ends tags="li" /]
-			[begins tags="li" /][fa name="train" zoom="2x" /]  --[ends tags="li" /]
-			[begins tags="li" /][fa name="car" zoom="2x" /]  --[ends tags="li" /]
-		[ends tags="ul" /]	
-		[h3]Others[/h3] [br /]
-		[begins tags="ul" /]
-			[begins tags="li" /][fa name="wheelchair" zoom="2x" /] [fa name="blind" zoom="2x" /] [fa name="deaf" zoom="2x" /] [fa name="sign-language" zoom="2x" /][ends tags="li" /]
-			[begins tags="li" /][fa name="broadcast-tower" zoom="2x" /] --[ends tags="li" /]
-			[begins tags="li" /][fa name="wifi" zoom="2x" /] --[ends tags="li" /]
-			[begins tags="li" /][fa name="money-bill" zoom="2x" /] --[ends tags="li" /]
-		[ends tags="ul" /]	
 		[h3]These software and Apps[/h3]
 		[begins tags="ul" /]
 			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="apple" zoom="2x" /] Apple[/a][ends tags="li" /]
@@ -57,27 +43,6 @@
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
-[none]
-[h2 class="text-center"][begins tags="strong" /]These photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
 
 [h2 class="text-center"][begins tags="strong" /]Automatic scanner[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
@@ -100,7 +65,7 @@
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-success" /]
-			[lxw-badge parent="loisirs" category="commerce" entreprise="edition-hachette-collection" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]trust[/h5]
 			[ends tags="div" /]	
@@ -150,7 +115,7 @@
 		"@type": "LocalBusiness",
 		"name": "hachette collections",
 		"url": "https://hachette-collections.com",
-		"logo": "https://business.livingxworld.com/images/logo/loisirs/boutique/hachette-collections.jpg",
+		"logo": "https://business.livingx.world/images/logo/loisirs/boutique/hachette-collections.jpg",
 		"telephone": "+33160396514",
 		"description": "Order online exclusive collections of comics, miniature cars, models, hobbies, figurines and personalized books for children.",
 		"currenciesAccepted": "EUR",

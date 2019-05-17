@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/loisirs/boutique/conforama.svg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="conforama" /]
+[img src="https://business.livingx.world/images/logo/loisirs/boutique/conforama.svg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="conforama" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -24,20 +24,6 @@
 		[begins tags="ul" /]
 			[begins tags="li" /]Lundi à Dimanche: 10h00 - 19h00[ends tags="li" /]
 			[begins tags="li" /]Jour férié: --[ends tags="li" /]
-		[ends tags="ul" /]	
-		[h3]Transport[/h3] [br /]
-		[begins tags="ul" /]
-			[begins tags="li" /][fa name="bus" zoom="2x" /]  --[ends tags="li" /]
-			[begins tags="li" /][fa name="subway" zoom="2x" /]  --[ends tags="li" /]
-			[begins tags="li" /][fa name="train" zoom="2x" /]  --[ends tags="li" /]
-			[begins tags="li" /][fa name="car" zoom="2x" /]  --[ends tags="li" /]
-		[ends tags="ul" /]	
-		[h3]Autres[/h3] [br /]
-		[begins tags="ul" /]
-			[begins tags="li" /][fa name="wheelchair" zoom="2x" /] [fa name="blind" zoom="2x" /] [fa name="deaf" zoom="2x" /] [fa name="sign-language" zoom="2x" /][ends tags="li" /]
-			[begins tags="li" /][fa name="broadcast-tower" zoom="2x" /] --[ends tags="li" /]
-			[begins tags="li" /][fa name="wifi" zoom="2x" /] --[ends tags="li" /]
-			[begins tags="li" /][fa name="money-bill" zoom="2x" /] --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Ces logiciels et Apps[/h3]
 		[begins tags="ul" /]
@@ -70,28 +56,6 @@
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
-[none]
-[h2 class="text-center"][begins tags="strong" /]Ces photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
-
 
 
 [h2 class="text-center"][begins tags="strong" /]Note et avis avec exigence[ends tags="strong" /] [/h2]
@@ -99,7 +63,7 @@
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-success" /]
-			[lxw-badge parent="loisirs" category="commerce" entreprise="conforama" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]validé[/h5]
 			[ends tags="div" /]	
@@ -147,7 +111,7 @@
 		"@type": "LocalBusiness",
 		"name": "conforama",
 		"url": "https://conforama.fr",
-		"logo": "https://business.livingxworld.com/images/logo/loisirs/boutique/conforama.svg",
+		"logo": "https://business.livingx.world/images/logo/loisirs/boutique/conforama.svg",
 		"telephone": "+33892010808",
 		"description": "Conforama, achat en ligne de meuble et mobilier, cuisine, articles de décoration, électroménager, image et son, informatique. Tout pour l&#039;équipement et ameublement de la maison à prix discount.",
 		"currenciesAccepted": "EUR",

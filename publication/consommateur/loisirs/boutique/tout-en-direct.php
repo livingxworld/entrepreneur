@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/loisirs/boutique/toutendirect.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="tout en direct" /]
+[img src="https://business.livingx.world/images/logo/loisirs/boutique/toutendirect.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="tout en direct" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -26,20 +26,6 @@
 			[begins tags="li" /]Samedi: --[ends tags="li" /]
 			[begins tags="li" /]Dimanche: --[ends tags="li" /]
 			[begins tags="li" /]Jour férié: --[ends tags="li" /]
-		[ends tags="ul" /]	
-		[h3]Transport[/h3] [br /]
-		[begins tags="ul" /]
-			[begins tags="li" /][fa name="bus" zoom="2x" /]  --[ends tags="li" /]
-			[begins tags="li" /][fa name="subway" zoom="2x" /]  --[ends tags="li" /]
-			[begins tags="li" /][fa name="train" zoom="2x" /]  --[ends tags="li" /]
-			[begins tags="li" /][fa name="car" zoom="2x" /]  --[ends tags="li" /]
-		[ends tags="ul" /]	
-		[h3]Autres[/h3] [br /]
-		[begins tags="ul" /]
-			[begins tags="li" /][fa name="wheelchair" zoom="2x" /] [fa name="blind" zoom="2x" /] [fa name="deaf" zoom="2x" /] [fa name="sign-language" zoom="2x" /][ends tags="li" /]
-			[begins tags="li" /][fa name="broadcast-tower" zoom="2x" /] --[ends tags="li" /]
-			[begins tags="li" /][fa name="wifi" zoom="2x" /] --[ends tags="li" /]
-			[begins tags="li" /][fa name="money-bill" zoom="2x" /] --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Ces logiciels et Apps[/h3]
 		[begins tags="ul" /]
@@ -72,36 +58,12 @@
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
-[none]
-[h2 class="text-center"][begins tags="strong" /]Ces photo[ends tags="strong" /] [/h2]
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
-		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
-	[ends tags="div" /]	
-[ends tags="div" /]	
-[/none]
-
-
-
 [h2 class="text-center"][begins tags="strong" /]Note et avis avec exigence[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[begins tags="div" class="card text-white bg-warning" /]
-			[lxw-badge parent="loisirs" category="commerce" entreprise="tout-en-direct" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
 				[h5 class="card-title"]douteux[/h5]
 			[ends tags="div" /]	
@@ -149,7 +111,7 @@
 		"@type": "LocalBusiness",
 		"name": "tout en direct",
 		"url": "https://toutendirect.fr",
-		"logo": "https://business.livingxworld.com/images/logo/loisirs/boutique/toutendirect.jpg",
+		"logo": "https://business.livingx.world/images/logo/loisirs/boutique/toutendirect.jpg",
 		"telephone": "+33223057571",
 		"description": "Toutendirect.fr est un portail de fabricants qui facturent en direct leurs produits de meubles et décorations aux consommateurs, sans intermédiaires.",
 		"currenciesAccepted": "EUR",
