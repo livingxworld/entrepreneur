@@ -1,4 +1,0 @@
-
-LibreOffice (Alias : libreoffice)
-Office (Alias : office)
-PDFforge (Alias : pdfforge)

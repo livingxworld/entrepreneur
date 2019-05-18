@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/loisirs/site-de-rencontre/monclasseur.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="monclasseur" /]
+[img src="https://business.livingx.world/images/logo/loisirs/site-de-rencontre/monclasseur.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="monclasseur" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -62,19 +62,19 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 [/none]
@@ -153,7 +153,7 @@ free
 		"@type": "LocalBusiness",
 		"name": "monclasseur",
 		"url": "https://monclasseur.com",
-		"logo": "https://business.livingxworld.com/images/logo/loisirs/site-de-rencontre/monclasseur.png",
+		"logo": "https://business.livingx.world/images/logo/loisirs/site-de-rencontre/monclasseur.png",
 		"description": "Monclasseur.com is a free online dating site for men and women. Find love through our dating agency across Quebec."
 	}
 [ends tags='script' /]

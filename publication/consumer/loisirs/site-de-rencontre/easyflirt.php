@@ -1,4 +1,4 @@
-[img src="https://business.livingxworld.com/images/logo/loisirs/site-de-rencontre/easyflirt.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="easyflirt" /]
+[img src="https://business.livingx.world/images/logo/loisirs/site-de-rencontre/easyflirt.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="easyflirt" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -62,19 +62,19 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-3" mdatatype="http://schema.org/ImageObject" /]
 		[h4][/h4]
-		[img src="https://business.livingxworld.com/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
+		[img src="https://business.livingx.world/images/photo/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt=""" mdataprop="contentUrl" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 [/none]
@@ -153,7 +153,7 @@ pricing not indicated
 		"@type": "LocalBusiness",
 		"name": "easyflirt",
 		"url": "https://easyflirt.com",
-		"logo": "https://business.livingxworld.com/images/logo/loisirs/site-de-rencontre/easyflirt.png",
+		"logo": "https://business.livingx.world/images/logo/loisirs/site-de-rencontre/easyflirt.png",
 		"description": "Easyflirt, site of &#9733 meeting &#9733 with chat and webcam. 27 million singles trust us to meet the great Love from our chat dedicated to the Meeting. Why not you ? Quick registration.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card",

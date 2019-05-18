@@ -1,4 +1,0 @@
-
-Ashampoo (Alias : ashampoo)
-Remotr (Alias : remotr)
-Airflow (Alias : airflow)

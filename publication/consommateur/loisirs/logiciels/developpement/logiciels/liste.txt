@@ -1,5 +1,0 @@
-
-Netbeans (Alias : netbeans)
-Qt (Alias : qt)
-Kompozer (Alias : kompozer)
-Notepad++ (Alias : notepad)
