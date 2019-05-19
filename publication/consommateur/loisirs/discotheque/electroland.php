@@ -1,6 +1,6 @@
-[img src="https://business.livingx.world/images/logo/loisirs/discotheque/le-queen.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="le queen" /]
+[img src="https://business.livingx.world/images/logo/loisirs/discotheque/electroland.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="electroland" /]
 <hr id="system-readmore" />
-[h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
+[h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
@@ -15,17 +15,17 @@
 [h2 class="text-center"][begins tags="strong" /]Information[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
-		[h3]Coordonné[/h3]
+		[h3]Coordonne[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Site internet[/a] [br /]
 		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
 		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
 		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Lundi à Vendredi: --[ends tags="li" /]
+			[begins tags="li" /]Lundi a Vendredi: --[ends tags="li" /]
 			[begins tags="li" /]Samedi: --[ends tags="li" /]
 			[begins tags="li" /]Dimanche: --[ends tags="li" /]
-			[begins tags="li" /]Jour férié: --[ends tags="li" /]
+			[begins tags="li" /]Jour ferie: --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Transport[/h3] [br /]
 		[begins tags="ul" /]
@@ -52,7 +52,7 @@
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
 		[gmaps url="" /]
-		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
+		[h4]Etes-vous interesser? [begins tags="small"]Cliquer sur la banniere d'affiliation[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]
@@ -67,7 +67,7 @@
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
 		[ssllabs domains="" /]
-		[h3]Vos données sont:[/h3]
+		[h3]Vos donnees sont:[/h3]
 		[api-myipms query="" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -95,7 +95,7 @@
 [/none]
 
 
-[h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
+[h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposes en TTC (sans promotion)[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-6" /]	
 		[h4 class="text-center"]Particulier[/h4]
@@ -115,9 +115,9 @@
 						[begins tags="td" /]--[ends tags="td" /] 
 					[ends tags="tr" /]
 					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
+						[begins tags='td' mdataprop='price' more='content="00"' /]?00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
+						[begins tags='td' mdataprop='price' more='content="00"' /]?00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
+						[begins tags='td' mdataprop='price' more='content="00"' /]?00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
 					[ends tags="tr" /] 
 					[begins tags="tr" /] 
 						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
@@ -129,7 +129,7 @@
 		[ends tags="div" /]	
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-6" /]		
-		[h4 class="text-center"]Société[/h4]
+		[h4 class="text-center"]Societe[/h4]
 		[begins tags="div" class="table-responsive" /] 
 			[begins tags="table" class="table table-bordered" mdataprop="offers" mdatatype="http://schema.org/Offer" /] 
 				[begins tags="thead" /] 
@@ -146,9 +146,9 @@
 						[begins tags="td" /]--[ends tags="td" /] 
 					[ends tags="tr" /]
 					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
+						[begins tags='td' mdataprop='price' more='content="00"' /]?00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
+						[begins tags='td' mdataprop='price' more='content="00"' /]?00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
+						[begins tags='td' mdataprop='price' more='content="00"' /]?00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
 					[ends tags="tr" /] 
 					[begins tags="tr" /] 
 						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
@@ -179,9 +179,9 @@
 						[begins tags="td" /]--[ends tags="td" /] 
 					[ends tags="tr" /]
 					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
+						[begins tags='td' mdataprop='price' more='content="00"' /]?00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
+						[begins tags='td' mdataprop='price' more='content="00"' /]?00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
+						[begins tags='td' mdataprop='price' more='content="00"' /]?00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
 					[ends tags="tr" /] 
 					[begins tags="tr" /] 
 						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
@@ -210,9 +210,9 @@
 						[begins tags="td" /]--[ends tags="td" /] 
 					[ends tags="tr" /]
 					[begins tags="tr" /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
-						[begins tags='td' mdataprop='price' more='content="00"' /]€00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
+						[begins tags='td' mdataprop='price' more='content="00"' /]?00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /]  
+						[begins tags='td' mdataprop='price' more='content="00"' /]?00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
+						[begins tags='td' mdataprop='price' more='content="00"' /]?00.00 [begins tags="span" mdataprop="priceCurrency" /]EUR[ends tags="span" /][ends tags='td' /] 
 					[ends tags="tr" /] 
 					[begins tags="tr" /] 
 						[begins tags="td" /][a href="#" mdataprop="url"]acheter l'offre[/a][ends tags="td" /] 
@@ -237,18 +237,18 @@
 		[ends tags="div" /]		
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-6" /]
-		[h3]Contrôle indépendant[/h3]
+		[h3]Controle independant[/h3]
 		[begins tags="blockquote" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Services chez le client[ends tags="dt" /] 
 				[begins tags="dd" /] en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
-				[begins tags="dt" /]Ambiance d'équipe[ends tags="dt" /] 
+				[begins tags="dt" /]Ambiance d'equipe[ends tags="dt" /] 
 				[begins tags="dd" /] en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
-				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
+				[begins tags="dt" /]Reglementation web[ends tags="dt" /] 
 				[begins tags="dd" /] en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
@@ -256,39 +256,39 @@
 				[begins tags="dd" /] en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
-				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
+				[begins tags="dt" /]Teste de securite web[ends tags="dt" /] 
 				[begins tags="dd" /] en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
-[h2 class="text-center"][begins tags="strong" /]Faire connaître[ends tags="strong" /] [/h2]
+[h2 class="text-center"][begins tags="strong" /]Faire connaitre[ends tags="strong" /] [/h2]
 	[begins tags="div" class="row" /] 
 		[begins tags="div" class="col-md-12 center-block text-center" /]
 			[div class="addthis_inline_share_toolbox" /] 
 		[ends tags="div" /] 
 	[ends tags="div" /]
  [br /] [br /]
-[h6]A vous de donner votre opignon: selon ses services clientèles, ses proposition, qualité de la prestation et encore plus.[/h6]
+[h6]A vous de donner votre opignon: selon ses services clienteles, ses proposition, qualite de la prestation et encore plus.[/h6]
 
 
 [begins tags='script' more='type="application/ld+json"' /] 
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "le queen",
+		"name": "electroland",
 		"url": "https://url.com",
-		"logo": "https://business.livingx.world/images/logo/loisirs/discotheque/le-queen.png",
+		"logo": "https://business.livingx.world/images/logo/loisirs/discotheque/electroland.png",
 		"telephone": "+33100000000",
 		"description": "description",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
-		"priceRange": "€€",
+		"priceRange": "??",
 		"address": {
 			"@type": "PostalAddress",
 			"streetAddress": "adresse",
 			"addressLocality": "Ville",
-			"addressRegion": "région",
+			"addressRegion": "region",
 			"postalCode": "code postal",
 			"addressCountry": "pays"
 		},

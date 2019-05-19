@@ -1,4 +1,4 @@
-[img src="https://business.livingx.world/images/logo/loisirs/discotheque/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingx.world/images/logo/loisirs/discotheque/le-queen.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="le queen" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -7,7 +7,7 @@
 		
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -22,10 +22,10 @@
 		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
 		[h3]Opening schedules[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Monday to Friday: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Saturday: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Sunday: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]holidays: xxhxx - xxhxx[ends tags="li" /]
+			[begins tags="li" /]Monday to Friday: --[ends tags="li" /]
+			[begins tags="li" /]Saturday: --[ends tags="li" /]
+			[begins tags="li" /]Sunday: --[ends tags="li" /]
+			[begins tags="li" /]holidays: --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Transport[/h3] [br /]
 		[begins tags="ul" /]
@@ -229,10 +229,10 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge parent="loisirs" category="club" entreprise="" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-default" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-default" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]advice final[/h5]
+				[h5 class="card-title"]neutral[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]	
 	[ends tags="div" /]	
@@ -278,13 +278,13 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
+		"name": "le queen",
 		"url": "https://url.com",
-		"logo": "https://business.livingx.world/images/logo/loisirs/discotheque/",
+		"logo": "https://business.livingx.world/images/logo/loisirs/discotheque/le-queen.png",
 		"telephone": "+33100000000",
 		"description": "description",
 		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
+		"paymentAccepted": "cash, card",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",

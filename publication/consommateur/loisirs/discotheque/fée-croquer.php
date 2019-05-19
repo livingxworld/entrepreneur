@@ -1,4 +1,4 @@
-[img src="https://business.livingx.world/images/logo/loisirs/discotheque/le-memphis.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="le memphis" /]
+[img src="https://business.livingx.world/images/logo/loisirs/discotheque/fée-croquer" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="fée croquer" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -7,7 +7,7 @@
 		
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		l'auteur ne contient pas de vidéo
+		[youtube source="PNC8hsRuMJo" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -16,9 +16,9 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://le-memphis.fr" target="_blank" rel="dofollow"]Site internet[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] 3 Impasse Bonne Nouvelle, 75010 Paris[br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+33145233447" rel="nofollow"]01 45 23 34 47[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://feecroquer.com" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] -- [br /]
+		[fa name="phone" zoom="2x" /] [a href="#" rel="nofollow"]--[/a] [br /]
 		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
@@ -37,7 +37,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d83932.8758610509!2d2.215842159512093!3d48.89819774334579!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e16b00c6edb%3A0x7282fd80d5fbb10b!2sLe+Memphis!5e0!3m2!1sfr!2sfr!4v1558282179845!5m2!1sfr!2sfr" /]
+		--
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -48,15 +48,16 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="le-memphis.fr" /] 
+		[whois-domains url="feecroquer.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="le-memphis.fr" /]
+		[ssllabs domains="feecroquer.com" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="le-memphis.fr" /]
+		[api-myipms query="feecroquer.com" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
+
 
 [h2 class="text-center"][begins tags="strong" /]Note et avis avec exigence[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
@@ -90,7 +91,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] Let's Encrypt Authority X3: A[ends tags="dd" /] 
+				[begins tags="dd" /] aucun ssl/tls[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -109,20 +110,11 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "le memphis",
-		"url": "https://le-memphis.fr",
-		"logo": "https://business.livingx.world/images/logo/loisirs/discotheque/le-memphis.jpg",
-		"telephone": "+33145233447",
+		"name": "fée croquer",
+		"url": "https://feecroquer.com",
+		"logo": "https://business.livingx.world/images/logo/loisirs/discotheque/fée-croquer.jpg",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
-		"priceRange": "€€",
-		"address": {
-			"@type": "PostalAddress",
-			"streetAddress": "3 Impasse Bonne Nouvelle",
-			"addressLocality": "Paris",
-			"postalCode": "75010",
-			"addressCountry": "france"
-		},
-		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d83932.8758610509!2d2.215842159512093!3d48.89819774334579!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e16b00c6edb%3A0x7282fd80d5fbb10b!2sLe+Memphis!5e0!3m2!1sfr!2sfr!4v1558282179845!5m2!1sfr!2sfr"
+		"priceRange": "€€€"
 	}
 [ends tags='script' /]

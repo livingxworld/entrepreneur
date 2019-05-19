@@ -1,4 +1,4 @@
-[img src="https://business.livingx.world/images/logo/loisirs/discotheque/le-queen.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="le queen" /]
+[img src="https://business.livingx.world/images/logo/loisirs/discotheque/tomorrowland.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="tomorrowland" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -276,9 +276,9 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "le queen",
+		"name": "tomorrowland",
 		"url": "https://url.com",
-		"logo": "https://business.livingx.world/images/logo/loisirs/discotheque/le-queen.png",
+		"logo": "https://business.livingx.world/images/logo/loisirs/discotheque/tomorrowland.jpg",
 		"telephone": "+33100000000",
 		"description": "description",
 		"currenciesAccepted": "EUR",
