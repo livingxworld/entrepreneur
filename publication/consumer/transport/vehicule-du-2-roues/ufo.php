@@ -1,10 +1,10 @@
-[img src="https://business.livingx.world/images/logo/transport/vehicule-du-2-roues/bird.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="bird" /]
+[img src="https://business.livingx.world/images/logo/transport/vehicule-du-2-roues/ufo.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="ufo" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		Bird is a reliable last mile electric scooter rental service. Our mission is to make cities more livable by reducing car usage, traffic, and congestion.
+		ufo is a reliable last mile electric scooter rental service. Our mission is to make cities more livable by reducing car usage, traffic, and congestion.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		The author does not contain video.
@@ -16,15 +16,15 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://bird.co" target="_blank" rel="dofollow"]Website[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://ufoscooters.com" target="_blank" rel="dofollow"]Website[/a] [br /]
 		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
 		[fa name="phone" zoom="2x" /] [a href="#" rel="nofollow"]--[/a] [br /]
 		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]
 		[h3]These software and Apps[/h3]
 		[begins tags="ul" /]
-			[begins tags="li" /][a href="https://itunes.apple.com/app/id1260842311?mt=8" target="_blank"][fa bs="fab" name="apple" zoom="2x" /] Apple[/a][ends tags="li" /]
+			[begins tags="li" /][a href="https://itunes.apple.com/es/app/ufo/id1417229204?mt=8" target="_blank"][fa bs="fab" name="apple" zoom="2x" /] Apple[/a][ends tags="li" /]
 			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="windows" zoom="2x" /] Microsoft[/a][ends tags="li" /]
-			[begins tags="li" /][a href="https://play.google.com/store/apps/details?id=co.bird.android&referrer=adjust_reftag%3DcOCQsS5IdRPWf%26utm_source%3Dwww.bird.co" target="_blank"][fa bs="fab" name="android" zoom="2x" /] Android[/a][ends tags="li" /]
+			[begins tags="li" /][a href="https://play.google.com/store/apps/details?id=com.ufo.app" target="_blank"][fa bs="fab" name="android" zoom="2x" /] Android[/a][ends tags="li" /]
 			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="linux" zoom="2x" /] Linux[/a][ends tags="li" /]
 		[ends tags="ul" /]	
 	[ends tags="div" /]	
@@ -41,19 +41,19 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="bird.co" /] 
+		[whois-domains url="ufoscooters.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="bird.co" /]
+		[ssllabs domains="ufoscooters.com" /]
 		[h3]Your data are[/h3]
-		[api-myipms query="bird.co" /]	
+		[api-myipms query="ufoscooters.com" /]	
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
 
 [h2 class="text-center"][begins tags="strong" /]The Prices Proposed in Taxe (without promotion)[ends tags="strong" /] [/h2]
-0.25€/minutes
+0.15€/minutes[br /]Unlock: 1€
 
 
 [h2 class="text-center"][begins tags="strong" /]Note and advice with requirement[ends tags="strong" /] [/h2]
@@ -109,12 +109,12 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "Bird",
-		"url": "https://bird.co",
-		"logo": "https://business.livingx.world/images/logo/transport/vehicule-du-2-roues/bird.jpg",
+		"name": "ufo",
+		"url": "https://ufoscooters.com",
+		"logo": "https://business.livingx.world/images/logo/transport/vehicule-du-2-roues/ufo.jpg",
 		
-		"description": "Bird is a reliable last mile electric scooter rental service. Our mission is to make cities more livable by reducing car usage, traffic, and congestion.",
+		"description": "ufo is a reliable last mile electric scooter rental service. Our mission is to make cities more livable by reducing car usage, traffic, and congestion.",
 		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash"
+		"paymentAccepted": "card"
 	}
 [ends tags='script' /]

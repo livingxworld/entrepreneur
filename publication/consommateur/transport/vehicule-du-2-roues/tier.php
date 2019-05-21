@@ -1,10 +1,10 @@
-[img src="https://business.livingx.world/images/logo/transport/vehicule-du-2-roues/bird.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="bird" /]
+[img src="https://business.livingx.world/images/logo/transport/vehicule-du-2-roues/tier.svg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="tier" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		Bird est un service fiable de location de scooters électriques du dernier kilomètre. Notre mission est de rendre les villes plus vivables en réduisant l'utilisation de la voiture, la circulation et la congestion.
+		
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		L'auteur ne contient pas de vidéo.
@@ -16,15 +16,15 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://bird.co" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://tier.app" target="_blank" rel="dofollow"]Site internet[/a] [br /]
 		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
 		[fa name="phone" zoom="2x" /] [a href="#" rel="nofollow"]--[/a] [br /]
 		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]
 		[h3]Ces logiciels et Apps[/h3]
 		[begins tags="ul" /]
-			[begins tags="li" /][a href="https://itunes.apple.com/app/id1260842311?mt=8" target="_blank"][fa bs="fab" name="apple" zoom="2x" /] Apple[/a][ends tags="li" /]
+			[begins tags="li" /][a href="https://itunes.apple.com/de/developer/tier-mobility-gmbh/id1435293589?l=en&mt=8" target="_blank"][fa bs="fab" name="apple" zoom="2x" /] Apple[/a][ends tags="li" /]
 			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="windows" zoom="2x" /] Microsoft[/a][ends tags="li" /]
-			[begins tags="li" /][a href="https://play.google.com/store/apps/details?id=co.bird.android&referrer=adjust_reftag%3DcOCQsS5IdRPWf%26utm_source%3Dwww.bird.co" target="_blank"][fa bs="fab" name="android" zoom="2x" /] Android[/a][ends tags="li" /]
+			[begins tags="li" /][a href="https://play.google.com/store/apps/developer?id=Tier+Mobility+GmbH" target="_blank"][fa bs="fab" name="android" zoom="2x" /] Android[/a][ends tags="li" /]
 			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="linux" zoom="2x" /] Linux[/a][ends tags="li" /]
 		[ends tags="ul" /]	
 	[ends tags="div" /]	
@@ -41,20 +41,21 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="bird.co" /] 
+		[whois-domains url="tier.app" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="bird.co" /]
+		[ssllabs domains="tier.app" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="bird.co" /]
+		[api-myipms query="tier.app" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
 
 
 [h2 class="text-center"][begins tags="strong" /]Les Tarifs Proposés en TTC (sans promotion)[ends tags="strong" /] [/h2]
-0.25€/minutes
+0.15€/minutes[br /]
+Déverrouillage: 1€
 
 [h2 class="text-center"][begins tags="strong" /]Note et avis avec exigence[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
@@ -107,11 +108,10 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "Bird",
-		"url": "https://bird.co",
-		"logo": "https://business.livingx.world/images/logo/transport/vehicule-du-2-roues/bird.jpg",
+		"name": "tier",
+		"url": "https://tier.app",
+		"logo": "https://business.livingx.world/images/logo/transport/vehicule-du-2-roues/tier.svg",
 		
-		"description": "Bird est un service fiable de location de scooters électriques du dernier kilomètre. Notre mission est de rendre les villes plus vivables en réduisant l'utilisation de la voiture, la circulation et la congestion.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card",
 		"priceRange": "€"
