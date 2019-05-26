@@ -7,7 +7,7 @@
 		Crystal Security is an easy to use application that was created in order to help you quickly detect and remove malware that might affect your computer.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

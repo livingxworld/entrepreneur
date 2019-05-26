@@ -7,7 +7,7 @@
 		Norton™ propose un logiciel de sécurité et antivirus primé pour vos PC, Mac et appareils mobiles.  Obtenez le logiciel Norton™ et gardez l'esprit tranquille lorsque vous naviguez en ligne.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		L'auteur ne contient pas de vidéo
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

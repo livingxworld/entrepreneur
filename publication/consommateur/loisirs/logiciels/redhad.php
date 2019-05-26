@@ -7,7 +7,7 @@
 		Red Hat est le premier fournisseur mondial de solutions Open Source d’entreprise, comprenant des technologies hautes performances pour Linux, le cloud, les conteneurs et Kubernetes.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		L'auteur ne contient pas de vidéo
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

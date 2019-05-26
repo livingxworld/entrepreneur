@@ -7,7 +7,7 @@
 		Page d'accueil LibreOffice, suite bureautique, téléchargement, normes ouvertes, open source, logiciel libre, LibreOffice
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="6HUnR5IoAQk" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

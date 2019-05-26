@@ -7,7 +7,7 @@
 		Comodo, the leading Cybersecurity Platform offers Free Antivirus, Internet Security, Endpoint Security and Website Security for Customers and Enterprise.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

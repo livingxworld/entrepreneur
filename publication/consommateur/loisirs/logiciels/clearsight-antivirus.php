@@ -7,7 +7,7 @@
 		Antivirus pour les entreprises et les Particulars par Clearsight! Bénéficiez d'une protection en temps réel, téléchargez une protection GRATUITE contre les virus et les logiciels malveillants. Naviguez en toute sécurité et en privé, où que vous soyez
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		L'auteur ne contient pas de vidéo
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

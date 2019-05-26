@@ -7,7 +7,7 @@
 		Microsoft, en tant qu’acteur de la transformation num&#233;rique en France, aide les individus et les entreprises du monde entier &#224; exploiter pleinement leur potentiel.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="rtrAR9Lcgkw" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

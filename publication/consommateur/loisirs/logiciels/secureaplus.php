@@ -7,7 +7,7 @@
 		SecureAPlus est un logiciel gratuit de contrôle des applications, antivirus / anti-malware et de cloud qui permet de diagnostiquer les menaces avec plus de 10 moteurs antivirus pour le cloud en temps réel.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		L'auteur ne contient pas de vidéo
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

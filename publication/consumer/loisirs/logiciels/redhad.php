@@ -7,7 +7,7 @@
 		Red Hat is the world’s leading provider of enterprise open source solutions, including high-performing Linux, cloud, container, and Kubernetes technologies.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

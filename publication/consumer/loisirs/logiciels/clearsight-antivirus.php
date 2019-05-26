@@ -7,7 +7,7 @@
 		Antivirus for business and Home by Clearsight! Get real-time protection, Download FREE antivirus and malware protection. Surf safely and privately, wherever you are.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

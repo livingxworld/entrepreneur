@@ -7,7 +7,7 @@
 		Linux Mint is an elegant, easy to use, up to date and comfortable GNU/Linux desktop distribution.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

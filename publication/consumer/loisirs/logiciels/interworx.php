@@ -7,7 +7,7 @@
 		The InterWorx Web Control Panel is a Linux based dedicated server and VPS web hosting control panel. It is feature rich for both system administrators and website administrators. InterWorx can work with a single VPS or dedicated server, but that is just the beginning.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

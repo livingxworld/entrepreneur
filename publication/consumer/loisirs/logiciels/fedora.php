@@ -7,7 +7,7 @@
 		Choose Freedom. Choose Fedora. Pick a flavor of Fedora streamlined for your needs, and get to work right away.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

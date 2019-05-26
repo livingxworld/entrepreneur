@@ -7,7 +7,7 @@
 		Ubuntu est un système d’exploitation de logiciel open source qui s’exécute du bureau au cloud, en passant par tous vos objets connectés à Internet.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		L'auteur ne contient pas de vidéo
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

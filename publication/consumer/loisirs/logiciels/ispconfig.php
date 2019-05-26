@@ -7,7 +7,7 @@
 		Manage your Servers directly through your Browser. ISPConfig 3 is an open source panel for Linux which is capable of managing multiple servers from one control panel.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

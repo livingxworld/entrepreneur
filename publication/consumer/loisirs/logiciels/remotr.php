@@ -7,7 +7,7 @@
 		With Remotr you can stream and play your favorite PC games on your smarthphone, tablet or TV, enjoying the same high quality graphics no matter where you are.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

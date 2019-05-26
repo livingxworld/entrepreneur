@@ -7,7 +7,7 @@
 		Get free antivirus and antimalware protection. Optimize your PCs, Macs and Android. Encrypt your connection and browse anonymously with the VPN.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

@@ -7,7 +7,7 @@
 		Home of Kali Linux, une distribution de test de pénétration avancée Linux utilisée pour les tests de pénétration, le piratage éthique et les évaluations de la sécurité du réseau.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		L'auteur ne contient pas de vidéo
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

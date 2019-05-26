@@ -7,7 +7,7 @@
 		Avec Remotr, vous pouvez diffuser et jouer à vos jeux PC préférés sur votre smartphone, votre tablette ou votre télévision, tout en profitant des mêmes graphismes de haute qualité, où que vous soyez.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		L'auteur ne contient pas de vidéo
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

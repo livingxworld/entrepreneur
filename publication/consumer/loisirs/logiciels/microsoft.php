@@ -7,7 +7,7 @@
 		Microsoft, as a digital transformation actor in France, helps individuals and businesses around the world &#224; fully exploit their potential.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		[youtube source="rtrAR9Lcgkw" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

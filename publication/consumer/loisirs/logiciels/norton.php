@@ -7,7 +7,7 @@
 		Norton ™ offers award-winning security and antivirus software for your PCs, Macs, and mobile devices. Get Norton ™ software and keep peace of mind when browsing online.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

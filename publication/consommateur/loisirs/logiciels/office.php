@@ -7,7 +7,7 @@
 		Collaborez gratuitement avec les versions en ligne de Microsoft Word, PowerPoint, Excel et OneNote. Enregistrez les documents, feuilles de calcul et pr&#233;sentations en ligne dans OneDrive. Partagez-les avec d’autres utilisateurs et travaillez dessus simultan&#233;ment.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		L'auteur ne contient pas de vidéo
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

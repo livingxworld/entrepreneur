@@ -7,7 +7,7 @@
 		Ubuntu is an open source software operating system that runs from the desktop, to the cloud, to all your internet connected things.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

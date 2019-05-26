@@ -7,7 +7,7 @@
 		Collaborate for free with online versions of Microsoft Word, PowerPoint, Excel and OneNote. Save documents, spreadsheets, and presentations online in OneDrive. Share them with other users and work on them simultaneously.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 

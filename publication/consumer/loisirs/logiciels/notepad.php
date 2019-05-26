@@ -7,7 +7,7 @@
 		Notepad ++ is a source code editor that supports multiple languages.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="" /]
+		The author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
