@@ -1,4 +1,4 @@
-
+[img src="https://business.livingx.world/images/logo/restaurant/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -7,7 +7,7 @@
 		
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[dailymotion source="" /]
+		[youtube source="" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -19,13 +19,13 @@
 		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Site internet[/a] [br /]
 		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
 		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Lundi à Vendredi: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Samedi: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Dimanche: xxhxx - xxhxx[ends tags="li" /]
-			[begins tags="li" /]Jour férié: xxhxx - xxhxx[ends tags="li" /]
+			[begins tags="li" /]Lundi à Vendredi: --[ends tags="li" /]
+			[begins tags="li" /]Samedi: --[ends tags="li" /]
+			[begins tags="li" /]Dimanche: --[ends tags="li" /]
+			[begins tags="li" /]Jour férié: --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Transport[/h3] [br /]
 		[begins tags="ul" /]
@@ -229,10 +229,10 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-" /]
-			[lxw-badge category="restaurant" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-default" /]
+			[lxw-badge category="restaurant" css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-default" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]advice final[/h5]
+				[h5 class="card-title"]neutre[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]		
 	[ends tags="div" /]	
@@ -278,7 +278,7 @@
 		"@type": "LocalBusiness",
 		"name": "nom",
 		"url": "https://url.com",
-		"logo": "https://business.livingx.world/images/logo/",
+		"logo": "https://business.livingx.world/images/logo/restaurant/",
 		"telephone": "+33100000000",
 		"description": "description",
 		"currenciesAccepted": "EUR",
