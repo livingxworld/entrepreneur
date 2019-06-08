@@ -1,10 +1,10 @@
-[img src="https://business.livingx.world/images/logo/energie/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingx.world/images/logo/energie/proxelia.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="proxelia" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Proxelia est un fournisseur d'énergie proposant des solutions (électricité, gaz) dont l'offre à prix fixe est la moins chère du marché. Choisissez l'énergi...
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[youtube source="" /]
@@ -16,10 +16,10 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Site internet[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://proxelia.fr" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 21 RUE DES CORDELIERS 60200 COMPIEGNE France [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33367180000" rel="nofollow"]03 67 18 00 00[/a] [br /]
+		SIRET/VAT [a href="https://www.societe.com/societe/proxelia-493170252.html" rel="nofollow"]493 170 252[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
 			[begins tags="li" /]Lundi à Vendredi: --[ends tags="li" /]
@@ -51,7 +51,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[gmaps url="" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2595.6355956996126!2d2.8219310156941786!3d49.41579657934602!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e7d6816969c4f3%3A0xb7b526ac97e98e04!2s21+Rue+des+Cordeliers%2C+60200+Compi%C3%A8gne!5e0!3m2!1sfr!2sfr!4v1560018659737!5m2!1sfr!2sfr" /]
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -62,13 +62,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="proxelia.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="proxelia.fr" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
+		[api-myipms query="proxelia.fr" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -99,7 +99,7 @@ devis
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] conforme[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
@@ -107,7 +107,7 @@ devis
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] 	AlphaSSL CA - SHA256 - G2 :B Forward Secrecy[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -126,27 +126,22 @@ devis
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingx.world/images/logo/energie/",
-		"telephone": "+33100000000",
-		"description": "description",
+		"name": "proxelia",
+		"url": "https://proxelia.fr",
+		"logo": "https://business.livingx.world/images/logo/energie/proxelia.png",
+		"telephone": "+33367180000",
+		"description": "Proxelia est un fournisseur d'énergie proposant des solutions (électricité, gaz) dont l'offre à prix fixe est la moins chère du marché. Choisissez l'énergi...",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
+			"streetAddress": "21 RUE DES CORDELIERS",
+			"addressLocality": "COMPIEGNE",
 			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"postalCode": "60200",
+			"addressCountry": "France"
 		},
-		"hasMap": "url-map",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		]
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2595.6355956996126!2d2.8219310156941786!3d49.41579657934602!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e7d6816969c4f3%3A0xb7b526ac97e98e04!2s21+Rue+des+Cordeliers%2C+60200+Compi%C3%A8gne!5e0!3m2!1sfr!2sfr!4v1560018659737!5m2!1sfr!2sfr"
 	}
 [ends tags='script' /]

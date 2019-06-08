@@ -1,10 +1,10 @@
-[img src="https://business.livingx.world/images/logo/energie/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingx.world/images/logo/energie/plum-energie.svg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="plum energie" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Le fournisseur d'Electricité 100% renouvelable qui récompense en euros vos économies d'énergie. En quelques clics diminuez vos factures de 12% en moyenne.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[youtube source="" /]
@@ -16,10 +16,10 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Site internet[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://plum.fr" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 30 RUE PROUDHON 93210 SAINT DENIS France [br /]
+		[fa name="phone" zoom="2x" /] [a href="#" rel="nofollow"]--[/a] [br /]
+		SIRET/VAT [a href="https://www.societe.com/societe/xelan-sas-803248467.html" rel="nofollow"]803 248 467[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
 			[begins tags="li" /]Lundi à Vendredi: --[ends tags="li" /]
@@ -51,7 +51,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[gmaps url="" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2622.4737507163704!2d2.3603321156760892!3d48.90636557929222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e9b2b16567b%3A0x6d2391af9fbdacb3!2s30+Rue+Proudhon%2C+93210+Saint-Denis!5e0!3m2!1sfr!2sfr!4v1560025058685!5m2!1sfr!2sfr" /]
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -62,13 +62,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="plum.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="plum.fr" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
+		[api-myipms query="plum.fr" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -99,7 +99,7 @@ devis
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] conforme[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
@@ -107,7 +107,7 @@ devis
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] Let's Encrypt Authority X3 :A[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -126,27 +126,20 @@ devis
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingx.world/images/logo/energie/",
-		"telephone": "+33100000000",
-		"description": "description",
+		"name": "plum energie",
+		"url": "https://plum.fr",
+		"logo": "https://business.livingx.world/images/logo/energie/plum-energie.svg",
+		"description": "Le fournisseur d'Electricité 100% renouvelable qui récompense en euros vos économies d'énergie. En quelques clics diminuez vos factures de 12% en moyenne.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "30 RUE PROUDHON",
+			"addressLocality": "SAINT DENIS",
+			"postalCode": "93210",
+			"addressCountry": "France"
 		},
-		"hasMap": "url-map",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		]
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2622.4737507163704!2d2.3603321156760892!3d48.90636557929222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e9b2b16567b%3A0x6d2391af9fbdacb3!2s30+Rue+Proudhon%2C+93210+Saint-Denis!5e0!3m2!1sfr!2sfr!4v1560025058685!5m2!1sfr!2sfr"
 	}
 [ends tags='script' /]

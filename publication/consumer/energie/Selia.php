@@ -1,4 +1,4 @@
-[img src="https://business.livingx.world/images/logo/energie/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingx.world/images/logo/energie/selia.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="selia" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -16,10 +16,10 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Website[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://selia-energies.fr" target="_blank" rel="dofollow"]Website[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 336 AV DE PARIS 79000 NIORT France [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33969397002" rel="nofollow"]0969 397 002[/a] [br /]
+		SIRET/VAT [a href="https://www.societe.com/societe/selia-532010576.html" rel="nofollow"]532010576[/a] [br /]
 		[h3]Opening schedules[/h3] [br /]
 		[begins tags="ul" /]
 			[begins tags="li" /]Monday to Friday: --[ends tags="li" /]
@@ -51,7 +51,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]MAP[/h3]
-		[gmaps url="" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2754.69134008613!2d-0.42499558441312596!3d46.335821879121006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x480730f1d0f50333%3A0xf46f7e4ff48c2b94!2s336+Avenue+de+Paris%2C+79000+Niort!5e0!3m2!1sfr!2sfr!4v1560019104458!5m2!1sfr!2sfr" /]
 		[h4]Are you interested? [begins tags="small"]Click on the affiliate banner[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -62,13 +62,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="selia-energies.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="selia-energies.fr" /]
 		[h3]Your data are[/h3]
-		[api-myipms query="" /]	
+		[api-myipms query="selia-energies.fr" /]	
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -101,7 +101,7 @@ ask quote
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] conform[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Tester reviews[ends tags="dt" /] 
@@ -109,7 +109,7 @@ ask quote
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] impossible to scan[ends tags="dd" /] 
 			[ends tags="dl" /]
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -130,27 +130,23 @@ ask quote
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingx.world/images/logo/energie/",
-		"telephone": "+33100000000",
-		"description": "description",
+		"name": "selia",
+		"url": "https://selia-energies.fr",
+		"logo": "https://business.livingx.world/images/logo/energie/selia.png",
+		"telephone": "+33969397002",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "336 AV DE PARIS",
+			"addressLocality": "NIORT",
+			"postalCode": "79000",
+			"addressCountry": "France"
 		},
-		"hasMap": "url-map",
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2754.69134008613!2d-0.42499558441312596!3d46.335821879121006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x480730f1d0f50333%3A0xf46f7e4ff48c2b94!2s336+Avenue+de+Paris%2C+79000+Niort!5e0!3m2!1sfr!2sfr!4v1560019104458!5m2!1sfr!2sfr",
 		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
+			"Mo-Fr 09:00-18:00"
 		]
 	}
 [ends tags='script' /]

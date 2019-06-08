@@ -1,10 +1,10 @@
-[img src="https://business.livingx.world/images/logo/energie/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingx.world/images/logo/energie/enedis.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="enedis" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Enedis gère le réseau d’électricité en France quel que soit le fournisseur et réalise toutes les interventions techniques (raccordement, dépannage, relevé compteur…)
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[youtube source="" /]
@@ -16,10 +16,10 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Site internet[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://enedis.fr" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] -- [br /]
+		[fa name="phone" zoom="2x" /] [a href="#" rel="nofollow"]--[/a] [br /]
+		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
 			[begins tags="li" /]Lundi à Vendredi: --[ends tags="li" /]
@@ -44,14 +44,14 @@
 		[h3]Ces logiciels et Apps[/h3]
 		[begins tags="ul" /]
 			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="apple" zoom="2x" /] Apple[/a][ends tags="li" /]
-			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="windows" zoom="2x" /] Microsoft[/a][ends tags="li" /]
+			[begins tags="li" /][a href="https://www.microsoft.com/fr-fr/p/a-mes-cotes/9wzdncrdjzz4?activetab=pivot:overviewtab" target="_blank"][fa bs="fab" name="windows" zoom="2x" /] Microsoft[/a][ends tags="li" /]
 			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="android" zoom="2x" /] Android[/a][ends tags="li" /]
 			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="linux" zoom="2x" /] Linux[/a][ends tags="li" /]
 		[ends tags="ul" /]	
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[gmaps url="" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d83917.81294807825!2d2.2536241668623416!3d48.90716771293152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1senedis!5e0!3m2!1sfr!2sfr!4v1560009512795!5m2!1sfr!2sfr" /]
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -62,13 +62,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="enedis.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="enedis.fr" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
+		[api-myipms query="enedis.fr" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -99,7 +99,7 @@ devis
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] non conforme[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
@@ -107,7 +107,7 @@ devis
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] QuoVadis EV SSL ICA G3 :B Forward Secrecy[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -126,27 +126,13 @@ devis
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingx.world/images/logo/energie/",
-		"telephone": "+33100000000",
-		"description": "description",
+		"name": "enedis",
+		"url": "https://enedis.fr",
+		"logo": "https://business.livingx.world/images/logo/energie/enedis.png",
+		"description": "Enedis gère le réseau d’électricité en France quel que soit le fournisseur et réalise toutes les interventions techniques (raccordement, dépannage, relevé compteur…)",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
 		"priceRange": "€€",
-		"address": {
-			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
-		},
-		"hasMap": "url-map",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		]
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d83917.81294807825!2d2.2536241668623416!3d48.90716771293152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1senedis!5e0!3m2!1sfr!2sfr!4v1560009512795!5m2!1sfr!2sfr"
 	}
 [ends tags='script' /]

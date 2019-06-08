@@ -1,10 +1,10 @@
-[img src="https://business.livingx.world/images/logo/energie/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingx.world/images/logo/energie/engie.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="engie" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		ENGIE places responsible growth at the heart of its business lines (electricity, natural gas, energy services) to meet energy needs, combat climate change and promote energy transition. In France, ENGIE (formerly GDF SUEZ) develops renewable energies, liquefied natural gas, and energy efficiency services, and offers competitive energy and gas prices and offers for individuals, professionals, businesses and businesses. communities.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[youtube source="" /]
@@ -16,10 +16,10 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Website[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://engie.fr" target="_blank" rel="dofollow"]Website[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 1 PL SAMUEL DE CHAMPLAIN 92400 COURBEVOIE France [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33144220000" rel="nofollow"]01 44 22 00 00[/a] [br /]
+		SIRET/VAT [a href="https://www.societe.com/societe/engie-542107651.html" rel="nofollow"]542 107 651[/a] [br /]
 		[h3]Opening schedules[/h3] [br /]
 		[begins tags="ul" /]
 			[begins tags="li" /]Monday to Friday: --[ends tags="li" /]
@@ -51,7 +51,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]MAP[/h3]
-		[gmaps url="" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2623.039184933537!2d2.2374724156756907!3d48.89559037929112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6650122fef757%3A0x999582c6e79cb46f!2s1+Place+Samuel+de+Champlain%2C+92400+Courbevoie!5e0!3m2!1sfr!2sfr!4v1560012166756!5m2!1sfr!2sfr" /]
 		[h4]Are you interested? [begins tags="small"]Click on the affiliate banner[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -62,13 +62,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="engie.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="engie.fr" /]
 		[h3]Your data are[/h3]
-		[api-myipms query="" /]	
+		[api-myipms query="engie.fr" /]	
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -100,15 +100,15 @@ ask quote
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] conform[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Tester reviews[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] not recommend[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /]  	Thawte TLS RSA CA G1 : B RC4 cipher, Forward Secrecy [ends tags="dd" /] 
 			[ends tags="dl" /]
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -129,27 +129,21 @@ ask quote
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingx.world/images/logo/energie/",
-		"telephone": "+33100000000",
-		"description": "description",
+		"name": "engie",
+		"url": "https://engie.fr",
+		"logo": "https://business.livingx.world/images/logo/energie/engie.png",
+		"telephone": "+33144220000",
+		"description": "ENGIE places responsible growth at the heart of its business lines (electricity, natural gas, energy services) to meet energy needs, combat climate change and promote energy transition. In France, ENGIE (formerly GDF SUEZ) develops renewable energies, liquefied natural gas, and energy efficiency services, and offers competitive energy and gas prices and offers for individuals, professionals, businesses and businesses. communities.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "1 PL SAMUEL DE CHAMPLAIN",
+			"addressLocality": "COURBEVOIE",
+			"postalCode": "92400",
+			"addressCountry": "France"
 		},
-		"hasMap": "url-map",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		]
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2623.039184933537!2d2.2374724156756907!3d48.89559037929112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6650122fef757%3A0x999582c6e79cb46f!2s1+Place+Samuel+de+Champlain%2C+92400+Courbevoie!5e0!3m2!1sfr!2sfr!4v1560012166756!5m2!1sfr!2sfr"
 	}
 [ends tags='script' /]

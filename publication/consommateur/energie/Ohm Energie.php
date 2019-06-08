@@ -1,10 +1,10 @@
-[img src="https://business.livingx.world/images/logo/energie/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingx.world/images/logo/energie/ohm-energie.svg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="ohm energie" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Fournisseur d&#039;éco électricité moins chère. Faites baisser votre consommation électrique et votre facture d&#039;électricité avec une énergie respectuse de l&#039;environnement.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[youtube source="" /]
@@ -16,13 +16,13 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Site internet[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://ohm-energie.com" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 10 RUE DE PENTHIEVRE 75008 PARIS France[br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33970702125" rel="nofollow"]09 70 70 21 25[/a] [br /]
+		SIRET/VAT [a href="https://www.societe.com/societe/ohm-energie-834673808.html" rel="nofollow"]834 673 808[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Lundi à Vendredi: --[ends tags="li" /]
+			[begins tags="li" /]Lundi à Vendredi: 8h00 - 18h00[ends tags="li" /]
 			[begins tags="li" /]Samedi: --[ends tags="li" /]
 			[begins tags="li" /]Dimanche: --[ends tags="li" /]
 			[begins tags="li" /]Jour férié: --[ends tags="li" /]
@@ -51,7 +51,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[gmaps url="" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.207064377071!2d2.314410015674896!3d48.87332907928889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66fc96a59ad85%3A0x59e5a8e8c08efc42!2s10+Rue+de+Penthi%C3%A8vre%2C+75008+Paris!5e0!3m2!1sfr!2sfr!4v1560021973623!5m2!1sfr!2sfr" /]
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -62,13 +62,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="ohm-energie.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="ohm-energie.com" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
+		[api-myipms query="ohm-energie.com" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -99,7 +99,7 @@ devis
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] conforme[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
@@ -107,7 +107,7 @@ devis
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] Let's Encrypt Authority X3:A[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -126,27 +126,24 @@ devis
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingx.world/images/logo/energie/",
-		"telephone": "+33100000000",
-		"description": "description",
+		"name": "ohm energie",
+		"url": "https://ohm-energie.com",
+		"logo": "https://business.livingx.world/images/logo/energie/ohm-energie.svg",
+		"telephone": "+33970702125",
+		"description": "Fournisseur d&#039;éco électricité moins chère. Faites baisser votre consommation électrique et votre facture d&#039;électricité avec une énergie respectuse de l&#039;environnement.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "10 RUE DE PENTHIEVRE",
+			"addressLocality": "PARIS",
+			"postalCode": "75008",
+			"addressCountry": "France"
 		},
-		"hasMap": "url-map",
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.207064377071!2d2.314410015674896!3d48.87332907928889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66fc96a59ad85%3A0x59e5a8e8c08efc42!2s10+Rue+de+Penthi%C3%A8vre%2C+75008+Paris!5e0!3m2!1sfr!2sfr!4v1560021973623!5m2!1sfr!2sfr",
 		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
+			"Mo-Fr 08:00-18:00"
 		]
 	}
 [ends tags='script' /]

@@ -1,10 +1,10 @@
-[img src="https://business.livingx.world/images/logo/energie/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingx.world/images/logo/energie/enercoop.svg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="enercoop" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		The energy transition begins today, with Enercoop, the leading supplier of green energy! Consume renewable electricity provided by a network of cooperatives, at the right price. Make the difference!
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[youtube source="" /]
@@ -16,10 +16,10 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Website[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://enercoop.fr" target="_blank" rel="dofollow"]Website[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 16 QUAI DE LA LOIRE 75019 PARIS France [br /]
+		[fa name="phone" zoom="2x" /] [a href="#" rel="nofollow"]--[/a] [br /]
+		SIRET/VAT [a href="https://www.societe.com/societe/enercoop-484223094.html" rel="nofollow"]484 223 094[/a] [br /]
 		[h3]Opening schedules[/h3] [br /]
 		[begins tags="ul" /]
 			[begins tags="li" /]Monday to Friday: --[ends tags="li" /]
@@ -51,7 +51,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]MAP[/h3]
-		[gmaps url="" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2623.651238766264!2d2.3698952156752777!3d48.88392477928999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66dd9ad4b98cd%3A0x58077ae7c13019e5!2s16+Quai+de+la+Loire%2C+75019+Paris!5e0!3m2!1sfr!2sfr!4v1560010095153!5m2!1sfr!2sfr" /]
 		[h4]Are you interested? [begins tags="small"]Click on the affiliate banner[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -62,13 +62,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="enercoop.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="enercoop.fr" /]
 		[h3]Your data are[/h3]
-		[api-myipms query="" /]	
+		[api-myipms query="enercoop.fr" /]	
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -101,7 +101,7 @@ ask quote
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /] conform[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Tester reviews[ends tags="dt" /] 
@@ -109,7 +109,7 @@ ask quote
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /]Let's Encrypt Authority X3 :A[ends tags="dd" /] 
 			[ends tags="dl" /]
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -130,27 +130,20 @@ ask quote
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingx.world/images/logo/energie/",
-		"telephone": "+33100000000",
-		"description": "description",
+		"name": "enercoop",
+		"url": "https://enercoop.fr",
+		"logo": "https://business.livingx.world/images/logo/energie/enercoop.svg",
+		"description": "The energy transition begins today, with Enercoop, the leading supplier of green energy! Consume renewable electricity provided by a network of cooperatives, at the right price. Make the difference!",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "16 QUAI DE LA LOIRE",
+			"addressLocality": "PARIS",
+			"postalCode": "75019",
+			"addressCountry": "France"
 		},
-		"hasMap": "url-map",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		]
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2623.651238766264!2d2.3698952156752777!3d48.88392477928999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66dd9ad4b98cd%3A0x58077ae7c13019e5!2s16+Quai+de+la+Loire%2C+75019+Paris!5e0!3m2!1sfr!2sfr!4v1560010095153!5m2!1sfr!2sfr"
 	}
 [ends tags='script' /]

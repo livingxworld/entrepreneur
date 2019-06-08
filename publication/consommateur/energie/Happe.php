@@ -1,10 +1,10 @@
-[img src="https://business.livingx.world/images/logo/energie/" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="" /]
+[img src="https://business.livingx.world/images/logo/energie/happ-e.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="happ-e" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		
+		Happ-e.fr, votre fournisseur d&#039;électricité et de gaz moins cher. Avec Happ-e, c&#039;est -8% sur vos consommations d&#039;énergie. Déménager ou changer de fournisseur, c&#039;est facile !
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[youtube source="" /]
@@ -16,14 +16,14 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://" target="_blank" rel="dofollow"]Site internet[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+" rel="nofollow"][/a] [br /]
-		SIRET/VAT [a href="https://" rel="nofollow"][/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://happ-e.fr" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 1 PL SAMUEL DE CHAMPLAIN 92400 COURBEVOIE France [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33977431759" rel="nofollow"]09 77 43 17 59[/a] [br /]
+		SIRET/VAT [a href="https://www.societe.com/societe/engie-542107651.html" rel="nofollow"]542 107 651[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Lundi à Vendredi: --[ends tags="li" /]
-			[begins tags="li" /]Samedi: --[ends tags="li" /]
+			[begins tags="li" /]Lundi à Vendredi: 9h00 - 18h00[ends tags="li" /]
+			[begins tags="li" /]Samedi: 9h00 - 19h00[ends tags="li" /]
 			[begins tags="li" /]Dimanche: --[ends tags="li" /]
 			[begins tags="li" /]Jour férié: --[ends tags="li" /]
 		[ends tags="ul" /]	
@@ -51,7 +51,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[gmaps url="" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2623.039184933537!2d2.2374724156756907!3d48.89559037929112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6650122fef757%3A0x999582c6e79cb46f!2s1+Place+Samuel+de+Champlain%2C+92400+Courbevoie!5e0!3m2!1sfr!2sfr!4v1560014762562!5m2!1sfr!2sfr" /]
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -62,13 +62,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="happ-e.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="happ-e.fr" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
+		[api-myipms query="happ-e.fr" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -99,7 +99,7 @@ devis
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] conforme[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
@@ -107,7 +107,7 @@ devis
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] en cours...[ends tags="dd" /] 
+				[begins tags="dd" /]  	Thawte TLS RSA CA G1 :A[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -126,27 +126,25 @@ devis
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"logo": "https://business.livingx.world/images/logo/energie/",
-		"telephone": "+33100000000",
-		"description": "description",
+		"name": "happ-e",
+		"url": "https://happ-e.fr",
+		"logo": "https://business.livingx.world/images/logo/energie/happ-e.png",
+		"telephone": "+33977431759",
+		"description": "Happ-e.fr, votre fournisseur d&#039;électricité et de gaz moins cher. Avec Happ-e, c&#039;est -8% sur vos consommations d&#039;énergie. Déménager ou changer de fournisseur, c&#039;est facile !",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "1 PL SAMUEL DE CHAMPLAIN",
+			"addressLocality": "COURBEVOIE",
+			"postalCode": "92400",
+			"addressCountry": "France"
 		},
-		"hasMap": "url-map",
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2623.039184933537!2d2.2374724156756907!3d48.89559037929112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6650122fef757%3A0x999582c6e79cb46f!2s1+Place+Samuel+de+Champlain%2C+92400+Courbevoie!5e0!3m2!1sfr!2sfr!4v1560014762562!5m2!1sfr!2sfr",
 		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
+			"Mo-Fr 09:00-18:00",
+			"Sa 09:00-19:00"
 		]
 	}
 [ends tags='script' /]
