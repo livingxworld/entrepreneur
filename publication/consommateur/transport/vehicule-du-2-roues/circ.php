@@ -1,4 +1,4 @@
-[img src="https://business.livingx.world/images/logo/transport/vehicule-du-2-roues/flash.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="flash" /]
+[img src="https://business.livingx.world/images/logo/transport/vehicule-du-2-roues/circ.svg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="circ" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
@@ -16,7 +16,7 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://goflash.com" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://circ.com" target="_blank" rel="dofollow"]Site internet[/a] [br /]
 		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
 		[fa name="phone" zoom="2x" /] [a href="#" rel="nofollow"]--[/a] [br /]
 		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]
@@ -24,7 +24,7 @@
 		[begins tags="ul" /]
 			[begins tags="li" /][a href="https://itunes.apple.com/app/nas-01-this-is-not-a-scooter/id1446543957?mt=8" target="_blank"][fa bs="fab" name="apple" zoom="2x" /] Apple[/a][ends tags="li" /]
 			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="windows" zoom="2x" /] Microsoft[/a][ends tags="li" /]
-			[begins tags="li" /][a href="https://play.google.com/store/apps/details?id=com.goflash.consumer" target="_blank"][fa bs="fab" name="android" zoom="2x" /] Android[/a][ends tags="li" /]
+			[begins tags="li" /][a href="https://play.google.com/store/apps/details?id=com.gocirc.consumer" target="_blank"][fa bs="fab" name="android" zoom="2x" /] Android[/a][ends tags="li" /]
 			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="linux" zoom="2x" /] Linux[/a][ends tags="li" /]
 		[ends tags="ul" /]	
 	[ends tags="div" /]	
@@ -41,13 +41,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="goflash.com" /] 
+		[whois-domains url="circ.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="goflash.com" /]
+		[ssllabs domains="circ.com" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="goflash.com" /]
+		[api-myipms query="circ.com" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -108,9 +108,9 @@ dévérouillage:1€
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "flash",
-		"url": "https://goflash.com",
-		"logo": "https://business.livingx.world/images/logo/transport/vehicule-du-2-roues/flash.png",
+		"name": "circ",
+		"url": "https://circ.com",
+		"logo": "https://business.livingx.world/images/logo/transport/vehicule-du-2-roues/circ.svg",
 		
 		
 		"currenciesAccepted": "EUR",
