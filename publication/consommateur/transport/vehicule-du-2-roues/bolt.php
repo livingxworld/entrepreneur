@@ -32,7 +32,7 @@
 		[h3]La carte[/h3]
 		
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
-		
+		Code Promo: F6JL7 (7€)
 	[ends tags="div" /]	
 [ends tags="div" /]
 
