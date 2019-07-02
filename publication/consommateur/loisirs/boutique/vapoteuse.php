@@ -1,13 +1,13 @@
-[img src="https://business.livingx.world/images/logo/loisirs/boutique/franprix.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="franprix" /]
+[img src="https://business.livingx.world/images/logo/loisirs/boutique/vapoteuse.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="Vapoteuse" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		Retrouvez toute l'actualité de Franprix : nos promotions, nos marques, nos services et toutes les infos de nos magasins près de chez vous
+		Vapoteuse Cigarette électronique et eliquide Livraison gratuite 24/48h Cigarette électronique et eliquides français sans frais de port, livraison en 24/48h
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="X7V98GqdZFM" /]
+		L'auteur ne contient pas de vidéo
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -16,14 +16,14 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://franprix.fr" target="_blank" rel="dofollow"]Site internet[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] 2 RTE DU PLESSIS 94430 CHENNEVIERES SUR MARNE France [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+33800350000" rel="nofollow"]0 800 35 00 00[/a] [br /]
-		SIRET/VAT [a href="https://www.societe.com/societe/distribution-franprix-414265165.html" rel="nofollow"]414 265 165[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://vapoteuse.fr" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] 2 RUE JULES VERNE 34370 CAZOULS LES BEZIERS France [br /]
+		[fa name="phone" zoom="2x" /] [a href="#" rel="nofollow"]--[/a] [br /]
+		SIRET/VAT [a href="https://www.societe.com/etablissement/yc-cm-74992641600027.html" rel="nofollow"]749 926 416 000 27[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Lundi à Samedi: 8h30 - 21h00[ends tags="li" /]
-			[begins tags="li" /]Dimanche: 8h30 - 13h00[ends tags="li" /]
+			[begins tags="li" /]Lundi à Samedi: --[ends tags="li" /]
+			[begins tags="li" /]Dimanche: --[ends tags="li" /]
 			[begins tags="li" /]Jour férié: --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Ces logiciels et Apps[/h3]
@@ -36,7 +36,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[gmaps url="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d10489.72223651226!2d2.314909048526563!3d48.90718858735057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sfranprix!5e0!3m2!1sfr!2sfr!4v1537992674526" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2899.5846112524528!2d3.113168115489081!3d43.38570887913143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12b10a6b027df4d3%3A0x8bcb7cbc043740eb!2s2+Rue+Jules+Verne%2C+34370+Cazouls-l%C3%A8s-B%C3%A9ziers!5e0!3m2!1sfr!2sfr!4v1562097283543!5m2!1sfr!2sfr" /]
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
 		[a href="https://www.awin1.com/cread.php?s=2456706&v=13099&q=370173&r=510459"][img src="https://www.awin1.com/cshow.php?s=2456706&v=13099&q=370173&r=510459" /][/a]
 	[ends tags="div" /]	
@@ -47,13 +47,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="franprix.fr" /] 
+		[whois-domains url="vapoteuse.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="franprix.fr" /]
+		[ssllabs domains="vapoteuse.fr" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="franprix.fr" /]
+		[api-myipms query="vapoteuse.fr" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -62,10 +62,10 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-warning" /]
-			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-default" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-default" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]Douteux[/h5]
+				[h5 class="card-title"]Neutre[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]		
 	[ends tags="div" /]	
@@ -86,11 +86,11 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
-				[begins tags="dd" /]validé[ends tags="dd" /] 
+				[begins tags="dd" /] en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] Symantec Class 3 Secure Server CA - G4 : T[ends tags="dd" /] 
+				[begins tags="dd" /] Let's Encrypt Authority X3 :Aends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -109,24 +109,19 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "franprix",
-		"url": "https://franprix.fr",
-		"logo": "https://business.livingx.world/images/logo/loisirs/boutique/franprix.jpg",
-		"telephone": "+33800350000",
-		"description": "Retrouvez toute l'actualité de Franprix : nos promotions, nos marques, nos services et toutes les infos de nos magasins près de chez vous",
+		"name": "Vapoteuse",
+		"url": "https://vapoteuse.fr",
+		"logo": "https://business.livingx.world/images/logo/loisirs/boutique/vapoteuse.png",
+		"description": "Vapoteuse Cigarette électronique et eliquide Livraison gratuite 24/48h Cigarette électronique et eliquides français sans frais de port, livraison en 24/48h",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "2 RTE DU PLESSIS",
-			"addressLocality": "CHENNEVIERES SUR MARNE",
-			"postalCode": "94430",
+			"streetAddress": "2 RUE JULES VERNE",
+			"addressLocality": "CAZOULS LES BEZIERS",
+			"postalCode": "34370",
 			"addressCountry": "France"
 		},
-		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d10489.72223651226!2d2.314909048526563!3d48.90718858735057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sfranprix!5e0!3m2!1sfr!2sfr!4v1537992674526",
-		"openingHours": [
-			"Mo-Sa 8:30-21:00",
-			"Su 8:30-13:00"
-		]
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2899.5846112524528!2d3.113168115489081!3d43.38570887913143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12b10a6b027df4d3%3A0x8bcb7cbc043740eb!2s2+Rue+Jules+Verne%2C+34370+Cazouls-l%C3%A8s-B%C3%A9ziers!5e0!3m2!1sfr!2sfr!4v1562097283543!5m2!1sfr!2sfr"
 	}
 [ends tags='script' /]

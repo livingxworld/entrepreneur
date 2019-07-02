@@ -1,13 +1,13 @@
-[img src="https://business.livingx.world/images/logo/loisirs/boutique/franprix.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="franprix" /]
+[img src="https://business.livingx.world/images/logo/loisirs/boutique/forever21.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="Forever 21" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Présentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		Retrouvez toute l'actualité de Franprix : nos promotions, nos marques, nos services et toutes les infos de nos magasins près de chez vous
+		Forever 21 est à la pointe des toutes dernières tendances, des styles indispensables et des offres promotionnelles. Visitez notre site en ligne dès maintenant.
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="X7V98GqdZFM" /]
+		[youtube source="t2MNAJnMNPY" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -16,27 +16,27 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://franprix.fr" target="_blank" rel="dofollow"]Site internet[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] 2 RTE DU PLESSIS 94430 CHENNEVIERES SUR MARNE France [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+33800350000" rel="nofollow"]0 800 35 00 00[/a] [br /]
-		SIRET/VAT [a href="https://www.societe.com/societe/distribution-franprix-414265165.html" rel="nofollow"]414 265 165[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://forever21.com" target="_blank" rel="dofollow"]Site internet[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] -- [br /]
+		[fa name="phone" zoom="2x" /] [a href="#" rel="nofollow"]--[/a][br /]
+		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Lundi à Samedi: 8h30 - 21h00[ends tags="li" /]
-			[begins tags="li" /]Dimanche: 8h30 - 13h00[ends tags="li" /]
+			[begins tags="li" /]Lundi à Samedi: --[ends tags="li" /]
+			[begins tags="li" /]Dimanche: --[ends tags="li" /]
 			[begins tags="li" /]Jour férié: --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]Ces logiciels et Apps[/h3]
 		[begins tags="ul" /]
-			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="apple" zoom="2x" /] Apple[/a][ends tags="li" /]
+			[begins tags="li" /][a href="https://itunes.apple.com/us/app/forever-21/id365886172?mt=8" target="_blank"][fa bs="fab" name="apple" zoom="2x" /] Apple[/a][ends tags="li" /]
 			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="windows" zoom="2x" /] Microsoft[/a][ends tags="li" /]
-			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="android" zoom="2x" /] Android[/a][ends tags="li" /]
+			[begins tags="li" /][a href="https://play.google.com/store/apps/details?id=com.rarewire.forever21&hl=en" target="_blank"][fa bs="fab" name="android" zoom="2x" /] Android[/a][ends tags="li" /]
 			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="linux" zoom="2x" /] Linux[/a][ends tags="li" /]
 		[ends tags="ul" /]	
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[gmaps url="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d10489.72223651226!2d2.314909048526563!3d48.90718858735057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sfranprix!5e0!3m2!1sfr!2sfr!4v1537992674526" /]
+		--
 		[h4]Êtes-vous intéresser? [begins tags="small"]Cliquer sur la bannière d'affiliation[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -47,13 +47,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="franprix.fr" /] 
+		[whois-domains url="forever21.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="franprix.fr" /]
+		[ssllabs domains="forever21.com" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="franprix.fr" /]
+		[api-myipms query="forever21.com" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -62,10 +62,10 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-warning" /]
-			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-default" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-default" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]Douteux[/h5]
+				[h5 class="card-title"]Neutre[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]		
 	[ends tags="div" /]	
@@ -86,11 +86,11 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Avis testeur[ends tags="dt" /] 
-				[begins tags="dd" /]validé[ends tags="dd" /] 
+				[begins tags="dd" /] en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] Symantec Class 3 Secure Server CA - G4 : T[ends tags="dd" /] 
+				[begins tags="dd" /]  	GeoTrust RSA CA 2018 :A[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -109,24 +109,11 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "franprix",
-		"url": "https://franprix.fr",
-		"logo": "https://business.livingx.world/images/logo/loisirs/boutique/franprix.jpg",
-		"telephone": "+33800350000",
-		"description": "Retrouvez toute l'actualité de Franprix : nos promotions, nos marques, nos services et toutes les infos de nos magasins près de chez vous",
+		"name": "Forever 21",
+		"url": "https://forever21.com",
+		"logo": "https://business.livingx.world/images/logo/loisirs/boutique/forever21.png",
+		"description": "Forever 21 est à la pointe des toutes dernières tendances, des styles indispensables et des offres promotionnelles. Visitez notre site en ligne dès maintenant.",
 		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash, card",
-		"address": {
-			"@type": "PostalAddress",
-			"streetAddress": "2 RTE DU PLESSIS",
-			"addressLocality": "CHENNEVIERES SUR MARNE",
-			"postalCode": "94430",
-			"addressCountry": "France"
-		},
-		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d10489.72223651226!2d2.314909048526563!3d48.90718858735057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sfranprix!5e0!3m2!1sfr!2sfr!4v1537992674526",
-		"openingHours": [
-			"Mo-Sa 8:30-21:00",
-			"Su 8:30-13:00"
-		]
+		"paymentAccepted": "cash, card"
 	}
 [ends tags='script' /]

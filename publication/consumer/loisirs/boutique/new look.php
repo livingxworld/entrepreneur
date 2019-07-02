@@ -1,13 +1,13 @@
-[img src="https://business.livingx.world/images/logo/loisirs/boutique/franprix.jpg" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="franprix" /]
+[img src="https://business.livingx.world/images/logo/loisirs/boutique/newlook.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="New look" /]
 <hr id="system-readmore" />
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		Find all the news of Franprix: our promotions, our brands, our services and all the information of our stores near you
+		Discover our clothes, shoes and accessories for women, men and teens. From evening dresses to sneakers, all fashion is on the New Look website!
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		[youtube source="X7V98GqdZFM" /]
+		[youtube source="xQe2DS4hVlM" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -16,14 +16,14 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://franprix.fr" target="_blank" rel="dofollow"]Website[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] 2 RTE DU PLESSIS 94430 CHENNEVIERES SUR MARNE France [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+33800350000" rel="nofollow"]0 800 35 00 00[/a] [br /]
-		SIRET/VAT [a href="https://www.societe.com/societe/distribution-franprix-414265165.html" rel="nofollow"]414 265 165[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="https://newlook.com" target="_blank" rel="dofollow"]Website[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] -- [br /]
+		[fa name="phone" zoom="2x" /] [a href="#" rel="nofollow"]--[/a][br /]
+		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]
 		[h3]Opening schedules[/h3] [br /]
 		[begins tags="ul" /]
-			[begins tags="li" /]Monday to Saturday: 8h30 - 21h00[ends tags="li" /]
-			[begins tags="li" /]Sunday: 8h30 - 13h00[ends tags="li" /]
+			[begins tags="li" /]Monday to Saturday: 10h00 - 19h00[ends tags="li" /]
+			[begins tags="li" /]Sunday: 11h00 - 19h00[ends tags="li" /]
 			[begins tags="li" /]holidays: --[ends tags="li" /]
 		[ends tags="ul" /]	
 		[h3]These software and Apps[/h3]
@@ -36,7 +36,7 @@
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]MAP[/h3]
-		[gmaps url="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d10489.72223651226!2d2.314909048526563!3d48.90718858735057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sfranprix!5e0!3m2!1sfr!2sfr!4v1537992674526" /]
+		[gmaps url="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d83917.81294807825!2d2.2536241668623416!3d48.90716771293152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1snew+look!5e0!3m2!1sfr!2sfr!4v1562090755246!5m2!1sfr!2sfr" /]
 		[h4]Are you interested? [begins tags="small"]Click on the affiliate banner[ends="small" /][/h4] [br /]
 		
 	[ends tags="div" /]	
@@ -47,13 +47,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="franprix.fr" /] 
+		[whois-domains url="newlook.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="franprix.fr" /]
+		[ssllabs domains="newlook.com" /]
 		[h3]Your data are[/h3]
-		[api-myipms query="franprix.fr" /]	
+		[api-myipms query="newlook.com" /]	
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -63,10 +63,10 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-warning" /]
-			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-warning" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-default" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-default" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]doudt[/h5]
+				[h5 class="card-title"]Neutral[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]	
 	[ends tags="div" /]	
@@ -87,11 +87,11 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Tester reviews[ends tags="dt" /] 
-				[begins tags="dd" /] valid[ends tags="dd" /] 
+				[begins tags="dd" /] pending ...[ends tags="dd" /]
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /]  	Symantec Class 3 Secure Server CA - G4 : T[ends tags="dd" /] 
+				[begins tags="dd" /]  impossible to scan[ends tags="dd" /] 
 			[ends tags="dl" /]
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -112,24 +112,16 @@
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "franprix",
-		"url": "https://franprix.fr",
-		"logo": "https://business.livingx.world/images/logo/loisirs/boutique/franprix.jpg",
-		"telephone": "+33800350000",
-		"description": "Find all the news of Franprix: our promotions, our brands, our services and all the information of our stores near you",
+		"name": "New look",
+		"url": "https://newlook.com",
+		"logo": "https://business.livingx.world/images/logo/loisirs/boutique/newlook.png",
+		"description": "Discover our clothes, shoes and accessories for women, men and teens. From evening dresses to sneakers, all fashion is on the New Look website!",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash, card",
-		"address": {
-			"@type": "PostalAddress",
-			"streetAddress": "2 RTE DU PLESSIS",
-			"addressLocality": "CHENNEVIERES SUR MARNE",
-			"postalCode": "94430",
-			"addressCountry": "France"
-		},
-		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d10489.72223651226!2d2.314909048526563!3d48.90718858735057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sfranprix!5e0!3m2!1sfr!2sfr!4v1537992674526",
+		"hasMap": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d83917.81294807825!2d2.2536241668623416!3d48.90716771293152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1snew+look!5e0!3m2!1sfr!2sfr!4v1562090755246!5m2!1sfr!2sfr",
 		"openingHours": [
-			"Mo-Sa 8:30-21:00",
-			"Su 8:30-13:00"
+			"Mo-Sa 10:00-19:00",
+			"Su 11:00-19:00"
 		]
 	}
 [ends tags='script' /]
