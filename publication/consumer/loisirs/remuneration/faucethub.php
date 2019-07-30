@@ -1,13 +1,13 @@
-[img src="https://business.livingx.world/images/logo/transport/vehicule-du-2-roues/lime.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="lime" /]
-<hr id="system-readmore" />
+[img src="https://business.livingx.world/images/logo/loisirs/remuneration/faucethub.png" class="img-fluid rounded mx-auto d-block img-thumbnail border border-info" alt="faucethub" /]
+[hr id="system-readmore" /]
 [h2 class="text-center"][begins tags="strong" /]Presentation[ends tags="strong" /] [/h2]
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[begins tags="strong" /]Description:[ends tags="strong" /][br /]
-		Dock free pedal bikes, e-assist bikes and electric scooters for your city or campus. Smart personal mobility for smart cities and universities. Join the Lime movement!
+		Easy to use Bitcoin Micropayment service
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
-		The author does not contain video.
+	the author does not contain video
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
@@ -16,54 +16,51 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col col-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="https://li.me" target="_blank" rel="dofollow"]Website[/a] [br /]
-		[fa name="map-marker-alt" zoom="2x" /] adresse [br /]
+		[fa name="external-link" zoom="2x" /] [a href="http://faucethub.io/r/62692020" target="_blank" rel="dofollow"]Website[/a] [br /]
+		[fa name="map-marker-alt" zoom="2x" /] -- [br /]
 		[fa name="phone" zoom="2x" /] [a href="#" rel="nofollow"]--[/a] [br /]
 		SIRET/VAT [a href="#" rel="nofollow"]--[/a] [br /]
 		[h3]These software and Apps[/h3]
 		[begins tags="ul" /]
-			[begins tags="li" /][a href="https://itunes.apple.com/us/app/limebike-your-ride-anytime/id1199780189?ls=1&mt=8" target="_blank"][fa bs="fab" name="apple" zoom="2x" /] Apple[/a][ends tags="li" /]
+			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="apple" zoom="2x" /] Apple[/a][ends tags="li" /]
 			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="windows" zoom="2x" /] Microsoft[/a][ends tags="li" /]
-			[begins tags="li" /][a href="https://play.google.com/store/apps/details?id=com.limebike&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" target="_blank"][fa bs="fab" name="android" zoom="2x" /] Android[/a][ends tags="li" /]
+			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="android" zoom="2x" /] Android[/a][ends tags="li" /]
 			[begins tags="li" /][a href="#" target="_blank"][fa bs="fab" name="linux" zoom="2x" /] Linux[/a][ends tags="li" /]
 		[ends tags="ul" /]	
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-8" /]
 		[h3]MAP[/h3]
-		
+		--
 		[h4]Are you interested? [begins tags="small"]Click on the affiliate banner[ends="small" /][/h4] [br /]
 		
+		[a href="http://faucethub.io/r/62692020"][img src="http://faucethub.io/assets/img/banners/3.gif"][/a]
 	[ends tags="div" /]	
 [ends tags="div" /]	
-
 
 [h2 class="text-center"][begins tags="strong" /]Automatic scanner[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="li.me" /] 
+		[whois-domains url="faucethub.io" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col col-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="li.me" /]
+		[ssllabs domains="faucethub.io" /]
 		[h3]Your data are[/h3]
-		[api-myipms query="li.me" /]	
+		[api-myipms query="faucethub.io" /]	
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
 
-[h2 class="text-center"][begins tags="strong" /]The Prices Proposed in Taxe (without promotion)[ends tags="strong" /] [/h2]
-Start:1€[br /]
-0.20€/minutes
 
 [h2 class="text-center"][begins tags="strong" /]Note and advice with requirement[ends tags="strong" /] [/h2]
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col col-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[begins tags="div" class="card text-white bg-success" /]
-			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-success" showembed="yes" /]
+		[begins tags="div" class="card text-white bg-default" /]
+			[lxw-badge css="card-img-top img-fluid rounded mx-auto d-block img-thumbnail border border-default" showembed="yes" /]
 			[begins tags="div" class="card-body" /]
-				[h5 class="card-title"]trust[/h5]
+				[h5 class="card-title"]neutral[/h5]
 			[ends tags="div" /]	
 		[ends tags="div" /]	
 	[ends tags="div" /]	
@@ -84,11 +81,11 @@ Start:1€[br /]
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Tester reviews[ends tags="dt" /] 
-				[begins tags="dd" /] pending ...[ends tags="dd" /] 
+				[begins tags="dd" /]pending ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] cPanel, Inc. Certification Authority : B (RC4 cipher, Forward Secrecy)[ends tags="dd" /] 
+				[begins tags="dd" /]  	COMODO ECC Domain Validation Secure Server CA 2 :A[ends tags="dd" /] 
 			[ends tags="dl" /]
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -109,13 +106,9 @@ Start:1€[br /]
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "lime",
-		"url": "https://li.me",
-		"logo": "https://business.livingx.world/images/logo/transport/vehicule-du-2-roues/lime.png",
-		
-		"description": "Dock free pedal bikes, e-assist bikes and electric scooters for your city or campus. Smart personal mobility for smart cities and universities. Join the Lime movement!",
-		"currenciesAccepted": "EUR",
-		"paymentAccepted": "card",
-		"priceRange": "€"
+		"name": "faucethub",
+		"url": "https://faucethub.io",
+		"logo": "https://business.livingx.world/images/logo/loisirs/remuneration/faucethub.png",
+		"description": "Easy to use Bitcoin Micropayment service"
 	}
 [ends tags='script' /]
